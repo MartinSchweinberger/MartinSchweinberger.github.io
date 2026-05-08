@@ -1,0 +1,30 @@
+---
+title: "Teaching & Supervision"
+---
+
+## Teaching
+
+I teach at the School of Languages and Cultures at the University of Queensland, with a focus on applied linguistics, corpus methods, and computational approaches to language data.
+
+I have also taught workshops on statistics and corpus methods at universities across Germany and Australia, including:
+
+- Computational methods for HASS researchers (UQ)
+- Statistics for linguists (Leibniz Universität Hannover, Johannes Gutenberg-Universität Mainz)
+- AntConc & corpus tools (Leibniz Universität Hannover)
+- Conditional inference trees in R (Rheinische Friedrich-Wilhelms-Universität Bonn, 2023)
+- Advanced dimension-reduction methods (AcqVA Aurora Centre, UiT, 2023)
+
+Through [LADAL](https://ladal.edu.au), I provide freely accessible online tutorials and workshops in:
+
+- Text mining and topic modelling
+- Visualisation of linguistic data
+- Statistical modelling for linguists
+- R programming for humanities researchers
+
+---
+
+## Supervision
+
+I supervise Honours, Masters, and PhD students at UQ in areas related to corpus linguistics, computational linguistics, sociolinguistics, and applied linguistics. If you are interested in supervision, please contact me.
+
+*(Teaching page will be updated with course listings.)*

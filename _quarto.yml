@@ -3,7 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "MartinSchweinberger.github.io"
+  title: "Martin Schweinberger"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: Education & Positions
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations & Talks
+      - href: teaching.qmd
+        text: Teaching
+      - href: memberships.qmd
+        text: Memberships & Reviewing
+      - href: awards.qmd
+        text: Awards & Funding
+      - href: research.qmd
+        text: Research & Projects
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

@@ -1,0 +1,45 @@
+---
+title: "Research & Projects"
+---
+
+## Research Overview
+
+In my research I have mainly taken a variationist approach to statistically modelling linguistic variation within and across non-standard or post-colonial varieties of English. While I have mostly relied on corpus data and used R and RStudio to investigate linguistic phenomena, I have also used questionnaire designs and engaged in acoustic analyses of audio data.
+
+One basic issue underlying my research has been to investigate how, why, and to what extent social, cultural, and psychological factors impact linguistic behaviour. The aim of these analyses does not merely focus on describing differences between speakers with distinct social profiles but to elucidate mechanisms underlying processes of language change — specifically, how innovative features spread through speech communities and by which mechanisms these innovations take over from traditional variants.
+
+In this line of research, I have become particularly interested in how semantically bleached elements, such as discourse particles and degree adverbs (intensifiers), correlate with social, cultural, and psychological factors. An article in this vein won me the **ISLE Richard M. Hogg Prize in 2015**.
+
+Another broader interest is **reproducibility and best practices in research**. I have given talks, organised workshops, and written guides on implementing best practices and sustainable workflows when dealing with language data.
+
+In 2019, I was a **Digital Champion** on behalf of the Australian Data Research Commons (ARDC) and I continue to promote the use of digital methods in HASS (Humanities, Arts and Social Sciences).
+
+---
+
+## Key Projects
+
+### Language Technology and Data Analysis Laboratory (LADAL)
+
+[LADAL](https://ladal.edu.au) is an open-source support infrastructure for computational humanities research that I co-direct with Michael Haugh at the University of Queensland. Since launching analytics in January 2021, LADAL has received more than **1,100,000 page views from more than 500,000 unique users**. LADAL resources cover corpus linguistics, text analytics, statistics for linguists, and data visualisation — equivalent in scope to four traditional book publications.
+
+### Language Data Commons of Australia (LDaCA)
+
+[LDaCA](https://www.ldaca.edu.au/) aims at establishing language data infrastructures and text analytics upskilling resources in Australia. It has received substantial funding from the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/). I serve as steering committee member and Chief Investigator, focusing on LADAL-based resources and training.
+
+### VowelChartProject
+
+A project investigating vowel production by L1- and L2-speakers of English using the Bavarian Archive for Speech Signals's MAUS system and PRAAT. The project created personalised vowel charts to improve target-language proximity in second language acquisition.
+
+---
+
+## Technical Skills
+
+I have very strong command of **R** — an open-source programming environment for linguistic data analysis, text mining, and sophisticated statistical modelling. I use R to retrieve, clean, process, visualise, and statistically analyse language data. I have also used **Python** for text processing and NLP tasks. My methods include:
+
+- Corpus-based and computational analysis
+- Variationist sociolinguistics
+- Statistical modelling (regression, random forests, conditional inference trees)
+- Acoustic phonetics (PRAAT, MAUS)
+- Text mining and topic modelling
+- Experimental methods including web-based eye-tracking
+- Reproducible research workflows

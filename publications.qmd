@@ -1,0 +1,149 @@
+---
+title: "Publications"
+---
+
+## In Preparation & Submitted
+
+**[JP 2]** in prep. Schweinberger, Martin. On the L1-acquisition of variation in adjective amplification. *International Journal of English Linguistics*. Prospective submission 11/2026.
+
+**[JP 1]** in prep. Schweinberger, Martin and Michael Haugh. Introducing the Language Technology and Data Analysis Laboratory (LADAL). *Language Resources and Evaluation*. Prospective submission 10/2026. (SJR: Q1)
+
+**[JS 5]** submitted. Visioni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. Submitted 3/2026 to *Australian Review of Applied Linguistics*.
+
+**[JS 4]** submitted. Putensen, Lara and Martin Schweinberger. Pop Goes Profanity: Vulgarity Trends in English Chart Hits From 2000 to 2024. Submitted 2/2026 to *Journal of Language and Pop Culture*.
+
+**[JS 3]** submitted. Schweinberger, Martin and Amir Sheikhan. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. *World Englishes*. Submitted 10/2025.
+
+**[JS 2]** submitted. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, et al. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. Submitted 11/4/2025 to *Corpora*.
+
+**[JS 1]** submitted. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, et al. Swearing online: Exploring dimensions of variability in born-digital data. Submitted 27/3/2025 to *Digital Scholarship in the Humanities*.
+
+**[JR 1]** under revision. Schweinberger, Martin. Priming in Language Change – A corpus-based analysis of adjective amplification in New Zealand English. Submitted 12/2/2020 to *English Language and Linguistics*. (SJR: Q1)
+
+---
+
+## Journal Articles (Peer-Reviewed)
+
+23\. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. 2026. Vulgarity and Bad Language in Online and Public Discourse: An Introduction. *Lingua 334: 104133*. (SJR: Q1) <https://doi.org/10.1016/j.lingua.2026.104133>
+
+22\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility and transparency in interpretive corpus pragmatics.](https://doi.org/10.1075/ijcl.23033.sch) *International Journal of Corpus Linguistics*. (SJR: Q1)
+
+21\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility, replicability, and robustness in corpus linguistics. An introduction.](https://doi.org/10.1075/ijcl.25081.sch) *International Journal of Corpus Linguistics*. (SJR: Q1)
+
+20\. Schweinberger, Martin and Kate Burridge. 2025. [Vulgarity in Online Discourse around the English-Speaking World.](https://www.sciencedirect.com/science/article/pii/S0024384125000713) *Lingua 321: 103946*. (SJR: Q1)
+
+19\. Schweinberger, Martin. 2024. [Seeded topic modeling as a more appropriate alternative to unsupervised standard topic models.](https://journals.sagepub.com/doi/10.1177/14614456241293895) *Discourse Studies* 27(4): 675–678.
+
+18\. Bednarek, Monika, Martin Schweinberger and Kelvin Lee. 2024. [Corpus-based discourse analysis: From meta-reflection to accountability.](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0104/html) *Corpus Linguistics and Linguistic Theory*. (SJR: Q1)
+
+17\. Schweinberger, Martin. 2024. [A corpus-based analysis of adjective amplification in Hong Kong, Indian, and Philippine English.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) *World Englishes*. (SJR: Q1)
+
+16\. Schweinberger, Martin. 2023. [On the L1-acquisition of pragmatics of discourse like.](https://benjamins.com/catalog/fol.20025.sch) *Functions of Language* 30(3): 255–286.
+
+15\. Crosthwaite, Peter, Sulistya Ningrum, and Martin Schweinberger. 2022. [Research Trends in Corpus Linguistics: A Bibliometric Analysis.](https://benjamins.com/catalog/ijcl.21072.cro) *International Journal of Corpus Linguistics* 28(3): 344–377.
+
+14\. Crosthwaite, Peter, Alicia Gazmuri Sanhueza, and Martin Schweinberger. 2021. [Training disciplinary genre awareness through blended learning.](https://www.sciencedirect.com/science/article/pii/S1475158521000655) *Journal of English for Academic Purposes* 53(1): 101021.
+
+13\. Schweinberger, Martin, Michael Haugh, and Sam Hames. 2021. [Analysing discourse around COVID-19 in the Australian Twittersphere.](https://journals.sagepub.com/doi/full/10.1177/20539517211021437) *Big Data & Society* 8(1).
+
+12\. Schweinberger, Martin. 2021. [Ongoing change in the Australian English amplifier system.](https://www.tandfonline.com/doi/full/10.1080/07268602.2021.1931028) *Australian Journal of Linguistics* 41(2): 1–29.
+
+11\. Rühlemann, Christoph, and Martin Schweinberger. 2021. [Which word gets the nuclear stress in a turn-at-talk?](https://www.sciencedirect.com/science/article/abs/pii/S0378216621001363) *Journal of Pragmatics* 178: 426–443.
+
+10\. Crosthwaite, Peter, L. Luciana, and Martin Schweinberger. 2021. [Voices from the periphery.](https://www.sciencedirect.com/science/article/pii/S2666799121000034) *Applied Corpus Linguistics* 1(1).
+
+9\. Schweinberger, Martin. 2021. [On historical developments in the Irish English intensifier system.](https://angl.winter-verlag.de/article/ANGL/2021/1/11) *Anglistik* 32(1): 139–158.
+
+8\. Schweinberger, Martin. 2020. [A corpus-based analysis of differences in the use of very for adjective amplification among native speakers and learners of English.](https://benjamins.com/catalog/ijlcr.20011.sch) *International Journal of Learner Corpus Research* 6(2): 163–192.
+
+7\. Crosthwaite, Peter, Naomi Stroch, and Martin Schweinberger. 2020. [Less is more? The impact of written corrective feedback.](https://www.sciencedirect.com/science/article/abs/pii/S1060374320300205) *Journal of Second Language Writing* 49.
+
+6\. Schweinberger, Martin. 2020. [How Learner Corpus-Research can inform language learning and teaching.](https://benjamins.com/catalog/aral.00032.sch) *Australian Review of Applied Linguistics* 43(2): 195–217.
+
+5\. Schweinberger, Martin. 2020. [Speech-unit final like in Irish English.](https://benjamins.com/catalog/eww.00041.sch) *English World Wide* 41(1): 89–117.
+
+4\. Schweinberger, Martin. 2019. [The Sociolinguistics of Emotional Language.](https://link.springer.com/article/10.1007/s41701-019-00062-z) *Corpus Pragmatics* 3(4): 327–361.
+
+3\. Schweinberger, Martin. 2018. [Swearing in Irish English.](https://www.sciencedirect.com/science/article/pii/S0024384117304357) *Lingua* 209: 1–20.
+
+2\. Schweinberger, Martin. 2018. [The discourse particle eh in New Zealand English.](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1470458) *Australian Journal of Linguistics* 38(3): 395–420.
+
+1\. Siemund, Peter, Monika Edith Schulz and Martin Schweinberger. 2014. [Studying the linguistic ecology of Singapore.](https://onlinelibrary.wiley.com/doi/abs/10.1111/weng.12094) *World Englishes* 33(3): 340–362.
+
+---
+
+## Book Chapters (Peer-Reviewed)
+
+22\. Schweinberger, Martin. in print. Reproducibility in Corpus Linguistics. In Mahlberg and Collins (Eds.), *International Encyclopedia of Language and Linguistics* (3rd Edition).
+
+21\. Schweinberger, Martin and Howard Luo. in print. A Corpus-Based Analysis of General Extenders in Irish English. John Benjamins.
+
+20\. Schweinberger, Martin. 2025. [Implications of the Replication Crisis for Corpus Linguistics.](https://www.cambridge.org/core/books/abs/dataintensive-investigations-of-english/implications-of-the-replication-crisis/7EBD8DA77FA7E49FC9468A525F64246B) In Laitinen and Rautionaho (Eds.), *Data-intensive Investigations of English*, 258–286. Cambridge University Press.
+
+19\. Crosthwaite, Peter and Martin Schweinberger. 2025. [Corpora and instructed second language acquisition.](https://benjamins.com/catalog/lllt.63.05cro) In Loewen et al. (Eds.), *Technology and instructed second language acquisition*, 115–138. John Benjamins.
+
+18\. Schweinberger, Martin and Yuki Komiya. 2024. [A corpus-based comparative acoustic analysis of target-like vowel production.](https://benjamins.com/catalog/scl.119.03sch) In Buschfeld et al. (Eds.), *Crossing Boundaries through Corpora*, 41–61. John Benjamins.
+
+17\. Schweinberger, Martin and Patricia Ronan. 2024. [Boring much? Semantic determinants of constructional attraction in Irish English.](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457-007/html) In Schweinberger and Ronan (Eds.), *Socio-pragmatic variation in Ireland and Scotland*, 107–130. De Gruyter.
+
+16\. Schweinberger, Martin and Patricia Ronan. 2024. [Concluding remarks and future directions.](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457-012/html) In Schweinberger and Ronan (Eds.), *Socio-Pragmatic Variation in Ireland*, 235–240. De Gruyter.
+
+15\. Ronan, Patricia and Martin Schweinberger. 2024. [An introduction to sociopragmatic variation.](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457-001/html) De Gruyter.
+
+14\. Schweinberger, Martin. 2024. [When Natural Language Processing Meets Corpus Linguistics.](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003360285-6/natural-language-processing-meets-corpus-linguistics-martin-schweinberger) In Amador-Moreno et al. (Eds.), *Digitally-Assisted Historical English Linguistics*, 73–88. Routledge.
+
+13\. Schweinberger, Martin and Yuki Komiya. 2022. A corpus-based computational analysis of high-front and -back vowel production. In Billington (Ed.), *Proceedings of SST 2022*, 196–200. ([pdf](https://sst2022.files.wordpress.com/2022/12/schweinberger-komiya-2022-a-corpus-based-computational-analysis-of-high-front-and-back-vowel-production-of-l1-japanese-learners-of-english-and-l1-english-speakers.pdf))
+
+12\. Schweinberger, Martin. 2022. Absolutely fantastic and really, really good – Language Variation and Change in Irish English. In Amador-Moreno and Lucek (Eds.), [*Expanding the Landscapes of Irish English*](https://www.routledge.com/Expanding-the-Landscapes-of-Irish-English-Research-Papers-in-Honour-of/Lucek-Amador-Moreno/p/book/9780367856397), 129–142. Routledge.
+
+11\. Schweinberger, Martin. 2021. [On the waning of forms.](https://benjamins.com/catalog/slcs.218.08sch) In Kranich and Breban (Eds.), *Lost in change*, 235–260. John Benjamins.
+
+10\. Schweinberger, Martin. 2020. Using intensifier-adjective collocations to determine mechanisms of change. In Cermakova and Mala (Eds.), *Variation in Time and Space*, 231–256. De Gruyter.
+
+9\. Schweinberger, Martin. 2020. Using Semantic Vector Space Models to investigate lexical replacement. In Asahi (Ed.), *Proceedings of Methods XVI*, 241–249. Peter Lang.
+
+8\. Schweinberger, Martin. 2020. [Analyzing change in the American English amplifier system.](https://benjamins.com/catalog/scl.96.09sch) In Rautionaho et al. (Eds.), *Corpora and the Changing Society*, 223–249. John Benjamins.
+
+7\. Schweinberger, Martin. 2015. A comparative study of the pragmatic marker like in Irish English and south-eastern varieties of British English. In Amador-Moreno et al. (Eds.), [*Pragmatic Markers in Irish English*](https://benjamins.com/catalog/pbns.258), 114–134. John Benjamins.
+
+6\. Schweinberger, Martin. 2014. Frequency, dispersion and register variation of selected discourse-pragmatic particles in Singapore English. In Koll-Stobbe and Knospe (Eds.), *Language Contact Around the Globe*, 259–273. Lang.
+
+5\. Schweinberger, Martin. 2013. A sociolinguistics analysis of discourse marker LIKE in Northern Ireland. In Bieswanger and Koll-Stobbe (Eds.), *New Approaches to the Analysis of Linguistic Variability*, 13–39. Lang.
+
+4\. Schweinberger, Martin and Melanie Burmeister. 2013. A corpus-based study of language internal and language external determinates of non-standard uses of noun phrase structures. In Schlaak and Hennemann (Eds.), *Korpuslinguistische Untersuchungen*, 131–149. Frank und Timme.
+
+3\. Schweinberger, Martin. 2012. [The discourse marker LIKE in Irish English.](https://benjamins.com/catalog/veaw.g44.09sch) In Migge and Ni Chiosain (Eds.), *New Perspectives on Irish English*, 179–201. John Benjamins.
+
+2\. Siemund, Peter, Georg Maier, and Martin Schweinberger. 2012. [Reflexives and Self-forms across Varieties of English.](https://www.degruyter.com/view/book/9783110279429/10.1515/9783110279429.409.xml) In Hickey (Ed.), *Areal features of the Anglophone World*, 409–438. Mouton de Gruyter.
+
+1\. Siemund, Peter, Georg Maier, and Martin Schweinberger. 2009. Towards a more fine-grained analysis of the areal distributions of non-standard features of English. In Pentitilä and Paulasto (Eds.), *Language Contacts Meet English Dialects*, 19–45. Cambridge Scholars Publishing.
+
+---
+
+## Edited Volumes & Issues
+
+**[EP 4]** to appear 2026. Lensch, Anke, Hanna Bruns, and Martin Schweinberger. *Address Terms in World Englishes*. Special Issue of *World Englishes*.
+
+**[EP 3]** 2025/26. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. [*Bad Language and Vulgarity Online and in Public Discourse.*](https://www.sciencedirect.com/special-issue/10JMTRGXHQT) Special Issue of *Lingua*.
+
+**[EP 2]** Schweinberger, Martin and Michael Haugh. 2025. [*Reproducibility, Replication and Robustness in Corpus Linguistics.*](https://benjamins.com/catalog/ijcl.30.2) *International Journal of Corpus Linguistics* 30(2).
+
+**[ES 1]** Schweinberger, Martin and Patricia Ronan. 2024. [*Socio-pragmatic variation in Ireland and Scotland.*](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457/html) De Gruyter.
+
+---
+
+## Monographs
+
+**[BP 2]** in prep. *Data-Intensive Pragmatics.* Cambridge University Press (Cambridge Elements in Pragmatics series).
+
+**[BP 1]** in prep. *A Practical Introduction to Distant Reading and Text Analysis.* Edinburgh University Press. (prospective submission 12/2025)
+
+1\. Schweinberger, Martin. 2014. [*The discourse marker LIKE: a corpus-based analysis of selected varieties of English.*](http://ediss.sub.uni-hamburg.de/volltexte/2014/6969/pdf/Dissertation.pdf) Staats- und Universitätsbibliothek Hamburg. (PhD dissertation)
+
+---
+
+## Miscellaneous
+
+Schweinberger, Martin & Kate Burridge. 12 June 2025. [201 ways to say 'fuck': what 1.7 billion words of online text shows about how the world swears.](https://theconversation.com/201-ways-to-say-fuck-what-1-7-billion-words-of-online-text-shows-about-how-the-world-swears-257815) *The Conversation*.
+
+*(last updated 2024/10/11)*

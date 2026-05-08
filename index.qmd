@@ -1,7 +1,46 @@
 ---
-title: "MartinSchweinberger.github.io"
+title: "Home & News"
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Martin Schweinberger and I am Senior Lecturer in Applied Linguistics at the [University of Queensland](https://www.uq.edu.au/) (UQ) in Australia. At UQ, I am Director of the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au) (together with Michael Haugh) and I would consider myself a quantitative corpus linguist specialised in computational analyses of text and speech. In my research, I aim to combine and bridge the gap between computational linguistics and corpus linguistics.
+
+I am steering committee member and Chief Investigator (CI) of the [Language Data Commons of Australia (LDaCA)](https://www.ldaca.edu.au/) where I focus on producing resources and training through LADAL. I am Associate Editor of the [*Australian Review of Applied Linguistics* (ARAL)](https://alaa.net.au/ARALJournal) and book series editor for the Bloomsbury series [*Language, Data Science and Digital Humanities*](https://www.bloomsbury.com/au/series/language-data-science-and-digital-humanities/). I am also Vice-President Profession of the [International Society for the Linguistics of English (ISLE)](https://www.isle-linguistics.org/) and re-elected board member of [The International Computer Archive of Modern and Medieval English (ICAME)](https://icame.info/).
+
+## Research Areas
+
+- Mechanisms of language variation and change
+- Determinants of language use and linguistic variability
+- Discourse markers and particles / adjective intensification
+- L1 & L2 acquisition
+- Computational modelling and visualization of linguistic data
+- Computational Humanities (Digital Humanities)
+- Language Data Science and reproducibility
+- Best practices in text analytics and data management
+
+## Digital Footprint
+
+My ORCID is [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=zgFnhd8AAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Martin_Schweinberger), [LinkedIn](https://www.linkedin.com/in/martin-schweinberger-53515a96/), [GitHub](https://github.com/MartinSchweinberger), and [GitLab](https://gitlab.com/MartinSchweinberger).
+
+## News
+
+**12/12/2025**: Stephanie Hackert from LMU Munich invited me to give a talk on **Vulgarity in World Englishes** [(slides)](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx).
+
+**7/11/2025**: Giving a talk on **Vulgarity in Spoken Interaction Across Englishes** and a Lightning Talk on **Data Structure Harmonization** at the *Forum on Englishes* in Melbourne, Australia.
+
+**12/10/2025**: Amir Sheikhan from the University of South Australia invited me to give a **lecture on "Vulgarity in World Englishes"** [(slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/10/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx) and [recording)](https://www.youtube.com/watch?v=Y0EFJMZn4KM).
+
+**13/6/2025**: Just out: [**The Conversation** article](https://theconversation.com/201-ways-to-say-fuck-what-1-7-billion-words-of-online-text-shows-about-how-the-world-swears-257815) about "201 ways to say 'fuck'" by Kate Burridge and myself.
+
+**6/4/2025**: Was on **ABC Radio Melbourne Victorian Evenings with David Astle** together with Kate Burridge (28:28–42:32) — [listen to the segment here](https://www.abc.net.au/listen/programs/melbourne-evenings/evenings/105360986).
+
+**30/5/2025**: Was on **ABC Radio Hobart with Joel Rheinberger** (4:15–18:50) to discuss our paper on vulgarity in online discourse. [Listen here](https://www.abc.net.au/listen/programs/hobart-your-afternoon/afternoons/105336798) and [read our open-access paper here](https://t.co/czEE3vLTOI).
+
+**23/5/2025**: **Was on TV** — Kate and my study made it to the national news! [Check out this Channel 10 News segment!](https://www.facebook.com/watch/?v=1908501349952962)
+
+**22–23/5/2025**: Spoke about vulgarity in public and online discourse on **ABC Drive with Ellen Fanning** (22 May) and **ABC Radio Melbourne with Ali Moore** (23 May). [Listen to the ABC Drive interview here](https://www.abc.net.au/listen/programs/brisbane-drive/drive/105307926) (17:50–33:00).
+
+**27/1/2025**: Invited to the University of Hamburg to talk about **Indigenous Australian Languages** [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/01/Schweinberger_UHH_LanguagesAustralia_LDaCA.pptx).
+
+**25/11/2024**: Invited to the University of Bonn to talk about **Vulgarity in Online Discourse around the English-Speaking World** [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2024/11/UBonn_Vulgarity_Schweinberger_20241125.pptx).
