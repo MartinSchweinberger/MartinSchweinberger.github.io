@@ -1,1 +1,489 @@
-/* css styles */
+/* ================================================================
+   martinschweinberger.de — styles.css
+   Design direction: Editorial minimalism with academic gravitas
+   Typography: Playfair Display (headings) + Source Serif 4 (body)
+   Palette: Warm off-white · Dark slate · Terracotta accent · Stone
+   ================================================================ */
+
+/* ----------------------------------------------------------------
+   FONTS
+---------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ----------------------------------------------------------------
+   DESIGN TOKENS
+---------------------------------------------------------------- */
+:root {
+  --color-bg:          #F8F6F1;       /* warm off-white ground */
+  --color-surface:     #FFFFFF;       /* card / panel backgrounds */
+  --color-slate:       #1E2A35;       /* primary text / navbar */
+  --color-slate-mid:   #3A4D5C;       /* secondary headings */
+  --color-stone:       #7A8A94;       /* muted text, borders */
+  --color-stone-light: #D6D0C8;       /* subtle dividers */
+  --color-accent:      #C0572A;       /* terracotta — links, highlights */
+  --color-accent-warm: #E07A4F;       /* lighter accent for hover */
+  --color-accent-bg:   #F5EDE8;       /* very light terracotta tint */
+
+  --font-display:  'Playfair Display', Georgia, serif;
+  --font-body:     'Source Serif 4', Georgia, serif;
+  --font-mono:     'JetBrains Mono', 'Courier New', monospace;
+
+  --radius:        3px;
+  --shadow-sm:     0 1px 4px rgba(30, 42, 53, 0.08);
+  --shadow-md:     0 4px 16px rgba(30, 42, 53, 0.10);
+  --transition:    0.2s ease;
+}
+
+/* ----------------------------------------------------------------
+   BASE
+---------------------------------------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: 16.5px;
+  line-height: 1.78;
+  color: var(--color-slate);
+  background-color: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ----------------------------------------------------------------
+   TYPOGRAPHY
+---------------------------------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--color-slate);
+  line-height: 1.25;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--color-slate);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.4rem;
+  border-bottom: 2px solid var(--color-accent);
+  display: inline-block;
+}
+
+/* Override Quarto's full-width title block h1 */
+#title-block-header h1.title {
+  font-family: var(--font-display);
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: var(--color-slate);
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0.25rem;
+  display: block;
+}
+
+h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  color: var(--color-slate-mid);
+  border-bottom: 1px solid var(--color-stone-light);
+  padding-bottom: 0.3rem;
+  margin-top: 2.6rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-slate);
+  margin-top: 1.8rem;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-stone);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 1.4rem;
+}
+
+p {
+  color: var(--color-slate);
+  font-weight: 300;
+  margin-bottom: 0.9rem;
+}
+
+li {
+  font-weight: 300;
+  color: var(--color-slate);
+  margin-bottom: 0.2rem;
+}
+
+strong {
+  font-weight: 600;
+  color: var(--color-slate);
+}
+
+em {
+  font-style: italic;
+  color: var(--color-slate-mid);
+}
+
+blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding: 0.6rem 0 0.6rem 1.4rem;
+  margin-left: 0;
+  color: var(--color-slate-mid);
+  font-style: italic;
+  background: var(--color-accent-bg);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.83em;
+  background: var(--color-accent-bg);
+  color: var(--color-accent);
+  padding: 0.15em 0.4em;
+  border-radius: 2px;
+}
+
+pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+/* ----------------------------------------------------------------
+   LINKS
+---------------------------------------------------------------- */
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color var(--transition), border-color var(--transition);
+}
+
+a:visited {
+  color: var(--color-accent);
+}
+
+a:hover {
+  color: var(--color-accent-warm);
+  border-bottom-color: var(--color-accent-warm);
+  text-decoration: none;
+}
+
+/* ----------------------------------------------------------------
+   NAVBAR
+---------------------------------------------------------------- */
+.navbar {
+  background-color: var(--color-slate) !important;
+  border-bottom: 2px solid var(--color-accent);
+  padding: 0 1.5rem;
+  font-family: var(--font-body);
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #ffffff !important;
+  letter-spacing: -0.01em;
+}
+
+.navbar-nav .nav-link {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.82) !important;
+  letter-spacing: 0.02em;
+  padding: 0.65rem 0.85rem !important;
+  transition: color var(--transition), background-color var(--transition);
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #ffffff !important;
+  background-color: rgba(192, 87, 42, 0.25);
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link.active {
+  color: #ffffff !important;
+  background-color: rgba(192, 87, 42, 0.35);
+  border-bottom: 2px solid var(--color-accent);
+}
+
+/* Dropdown */
+.navbar-nav .dropdown-menu {
+  background-color: var(--color-slate);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  padding: 6px 0;
+  min-width: 200px;
+}
+
+.navbar-nav .dropdown-item {
+  color: rgba(255,255,255,0.82);
+  font-size: 0.87rem;
+  font-weight: 300;
+  padding: 8px 18px;
+  transition: background-color var(--transition), color var(--transition);
+}
+
+.navbar-nav .dropdown-item:hover {
+  background-color: rgba(192, 87, 42, 0.25);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ----------------------------------------------------------------
+   MAIN CONTENT AREA
+---------------------------------------------------------------- */
+main, .quarto-container {
+  background-color: var(--color-bg);
+}
+
+/* Content column */
+.quarto-content {
+  max-width: 780px;
+}
+
+/* Title block */
+#title-block-header {
+  margin-bottom: 2.2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--color-stone-light);
+}
+
+#title-block-header .description {
+  display: none;
+}
+
+/* ----------------------------------------------------------------
+   TABLES
+---------------------------------------------------------------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  margin: 1.5rem 0 2rem;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+thead tr {
+  background-color: var(--color-slate);
+  color: #ffffff;
+}
+
+thead th {
+  padding: 0.7rem 1rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-align: left;
+  border: none;
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--color-stone-light);
+  transition: background-color var(--transition);
+}
+
+tbody tr:hover {
+  background-color: var(--color-accent-bg);
+}
+
+tbody td {
+  padding: 0.65rem 1rem;
+  vertical-align: top;
+  color: var(--color-slate);
+  font-weight: 300;
+  border: none;
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+
+/* ----------------------------------------------------------------
+   TOC SIDEBAR
+---------------------------------------------------------------- */
+.sidebar nav[role=doc-toc] {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+}
+
+.sidebar nav[role=doc-toc] ul > li > a {
+  color: var(--color-stone);
+  transition: color var(--transition), border-color var(--transition);
+  padding: 3px 6px;
+}
+
+.sidebar nav[role=doc-toc] ul > li > a:hover,
+.sidebar nav[role=doc-toc] ul > li > ul > li > a:hover {
+  color: var(--color-accent);
+  border-left: 2px solid var(--color-accent);
+  background-color: var(--color-accent-bg);
+  text-decoration: none;
+}
+
+.sidebar nav[role=doc-toc] ul > li > a.active,
+.sidebar nav[role=doc-toc] ul > li > ul > li > a.active {
+  color: var(--color-accent) !important;
+  border-left: 2px solid var(--color-accent);
+  font-weight: 600;
+  background-color: var(--color-accent-bg);
+}
+
+/* ----------------------------------------------------------------
+   FOOTER
+---------------------------------------------------------------- */
+.nav-footer {
+  background-color: var(--color-slate) !important;
+  color: rgba(255, 255, 255, 0.50);
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 300;
+  padding: 24px 40px;
+  border-top: 2px solid var(--color-accent);
+}
+
+.nav-footer a {
+  color: rgba(255, 255, 255, 0.55) !important;
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+.nav-footer a:hover {
+  color: var(--color-accent-warm) !important;
+  border-bottom: none;
+}
+
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-center,
+.nav-footer .nav-footer-right {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* ----------------------------------------------------------------
+   CALLOUTS
+---------------------------------------------------------------- */
+.callout {
+  border-radius: var(--radius);
+  border-left-width: 3px;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.callout-tip {
+  border-left-color: var(--color-accent) !important;
+  background-color: var(--color-accent-bg) !important;
+}
+
+.callout-tip .callout-header {
+  background-color: rgba(192, 87, 42, 0.15) !important;
+  color: var(--color-accent);
+}
+
+.callout-note {
+  border-left-color: var(--color-slate-mid) !important;
+}
+
+/* ----------------------------------------------------------------
+   NUMBERED LIST REFINEMENTS (publications, presentations)
+---------------------------------------------------------------- */
+ol {
+  padding-left: 1.4rem;
+}
+
+ol li {
+  margin-bottom: 0.75rem;
+  padding-left: 0.2rem;
+}
+
+/* Publications — hanging indent style */
+.publications-list p {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
+/* ----------------------------------------------------------------
+   HORIZONTAL RULE
+---------------------------------------------------------------- */
+hr {
+  border: none;
+  border-top: 1px solid var(--color-stone-light);
+  margin: 2.5rem 0;
+}
+
+/* ----------------------------------------------------------------
+   SEARCH
+---------------------------------------------------------------- */
+.quarto-search .aa-Form {
+  border: 1px solid var(--color-stone-light);
+  border-radius: var(--radius);
+  background: var(--color-surface);
+}
+
+/* ----------------------------------------------------------------
+   RESPONSIVE
+---------------------------------------------------------------- */
+@media (max-width: 768px) {
+  body {
+    font-size: 15.5px;
+  }
+
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  #title-block-header h1.title {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  .navbar {
+    padding: 0 1rem;
+  }
+
+  table {
+    font-size: 0.85rem;
+  }
+
+  thead th,
+  tbody td {
+    padding: 0.5rem 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.65rem;
+  }
+
+  body {
+    font-size: 15px;
+    line-height: 1.72;
+  }
+}
