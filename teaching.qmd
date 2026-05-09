@@ -32,9 +32,9 @@ I would be particularly interested in supervising theses on the following topics
 
 ### Post-Graduate Level (MA Courses)
 
-- SLAT7806: Research Methods (UQ, [Evaluation Sem 1, 2022](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/09/7220-SLAT7806-24674_STLUC-EX-S1-2022_-_Course_Survey.pdf))
+- SLAT7806: Research Methods (UQ, [Evaluation Sem 1, 2022](resources/7220-SLAT7806-24674_STLUC-EX-S1-2022_-_Course_Survey.pdf))
 - SLAT7829: Corpus Linguistics and Text Analysis (UQ)
-- SLAT7830: Second Language Reading (UQ, [Evaluation Sem 1, 2022](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/09/7220-SLAT7830-24684_STLUC-EX-S1-2022_-_Course_Survey.pdf))
+- SLAT7830: Second Language Reading (UQ, [Evaluation Sem 1, 2022](resources/7220-SLAT7830-24684_STLUC-EX-S1-2022_-_Course_Survey.pdf))
 - SLAT7853: HDR Dissertation course (UQ)
 - SLAT7855: Quantitative Research Methods in Applied Linguistics (UQ)
 - History of English Culture and Language (UHH, [Evaluation WS2017/18](http://martinschweinberger.de/docs/materials/Evaluation_History_WS201718.pdf))
@@ -50,7 +50,7 @@ I would be particularly interested in supervising theses on the following topics
 - Language Change and Historical Sociolinguistics (UHH)
 - Quantitative Sociolinguistics and Corpus Analysis (UHH, UKS, [Evaluation WS2015/16](http://martinschweinberger.de/docs/materials/Evaluation_QuanSoc_WS201516.pdf))
 - Introduction to Cognitive Linguistics (UHH)
-- Introduction to English Linguistics (UHH, FUB; [Slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2024/11/IntroLingSlides.pdf); Evaluations: [WS2014/15](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_WS201415.pdf), [SS2015](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_SS2015.pdf), [WS2015/16](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_WS201516.pdf), [WS2017/18](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_WS201718.pdf))
+- Introduction to English Linguistics (UHH, FUB; [Slides](resources/IntroLingSlides.pdf); Evaluations: [WS2014/15](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_WS201415.pdf), [SS2015](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_SS2015.pdf), [WS2015/16](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_WS201516.pdf), [WS2017/18](http://martinschweinberger.de/docs/materials/Evaluation_Introduction_WS201718.pdf))
 - Fundamentals of English Linguistics (UKS, [Evaluation WS2015/16](http://martinschweinberger.de/docs/materials/Evaluation_Fundamentals_WS201516.pdf))
 - Introduction to Phonetics and Phonology (UHH)
 - History and Variation of English (FUB)

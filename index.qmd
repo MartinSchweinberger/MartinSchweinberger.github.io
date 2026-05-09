@@ -16,12 +16,15 @@ Regarding my background, I have a PhD in English linguistics and I studied at th
 :::
 ::: {.column width="30%"}
 
-![Dr Martin Schweinberger](images/martinschweinbergeruq.jpg){width=100% fig-alt="Dr Martin Schweinberger"}
+![Dr Martin Schweinberger](images/martinschweinberger-uq.jpg){width=100% fig-alt="Dr Martin Schweinberger"}
 
 :::
 :::
 
 ---
+
+::: {.columns}
+::: {.column width="70%"}
 
 **RESEARCH AREAS**
 
@@ -40,6 +43,14 @@ Regarding my background, I have a PhD in English linguistics and I studied at th
 
 My ORCID is [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153) and you can also find me on [Google Scholar](https://scholar.google.com/citations?user=zgFnhd8AAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Martin_Schweinberger), [LinkedIn](https://www.linkedin.com/in/martin-schweinberger-53515a96/?originalSubdomain=au), [GitHub](https://github.com/MartinSchweinberger), [GitLab](https://gitlab.com/MartinSchweinberger), or follow me on Twitter/X (@ronautic).
 
+:::
+::: {.column width="30%"}
+
+![Martin](images/martin-schweinberger-private-uq.jpg){width=100% fig-alt="Martin"}
+
+:::
+:::
+
 ---
 
 **NEWS**
@@ -48,7 +59,7 @@ My ORCID is [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153) and you
 
 **7/11/2025:** Giving a talk on **Vulgarity in Spoken Interaction Across Englishes** and a Lightning Talk on **Data Structure Harmonization** at the ***Forum on Englishes*** in Australia in Melbourne.
 
-**12/10/2025:** Amir Sheikhan from the University of South Australia invited me to give a **lecture on "Vulgarity in World Englishes"**. [(slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/10/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx) and [recording)](https://www.youtube.com/watch?v=Y0EFJMZn4KM)
+**12/10/2025:** Amir Sheikhan from the University of South Australia invited me to give a **lecture on "Vulgarity in World Englishes"**. [(slides](resources/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx) and [recording)](https://www.youtube.com/watch?v=Y0EFJMZn4KM)
 
 **13/6/2025:** Just out: [**The Conversation** article](https://theconversation.com/201-ways-to-say-fuck-what-1-7-billion-words-of-online-text-shows-about-how-the-world-swears-257815) about "201 ways to say 'fuck'" by Kate Burridge and myself.
 
@@ -60,11 +71,11 @@ My ORCID is [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153) and you
 
 **22–23/5/2025:** I spoke about vulgarity in public and online discourse on **ABC Drive with Ellen Fanning** (22 May) and on **ABC Radio Melbourne with Ali Moore** (23 May). You can [listen to the ABC Drive interview here](https://www.abc.net.au/listen/programs/brisbane-drive/drive/105307926) (17:50–33:00), and [read our open-access paper (with Kate Burridge) here](https://tinyurl.com/vulgarity-lingua).
 
-**27/1/2025:** I am invited to the University of Hamburg to talk about **Indigenous Australian Languages — Linguistic Features, Revitalization Efforts, and Research Infrastructure for Archiving and Accessibility** as part of the Lecture Series "Preserving the Past – Shaping the Future: Zur Dokumentation von Sprache und Kultur" [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/01/Schweinberger_UHH_LanguagesAustralia_LDaCA.pptx).
+**27/1/2025:** I am invited to the University of Hamburg to talk about **Indigenous Australian Languages — Linguistic Features, Revitalization Efforts, and Research Infrastructure for Archiving and Accessibility** as part of the Lecture Series "Preserving the Past – Shaping the Future: Zur Dokumentation von Sprache und Kultur" [(slides)](resources/Schweinberger_UHH_LanguagesAustralia_LDaCA.pptx).
 
-**25/11/2024:** I am invited to the University of Bonn to talk about **Vulgarity in Online Discourse around the English-Speaking World** [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2024/11/UBonn_Vulgarity_Schweinberger_20241125.pptx).
+**25/11/2024:** I am invited to the University of Bonn to talk about **Vulgarity in Online Discourse around the English-Speaking World** [(slides)](resources/UBonn_Vulgarity_Schweinberger_20241125.pptx).
 
-**16/12/2023:** I have been invited to give a talk at the University of Innsbruck about **what we can learn from analyses of adjective amplification** [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2023/12/AdjAmp_Schweinberger_Innsbruck.pptx).
+**16/12/2023:** I have been invited to give a talk at the University of Innsbruck about **what we can learn from analyses of adjective amplification** [(slides)](resources/AdjAmp_Schweinberger_Innsbruck.pptx).
 
 **13/12/2023:** I'm invited to give a talk on my research about computational analyses of **vowel production among L1- and L2-speakers of English** at the Carl von Ossietzky University Oldenburg.
 
@@ -72,16 +83,11 @@ My ORCID is [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153) and you
 
 **19/1/2023:** I am giving a **workshop on conditional inference trees** at the Rheinische Friedrich-Wilhelms-Universität Bonn [(workshop materials)](https://martinschweinberger.github.io/TreesUBonn/).
 
-**13/1/2023:** I am invited to give a **talk entitled *Reproducibility in corpus-based computational analyses of learner speech*** at the Institute of English Studies at the University of Hamburg [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2023/01/ReproL2_UHH_Schweinberger.pdf).
+**13/1/2023:** I am invited to give a **talk entitled *Reproducibility in corpus-based computational analyses of learner speech*** at the Institute of English Studies at the University of Hamburg [(slides)](resources/ReproL2_UHH_Schweinberger.pdf).
 
-**25/10/2022:** I have the honour of giving a **talk about transparency and reproducibility in Corpus Linguistics for the [Sydney Corpus Lab](https://sydneycorpuslab.com/)** led by Monika Bednarek at the University of Sydney. [Here is a link to the slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/10/SCL_Reproducibility_Schweinberger_min-1.pdf).
+**25/10/2022:** I have the honour of giving a **talk about transparency and reproducibility in Corpus Linguistics for the [Sydney Corpus Lab](https://sydneycorpuslab.com/)** led by Monika Bednarek at the University of Sydney. [Here is a link to the slides](resources/SCL_Reproducibility_Schweinberger_min-1.pdf).
 
 **1/9/2022:** I co-organized the workshop [***Computational Thinking in the Humanities***](https://ladal.edu.au/compthinking.html). The workshop focused on the history and future as well as the challenges and the potential of computational approaches in the humanities and social sciences.
 
 ---
 
-**ACKNOWLEDGEMENTS**
-
-I would like to thank [Susanne Flach](https://sfla.ch/) for her help in setting up this website.
-
-*(last updated 2025/05)*
