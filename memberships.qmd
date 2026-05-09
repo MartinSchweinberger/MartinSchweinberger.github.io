@@ -2,17 +2,47 @@
 title: "Memberships & Reviewing"
 ---
 
+## Leadership Positions
+
+- Vice-President Profession of the [*International Society for the Linguistics of English*](https://www.isle-linguistics.org) (ISLE) (elected)
+- Board member of the [*International Computer Archive of Modern and Medieval English*](http://icame.info) (ICAME) (re-elected)
+- Steering committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, since 2024)
+- Advisory committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, 2023)
+- Steering committee [*Australian Text Analytics Platform*](https://www.atap.edu.au/) (ATAP) (2021–2023, project merged into LDaCA in 2024)
+- Affiliate member of the *Australian Research Council (ARC) Center for Excellence for the Dynamics of Language* ([CoEDL](http://www.dynamicsoflanguage.edu.au/))
+- Former Queensland state chair of the [*Australian Computation and Linguistics Olympiad*](https://www.ozclo.org.au/) (OzCLO, 2021)
+- In 2019 I was [HASS Digital Champion](https://ardc.edu.au/project/humanities-arts-and-social-sciences/) on behalf of the *Australian Research Data Commons* ([ARDC](https://ardc.edu.au/)).
+
+---
+
 ## Memberships
 
-- [International Society for the Linguistics of English (ISLE)](https://www.isle-linguistics.org/) — Vice-President Profession
-- [The International Computer Archive of Modern and Medieval English (ICAME)](https://icame.info/) — Board member (re-elected)
-- Deutsche Gesellschaft für Sprachwissenschaft (DGfS)
-- Deutscher Anglistenverband (DA, expired 2016–2023)
-- Hamburger Zentrum für Sprachkorpora (HZSK, expired 2016–2018)
-- Society for Text and Discourse (ST&D, expired 2016–2019)
+- Australian Linguistics Society ([ALS](https://als.asn.au/Home))
+- International Society for the Linguistics of English ([ISLE](https://www.isle-linguistics.org/))
+- Societas Lingustica Europaea ([SLE](http://www.societaslinguistica.eu/))
+- Deutsche Gesellschaft für Sprachwissenschaft ([DGfS](https://dgfs.de/))
+- Deutscher Anglistenverband ([DA](http://www.anglistenverband.de/), expired, 2016–2023)
+- Hamburger Zentrum für Sprachkorpora ([HZSK](https://corpora.uni-hamburg.de/hzsk/), expired, 2016–2018)
+- Society for Text and Discourse ([ST&D](http://www.societyfortextanddiscourse.org/), expired, 2016–2019)
 
 ---
 
 ## Reviewing (Journals)
 
-I have been reviewing for a range of international peer-reviewed journals in linguistics, corpus linguistics, and applied linguistics.
+I have been reviewing for:
+
+- *Australian Journal of Linguistics* (AJL, Q2, since 9/2022)
+- [*Corpora*](https://www.euppublishing.com/loi/cor) (Q2, since 1/2019)
+- *Corpus Linguistics and Linguistic Theory* (CLLT, Q1, since 6/2023)
+- *Corpus Pragmatics* (Q2, since 10/2023)
+- [*Discourse Processes*](https://www.tandfonline.com/loi/hdsp20) (DP, Q1, since 10/2016)
+- *English Language & Linguistics* (ELL, Q1, since 10/2023)
+- *Frontiers in Communication* (Q1, since 11/2021)
+- *International Journal of Corpus Linguistics* (IJCL, Q1, since 6/2023)
+- [*Journal of Pragmatics*](https://www.journals.elsevier.com/journal-of-pragmatics) (JoP, Q1, since 5/2017)
+- [*Language in Society*](https://www.cambridge.org/core/journals/language-in-society) (LSoc, Q1, since 3/2018)
+- [*Open Linguistics*](https://www.degruyter.com/view/j/opli?lang=en) (Q2, since 11/2019)
+
+In addition, I have been reviewing book proposals, monographs, and chapters for edited volumes by various publishers (e.g. Cambridge University Press, John Benjamins, and Peter Lang).
+
+*(last updated 2025/05/29)*

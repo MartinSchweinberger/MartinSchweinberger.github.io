@@ -1,37 +1,50 @@
 /* ================================================================
    martinschweinberger.de — styles.css
-   Design direction: Editorial minimalism with academic gravitas
-   Typography: Playfair Display (headings) + Source Serif 4 (body)
-   Palette: Warm off-white · Dark slate · Terracotta accent · Stone
+   Design direction: Modern · Technical · Professional · Authoritative
+   Typography: Inter (headings/UI) + Source Sans 3 (body) + JetBrains Mono (code)
+   Palette: Deep Navy · Sapphire · Gold · Cool Off-White
    ================================================================ */
 
 /* ----------------------------------------------------------------
    FONTS
 ---------------------------------------------------------------- */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
 /* ----------------------------------------------------------------
    DESIGN TOKENS
 ---------------------------------------------------------------- */
 :root {
-  --color-bg:          #F8F6F1;       /* warm off-white ground */
-  --color-surface:     #FFFFFF;       /* card / panel backgrounds */
-  --color-slate:       #1E2A35;       /* primary text / navbar */
-  --color-slate-mid:   #3A4D5C;       /* secondary headings */
-  --color-stone:       #7A8A94;       /* muted text, borders */
-  --color-stone-light: #D6D0C8;       /* subtle dividers */
-  --color-accent:      #C0572A;       /* terracotta — links, highlights */
-  --color-accent-warm: #E07A4F;       /* lighter accent for hover */
-  --color-accent-bg:   #F5EDE8;       /* very light terracotta tint */
+  /* Backgrounds */
+  --color-bg:            #F7F8FA;       /* cool off-white ground */
+  --color-surface:       #FFFFFF;       /* card / panel backgrounds */
+  --color-tint:          #E8F2FC;       /* blue-tinted highlight surface */
 
-  --font-display:  'Playfair Display', Georgia, serif;
-  --font-body:     'Source Serif 4', Georgia, serif;
+  /* Navy scale */
+  --color-navy:          #0D1B2A;       /* deepest — hero, footer bg */
+  --color-prussian:      #1A3A5C;       /* navbar, table headers */
+  --color-slate-mid:     #2D5880;       /* secondary text, subheadings */
+  --color-muted:         #4A6A8A;       /* muted text, captions */
+  --color-stone-light:   #D0D8E4;       /* borders, dividers */
+
+  /* Sapphire / action scale */
+  --color-primary:       #2563A8;       /* links, buttons, active states */
+  --color-primary-hover: #4A90D9;       /* hover */
+  --color-primary-bg:    #E8F2FC;       /* tinted surface */
+
+  /* Gold accent */
+  --color-gold:          #C9A84C;       /* accent — highlights, TOC, tags */
+  --color-gold-light:    #E8C96B;       /* lighter gold, hover */
+  --color-gold-bg:       #F5E9C0;       /* very light gold tint */
+
+  /* Typography */
+  --font-display:  'Inter', system-ui, sans-serif;
+  --font-body:     'Source Sans 3', system-ui, sans-serif;
   --font-mono:     'JetBrains Mono', 'Courier New', monospace;
 
-  --radius:        3px;
-  --shadow-sm:     0 1px 4px rgba(30, 42, 53, 0.08);
-  --shadow-md:     0 4px 16px rgba(30, 42, 53, 0.10);
-  --transition:    0.2s ease;
+  --radius:        4px;
+  --shadow-sm:     0 1px 4px rgba(13, 27, 42, 0.08);
+  --shadow-md:     0 4px 16px rgba(13, 27, 42, 0.10);
+  --transition:    0.18s ease;
 }
 
 /* ----------------------------------------------------------------
@@ -43,10 +56,10 @@ html {
 
 body {
   font-family: var(--font-body);
-  font-weight: 300;
-  font-size: 16.5px;
-  line-height: 1.78;
-  color: var(--color-slate);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--color-prussian);
   background-color: var(--color-bg);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -58,76 +71,77 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);
   font-weight: 600;
-  color: var(--color-slate);
+  color: var(--color-navy);
   line-height: 1.25;
   margin-top: 2rem;
   margin-bottom: 0.6rem;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.015em;
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   font-weight: 700;
-  color: var(--color-slate);
+  color: var(--color-navy);
   padding-bottom: 0.5rem;
   margin-bottom: 1.4rem;
-  border-bottom: 2px solid var(--color-accent);
+  border-bottom: 2px solid var(--color-gold);
   display: inline-block;
 }
 
 /* Override Quarto's full-width title block h1 */
 #title-block-header h1.title {
   font-family: var(--font-display);
-  font-size: 2.6rem;
+  font-size: 2.3rem;
   font-weight: 700;
-  color: var(--color-slate);
+  color: var(--color-navy);
   border-bottom: none;
   padding-bottom: 0;
   margin-bottom: 0.25rem;
   display: block;
+  letter-spacing: -0.02em;
 }
 
 h2 {
-  font-size: 1.55rem;
+  font-size: 1.4rem;
   font-weight: 600;
-  color: var(--color-slate-mid);
+  color: var(--color-prussian);
   border-bottom: 1px solid var(--color-stone-light);
   padding-bottom: 0.3rem;
   margin-top: 2.6rem;
+  letter-spacing: -0.01em;
 }
 
 h3 {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  color: var(--color-slate);
+  color: var(--color-navy);
   margin-top: 1.8rem;
-  font-style: italic;
 }
 
 h4 {
-  font-size: 0.95rem;
+  font-size: 0.88rem;
   font-weight: 600;
-  color: var(--color-stone);
+  color: var(--color-muted);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.07em;
   margin-top: 1.4rem;
 }
 
 p {
-  color: var(--color-slate);
-  font-weight: 300;
+  color: var(--color-prussian);
+  font-weight: 400;
   margin-bottom: 0.9rem;
 }
 
 li {
-  font-weight: 300;
-  color: var(--color-slate);
-  margin-bottom: 0.2rem;
+  font-weight: 400;
+  color: var(--color-prussian);
+  margin-bottom: 0.25rem;
 }
 
 strong {
   font-weight: 600;
-  color: var(--color-slate);
+  color: var(--color-navy);
 }
 
 em {
@@ -136,20 +150,20 @@ em {
 }
 
 blockquote {
-  border-left: 3px solid var(--color-accent);
+  border-left: 3px solid var(--color-gold);
   padding: 0.6rem 0 0.6rem 1.4rem;
   margin-left: 0;
   color: var(--color-slate-mid);
   font-style: italic;
-  background: var(--color-accent-bg);
+  background: var(--color-gold-bg);
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 
 code {
   font-family: var(--font-mono);
-  font-size: 0.83em;
-  background: var(--color-accent-bg);
-  color: var(--color-accent);
+  font-size: 0.82em;
+  background: var(--color-tint);
+  color: var(--color-primary);
   padding: 0.15em 0.4em;
   border-radius: 2px;
 }
@@ -164,67 +178,119 @@ pre code {
    LINKS
 ---------------------------------------------------------------- */
 a {
-  color: var(--color-accent);
+  color: var(--color-primary);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: color var(--transition), border-color var(--transition);
 }
 
 a:visited {
-  color: var(--color-accent);
+  color: var(--color-primary);
 }
 
 a:hover {
-  color: var(--color-accent-warm);
-  border-bottom-color: var(--color-accent-warm);
+  color: var(--color-primary-hover);
+  border-bottom-color: var(--color-primary-hover);
   text-decoration: none;
 }
 
 /* ----------------------------------------------------------------
-   NAVBAR
+   NAVBAR  — two-row wrapping (Option A)
+   Brand sits left; nav items wrap onto a second line when needed.
+   Key mechanics:
+     • flex-wrap: wrap  on the inner container lets items reflow
+     • navbar height is auto (not fixed) so the second row shows
+     • padding-top/bottom on links creates breathing room each row
 ---------------------------------------------------------------- */
 .navbar {
-  background-color: var(--color-slate) !important;
-  border-bottom: 2px solid var(--color-accent);
+  background-color: var(--color-prussian) !important;
+  border-bottom: 2px solid var(--color-gold);
   padding: 0 1.5rem;
-  font-family: var(--font-body);
+  font-family: var(--font-display);
+  /* allow height to grow with two rows */
+  height: auto !important;
+  min-height: unset !important;
 }
 
+/* The Bootstrap container inside the navbar */
+.navbar > .container,
+.navbar > .container-fluid,
+.navbar > .container-xxl {
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  row-gap: 0;
+}
+
+/* Brand — stays on its own leading slot */
 .navbar-brand,
 .navbar-brand:hover {
   font-family: var(--font-display);
-  font-size: 1.15rem;
+  font-size: 1rem;
   font-weight: 700;
   color: #ffffff !important;
   letter-spacing: -0.01em;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  margin-right: 1.25rem;
+  flex-shrink: 0;
+}
+
+/* Toggler (mobile hamburger) */
+.navbar-toggler {
+  border-color: rgba(255,255,255,0.3);
+  padding: 4px 8px;
+  margin-left: auto;
+}
+
+.navbar-toggler-icon {
+  filter: invert(1);
+}
+
+/* The collapsible nav container — allow wrapping */
+.navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;          /* KEY: lets tabs flow onto row 2 */
+  align-items: center;
+  gap: 0;
+  padding: 0.15rem 0;
 }
 
 .navbar-nav .nav-link {
-  font-family: var(--font-body);
-  font-size: 0.88rem;
-  font-weight: 400;
-  color: rgba(255, 255, 255, 0.82) !important;
-  letter-spacing: 0.02em;
-  padding: 0.65rem 0.85rem !important;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.80) !important;
+  letter-spacing: 0.01em;
+  padding: 0.38rem 0.65rem !important;
+  border-radius: 3px;
+  white-space: nowrap;
   transition: color var(--transition), background-color var(--transition);
 }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link:focus {
   color: #ffffff !important;
-  background-color: rgba(192, 87, 42, 0.25);
+  background-color: rgba(201, 168, 76, 0.20);
   text-decoration: none;
 }
 
 .navbar-nav .nav-link.active {
   color: #ffffff !important;
-  background-color: rgba(192, 87, 42, 0.35);
-  border-bottom: 2px solid var(--color-accent);
+  background-color: rgba(201, 168, 76, 0.28);
+  border-bottom: 2px solid var(--color-gold);
 }
 
 /* Dropdown */
 .navbar-nav .dropdown-menu {
-  background-color: var(--color-slate);
+  background-color: var(--color-prussian);
   border: 1px solid rgba(255,255,255,0.12);
   border-radius: var(--radius);
   box-shadow: var(--shadow-md);
@@ -234,14 +300,15 @@ a:hover {
 
 .navbar-nav .dropdown-item {
   color: rgba(255,255,255,0.82);
-  font-size: 0.87rem;
-  font-weight: 300;
-  padding: 8px 18px;
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 400;
+  padding: 7px 16px;
   transition: background-color var(--transition), color var(--transition);
 }
 
 .navbar-nav .dropdown-item:hover {
-  background-color: rgba(192, 87, 42, 0.25);
+  background-color: rgba(201, 168, 76, 0.20);
   color: #ffffff;
   text-decoration: none;
 }
@@ -253,12 +320,10 @@ main, .quarto-container {
   background-color: var(--color-bg);
 }
 
-/* Content column */
 .quarto-content {
   max-width: 780px;
 }
 
-/* Title block */
 #title-block-header {
   margin-bottom: 2.2rem;
   padding-bottom: 1rem;
@@ -275,7 +340,7 @@ main, .quarto-container {
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.92rem;
+  font-size: 0.91rem;
   margin: 1.5rem 0 2rem;
   background: var(--color-surface);
   box-shadow: var(--shadow-sm);
@@ -284,16 +349,16 @@ table {
 }
 
 thead tr {
-  background-color: var(--color-slate);
+  background-color: var(--color-prussian);
   color: #ffffff;
 }
 
 thead th {
-  padding: 0.7rem 1rem;
-  font-family: var(--font-body);
+  padding: 0.65rem 1rem;
+  font-family: var(--font-display);
   font-weight: 600;
-  font-size: 0.82rem;
-  letter-spacing: 0.05em;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   text-align: left;
   border: none;
@@ -305,14 +370,14 @@ tbody tr {
 }
 
 tbody tr:hover {
-  background-color: var(--color-accent-bg);
+  background-color: var(--color-tint);
 }
 
 tbody td {
-  padding: 0.65rem 1rem;
+  padding: 0.6rem 1rem;
   vertical-align: top;
-  color: var(--color-slate);
-  font-weight: 300;
+  color: var(--color-prussian);
+  font-weight: 400;
   border: none;
 }
 
@@ -324,43 +389,43 @@ tbody tr:last-child {
    TOC SIDEBAR
 ---------------------------------------------------------------- */
 .sidebar nav[role=doc-toc] {
-  font-family: var(--font-body);
-  font-size: 0.85rem;
+  font-family: var(--font-display);
+  font-size: 0.82rem;
 }
 
 .sidebar nav[role=doc-toc] ul > li > a {
-  color: var(--color-stone);
+  color: var(--color-muted);
   transition: color var(--transition), border-color var(--transition);
   padding: 3px 6px;
 }
 
 .sidebar nav[role=doc-toc] ul > li > a:hover,
 .sidebar nav[role=doc-toc] ul > li > ul > li > a:hover {
-  color: var(--color-accent);
-  border-left: 2px solid var(--color-accent);
-  background-color: var(--color-accent-bg);
+  color: var(--color-gold);
+  border-left: 2px solid var(--color-gold);
+  background-color: var(--color-gold-bg);
   text-decoration: none;
 }
 
 .sidebar nav[role=doc-toc] ul > li > a.active,
 .sidebar nav[role=doc-toc] ul > li > ul > li > a.active {
-  color: var(--color-accent) !important;
-  border-left: 2px solid var(--color-accent);
+  color: var(--color-gold) !important;
+  border-left: 2px solid var(--color-gold);
   font-weight: 600;
-  background-color: var(--color-accent-bg);
+  background-color: var(--color-gold-bg);
 }
 
 /* ----------------------------------------------------------------
    FOOTER
 ---------------------------------------------------------------- */
 .nav-footer {
-  background-color: var(--color-slate) !important;
-  color: rgba(255, 255, 255, 0.50);
-  font-family: var(--font-body);
-  font-size: 0.82rem;
-  font-weight: 300;
-  padding: 24px 40px;
-  border-top: 2px solid var(--color-accent);
+  background-color: var(--color-navy) !important;
+  color: rgba(255, 255, 255, 0.48);
+  font-family: var(--font-display);
+  font-size: 0.80rem;
+  font-weight: 400;
+  padding: 22px 40px;
+  border-top: 2px solid var(--color-gold);
 }
 
 .nav-footer a {
@@ -370,7 +435,7 @@ tbody tr:last-child {
 }
 
 .nav-footer a:hover {
-  color: var(--color-accent-warm) !important;
+  color: var(--color-gold-light) !important;
   border-bottom: none;
 }
 
@@ -394,21 +459,27 @@ tbody tr:last-child {
 }
 
 .callout-tip {
-  border-left-color: var(--color-accent) !important;
-  background-color: var(--color-accent-bg) !important;
+  border-left-color: var(--color-gold) !important;
+  background-color: var(--color-gold-bg) !important;
 }
 
 .callout-tip .callout-header {
-  background-color: rgba(192, 87, 42, 0.15) !important;
-  color: var(--color-accent);
+  background-color: rgba(201, 168, 76, 0.15) !important;
+  color: var(--color-navy);
 }
 
 .callout-note {
-  border-left-color: var(--color-slate-mid) !important;
+  border-left-color: var(--color-primary) !important;
+  background-color: var(--color-primary-bg) !important;
+}
+
+.callout-note .callout-header {
+  background-color: rgba(37, 99, 168, 0.12) !important;
+  color: var(--color-prussian);
 }
 
 /* ----------------------------------------------------------------
-   NUMBERED LIST REFINEMENTS (publications, presentations)
+   LISTS
 ---------------------------------------------------------------- */
 ol {
   padding-left: 1.4rem;
@@ -444,6 +515,18 @@ hr {
 }
 
 /* ----------------------------------------------------------------
+   FIGURE CAPTIONS
+---------------------------------------------------------------- */
+.figure-caption,
+figcaption {
+  font-family: var(--font-display);
+  font-size: 0.80rem;
+  color: var(--color-muted);
+  text-align: center;
+  margin-top: 0.4rem;
+}
+
+/* ----------------------------------------------------------------
    RESPONSIVE
 ---------------------------------------------------------------- */
 @media (max-width: 768px) {
@@ -452,38 +535,51 @@ hr {
   }
 
   h1 {
-    font-size: 1.9rem;
+    font-size: 1.8rem;
   }
 
   #title-block-header h1.title {
-    font-size: 2rem;
+    font-size: 1.9rem;
   }
 
   h2 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .navbar {
     padding: 0 1rem;
   }
 
+  /* On mobile, collapse to vertical stack as normal */
+  .navbar-nav {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    padding: 0.25rem 0;
+  }
+
+  .navbar-nav .nav-link {
+    padding: 0.45rem 0.5rem !important;
+    width: 100%;
+  }
+
   table {
-    font-size: 0.85rem;
+    font-size: 0.84rem;
   }
 
   thead th,
   tbody td {
-    padding: 0.5rem 0.75rem;
+    padding: 0.45rem 0.7rem;
   }
 }
 
 @media (max-width: 480px) {
   h1 {
-    font-size: 1.65rem;
+    font-size: 1.55rem;
   }
 
   body {
     font-size: 15px;
-    line-height: 1.72;
+    line-height: 1.70;
   }
 }

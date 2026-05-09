@@ -2,31 +2,135 @@ project:
   type: website
   output-dir: docs
 
+# ---------------------------------------------------------------
+# SITE METADATA
+# Used for canonical URLs, Open Graph / Twitter card previews
+# when links are shared on social media or messaging apps.
+# ---------------------------------------------------------------
 website:
   title: "Martin Schweinberger"
+  site-url: "https://martinschweinberger.de"
+  description: "Senior Lecturer in Applied Linguistics at the University of Queensland. Corpus linguistics, computational humanities, language data science."
+  favicon: images/favicon.ico   # add a favicon.ico to your images/ folder
+
+  # Open Graph (Facebook, LinkedIn, Slack previews)
+  open-graph:
+    title: "Martin Schweinberger — Applied Linguistics · UQ"
+    description: "Senior Lecturer in Applied Linguistics at the University of Queensland. Director of LADAL. Corpus linguistics, computational humanities, language data science."
+    image: images/martinschweinbergeruq.jpg
+
+  # Twitter / X card
+  twitter-card:
+    title: "Martin Schweinberger — Applied Linguistics · UQ"
+    description: "Senior Lecturer in Applied Linguistics at the University of Queensland. Director of LADAL. Corpus linguistics & language data science."
+    image: images/martinschweinbergeruq.jpg
+    creator: "@ronautic"
+    card-style: summary_large_image
+
+  # ---------------------------------------------------------------
+  # NAVBAR
+  # Strategy: 9 pages grouped into 4 dropdowns + 2 standalone items.
+  # This keeps the two-row wrap tidy and helps visitors scan quickly.
+  # Groups:
+  #   About (Home)             — standalone
+  #   CV dropdown              — Education & Positions
+  #   Research dropdown        — Research, Publications, Presentations, Training
+  #   Teaching dropdown        — Teaching, Resources
+  #   Community dropdown       — Memberships, Awards & Funding, Media
+  #   Contact                  — standalone
+  # ---------------------------------------------------------------
   navbar:
+    background: primary      # overridden by styles.css; keeps cosmo fallback sensible
+    pinned: false            # allows navbar to scroll away — keeps more content visible
     left:
       - href: index.qmd
         text: Home
-      - href: cv.qmd
-        text: Education & Positions
-      - href: publications.qmd
-        text: Publications
-      - href: presentations.qmd
-        text: Presentations & Talks
-      - href: teaching.qmd
-        text: Teaching
-      - href: memberships.qmd
-        text: Memberships & Reviewing
-      - href: awards.qmd
-        text: Awards & Funding
-      - href: research.qmd
-        text: Research & Projects
+
+      - text: "CV"
+        menu:
+          - href: education.qmd
+            text: "Education & Positions"
+          - href: awards.qmd
+            text: "Awards & Funding"
+
+      - text: "Research"
+        menu:
+          - href: research.qmd
+            text: "Research & Projects"
+          - href: publications.qmd
+            text: "Publications"
+          - href: presentations.qmd
+            text: "Presentations & Talks"
+          - href: training.qmd
+            text: "Workshops & Training"
+
+      - text: "Teaching"
+        menu:
+          - href: teaching.qmd
+            text: "Teaching"
+          - href: resources.qmd
+            text: "Resources"
+
+      - text: "Community"
+        menu:
+          - href: memberships.qmd
+            text: "Memberships & Reviewing"
+          - href: media.qmd
+            text: "Media Coverage"
+
       - href: contact.qmd
         text: Contact
 
+    # Search box in navbar — useful for long pages (publications, presentations)
+    search: true
+
+  # ---------------------------------------------------------------
+  # FOOTER
+  # Three-column layout:
+  #   Left:   copyright + institution
+  #   Center: key profile links
+  #   Right:  built-with note
+  # Using plain text + markdown links — no separate HTML file needed.
+  # ---------------------------------------------------------------
+  page-footer:
+    background: dark          # overridden by styles.css (.nav-footer)
+    border: true
+    left: |
+      © 2025 Martin Schweinberger  
+      Senior Lecturer, [School of Languages and Cultures](https://languages-cultures.uq.edu.au/), UQ  
+      ORCID: [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153)
+    center: |
+      [Google Scholar](https://scholar.google.com/citations?user=zgFnhd8AAAAJ&hl=en) · 
+      [ResearchGate](https://www.researchgate.net/profile/Martin_Schweinberger) · 
+      [GitHub](https://github.com/MartinSchweinberger) · 
+      [LADAL](https://ladal.edu.au) · 
+      [LinkedIn](https://www.linkedin.com/in/martin-schweinberger-53515a96/?originalSubdomain=au)
+    right: |
+      Built with [Quarto](https://quarto.org)  
+      Hosted on [GitHub Pages](https://pages.github.com)
+
+  # ---------------------------------------------------------------
+  # SITE-WIDE UX OPTIONS
+  # ---------------------------------------------------------------
+  back-to-top-navigation: true   # floating "back to top" button — helpful on
+                                  # long pages like publications / presentations
+  page-navigation: true          # prev / next arrows at page bottom — encourages
+                                  # visitors to browse beyond the page they landed on
+
+# ---------------------------------------------------------------
+# FORMAT DEFAULTS (apply to every page unless overridden)
+# ---------------------------------------------------------------
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3             # show h2 and h3 in TOC — h4 is too granular
+    toc-expand: 2            # auto-expand TOC to depth 2 on load
+    toc-title: "On this page"
+    number-sections: false   # no section numbers — this is a personal site not a textbook
+    smooth-scroll: true
+    anchor-sections: true    # clickable ¶ anchors on hover — handy for sharing sections
+    code-fold: false
+    fig-align: left
+    fig-cap-location: bottom

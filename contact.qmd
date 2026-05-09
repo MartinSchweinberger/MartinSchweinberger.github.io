@@ -2,25 +2,26 @@
 title: "Contact"
 ---
 
-## Contact
+## Contact Details
 
 **Dr Martin Schweinberger**  
 Senior Lecturer in Applied Linguistics  
 School of Languages and Cultures  
 The University of Queensland  
-Brisbane, Australia
+Brisbane, QLD 4072, Australia
 
-**Email**: martin.schweinberger.hh [at] gmail.com
+**Email:** m.schweinberger [at] uq.edu.au
 
 ---
 
-## Find Me Online
+## Online Profiles
 
-- [ORCID](https://orcid.org/0000-0003-1923-9153): 0000-0003-1923-9153
+- [ORCID: 0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153)
 - [Google Scholar](https://scholar.google.com/citations?user=zgFnhd8AAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Martin_Schweinberger)
-- [LinkedIn](https://www.linkedin.com/in/martin-schweinberger-53515a96/)
+- [LinkedIn](https://www.linkedin.com/in/martin-schweinberger-53515a96/?originalSubdomain=au)
 - [GitHub](https://github.com/MartinSchweinberger)
 - [GitLab](https://gitlab.com/MartinSchweinberger)
-- [UQ Staff Profile](https://languages-cultures.uq.edu.au/profile/martin-schweinberger)
+- Twitter/X: @ronautic
+- [UQ Staff Profile](https://languages-cultures.uq.edu.au/profile/1150/martin-schweinberger)
 - [LADAL](https://ladal.edu.au)

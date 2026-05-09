@@ -1,0 +1,69 @@
+---
+title: "Training"
+---
+
+## Professional Training — Science Management
+
+I took part in a certified graduate program [*Entwicklung und Management von Forschungsprojekten*](http://www.uni-kassel.de/uni/nc/universitaet/nachrichten/article/weiterbildungsprogramm-entwicklung-und-management-von-forschungsprojekten-emf.html) which qualifies junior researchers at the universities of Kassel and Marburg. To pass the program, participants must complete courses in (a) project development and grant application, (b) project management, (c) presentation of research results, (d) conference organization and (e) transfer, as well as submitting a positively reviewed research grant application. The program encompasses obligatory courses amounting to 112 hours and a one-day introductory session.
+
+---
+
+## Workshops
+
+**Introduction to R for Social Science** (University of Eastern Finland, Joensuu, 12–13/6/2024) ([ebook](https://martinschweinberger.github.io/IntroR_WS/), [resources](https://github.com/MartinSchweinberger/IntroR_WS))
+
+This beginner-friendly workshop equips participants with the foundational skills necessary to use R and RStudio effectively for text-based social science research. Topics covered include the RStudio environment, data loading and management, visualization, regular expressions, concordancing, network analysis, sentiment and keyword analysis, and topic modeling. No prior experience with R or programming is required.
+
+**Introduction to Computational Text Analytics** (LADAL/ATAP workshop organised by the Digital Cultures and Societies Hub at UQ, 22–23/5/2024) ([resources](https://github.com/MartinSchweinberger/TextAnalyticsWorkshop))
+
+**Text Analytics with LADAL Resources: an introduction to free, open-source interactive resources for linguists** (LADAL/ATAP workshop organised by the Digital Cultures and Societies Hub at UQ, 27/3/2023) ([resources](https://binderhub.atap-binder.cloud.edu.au/v2/gh/SLCLADAL/interactive-notebooks-environment/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Finteractive-notebooks%26urlpath%3Dlab%252Ftree%252Finteractive-notebooks%252Fnotebooks%252Ftextanalysis_cb.ipynb%26branch%3Dmain))
+
+This workshop introduces free, open-source resources provided by LADAL ([www.ladal.edu.au](http://www.ladal.edu.au)), a school-based, collaborative support infrastructure for (humanities) researchers working with text data. LADAL resources have been viewed more than 500,000 times by more than 250,000 users.
+
+**Computational Thinking in the Humanities** (LADAL online event, 1/9/2022) ([link](https://ladal.edu.au/compthinking.html))
+
+A 3-hour online workshop featuring two plenary talks (Krista Lagus and Barbara McGillivray), lightning presentations, and a panel discussion. Co-organized by ATAP, FIN-CLARIAH and its UEF representatives, and the Australian Digital Observatory.
+
+***Exploring Powerful Tools to Ensure Robust and Reproducible Results in Corpus Linguistics*** (18/8/2021, ICAME42 workshop)  
+[See here](https://icame42.englisch.tu-dortmund.de/), Universität Dortmund, with Gerold Schneider, University of Zurich, and Joseph Flanagan, University of Helsinki.
+
+[***Replication and Reproducibility in English Corpus Linguistics***](https://github.com/MartinSchweinberger/isle6_reprows) (2/6/2021, ISLE6 workshop)  
+University of Eastern Finland in Joensuu, with Joseph Flanagan, University of Helsinki.
+
+**AcqVA-Aurora workshops**  
+As part of my Associate Professor II position at the Arctic University of Norway, Tromsø, I offered the following practice-oriented workshops for researchers of the AcqVA-Aurora Centre:
+
+- [*From Tables to Trees*](https://martinschweinberger.github.io/acqvatabletree/) (17/6/2022, [GitHub](https://github.com/MartinSchweinberger/acqvatabletree))
+- *Power Analysis for determining Sample Size using R* (2/2/2022)
+- *Data Visualization with R* (25/1/2022)
+- *Mixed-Effect Modeling in R* (22–29/4/2021, [materials](https://slcladal.github.io/mmws.html))
+- *Processing and Analyzing Eye-Tracking Data in R* (5/5/2021, [materials](https://slcladal.github.io/etws.html))
+
+**Advanced statistics for linguists: tree-based and mixed-effects models in R** ([link](http://www.dynamicsoflanguage.edu.au/education-and-outreach/train-with-us/summer-school-2019/course-information/course/)) (2–6/12/2019, [Center of Excellence for the Dynamics of Language (CoEDL)](https://www.dynamicsoflanguage.edu.au/))
+
+Invited workshop at CoEDL's annual Summer School at the University of Melbourne. The six-hour workshop introduced tree-based models and mixed-effects modeling in R, covering Conditional Inference Trees, Random Forests, and Linear and Binomial Logistic Mixed-Effects Models.
+
+**LinA-Lab workshops (Leuphana Universität Lüneburg)**  
+As member of the Language-in-Action Laboratory at the Leuphana Universität Lüneburg, I offered the following practice-oriented workshops for PhD/MA/BA students:
+
+- *Statistics for linguists: advanced designs*
+- *Statistics for linguists: basic designs*
+- *How to create a questionnaire using Google Drive*
+- *Introduction to corpora: finding frequently used words and collocations*
+- *How to use corpus data in your term paper/thesis*
+- *How to use corpora to improve your English*
+- *Transcription using F4*
+- *How to create a personalized vowel chart with PRAAT*
+- *How to visualize linguistic data using Microsoft Excel*
+- *How to write a scientific term paper*
+- *Introduction to LaTeX in the humanities*
+
+**Statistics workshops offered at German Universities**  
+The workshops below were held in German at various German universities with about 15 participants including professors, post-docs, PhD students, and students:
+
+- *Leibniz Universität Hannover*: AntConc & Excel (12/10/2015), Statistik für Linguisten (17/10/2015)
+- *Johannes Gutenberg-Universität Mainz*: Statistik für Linguisten (01/04–02/04/2015)
+- *Universität Hamburg*: Statistik für Linguisten / Statistics for linguists (06/02–07/02/2017)
+- *Universität Bonn*: Corpus Linguistics: Focus on quantitative methods (06/03–09/02/2018)
+
+*(last updated 2024/06)*

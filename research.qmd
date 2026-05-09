@@ -1,45 +1,73 @@
 ---
-title: "Research & Projects"
+title: "Research"
 ---
 
-## Research Overview
+## Research Profile
 
-In my research I have mainly taken a variationist approach to statistically modelling linguistic variation within and across non-standard or post-colonial varieties of English. While I have mostly relied on corpus data and used R and RStudio to investigate linguistic phenomena, I have also used questionnaire designs and engaged in acoustic analyses of audio data.
+In my research I have mainly taken a variationist approach to statistically modeling linguistic variation within and across non-standard or post-colonial varieties of English. While I have mostly relied on corpus data and used [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) to investigate linguistic phenomena, I have also used questionnaire designs and engaged in acoustic analyses of audio data using, for example, the Bavarian Archive for Speech Signals's *The Munich Automatic Segmentation System* ([MAUS](https://www.en.phonetik.uni-muenchen.de/research/current_projects/maus_en.html)) and [PRAAT](http://www.fon.hum.uva.nl/praat/) to investigate target language proximity in vowel production by non-native speakers of English. My position as associate professor at the Arctic University of Norway allowed me to gain experience in experimental methods including web-based eye-tracking and analyzing data obtained from experimental designs. I am also developed an interest in language documentation, anthropological linguistics, and field work methods.
 
-One basic issue underlying my research has been to investigate how, why, and to what extent social, cultural, and psychological factors impact linguistic behaviour. The aim of these analyses does not merely focus on describing differences between speakers with distinct social profiles but to elucidate mechanisms underlying processes of language change — specifically, how innovative features spread through speech communities and by which mechanisms these innovations take over from traditional variants.
+One basic issue underlying my research has been to investigate how, why, and to what extent social, cultural, and psychological factors impact linguistic behavior. The aim of these analyses does not merely focus on describing differences between speakers with distinct social profiles but to elucidate mechanisms underlying processes of language change. In this line of research, I have become particularly interested in how semantically bleached elements, such as discourse particles and degree adverbs (intensifiers), correlate with social, cultural, and psychological factors. For instance, an article for which I won the ISLE [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize) in 2015 investigated whether traditional variationist variables and psycholinguistic factors correlate with the use of the discourse particle *eh* in New Zealand English.
 
-In this line of research, I have become particularly interested in how semantically bleached elements, such as discourse particles and degree adverbs (intensifiers), correlate with social, cultural, and psychological factors. An article in this vein won me the **ISLE Richard M. Hogg Prize in 2015**.
-
-Another broader interest is **reproducibility and best practices in research**. I have given talks, organised workshops, and written guides on implementing best practices and sustainable workflows when dealing with language data.
-
-In 2019, I was a **Digital Champion** on behalf of the Australian Data Research Commons (ARDC) and I continue to promote the use of digital methods in HASS (Humanities, Arts and Social Sciences).
+A more recent focus of my work lies in the analysis of discourse on social media and combining linguistic methods with insights from digital media studies. Another broader interest of mine is reproducibility and best practices in research. To this end, I have given talks — such as my plenary at ICAME42 — and organized workshops to raise awareness of potentially problematic research practices.
 
 ---
 
-## Key Projects
+## Digital Humanities
 
-### Language Technology and Data Analysis Laboratory (LADAL)
+In 2019, I was a *Digital Champion* on behalf of the *Australian Data Research Commons* (ARDC) and I continue to promote the use of digital methods in HASS (Humanities, Arts and Social Sciences) by offering workshops on computational methods and giving talks about best practices in research data management and research methodology.
 
-[LADAL](https://ladal.edu.au) is an open-source support infrastructure for computational humanities research that I co-direct with Michael Haugh at the University of Queensland. Since launching analytics in January 2021, LADAL has received more than **1,100,000 page views from more than 500,000 unique users**. LADAL resources cover corpus linguistics, text analytics, statistics for linguists, and data visualisation — equivalent in scope to four traditional book publications.
-
-### Language Data Commons of Australia (LDaCA)
-
-[LDaCA](https://www.ldaca.edu.au/) aims at establishing language data infrastructures and text analytics upskilling resources in Australia. It has received substantial funding from the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/). I serve as steering committee member and Chief Investigator, focusing on LADAL-based resources and training.
-
-### VowelChartProject
-
-A project investigating vowel production by L1- and L2-speakers of English using the Bavarian Archive for Speech Signals's MAUS system and PRAAT. The project created personalised vowel charts to improve target-language proximity in second language acquisition.
+In my current role at the School of Languages and Cultures, I established the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au). LADAL is a free, open-source, collaborative support infrastructure for digital and computational humanities established in 2019 by the School of Languages and Cultures at the University of Queensland. LADAL aims at assisting anyone interested in working with language data in matters relating to data processing, visualization, and analysis and offers guidance on matters relating to language technology and digital research tools.
 
 ---
 
-## Technical Skills
+## Methodological Competencies
 
-I have very strong command of **R** — an open-source programming environment for linguistic data analysis, text mining, and sophisticated statistical modelling. I use R to retrieve, clean, process, visualise, and statistically analyse language data. I have also used **Python** for text processing and NLP tasks. My methods include:
+In terms of methodology, my research has mainly built on quantitative analyses of corpus data or computational analyses of speech. With respect to statistical analyses, I have specialized in multivariate regression models (both fixed- and random-effect models) and tree-based models (Random Forests and Boruta) which allow testing the impact that independent variables and interactions between variables have on some dependent variable. I also have substantive experience in applying exploratory classification or dimension-reduction and agglomerative methods, such as cluster analyses and Semantic Vector Space Models.
 
-- Corpus-based and computational analysis
-- Variationist sociolinguistics
-- Statistical modelling (regression, random forests, conditional inference trees)
-- Acoustic phonetics (PRAAT, MAUS)
-- Text mining and topic modelling
-- Experimental methods including web-based eye-tracking
-- Reproducible research workflows
+---
+
+## Activities in the Scientific Community
+
+I am member of various academic societies, including the International Society for the Linguistics of English (ISLE), the Societas Lingustica Europaea (SLE), and the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). I regularly present findings from my research at conferences and actively publish results in internationally visible formats. In addition, I have organized conferences targeted at both senior and junior researchers.
+
+---
+
+## Research Projects
+
+**1. Language Data Commons of Australia HASS RDC (LDaCA-RDC)**
+
+Large collections of language data have been amassed in Australia. The aim of LDaCA is to federate these efforts into a nationally integrated research infrastructure for collections of high strategic importance.
+
+- *Scheme:* HASS Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)
+- *Role:* CI & Advisory committee (Project lead: Michael Haugh)
+- *Funding period:* 2021–2029
+
+**2. Australian Text Analytics Platform (ATAP)**
+
+Text analytics in Australian research happen at either a basic, generic level or at a very specialised level with hand-crafted code. ATAP fills the space between these two possibilities. (ATAP was integrated into LDaCA in 2024.)
+
+- *Scheme:* Australian Research Data Commons (ARDC) Platforms Program
+- *Role:* CI, Steering committee & Chair of the User Advisory Group (Project lead: Michael Haugh)
+- *Funding period:* 2021–2023
+
+**3. Acquisition, Variation, and Diachronic Change of English Amplifier Systems**
+
+In this research project I focus on adjective amplification in English, addressing questions involving the acquisition of variation and how linguistic innovations diffuse through the speech community.
+
+**4. VowelChartProject**
+
+The VowelChartProject analyzed vowel formants of German, Russian, and Spanish learners of English in PRAAT to investigate where, why, and to what extent learners of English differ from native speakers with respect to vowel production and word-final devoicing.
+
+![Example vowel chart from the VowelChartProject](images/BeispielVC.png){width=50% fig-alt="Example vowel chart showing F1 and F2 frequencies"}
+
+The data for this project consists of audio recordings of German, Spanish, and Russian learners of English who produce word lists and a short story. After being recorded, students receive a personalized vowel chart depicting their F1 and F2 frequencies for English vowels alongside native speaker norms.
+
+**5. Language Documentation of Southern Low German**
+
+The project aims to create a speech corpus of one of the southernmost, as yet undocumented, varieties of Low German, Oberweserplatt, to enable the documentation of this variety shortly before extinction.
+
+**6. Discourse-Pragmatic Variation and L1-Acquisition**
+
+I continue to work on discourse pragmatic variation and socio-linguistic determinants of the use of discourse *like*, investigating at what age and in which order distinct functional variants are acquired.
+
+*(last updated 2024/04/12)*

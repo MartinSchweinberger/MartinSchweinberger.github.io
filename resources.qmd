@@ -1,0 +1,100 @@
+---
+title: "Resources"
+---
+
+## Tutorials
+
+Below are links to tutorials I created for the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au/).
+
+**DATA SCIENCE BASICS**
+
+- [Computer tips and tricks](https://ladal.edu.au/tutorials/comp/comp.html) — useful tips about working with computers, e.g. how to keep your computer running smoothly
+- [Introduction to data science](https://ladal.edu.au/tutorials/repro/repro.html) — basic concepts of data science
+- [Introduction to quantitative reasoning](https://ladal.edu.au/introquant/introquant.html)
+- [Basic concepts of quantitative research](https://ladal.edu.au/basicquant/basicquant.html) (methodology)
+
+**INTRODUCTION TO R**
+
+- [Introduction to R for beginners](https://ladal.edu.au/IntroR_workshop.html)
+- [String processing with R](https://ladal.edu.au/tutorials/string/string.html)
+- [Regular expressions in R](https://ladal.edu.au/tutorials/regex/regex.html)
+- [Working with tabulated data in R](https://ladal.edu.au/tutorials/table/table.html) — how to create, manipulate, and process tabular data
+
+**DATA VISUALIZATION**
+
+- [Introduction to data visualization with R](https://ladal.edu.au/tutorials/introviz/introviz.html)
+- [Common visualization types in R](https://ladal.edu.au/tutorials/dviz/dviz.html) — scatter plots, line graphs, bar plots, box plots, etc.
+- [Geo-spatial data visualization (mapping) with R](https://ladal.edu.au/tutorials/leaflet/leaflet.html)
+
+**STATISTICS**
+
+- [Descriptive statistics](https://ladal.edu.au/tutorials/dstats/dstats.html)
+- [Basic inferential statistics](https://ladal.edu.au/tutorials/basicstatz/basicstatz.html)
+- [Fixed- and mixed-effects regression](https://ladal.edu.au/tutorials/regression/regression.html)
+- [Tree-based models](https://ladal.edu.au/tutorials/tree/tree.html)
+- [Cluster and correspondence analysis](https://ladal.edu.au/tutorials/clust/clust.html)
+- [Semantic Vector Space models and other grouping procedures](https://ladal.edu.au/tutorials/svm/svm.html)
+
+**TEXT ANALYTICS / TEXT MINING / CORPUS LINGUISTICS**
+
+- [Text analysis and distant reading](https://ladal.edu.au/tutorials/textanalysis/textanalysis.html)
+- [Keyword-in-context concordances in R](https://ladal.edu.au/tutorials/kwics/kwics.html)
+- [Network Analysis in R](https://ladal.edu.au/tutorials/net/net.html)
+- [Co-occurrence and Collocation Analysis in R](https://ladal.edu.au/tutorials/coll/coll.html)
+- [Topic Modeling with R](https://ladal.edu.au/tutorials/topic/topic.html)
+- [Sentiment Analysis with R](https://ladal.edu.au/tutorials/sentiment/sentiment.html)
+- [Part-of-speech annotation and syntactic parsing in R](https://ladal.edu.au/tutorials/postag/postag.html) — for English, German, Spanish, Italian, and Dutch
+
+**CASE STUDIES / FOCUS TUTORIALS**
+
+- **Creating vowel charts with Praat and R**: [This LADAL tutorial](https://ladal.edu.au/tutorials/vc/vc.html) shows how to extract formant values in Praat and use these to create a vowel chart in R.
+- **Corpus Linguistics: Gender and Age Differences in Swearing**: [This LADAL tutorial](https://ladal.edu.au/tutorials/corplingr/corplingr.html) exemplifies how to perform a simple corpus analysis focusing on gender and age differences in swear word use in Irish English.
+- **PDF to txt**: [This LADAL tutorial](https://ladal.edu.au/tutorials/pdf2txt/pdf2txt.html) shows how to extract text from PDF files into txt files for further processing.
+
+---
+
+## For Students
+
+**General Notes for Students attending my Courses (Merkblatt für Seminare)**  
+You will find a document with general information about my seminars [here](http://martinschweinberger.de/docs/materials/MerkblattSeminareMS.pdf). Please read this document if you are attending or plan to attend one of my seminars! (last updated 2015/02/16)
+
+**Model term paper**  
+You will find a model term paper [here](http://martinschweinberger.de/docs/materials/ModelseminararbeitMS.docx). This model term paper includes information about the structure, content, and formatting of term papers. You can also use it as a template and use the formatting within the model. (last updated 2015/04/08)
+
+---
+
+## Programming / Software Development / Corpus Linguistics
+
+Below you can find some resources such as scripts and data sets that you may find useful.
+
+**R scripts**
+
+- Chi Squared test for subtables of 2\*k tables ([R script](http://martinschweinberger.de/docs/scripts/x2.2k.r))
+- Configural Frequency Analysis for data with only two level configurations ([R script](http://martinschweinberger.de/docs/scripts/TwoLevelCFA.r))
+- Function for downloading text from websites to create web corpora ([R script](http://martinschweinberger.de/docs/scripts/ExtractsTextFromWebpage.r))
+- Function providing nice summaries of simple linear regressions ([R script](http://martinschweinberger.de/docs/scripts/slr.summary.tb.r))
+- Function providing nice summaries of multiple linear regressions ([R script](http://martinschweinberger.de/docs/scripts/mlr.summary.r))
+- Function providing nice summaries of fixed-effects binomial logistic regressions ([R script](http://martinschweinberger.de/docs/scripts/blr.summary.r))
+- Step-wise step-up model fitting of fixed-effects binomial logistic regressions ([R script](http://martinschweinberger.de/docs/scripts/ModelFittingSummarySWSULogReg.r))
+- Step-wise step-up model fitting of mixed-effects binomial logistic regressions ([R script](http://martinschweinberger.de/docs/scripts/ModelFittingSummarySWSU.r))
+- Step-wise step-down model fitting of mixed-effects binomial logistic regressions ([R script](http://martinschweinberger.de/docs/scripts/ModelFittingSummarySWSD.r))
+
+**Biodata scripts & data sets** (last updated 2015/02/09)
+
+If you find any bugs in the code or mistakes in the results, please let me know.
+
+- ICE Canada: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-CAN.r), [result](http://martinschweinberger.de/docs/data/BiodataIceCanada.txt))
+- ICE GB-R2: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-GB.r), [result](http://martinschweinberger.de/docs/data/BiodataIceGbR2.txt))
+- ICE India: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-IND.r), [result](http://martinschweinberger.de/docs/data/BiodataIceIndia.txt))
+- ICE Ireland 1.2.2: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-IRE.r), [result](http://martinschweinberger.de/docs/data/BiodataIceIreland.txt))
+- ICE Jamaica: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-JAM.r), [result](http://martinschweinberger.de/docs/data/BiodataIceJamaica.txt))
+- ICE New Zealand: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-NZ.r), [result](http://martinschweinberger.de/docs/data/BiodataIceNewZealand.txt))
+- ICE Philippines: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-PHI.r), [result](http://martinschweinberger.de/docs/data/BiodataIcePhilippines.txt))
+- ICE Singapore: word counts ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-SG.r), [result](http://martinschweinberger.de/docs/data/BiodataIceSingapore.txt))
+- ICE Hong Kong: word counts ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-HK.r), [result](http://martinschweinberger.de/docs/data/BiodataIceHongKong.txt))
+- SBCAE: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-SBC.r), [result](http://martinschweinberger.de/docs/data/BiodataSbcae.txt))
+
+**TestCorpus**  
+[A small sample corpus](http://www.martinschweinberger.de/blog/wp-content/uploads/2012/10/TestCorpus.zip) for testing functions.
+
+*(last updated 2024/06)*

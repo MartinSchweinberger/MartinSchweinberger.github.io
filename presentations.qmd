@@ -2,61 +2,236 @@
 title: "Presentations & Talks"
 ---
 
-## Recent Presentations (2019–2025)
+## Conference & Workshop Organization
 
-18\. **2025**: Schweinberger, Martin. 11/10/2025. Vulgarity in World Englishes. Public Lecture at the University of South Australia [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/10/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx).
+**IC:** [ISLE7 (7th Meeting of the International Society for the Linguistics of English)](https://languages-cultures.uq.edu.au/isle7), Brisbane, Australia, 19–23/6/2023. International hybrid conference (with Kate Burridge & Michael Haugh)
 
-17\. **2024**: Schweinberger, Martin. 19/4/2024. F%$# Twitter – A corpus-based analysis of vulgar language on Twitter. Presentation for the Digital Fellowship Program (LDaCA, UQ).
+**CW:** *Replication and Reproducibility in English Corpus Linguistics*, workshop at [ISLE 6](https://sites.uef.fi/isle6), Joensuu, 6/2021 (with Joseph Flanagan, University of Helsinki)
 
-16\. **2022**: Haugh, Michael and Martin Schweinberger. 15/11/2022. Panel discussion: Designing user-friendly Platforms and Toolkits for Digital Humanities.
+**CW:** *Exploring Powerful Tools to Ensure Robust and Reproducible Results in Corpus Linguistics*, workshop at ICAME 42, Dortmund, 8/2021 (with Gerold Schneider, University of Zurich & Joseph Flanagan, University of Helsinki)
 
-15\. **2022**: Schweinberger, Martin. 25/10/2022. Transparency and reproducibility in Corpus Linguistics. [Sydney Corpus Lab](https://sydneycorpuslab.com/), University of Sydney [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/10/SCL_Reproducibility_Schweinberger_min-1.pdf).
+**OE:** LADAL event: *Computational Thinking in the Humanities* (9/2022, Brisbane)
 
-14\. **2021**: Schweinberger, Martin. 6/5/2021. Adjective amplification in English – determining factors of success in language change. AcqVA Aurora Centre, UiT Tromsø [(slides)](https://martinschweinberger.github.io/TreesUBonn/).
+**OE:** *LADAL Webinar Series 2022* (6 webinars on topics relating to Language Technology and Data Analysis, Brisbane 2–12/2022)
 
-13\. **2021**: Schweinberger, Martin. Plenary at ICAME42 on best practices and reproducibility in corpus linguistics.
+**OE:** LADAL *Webinar Series 2021* (LADAL opening event with 25 webinars on topics relating to Language Technology and Data Analysis, Brisbane 6–10/6/2021, with Michael Haugh)
 
-12\. **2020**: Schweinberger, Martin, Sam Hames, and Michael Haugh. 10/9/2020. Text Mining the COVID-19 discourse in the Australian Twittersphere. Data Science MeetUp, Brisbane [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2020/09/DataScienceMeetUp_COVID19_Schweinberger.pptx).
+**NC:** *17. Norddeutsches Linguistisches Kolloquium* (NLK 17), Hamburg 31/3–2/4/2016 (with Niklas Steih)
 
-11\. **2019**: Schweinberger, Martin. 18/11/2019. Language Technology and Data Analysis Laboratory (LADAL). School of Languages and Cultures' Research Day at UQ [(slides)](http://www.martinschweinberger.de/blog/wp-content/uploads/2019/11/LADAL_UQ_Schweinberger.pptx).
+**NC:** *11. Norddeutsches Linguistisches Kolloquium* (NLK 11), Hamburg 5–6/3/2010 (with Florian Dolberg & Arne Lohmann)
 
-10\. **2019**: Schweinberger, Martin. 15/11/2019. Computational Approaches to Textual Data. Digital Methods Seminar, UQ.
-
----
-
-## Earlier Presentations (2010–2018)
-
-9\. **2012**: Schweinberger, Martin and Melanie Burmeister. A corpus-based study of language internal and language external determinates of linguistic variation in Singapore English. 13. Norddeutsches Linguistisches Kolloquium (NLK), Potsdam, 25–26/3/2012.
-
-8\. **2011**: Schweinberger, Martin. Global diffusion and local implementation – the discourse particle LIKE around the world. Symposium Sprachwandel/Language Change. Munich, 13–15/7/2011.
-
-7\. **2011**: Schweinberger, Martin. The Local Spread of Globally Available Innovations: the discourse marker LIKE around the world. LCTG3, Greifswald, 30/6–2/7/2011.
-
-6\. **2010**: Schweinberger, Martin. Epistemic Modality and Discourse Markers. ModE4, Madrid, 9–11/9/2010.
-
-5\. **2018**: Schweinberger, Martin. VowelChartProject – Erstellung personalisierter Vokaltrapeze. Campusfest Universität Kassel, 07/6/2018. (poster)
-
-4\. **2017**: Schweinberger, Martin and Sandra Gerspacher. VowelChartProject. Profale Congress 2017, Hamburg, 21–23/09/2017. (poster)
-
-3\. **2017**: Schweinberger, Martin et al. VowelChartProject. CuTLi 2017, Current Trends in Linguistics 2017.
-
-2\. **2016**: Schweinberger, Martin. Gender Differences in Emotion Language. Poster, Universität Kassel, 21/11/2016.
-
-1\. **2016**: Schweinberger, Martin. Using Sentiment Analysis to Investigate the Social Stratification of Emotives in Irish English. ST & D 2016, Kassel, 18–20/7/2016.
+(IC: International Conference, NC: National Conference, CW: Conference Workshop, OE: Online Event)
 
 ---
 
-## Workshops Taught
+## Plenary
 
-**Rheinische Friedrich-Wilhelms-Universität Bonn**
+2021: Schweinberger, Martin. *Corpus Linguistics, Language Data Science, and Computational Linguistics – building bridges or splitting apart?* [ICAME 42 (42nd Meeting of the International Computer Archive of Modern and Medieval English)](http://icame42.englisch.tu-dortmund.de/). Dortmund, Germany, 18–21/8/2021. [[slides]](http://www.martinschweinberger.de/blog/wp-content/uploads/2021/08/ICAME42_Plenary_Schweinberger-3.pdf)
 
-- 19/1/2023: Workshop on Conditional Inference Trees in R [(workshop materials)](https://martinschweinberger.github.io/TreesUBonn/)
+---
 
-**Leibniz Universität Hannover**
+## Conference Presentations (Talks)
 
-- 12/10/2015: AntConc & Excel
-- 17/10/2015: Statistik für Linguisten
+42\. 2025: Schweinberger, Martin. Vulgarity in spoken interaction across selected varieties of English. [Forum on Englishes in Australia](https://sites.google.com/view/auseng/home). Melbourne, 7/11/2025. [[slides]](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/VulgarityAroundTheWorld_FoEiA2025.pptx)
 
-**Johannes Gutenberg-Universität Mainz**
+41\. 2025: Schweinberger, Martin. Standardizing Corpora: Why and How? [Forum on Englishes in Australia](https://sites.google.com/view/auseng/home). Melbourne, 7/11/2025. [[slides]](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/Data%20Formats_FoEiA2025.pptx)
 
-- 01/04–02/04/2015: Statistik für Linguisten
+40\. 2025: Schweinberger, Martin. Vulgarity in spoken interaction across selected varieties of English. [ICAME 46 (46th Meeting of the International Computer Archive of Modern and Medieval English)](https://www.icame46.flf.vu.lt/). Vilnius, Lithuania, 17–21/8/2025.
+
+39\. 2024: Schweinberger, Martin and Chang-Hao Luo. Automated, Corpus-and Usage-Based Semantic Classification of Word Class using Word Embeddings. [ICAME 45](https://icame45.webs.uvigo.es/). Vigo, Spain, 18–21/8/2024. [[slides]](https://github.com/MartinSchweinberger/ICAME45/blob/main/ICAME45_Schweinberger_Luo.pdf?raw=true)
+
+38\. 2023: Schweinberger, Martin, Fatemi, Masoud, Hames, Sam, Haugh, Michael, Laitinen, Mikko, Rautionaho, Paula, and Takahashi, Marissa. Who swears most – and in what social settings? ISLE7, Brisbane, Australia, 19–23/6/2023.
+
+37\. 2023: Schweinberger, Martin & Ruihua Yin. A corpus-based acoustic analysis of vowel production by L1-Chinese learners and native speakers of English. ISLE7, Brisbane, Australia, 19–23/6/2023.
+
+36\. 2023: Schweinberger, Martin & Ruihua Yin. A corpus-based acoustic analysis of vowel production by L1-Chinese learners and native speakers of English. ICAME44, North-West University, South Africa, 17–21/5/2023.
+
+35\. 2022: Schweinberger, Martin & Yuki Komiya. *A corpus-based acoustic analysis of vowel production by L1-Japanese learners and native speakers of English*. ICAME 43. Dortmund, Germany, 2022. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/09/AnalyzingL2Speech_KomiyaSchweinberger_20220728.pdf))
+
+34\. 2021: Schweinberger, Martin. *The Language Technology and Data Analysis Laboratory (LADAL)*. [ICAME 42](http://icame42.englisch.tu-dortmund.de/). Dortmund, Germany, 18–21/8/2021. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2021/08/ICAME42_LADAL_Schweinberger.pdf))
+
+33\. 2021: Schweinberger, Martin. *On the waning of forms — a corpus-based analysis of losers in language change*. ISLE 6. University of Eastern Finland, Joensuu, 2–5/6/2021. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2021/05/schweinberger_acqvalunch_20210505.pdf), [video](https://www.youtube.com/watch?v=u3dcBVMkRBU&t=712s))
+
+32\. 2020: Schweinberger, Martin, Michael Haugh & Sam Hames. Text Mining the COVID-19 discourse in the Australian Twittersphere. [ALS 2020](https://als.asn.au/Conference/Conference2020). Online, 14–15/12/2020. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2020/11/schweinberger-ppt-ALS2020-2020-12-14.pdf), [video](https://www.youtube.com/watch?v=d3Qjj5o-kH4))
+
+31\. 2020: Schweinberger, Martin. *A corpus-based analysis of ongoing change in the adjective amplifier systems of Hong Kong, Indian, and Philippine English*. [JAECS 2020](http://jaecs.com/). Online, 3–4/10/2020. ([slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-jaecs2020-2020-10-3-4.pdf), [video](https://www.youtube.com/watch?v=W8GDJ38_y7E))
+
+30\. 2020: Schweinberger, Martin. *Best Practices in Corpus Linguistics – What lessons should we take from the Replication Crisis?* [ICAME 41](https://icame41.as.uni-heidelberg.de/). Heidelberg, Germany, 20–24/5/2020. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-heidelberg-2020-05-21.pdf), [video](https://www.youtube.com/watch?v=e8RYWQ5ATd0&t=32s))
+
+29\. 2020: Schweinberger, Martin. *Analyzing historical changes in Irish English adjective amplification*. NPIE 6. Wien, Austria, 19/2/2020. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger_ppt_wien_2020-02-19.pdf))
+
+28\. 2019: Schweinberger, Martin. *The Replication Crisis and HASS. How Best Practices can Assist in Producing Reliable Research*. [Open Data Forum](https://web.library.uq.edu.au/blog/2019/10/open-access-week-join-discussion). UQ, 21/10/2019. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-brisbane-2019-10-21.pdf))
+
+27\. 2019: Haugh, Michael & Martin Schweinberger. *Language Technology and Data Analysis Laboratory (LADAL)*. [Research Capabilities Showcase](https://research.uq.edu.au/research-capabilities-showcase). UQ, Brisbane, 20/09/2019. ([slides](http://martinschweinberger.de/docs/ppt/RCShowcase2019_Haugh_Schweinberger_20190920.pptx))
+
+26\. 2019: Haugh, Michael & Martin Schweinberger. *Implementing school-based support infrastructure for digital humanities research at UQ. LADAL*. ARDC: [The Australian eResearch Skilled Workforce Summit](https://ardc.edu.au/events/the-australian-eresearch-skilled-workforce-summit/). Sydney, 29–30/7/2019. ([slides](http://martinschweinberger.de/docs/ppt/HaughSchweinberger_eResearchSummit_20190730.pptx))
+
+25\. 2019: Schweinberger, Martin. *A corpus-based analysis of ongoing changes in the Australian English amplifier system*. [Forum on Englishes in Australia](https://sites.google.com/view/auseng/home). Melbourne, 29–30/07/2019. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-melbourne-2019-07-26.pdf))
+
+24\. 2019: Schweinberger, Martin. *Corpus-based evidence for a cognitive mechanism underlying lexical replacement*. [ICAME 40](https://icame40.ch/). Neuchâtel, Switzerland, 2–3/6/2019. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-neuchatel-2019-05-30.pdf))
+
+23\. 2019: Schweinberger, Martin. *Using R for Corpus Linguistics — an Introduction and Discussion Note on Sustainability and Replicability in Corpus Linguistics*. CoEDL corpus workshop. Melbourne, 2–3/4/2019.
+
+22\. 2018: Schweinberger, Martin. *A corpus-based analysis of ongoing changes in the Australian English amplifier system*. [ALS 2018](https://als.asn.au/Conference/Conference-2018/Conference-2018). Adelaide, 10–12/12/2018. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-adelaide-2018-12-10.pdf))
+
+21\. 2018: Schweinberger, Martin. *A Corpus-Based Analysis of the L1-Acquisition of Amplifiers in American English*. [ISLE 5](http://www.ucl.ac.uk/english-usage/isle5/). London, 17–20/7/2018. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-london-2018-07-18.pdf))
+
+20\. 2018: Schweinberger, Martin. *Analyzing diachronic change in the American English amplifier system*. [ICAME 39](https://events.uta.fi/icame2018/). Tampere, Finland, 30/5–3/6/2018. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-tampere-2018-05-30.pdf))
+
+19\. 2018: Schweinberger, Martin. *The Sociolinguistics of Emotional Language — Emotive Use in Irish English*. NPIE 5. Potsdam, 25–27/4/2018. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-potsdam-2018-04-27.pdf))
+
+18\. 2017: Schweinberger, Martin. *Using Semantic Vector Space Models to investigate lexical replacement*. [METHODS XVI](http://pj.ninjal.ac.jp/Methodsxvi/). Tokyo, 7–11/8/2017. ([draft slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-tokyo-2017-08-10_draft.pdf))
+
+17\. 2017: Schweinberger, Martin. *Modelling intensification in New Zealand English data*. [Methods in Dialectology XVI](http://pj.ninjal.ac.jp/Methodsxvi/). Tokyo, 7–11/08/2017. ([slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-tokyo-2017-08-10.pdf))
+
+16\. 2017: Schweinberger, Martin. *Using intensifier-adjective collocations to determine mechanisms of change*. [ICAME 38](https://icame.ff.cuni.cz/). Prague, 24–28/5/2017. ([slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-prague-2017-05-27.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersIreNze20170526.r), [NZE data](http://martinschweinberger.de/docs/data/datanze.txt), [IrE data](http://martinschweinberger.de/docs/data/dataire.txt))
+
+15\. 2016: Schweinberger, Martin. *Ongoing change in the New Zealand English Intensifier System*. ISLE 4. Poznań, Poland, 18–21/9/2016. ([slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-poznan-2016-09-20.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersNZE_2016-09-20_ISLE.r))
+
+14\. 2016: Schweinberger, Martin. *Ongoing Changes in the Irish Intensifier System*. NPIE4. Bergen, 5–7/7/2016. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-bergen-2016-07-05.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersIrE_2016-07-02.r))
+
+13\. 2016: Schweinberger, Martin. *On the Acquisition of Intensifier Constructions*. 17. NLK, Hamburg, 31/3–2/4/2016. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-hamburg-2016-04-02.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntAcq_20160331.r))
+
+12\. 2015: Schweinberger, Martin. *Why We Need Better Statistics – A Case Study on eh in New Zealand English*. 16. NLK. Leibniz Universität Hannover, 26–28/3/2015. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-hannover-2015-03-27.pdf), [R script](http://martinschweinberger.de/docs/scripts/EHinNZENLK2015.r))
+
+11\. 2012: Schweinberger, Martin. *Global diffusion and local implementation – the discourse particle LIKE around the world*. ICAME 33. Leuven, Belgium, 26/5–3/6/2012. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-leuven-2012-06-02.pdf))
+
+10\. 2012: Siemund, Peter, Monika Edith Schulz & Martin Schweinberger. *How multilingual are Singaporeans really?* English in Asia's Languages Habitats and Europe's Asia Competence. Berlin, 9–12/5/2012.
+
+9\. 2012: Schweinberger, Martin. *A corpus-based study of language internal and language external determinates of linguistic variation in Singapore English — a pilot study*. 13. NLK. Potsdam, 25–26/3/2012. (with Melanie Burmeister)
+
+8\. 2011: Schweinberger, Martin. *Global diffusion and local implementation – the discourse particle LIKE around the world*. Symposium Sprachwandel/Language Change. Munich, 13–15/7/2011. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-munich-2011-07-14.pdf))
+
+7\. 2011: Schweinberger, Martin. *The Local Spread of Globally Available Innovations: the discourse marker LIKE around the world*. LCTG3. Greifswald, 30/6–2/7/2011. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-greifswald-2011-07-01.pdf))
+
+6\. 2010: Schweinberger, Martin. *Epistemic Modality and Discourse Markers*. ModE4. Madrid, 9–11/9/2010. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-madrid-2010-09-06.pdf))
+
+5\. 2010: Schweinberger, Martin. *New perspectives on the discourse marker LIKE*. IVACS 5. Edinburgh, 18–19/6/2010.
+
+4\. 2010: Schweinberger, Martin. *What's this, LIKE, all about?* ICAME 31. Gießen, 26–30/5/2010. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-giessen-2010-05-28.pdf))
+
+3\. 2010: Schweinberger, Martin. *Revisiting LIKE*. NPIE 1. Dublin, 11–13/3/2010.
+
+2\. 2010: Schweinberger, Martin. *Rethinking the classification of high frequency discourse markers*. 11. NLK. Hamburg, 5–6/3/2010.
+
+1\. 2009: Schweinberger, Martin. *And he's like, is LIKE like LIKE, like?* 10. NLK. Greifswald, 13–14/3/2009.
+
+---
+
+## Conference Presentations (Posters)
+
+6\. 2021: Schweinberger, Martin. *Best Practices in Corpus Linguistics*. [ISLE 6](https://www.isle-linguistics.org/activities/isle-conference/). Joensuu, Finland, 2–5/6/2021. ([poster](http://www.martinschweinberger.de/blog/wp-content/uploads/2021/05/ISLE2021_BestPractices_Schweinberger_20210423.pdf), [video](https://www.youtube.com/watch?v=z_9bfY-qYvU))
+
+5\. 2018: Schweinberger, Martin. *VowelChartProject – Erstellung personalisierter Vokaltrapeze*. [Campusfest Universität Kassel](https://www.uni-kassel.de/veranstaltung/2018/campusfest-2018/campusfest-im-campus-center.html). Kassel, 07/6/2018. ([poster](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-kassel-2018-06-07.pdf))
+
+4\. 2017: Schweinberger, Martin & Sandra Gerspacher. *VowelChartProject*. Profale Congress 2017. Hamburg, 21–23/09/2017. ([poster](http://martinschweinberger.de/docs/ppt/schweinberger-poster-hamburg-2017-01-21.pdf))
+
+3\. 2017: Schweinberger, Martin, Nina Stedman, Jelena Buzuk, Sabrina Sarkodie-Gyan, Naomi Boye & Sandra Gerspacher. *VowelChartProject*. CuTLi 2017. Hamburg, 21–22/1/2017.
+
+2\. 2016: Schweinberger, Martin. *Gender Differences in Emotion Language*. Submission for "Posterpreis der Universitätsgesellschaft e.V." 2016. Kassel, 21/11/2016. ([poster](http://martinschweinberger.de/docs/ppt/schweinberger-poster-kassel-2016-11-21.pdf))
+
+1\. 2016: Schweinberger, Martin. *Using Sentiment Analysis to Investigate the Social Stratification of Emotives in Irish English*. ST & D 2016. Kassel, 18–20/7/2016. ([poster](http://martinschweinberger.de/docs/ppt/schweinberger-poster-kassel-2016-07-18.pdf), [R script](http://martinschweinberger.de/docs/scripts/SentimentIrE_2016-07-05.r))
+
+---
+
+## Public Lectures / Panels / Webinars
+
+19\. 2026: Schweinberger, Martin. 17/3/2026. Some suggestions to improve reproducibility and transparency in data-intensive corpus linguistics. Book Launch: *Data-Intensive Investigations of English* (ISLE Online Forum, Hybrid event).
+
+18\. 2025: Schweinberger, Martin. 11/10/2025. *Vulgarity in World Englishes*. Public Lecture at the University of South Australia ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/10/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx)).
+
+17\. 2024: Schweinberger, Martin. 19/4/2024. *F%$# Twitter — A corpus-based analysis of vulgar language on Twitter*. Presentation for the Digital Fellowship Program (LDaCA, UQ).
+
+16\. 2022: Haugh, Michael and Martin Schweinberger. 15/11/2022. Panel discussion: Designing user-friendly Platforms and Toolkits for Digital Humanities. [*Building Digital Humanities 2022*](https://web.cvent.com/event/811e389e-78de-46cd-877d-b20b9ae9ed85/summary), Western Sydney University. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/11/DigitalPlatforms_HaughSchweinberger.pdf))
+
+15\. 2022: Schweinberger, Martin. 25/10/2022. From the darkness to the light: reproducibility, replication and transparency in Corpus Linguistics? *Sydney Corpus Lab Webinar*, the University of Sydney. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/10/SCL_Reproducibility_Schweinberger_min-1.pdf))
+
+14\. 2022: Schweinberger, Martin. 1/9/2022. Advantages and Challenges of Computational Thinking in the Humanities. *Computational Thinking in the Humanities* at UQ. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/09/Schweinberger_Lightning_20220829.pdf))
+
+13\. 2021: Schweinberger, Martin. 12/11/2021. An evaluation of computational, corpus-based approaches to language learning. *International Perspectives on Corpus Technology for Language Learning* at UQ. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2021/11/Schweinberger2021CorpusTechnologyForLanguageLearning.pdf))
+
+12\. 2021: Schweinberger, Martin. 6/5/2021. Adjective amplification in English — determining factors of success in language change. AcqVA Aurora center, Arctic University of Norway, Tromsø. ([slides](http://www.martinschweinberger.de/blog/schweinberger_acqvalunch_20210505/))
+
+11\. 2020: Schweinberger, Martin, Sam Hames, and Michael Haugh. 10/9/2020. Text Mining the COVID-19 discourse in the Australian Twittersphere. [Data Science MeetUp, Brisbane](https://www.meetup.com/de-DE/Brisbane-Data-Science-Meetup/). ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-brisbane-2020-09-10.pdf))
+
+10\. 2019: Schweinberger, Martin. 18/11/2019. *LADAL — School-based support infrastructure for digital humanities research*. School of Languages and Cultures' Research Day at UQ. ([slides](http://martinschweinberger.de/docs/ppt/ResearchDay_Schweinberger_LADAL_20191118.pdf))
+
+9\. 2019: Schweinberger, Martin. 15/11/2019. *Computational Approaches to Textual Data*. Digital Methods Seminar at UQ. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-brisbane-2019-11-01.pdf))
+
+8\. 2019: Haugh, Michael & Martin Schweinberger. 30/10/2019. *Implementing school-based support infrastructure for digital humanities research at UQ. LADAL*. ARDC webinar. ([slides](http://martinschweinberger.de/docs/ppt/HaughSchweinberger_ARDC_Webinar_20191029.ppt); [video](https://www.youtube.com/watch?v=qJi6GIO3qms&feature=youtu.be))
+
+7\. 2019: [Open Data Forum](https://web.library.uq.edu.au/blog/2019/10/open-access-week-join-discussion). Panel discussion about Open Data plus lightning talk about *Open Science and the Replication Crisis* at UQ, 21/10/2019. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-brisbane-2019-10-21.pdf))
+
+6\. 2019: Schweinberger, Martin. 2019. *Absolutely fantastic! Adjective amplification in English*. [Linguistics Seminar Series, School of Languages and Cultures at UQ](https://languages-cultures.uq.edu.au/event/2813/linguistics-seminar-series), 19/9/2019. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-brisbane-2019-09-19.pdf))
+
+5\. 2019: Schweinberger, Martin. 28/8/2019. *Best Practices in and a Practical Introduction to Text Analysis*. TINKER Webinar streamed from UQ. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-tinker-2019-08-28.pdf))
+
+4\. 2018: Schweinberger, Martin. 16/1/2018. *Methoden linguistischer Datenanalyse: Quantitativ-statistische Modellierung sprachlicher Variation*. [*Empirieformate in der linguistischen Forschung*](https://www.slm.uni-hamburg.de/ifuu/ressourcen/ringvorlesung-empirieformate-in-der-ling-forschung-wise-20172018.pdf), UHH. ([slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-hamburg-2018-01-16.pdf))
+
+3\. 2016: Schweinberger, Martin. 23/2/2016. *Können Bienen Sprechen?* Unitag UHH. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-hamburg-2016-02-23.pdf))
+
+2\. 2010: Dolberg, Florian, Martin Schweinberger, Svea Gertrud Svoboda & Anja Wilken. 20/5/2010. *Killing Metaphors — Analyzing conceptual metaphors in current political debates on military interventions*. Ringvorlesung: Politik und Ästhetik, UHH.
+
+1\. 2009: Schweinberger, Martin & Florian Dolberg. 2009. *Wie kam der Mensch zur Sprache? Oder: Können Bienen sprechen?* Open Uni UHH, 13/6/2009.
+
+---
+
+## Invited Talks
+
+14\. 2025: Schweinberger, Martin. 18/12/2025. Vulgarity in World Englishes. LMU Munich (invitation by Stephanie Hackert) ([slides](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx)).
+
+13\. 2025: Schweinberger, Martin. 27/1/2025. Indigenous Australian Languages — Linguistic Features, Revitalization Efforts, and Research Infrastructure for Archiving and Accessibility. University of Hamburg (invitation by Hannah Wegener) ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2025/01/Schweinberger_UHH_LanguagesAustralia_LDaCA.pptx)).
+
+12\. 2024: Schweinberger, Martin. *Vulgarity in Online Discourse across the English-Speaking World*. University of Bonn, 25/11/2024 (invitation by Svenja Kranich) ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2024/11/UBonn_Vulgarity_Schweinberger_20241125.pptx)).
+
+11\. 2024: Schweinberger, Martin. *Computational and empirical analyses of vowels produced by learners of English*. University of Zurich (LiRI), 30/1/2024 (invitation by Gerold Schneider & Volker Delwo).
+
+10\. 2024: Schweinberger, Martin. *LDaCA and LADAL – Building a computational humanities infrastructure in Australia*. University of Zurich (LiRI), 31/1/2024 (invitation by Gerold Schneider & Volker Delwo).
+
+9\. 2023: Schweinberger, Martin. *F\%\$\# Twitter. A corpus-based analysis of vulgar language on Twitter*. University of Bayreuth, 18/7/2023 (invitation by Markus Bieswanger).
+
+8\. 2023: Schweinberger, Martin. *Reproducibility in corpus-based computational analyses of learner speech.* University of Hamburg, 13/01/2023 (invitation by Peter Siemund) ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2023/01/ReproL2_UHH_Schweinberger.pdf)).
+
+7\. 2022: Schweinberger, Martin. *From the darkness to the light: reproducibility, replication and transparency in Corpus Linguistics?* Sydney Corpus Lab, University of Sydney, 25/10/2022 (invitation by Monika Bednarek) ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2022/10/SCL_Reproducibility_Schweinberger_min-1.pdf)).
+
+6\. 2021: Schweinberger, Martin. An evaluation of computational, corpus-based approaches to language learning. International Perspectives on Corpus Technology for Language Learning, 12/11/2021 (invitation by Peter Crosthwaite).
+
+5\. 2020: Schweinberger, Martin. Establishing LADAL: experiences, challenges, and future directions. University of Eastern Finland, 25/11/2020 (invitation by Mikko Laitinen) ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2020/11/LADAL_experiences_20201125_compressed.pdf)).
+
+4\. 2019: Schweinberger, Martin. *Absolutely fantastic! Adjective amplification in English*. Linguistics Seminar Series, UQ, 19/9/2019 (invitation by Lara Weinglass).
+
+3\. 2017: Schweinberger, Martin, Nina Stedman, Jelena Buzuk, Sabrina Sarkodie-Gyan, Naomi Boye & Sandra Gerspacher. *Assessing differences in the English vocalic systems of L1-German learners and native speakers of English*. CuTLi 2017. UHH, 21–22/1/2017 (invitation by Prof. Dr. Peter Siemund).
+
+2\. 2012: Schweinberger, Martin. *LIKE in Irish English and around the World*. Leuphana Universität Lüneburg, 4/12/2012 (invitation by Prof. Dr. Anne Barron) ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-luneburg-2012-12-03.pdf)).
+
+1\. 2009: Schweinberger, Martin. *Is his like like her like?* Universität Flensburg, 13/5/2009 (invitation by Prof. Dr. Markus Bieswanger).
+
+---
+
+## (Invited) Application Talks
+
+12\. 2026: Schweinberger, Martin. *Vulgarity in spoken interaction across selected varieties of English*. Universität Hildesheim, Germany, 19/1/2026.
+
+11\. 2024: Schweinberger, Martin. *Using machine-learning to analyse English vowels produced by Chinese learners of English*. Universität Hildesheim, Germany, 11/4/2024.
+
+10\. 2023: Schweinberger, Martin. *English(es) on the Move: What we can learn about language change from variation in amplifier use*. Universität Innsbruck, Austria, 16/12/2023. ([slides](http://www.martinschweinberger.de/blog/wp-content/uploads/2023/12/AdjAmp_Schweinberger_Innsbruck.pptx))
+
+9\. 2023: Schweinberger, Martin. *Pushing the boundaries — analysing English vowel production among Chinese learners of English*. Universität Freiburg, Germany, 14/7/2023.
+
+8\. 2022: Schweinberger, Martin. *Analysing Learner Speech and Resulting Applications for EFL Classrooms*. Universität Kiel, Germany, 13/6/2022.
+
+7\. 2017: Schweinberger, Martin. *Acquisition, Variation, and Diachronic Development of Intensification in English*. Universität Innsbruck, Austria, 4/9/2017.
+
+6\. 2017: Schweinberger, Martin. *Defining English as a Global Language*. University of Helsinki, Finland, 8/5/2017.
+
+5\. 2016: Schweinberger, Martin. *What is my vision for research-led teaching in Corpus Linguistics at Undergraduate level?* University College Dublin, Ireland, 14/12/2016.
+
+4\. 2016: Schweinberger, Martin. *Very good, really great, absolutely amazing — Sociolinguistic Variation in New Zealand's Intensifier System*. Universität Erlangen-Nürnberg, Germany, 20/7/2016. ([slides](http://www.martinschweinberger.de/docs/ppt/schweinberger-ppt-erlangen-2016-07-20.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersNZE_2016-07-20.r))
+
+3\. 2013: Schweinberger, Martin. *The effect of Singapore's language policy on multilingualism in Singapore*. Universität Köln, Germany, 16/4/2013. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-koeln-2013-04-16.pdf))
+
+2\. 2012: Schweinberger, Martin. *Particles and Priming – Combining Socio- and Psycholinguistic Determinants of Variation*. Universität Mainz, Germany, 23/10/2012. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-mainz-2012-10-24.pdf))
+
+1\. 2012: Schweinberger, Martin. *Women always in the lead of change?* Universität Düsseldorf, Germany, 16/4/2012. ([slides](http://martinschweinberger.de/docs/ppt/schweinberger-ppt-duesseldorf-2012-06-02.pdf))
+
+*(last updated 2026/05)*

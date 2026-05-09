@@ -1,16 +1,121 @@
 ---
-title: "Awards, Prizes & Funding"
+title: "Awards & Funding"
 ---
 
-## Awards & Prizes
+## Awards
 
-- **2015**: ISLE Richard M. Hogg Prize — awarded for the best article published in the *International Journal of English Linguistics* that year, for research on discourse particle LIKE and its correlation with social and psycholinguistic factors.
+- ISLE 2015 [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize)
+- 2019 [HASS Digital Champion](https://ardc.edu.au/project/humanities-arts-and-social-sciences/) on behalf of the *Australian Research Data Commons* ([ARDC](https://ardc.edu.au/))
+- Nominee 2024 Conduct of Research, Reproducibility & Open Research Practices (UQ)
+- Nominee 2025 [UQ Research Culture Awards 2025 — Responsible Research Practices](https://research-support.uq.edu.au/uq-research-culture-awards-2025) (nominated by HASS Associate Dean-Research both as an individual researcher and with LADAL)
 
 ---
 
-## Funding & Grants
+## Funding
 
-- Chief Investigator, [Language Data Commons of Australia (LDaCA)](https://www.ldaca.edu.au/) — funded by the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/)
-- **2019**: Digital Champion, Australian Data Research Commons (ARDC)
+I have substantively contributed to and/or taken a relevant role in the grant applications of the following scientific projects.
 
-*(This page will be updated with further funding details.)*
+### Successful Applications: Competitive Schemes
+
+**[Language Data Commons of Australia HASS RDC (LDaCA-RDC)](https://www.ldaca.edu.au/)**  
+Scheme: Humanities, Arts and Social Sciences (HASS) Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)  
+Role: Advisory committee & CI (Project lead: Michael Haugh)  
+Collaborators: Various Australian & international stakeholders (researchers and institutions, e.g. universities, First Languages Australia, etc.)  
+Funding period: 2021–2029 (phase I: 2021–2023, phase II: 2024–2029)
+
+In Australia, large language data collections exist, some housed in well-established archives (such as Trove), but many stored in short-lived repositories. LDaCA aims to consolidate these efforts into a nationally integrated research infrastructure. It aims to: (1) establish a governance board representing key stakeholders, (2) develop a comprehensive policy framework for access to language data, (3) create a shared technical infrastructure across institutions, (4) develop a portal for the discovery and access to language data, and (5) engage researchers and communities to secure and make accessible Australia's linguistic heritage.
+
+**[Australian Text Analytics Platform (ATAP)](https://www.atap.edu.au/)**  
+Scheme: Australian Research Data Commons (ARDC) Platforms Program  
+Role: Steering committee & CI & Chair of the User Advisory Group (Project lead: Michael Haugh)  
+Collaborators: Various Australian & international stakeholders  
+Funding period: 2021–2023  
+(ATAP has been integrated into LDaCA as of 2024.)
+
+Text analysis in Australian research is conducted either at a basic, generic level or at a highly specialized level with custom code. ATAP aimed to fill the gap between these two approaches, developing an integrated, notebook-based platform for processing and extracting text data.
+
+---
+
+### Applications Submitted: Competitive Schemes (decision pending)
+
+**Social Network Analysis and related Research (SoNAR)**  
+Scheme: Deutsche Forschungsgesellschaft (DFG)  
+Role: International Collaborator (lead: Gerhard Müller)  
+Collaborators: Various German Libraries and universities & international stakeholders  
+LOI submitted 9/2024
+
+---
+
+### Successful Applications as Project Lead
+
+**Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**  
+Volume: 15,075.88 AUD  
+Funding body: Digital Cultures and Societies Hub (UQ)  
+Role: Project lead  
+Collaborators: Marissa Takahashi (QUT/Australian Digital Observatory), Mikko Laitinen (University of Eastern Finland), Paula Rautionaho (University of Eastern Finland), Michael Haugh (UQ), Sam Hames (UQ)  
+Duration: 8/2022 – 7/2023
+
+This project empirically assesses the assumption that Australians swear frequently by comparing Twitter data from Australia, the UK, and the US. It develops a prototype using computational methods to clean Twitter data, detect and extract swear words, and analyze their frequency and usage contexts.
+
+**[VowelChartProject](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html)**  
+Volume: 77,860 € (3rd phase: 42,960 €, 2nd phase: 22,900 €, 1st phase: 12,000 €)  
+Funding body: BMBF (via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH)  
+Role: Project lead & Principal Investigator (PI)  
+Duration: 9/2016 – 9/2018
+
+The VowelChartProject extracted vowel formants from German, Russian, and Spanish learners of English using PRAAT and R to investigate where, why, and to what extent English learners differ from native English speakers in vowel production and word-final devoicing. Students received personalized vowel charts and written feedback after participating.
+
+---
+
+### Applications Successful: Non-Competitive Schemes
+
+*[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)*  
+Volume: 27,048.18 AU$  
+Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)  
+Role: Project lead & CI  
+Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)
+
+*Bad Language and Vulgarity Online and in Public Discourse*  
+Volume: 3,000 AU$  
+Funding body: School of Languages and Cultures Research Support Scheme (UQ)  
+Role: Project lead & CI  
+Collaborators: Prof. Dr. Svenja Kranich, University of Bonn  
+Duration: 9/2024 – 12/2024
+
+*Automated, corpus- and usage-based semantic classification of adjectives*  
+Volume: 3,000 AU$  
+Funding body: School of Languages and Cultures Research Support Scheme (UQ)  
+Role: Project lead & CI  
+Collaborators: Chang-Hao Luo  
+Duration: 11/2023 – 3/2025
+
+*Acquisition, Variation, and Diachronic Change of English Amplifier Systems*  
+Volume: 5,440 AU$  
+Funding body: School of Languages and Cultures/Targeted Research Support Scheme (UQ)  
+Role: Project lead, Principal Investigator (PI)  
+Duration: 6/2020 – ongoing (funding until 12/2021)
+
+*Dimensions of Intensification*  
+Volume: 3,000 €  
+Funding body: Zentrale Forschungsförderung ([ZFF](http://www.uni-kassel.de/uni/?zff)), UKS  
+Role: PI (Project lead: Holden Härtl)  
+Duration: 3/2018 – ongoing
+
+*Travel costs recompensation acquired from external sources*  
+Volume: 2,162.26 €  
+Funding bodies: *International Society for the Linguistics of English*, *GlaxoSmithKline Stiftung*, *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*
+
+*Conference organization support acquired from external sources*  
+Volume: 1,150 €  
+Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*, *Society for the Promotion of Academic Inter-Cultural Activities e.V.*
+
+---
+
+### Applications Unsuccessful: Competitive Schemes
+
+*ARC Center of Excellence for the Future of Language*  
+Scheme: Australian Research Council (ARC)  
+Role: CI (Project lead: Nick Enfield)  
+Collaborators: Various Australian & international stakeholders
+
+*(last updated 2024/09/20)*
