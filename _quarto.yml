@@ -124,13 +124,14 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header: page-header.html
     toc: true
-    toc-depth: 3             # show h2 and h3 in TOC — h4 is too granular
-    toc-expand: 2            # auto-expand TOC to depth 2 on load
+    toc-depth: 3
+    toc-expand: 2
     toc-title: "On this page"
-    number-sections: false   # no section numbers — this is a personal site not a textbook
+    number-sections: false
     smooth-scroll: true
-    anchor-sections: true    # clickable ¶ anchors on hover — handy for sharing sections
+    anchor-sections: true
     code-fold: false
     fig-align: left
     fig-cap-location: bottom

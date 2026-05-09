@@ -58,4 +58,5 @@ title: "Education & Positions"
 **Abbreviations:**  
 FUB = Freie Universität Berlin · EMA = Ernst-Moritz-Arndt-Universität Greifswald · LUL = Leuphana Universität Lüneburg · UHH = Universität Hamburg · UKS = Universität Kassel · UQ = The University of Queensland, Australia · UiT = UiT The Arctic University of Norway
 
-*(last updated 2024/03/02)*
+---
+

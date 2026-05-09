@@ -1,6 +1,41 @@
 ---
-title: "Awards & Funding"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Recognition &amp; support</p>
+    <h1 class="pg-title">Awards &amp; Funding</h1>
+    <p class="pg-subtitle">AU$16M+ competitive funding &nbsp;·&nbsp; ISLE Richard M. Hogg Prize &nbsp;·&nbsp; ARDC HASS Digital Champion</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">LDaCA</span>
+      <span class="pg-hbadge">ATAP</span>
+      <span class="pg-hbadge">VowelChartProject</span>
+    </div>
+  </div>
+</div>
+
+<div class="stat-cards">
+  <div class="stat-card">
+    <span class="stat-card-num">AU$16M+</span>
+    <span class="stat-card-label">Competitive funding</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-card-num">AU$32K+</span>
+    <span class="stat-card-label">Non-competitive grants</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-card-num">6</span>
+    <span class="stat-card-label">Funded projects (lead)</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-card-num">2015</span>
+    <span class="stat-card-label">ISLE Hogg Prize</span>
+  </div>
+</div>
+```
+
 
 ## Awards
 

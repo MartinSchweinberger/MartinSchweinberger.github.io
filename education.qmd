@@ -1,6 +1,22 @@
 ---
-title: "Education & Positions"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Career history</p>
+    <h1 class="pg-title">Education &amp; Positions</h1>
+    <p class="pg-subtitle">PhD (magna cum laude) &nbsp;·&nbsp; MA 1.1 &nbsp;·&nbsp; 17+ years in higher education across Australia, Germany, and Norway</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">University of Queensland</span>
+      <span class="pg-hbadge">UiT Arctic University of Norway</span>
+      <span class="pg-hbadge">Universität Hamburg</span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## Education
 
@@ -28,6 +44,8 @@ Additional minor: Psychology
 ---
 
 ## Positions
+
+**Since 1/2026** Director of Research, School of Languages and Cultures, [University of Queensland](https://www.uq.edu.au/) — strategic coordination of research activities, CI portfolios, grant strategy, and research infrastructure for the School.
 
 **Since 1/2025** full-time permanent Senior Lecturer in Applied Linguistics in the School of Languages and Cultures at the [University of Queensland, Australia](https://www.uq.edu.au/) (UQ, 100%) (since 7/2021 full-time permanent Lecturer, since 11/2023 confirmed/tenured)
 
@@ -63,5 +81,11 @@ LUL = Leuphana Universität Lüneburg
 UHH = Universität Hamburg  
 UKS = Universität Kassel  
 UQ = The University of Queensland, Australia
+
+---
+
+## Research Visits
+
+**1–2/2024** [Linguistic Research Infrastructure (LiRI)](https://www.cl.uzh.ch/en/LiRI.html), Universität Zürich — invited by Prof. Dr. Gerold Schneider & Prof. Dr. Volker Dellwo
 
 *(last updated 2024/03/02)*

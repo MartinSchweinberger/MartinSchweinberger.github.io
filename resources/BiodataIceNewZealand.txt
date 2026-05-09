@@ -1,0 +1,1086 @@
+"id"	"id.orig"	"file.speaker.id"	"text.id"	"subfile.id"	"spk.ref"	"sex"	"age"	"ethnicity"	"occupation"	"speech.unit.count"	"word.count"
+1	1	"<S1A-001#1:F>"	"S1A001"	"1"	"F"	"female"	"20-24"	"Pakeha"	NA	175	984
+2	2	"<S1A-001#1:M>"	"S1A001"	"1"	"M"	"male"	"20-24"	"Pakeha"	"Baker/Patissier"	187	915
+3	3	"<S1A-002#1:B>"	"S1A002"	"1"	"B"	"female"	"16-19"	"Pakeha"	NA	147	1017
+4	4	"<S1A-002#1:Q>"	"S1A002"	"1"	"Q"	"female"	"16-19"	"Pakeha"	"P/T House Cleaner"	139	960
+5	5	"<S1A-003#1:B>"	"S1A003"	"1"	"B"	"male"	"35-39"	"Pakeha"	"Computer Programmer"	121	492
+6	6	"<S1A-003#1:M>"	"S1A003"	"1"	"M"	"male"	"25-29"	"Pakeha"	"Journalist"	203	1662
+7	7	"<S1A-004#1:G>"	"S1A004"	"1"	"G"	"female"	"25-29"	"Maori"	NA	148	1342
+8	8	"<S1A-004#1:M>"	"S1A004"	"1"	"M"	"female"	"45-49"	"Maori"	NA	106	589
+9	9	"<S1A-005#1:?>"	"S1A005"	"1"	"?"	NA	NA	NA	NA	2	2
+10	10	"<S1A-005#1:A>"	"S1A005"	"1"	"A"	"male"	"45-49"	"Pakeha"	"Radio Broadcaster"	123	657
+11	11	"<S1A-005#1:B>"	"S1A005"	"1"	"B"	"female"	"16-19"	"Lebanese"	NA	131	772
+12	12	"<S1A-005#1:C>"	"S1A005"	"1"	"C"	"female"	"16-19"	"Pakeha"	NA	131	560
+13	13	"<S1A-006#1:F>"	"S1A006"	"1"	"F"	"female"	"20-24"	"Pakeha"	NA	77	480
+14	14	"<S1A-006#1:G>"	"S1A006"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Computer Programmer/Tutor"	67	420
+15	15	"<S1A-006#1:M>"	"S1A006"	"1"	"M"	"male"	"20-24"	"Pakeha"	"Cleaner"	109	1108
+16	16	"<S1A-007#1:G>"	"S1A007"	"1"	"G"	"male"	"70-74"	"Maori"	NA	100	585
+17	17	"<S1A-007#1:J>"	"S1A007"	"1"	"J"	"female"	"65-69"	"Pakeha"	NA	60	345
+18	18	"<S1A-007#1:T>"	"S1A007"	"1"	"T"	"female"	"16-19"	"Pakeha"	"Nanny"	120	984
+19	19	"<S1A-007#1:X>"	"S1A007"	"1"	"X"	"female"	NA	NA	NA	7	0
+20	20	"<S1A-008#1:?>"	"S1A008"	"1"	"?"	NA	NA	NA	NA	5	1
+21	21	"<S1A-008#1:G>"	"S1A008"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Computer Programmer/Tutor"	44	233
+22	22	"<S1A-008#1:J>"	"S1A008"	"1"	"J"	"male"	"20-24"	"Pakeha"	"Dbase Admin/Checkout Operator"	99	738
+23	23	"<S1A-008#1:L>"	"S1A008"	"1"	"L"	"female"	"20-24"	"Pakeha"	NA	56	209
+24	24	"<S1A-008#1:R>"	"S1A008"	"1"	"R"	"male"	"20-24"	"Pakeha"	"Cleaner"	95	795
+25	25	"<S1A-009#1:H>"	"S1A009"	"1"	"H"	"male"	"16-19"	"Pakeha"	"Student"	165	999
+26	26	"<S1A-009#1:S>"	"S1A009"	"1"	"S"	"male"	"16-19"	"Pakeha"	"Student"	140	782
+27	27	"<S1A-010#1:D>"	"S1A010"	"1"	"D"	"male"	"20-24"	"Pakeha"	NA	169	1123
+28	28	"<S1A-010#1:H>"	"S1A010"	"1"	"H"	"female"	"16-19"	"Pakeha"	NA	167	776
+29	29	"<S1A-011#1:B>"	"S1A011"	"1"	"B"	"female"	"30-34"	"Maori"	"Bank Teller"	199	1196
+30	30	"<S1A-011#1:U>"	"S1A011"	"1"	"U"	"female"	"50-54"	"Maori"	NA	159	696
+31	31	"<S1A-012#1:A>"	"S1A012"	"1"	"A"	"male"	"65-69"	"Pakeha"	NA	107	655
+32	32	"<S1A-012#1:B>"	"S1A012"	"1"	"B"	"female"	"25-29"	"Pakeha"	"Manageress"	76	552
+33	33	"<S1A-012#1:C>"	"S1A012"	"1"	"C"	"female"	"20-24"	"Pakeha"	"Student"	126	877
+34	34	"<S1A-013#1:E>"	"S1A013"	"1"	"E"	"female"	"20-24"	"Pakeha"	"Student"	217	1443
+35	35	"<S1A-013#1:H>"	"S1A013"	"1"	"H"	"female"	"20-24"	"Pakeha"	"Student"	167	800
+36	36	"<S1A-014#1:A>"	"S1A014"	"1"	"A"	"female"	"20-24"	"Pakeha"	"Waiter/PR Officer"	150	1249
+37	37	"<S1A-014#1:F>"	"S1A014"	"1"	"F"	"female"	"16-19"	"Pakeha"	NA	115	1042
+38	38	"<S1A-015#1:A>"	"S1A015"	"1"	"A"	"male"	"20-24"	"Samoan"	NA	180	1382
+39	39	"<S1A-015#1:S>"	"S1A015"	"1"	"S"	"female"	"20-24"	"Samoan"	"Student"	126	617
+40	40	"<S1A-016#1:I>"	"S1A016"	"1"	"I"	"male"	"20-24"	"Pakeha"	NA	127	1128
+41	41	"<S1A-016#1:R>"	"S1A016"	"1"	"R"	"male"	"20-24"	"Pakeha"	"Food Delivery"	101	857
+42	42	"<S1A-017#1:A>"	"S1A017"	"1"	"A"	"female"	"16-19"	"Pakeha"	"Clerical"	242	1653
+43	43	"<S1A-017#1:B>"	"S1A017"	"1"	"B"	"female"	"16-19"	"Pakeha"	"Nanny"	228	947
+44	44	"<S1A-018#1:A>"	"S1A018"	"1"	"A"	"female"	"55-59"	"Pakeha"	"Teacher (Home Economics)"	141	1017
+45	45	"<S1A-018#1:L>"	"S1A018"	"1"	"L"	"female"	NA	"Pakeha"	NA	171	920
+46	46	"<S1A-019#1:A>"	"S1A019"	"1"	"A"	"female"	"30-34"	"Pakeha"	"ESL Tutor"	106	399
+47	47	"<S1A-019#1:B>"	"S1A019"	"1"	"B"	"female"	NA	"Pakeha"	NA	168	1580
+48	48	"<S1A-020#1:A>"	"S1A020"	"1"	"A"	"male"	"25-29"	"Pakeha"	"Musician"	121	1096
+49	49	"<S1A-020#1:B>"	"S1A020"	"1"	"B"	"male"	"20-24"	"Pakeha"	"Self Employed Musician"	111	954
+50	50	"<S1A-021#1:A>"	"S1A021"	"1"	"A"	"female"	"20-24"	"Pakeha"	"Student"	204	1425
+51	51	"<S1A-021#1:B>"	"S1A021"	"1"	"B"	"female"	"16-19"	"Pakeha"	"Student"	137	582
+52	52	"<S1A-022#1:B>"	"S1A022"	"1"	"B"	"female"	"16-19"	"Pakeha"	NA	163	1354
+53	53	"<S1A-022#1:H>"	"S1A022"	"1"	"H"	"female"	"16-19"	"Pakeha"	NA	104	628
+54	54	"<S1A-023#1:D>"	"S1A023"	"1"	"D"	"female"	"50-54"	"Pakeha"	"Public Affairs Manager"	104	747
+55	55	"<S1A-023#1:M>"	"S1A023"	"1"	"M"	"female"	NA	"Pakeha"	NA	156	1195
+56	56	"<S1A-023#1:X>"	"S1A023"	"1"	"X"	"female"	NA	NA	NA	37	10
+57	57	"<S1A-024#1:F>"	"S1A024"	"1"	"F"	"female"	"25-29"	"Pakeha"	"Occupational Therapist"	119	584
+58	58	"<S1A-024#1:M>"	"S1A024"	"1"	"M"	"male"	"30-34"	"Pakeha"	"Property Developer"	161	1399
+59	59	"<S1A-025#1:M>"	"S1A025"	"1"	"M"	"female"	"35-39"	"Maori"	"Teachers Aide"	154	1011
+60	60	"<S1A-025#1:P>"	"S1A025"	"1"	"P"	"female"	"40-44"	"Pakeha"	"Early Childhood Teacher"	134	971
+61	61	"<S1A-026#1:?>"	"S1A026"	"1"	"?"	NA	NA	NA	NA	1	0
+62	62	"<S1A-026#1:A>"	"S1A026"	"1"	"A"	"female"	"20-24"	"Pakeha"	NA	107	622
+63	63	"<S1A-026#1:T>"	"S1A026"	"1"	"T"	"male"	"25-29"	"Pakeha"	NA	169	1295
+64	64	"<S1A-026#1:X>"	"S1A026"	"1"	"X"	"male"	NA	NA	NA	143	23
+65	65	"<S1A-027#1:L>"	"S1A027"	"1"	"L"	"female"	"20-24"	"Pakeha"	"P/T Cleaner/Student"	112	920
+66	66	"<S1A-027#1:M>"	"S1A027"	"1"	"M"	"male"	"65-69"	"Pakeha"	NA	93	1059
+67	67	"<S1A-027#1:N>"	"S1A027"	"1"	"N"	"female"	"50-54"	"Pakeha"	"Librarian"	41	433
+68	68	"<S1A-028#1:A>"	"S1A028"	"1"	"A"	"female"	"50-54"	"Pakeha"	NA	209	1194
+69	69	"<S1A-028#1:B>"	"S1A028"	"1"	"B"	"female"	"50-54"	"Pakeha"	"Nanny"	195	1061
+70	70	"<S1A-028#1:X>"	"S1A028"	"1"	"X"	"female"	NA	NA	NA	1	0
+71	71	"<S1A-029#1:C>"	"S1A029"	"1"	"C"	"female"	"20-24"	"Chinese"	"Receptionist"	186	949
+72	72	"<S1A-029#1:D>"	"S1A029"	"1"	"D"	"male"	"25-29"	"Chinese"	NA	212	957
+73	73	"<S1A-030#1:E>"	"S1A030"	"1"	"E"	"female"	"30-34"	"Maori"	NA	91	860
+74	74	"<S1A-030#1:K>"	"S1A030"	"1"	"K"	"female"	"20-24"	"Maori/Pakeha"	NA	124	1228
+75	75	"<S1A-031#1:A>"	"S1A031"	"1"	"A"	"female"	"20-24"	"Pakeha"	NA	180	1016
+76	76	"<S1A-031#1:B>"	"S1A031"	"1"	"B"	"female"	"20-24"	"Pakeha"	NA	173	1161
+77	77	"<S1A-032#1:D>"	"S1A032"	"1"	"D"	"male"	"45-49"	"Pakeha"	NA	148	1182
+78	78	"<S1A-032#1:S>"	"S1A032"	"1"	"S"	"female"	"30-34"	"Pakeha"	"P/T Cleaner"	115	813
+79	79	"<S1A-033#1:A>"	"S1A033"	"1"	"A"	"male"	"16-19"	"Pakeha"	"Apprentice Mechanic"	128	1279
+80	80	"<S1A-033#1:B>"	"S1A033"	"1"	"B"	"male"	"45-49"	"Pakeha"	"Service Station Attendant"	118	1149
+81	81	"<S1A-034#1:F>"	"S1A034"	"1"	"F"	"female"	"16-19"	"Pakeha"	"Book Shop Assistant"	148	628
+82	82	"<S1A-034#1:M>"	"S1A034"	"1"	"M"	"male"	"16-19"	"Pakeha"	NA	162	1333
+83	83	"<S1A-035#1:D>"	"S1A035"	"1"	"D"	"male"	"30-34"	"Pakeha"	"Cook"	125	626
+84	84	"<S1A-035#1:R>"	"S1A035"	"1"	"R"	"male"	"35-39"	"Pakeha"	"Primary Health Social Worker"	207	1508
+85	85	"<S1A-036#1:A>"	"S1A036"	"1"	"A"	"female"	"20-24"	"Pakeha"	"Teacher"	217	1669
+86	86	"<S1A-036#1:B>"	"S1A036"	"1"	"B"	"female"	"20-24"	"Pakeha"	"P/T Vet's Nurse/Student"	197	1085
+87	87	"<S1A-037#1:J>"	"S1A037"	"1"	"J"	"male"	"20-24"	"Pakeha"	"Bank Officer"	155	762
+88	88	"<S1A-037#1:M>"	"S1A037"	"1"	"M"	"male"	"20-24"	"Pakeha"	"Insurance Clerk"	164	1104
+89	89	"<S1A-038#1:M>"	"S1A038"	"1"	"M"	"male"	"20-24"	"Maori/Pakeha"	"Joiner"	236	1222
+90	90	"<S1A-038#1:P>"	"S1A038"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Car Salesman"	243	1789
+91	91	"<S1A-039#1:Q>"	"S1A039"	"1"	"Q"	"female"	"16-19"	"Pakeha"	NA	141	1077
+92	92	"<S1A-039#1:T>"	"S1A039"	"1"	"T"	"female"	"16-19"	"Pakeha"	NA	118	782
+93	93	"<S1A-040#1:A>"	"S1A040"	"1"	"A"	"female"	"16-19"	"Pakeha"	"P/T Tutor/KFC/Student"	116	1143
+94	94	"<S1A-040#1:V>"	"S1A040"	"1"	"V"	"female"	"16-19"	"Pakeha"	"Catering"	102	790
+95	95	"<S1A-041#1:J>"	"S1A041"	"1"	"J"	"male"	"20-24"	"Pakeha/Asian"	NA	150	1611
+96	96	"<S1A-041#1:V>"	"S1A041"	"1"	"V"	"female"	"20-24"	"Pakeha/Samoan"	NA	79	317
+97	97	"<S1A-042#1:B>"	"S1A042"	"1"	"B"	"female"	"20-24"	"Pakeha"	"P/T Waitress/Student"	152	1106
+98	98	"<S1A-042#1:J>"	"S1A042"	"1"	"J"	"female"	"20-24"	"Pakeha/Samoan"	NA	130	824
+99	99	"<S1A-043#1:L>"	"S1A043"	"1"	"L"	"female"	"20-24"	"Pakeha"	"Student"	131	924
+100	100	"<S1A-043#1:S>"	"S1A043"	"1"	"S"	"female"	"16-19"	"Pakeha"	"Jewellery Salesperson"	155	1058
+101	101	"<S1A-043#1:X>"	"S1A043"	"1"	"X"	"female"	NA	NA	NA	2	0
+102	102	"<S1A-044#1:?>"	"S1A044"	"1"	"?"	NA	NA	NA	NA	2	1
+103	103	"<S1A-044#1:J>"	"S1A044"	"1"	"J"	"male"	"16-19"	"Pakeha"	"Student"	119	554
+104	104	"<S1A-044#1:K>"	"S1A044"	"1"	"K"	"female"	"16-19"	"Pakeha"	"P/T Cafe Worker"	123	634
+105	105	"<S1A-044#1:S>"	"S1A044"	"1"	"S"	"male"	"16-19"	"Pakeha"	"Student"	155	671
+106	106	"<S1A-045#1:?>"	"S1A045"	"1"	"?"	NA	NA	NA	NA	1	1
+107	107	"<S1A-045#1:B>"	"S1A045"	"1"	"B"	"female"	NA	"Pakeha"	"Retired"	78	533
+108	108	"<S1A-045#1:F>"	"S1A045"	"1"	"F"	"female"	"16-19"	"Pakeha"	NA	81	330
+109	109	"<S1A-045#1:M>"	"S1A045"	"1"	"M"	"male"	NA	"Pakeha"	"Retired"	128	1085
+110	110	"<S1A-046#1:M>"	"S1A046"	"1"	"M"	"female"	"20-24"	"Pakeha"	"Receptionist/Secretary"	221	840
+111	111	"<S1A-046#1:V>"	"S1A046"	"1"	"V"	"female"	"20-24"	"Pakeha"	"Ambulance Officer"	254	2505
+112	112	"<S1A-047#1:A>"	"S1A047"	"1"	"A"	"male"	"20-24"	"Pakeha"	"Builder"	103	615
+113	113	"<S1A-047#1:B>"	"S1A047"	"1"	"B"	"male"	"20-24"	"Pakeha"	NA	145	952
+114	114	"<S1A-047#1:C>"	"S1A047"	"1"	"C"	"male"	"20-24"	"Pakeha"	NA	65	306
+115	115	"<S1A-047#1:D>"	"S1A047"	"1"	"D"	"male"	"20-24"	"Pakeha"	"P/T Japanese Tutor"	58	257
+116	116	"<S1A-048#1:A>"	"S1A048"	"1"	"A"	"female"	"20-24"	"Pakeha"	"P/T Shop Assistant"	154	1124
+117	117	"<S1A-048#1:B>"	"S1A048"	"1"	"B"	"female"	"16-19"	"Pakeha"	NA	165	924
+118	118	"<S1A-049#1:M>"	"S1A049"	"1"	"M"	"male"	"65-69"	"Pakeha"	"Auctioneer"	201	1524
+119	119	"<S1A-049#1:T>"	"S1A049"	"1"	"T"	"male"	"25-29"	"Pakeha"	"Marketing Rep"	161	730
+120	120	"<S1A-050#1:A>"	"S1A050"	"1"	"A"	"female"	"45-49"	"Pakeha"	"Teacher"	136	1055
+121	121	"<S1A-050#1:B>"	"S1A050"	"1"	"B"	"female"	"35-39"	"Pakeha"	"Shop Owner"	140	923
+122	122	"<S1A-051#1:A>"	"S1A051"	"1"	"A"	"female"	"20-24"	"Pakeha"	"Waitress/Bartender"	132	969
+123	123	"<S1A-051#1:G>"	"S1A051"	"1"	"G"	"female"	"20-24"	"Pakeha"	NA	159	976
+124	124	"<S1A-052#1:A>"	"S1A052"	"1"	"A"	"male"	"30-34"	"Pakeha"	"Firefighter"	56	361
+125	125	"<S1A-052#1:B>"	"S1A052"	"1"	"B"	"male"	"30-34"	"Pakeha"	"Firefighter"	150	1351
+126	126	"<S1A-052#1:C>"	"S1A052"	"1"	"C"	"male"	"40-44"	"Pakeha"	"Firefighter"	57	431
+127	127	"<S1A-052#1:X>"	"S1A052"	"1"	"X"	"male"	NA	NA	NA	3	0
+128	128	"<S1A-053#1:?>"	"S1A053"	"1"	"?"	NA	NA	NA	NA	7	0
+129	129	"<S1A-053#1:C>"	"S1A053"	"1"	"C"	"female"	"20-24"	"Pakeha/Maori"	NA	127	549
+130	130	"<S1A-053#1:K>"	"S1A053"	"1"	"K"	"female"	"20-24"	"Pakeha"	NA	157	882
+131	131	"<S1A-053#1:L>"	"S1A053"	"1"	"L"	"female"	"20-24"	"Pakeha"	NA	137	520
+132	132	"<S1A-054#1:D>"	"S1A054"	"1"	"D"	"male"	"25-29"	"Maori"	"Unemployed"	153	1178
+133	133	"<S1A-054#1:H>"	"S1A054"	"1"	"H"	"female"	"16-19"	"Cook Island/Pakeha"	"Uni Student"	18	101
+134	134	"<S1A-054#1:M>"	"S1A054"	"1"	"M"	"male"	"20-24"	"Maori"	"P/T Cleaner"	49	282
+135	135	"<S1A-054#1:P>"	"S1A054"	"1"	"P"	"female"	"25-29"	"Pakeha"	"Casual Research Assistant"	47	293
+136	136	"<S1A-054#1:Z>"	"S1A054"	"1"	"Z"	"male"	NA	NA	NA	5	29
+137	137	"<S1A-055#1:A>"	"S1A055"	"1"	"A"	"female"	"20-24"	"Pakeha"	"Tutor/Shop Assistant"	123	854
+138	138	"<S1A-055#1:F>"	"S1A055"	"1"	"F"	"female"	"20-24"	"Pakeha"	"Student/P/T Waitress"	126	1047
+139	139	"<S1A-056#1:C>"	"S1A056"	"1"	"C"	"male"	"16-19"	"Pakeha"	"Apprentice Baker"	134	583
+140	140	"<S1A-056#1:D>"	"S1A056"	"1"	"D"	"male"	"20-24"	"Pakeha"	"Supermarket Cadet Manager"	172	1284
+141	141	"<S1A-057#1:F>"	"S1A057"	"1"	"F"	"female"	"25-29"	"Pakeha/Maori"	"Student"	122	1015
+142	142	"<S1A-057#1:M>"	"S1A057"	"1"	"M"	"male"	"35-39"	"Pakeha"	"Student"	110	892
+143	143	"<S1A-057#1:S>"	"S1A057"	"1"	"S"	"female"	"30-34"	"Pakeha"	NA	1	0
+144	144	"<S1A-058#1:F>"	"S1A058"	"1"	"F"	"female"	"20-24"	"Samoan"	"Student"	128	709
+145	145	"<S1A-058#1:T>"	"S1A058"	"1"	"T"	"female"	"20-24"	"Samoan"	"Student/Checkout Operator"	125	1162
+146	146	"<S1A-059#1:B>"	"S1A059"	"1"	"B"	"female"	"20-24"	"Pakeha"	"Student Teachers' College"	124	739
+147	147	"<S1A-059#1:F>"	"S1A059"	"1"	"F"	"female"	"25-29"	"Pakeha"	NA	127	1246
+148	148	"<S1A-060#1:K>"	"S1A060"	"1"	"K"	"male"	"40-44"	"Maori"	"Delivery Contractor"	147	713
+149	149	"<S1A-060#1:T>"	"S1A060"	"1"	"T"	"male"	"35-39"	"Maori"	"Building Supervisor"	170	971
+150	150	"<S1A-060#1:W>"	"S1A060"	"1"	"W"	"female"	"35-39"	"Pakeha"	"Lecturer"	48	279
+151	151	"<S1A-061#1:F>"	"S1A061"	"1"	"F"	"female"	"40-44"	"Pakeha"	"Director Education Centre"	111	832
+152	152	"<S1A-061#1:G>"	"S1A061"	"1"	"G"	"female"	"35-39"	"Pakeha"	"Self Employed"	131	1200
+153	153	"<S1A-062#1:C>"	"S1A062"	"1"	"C"	"female"	"40-44"	"Pakeha"	"Librarian"	142	545
+154	154	"<S1A-062#1:M>"	"S1A062"	"1"	"M"	"female"	"35-39"	"Pakeha"	"Lecturer"	177	1888
+155	155	"<S1A-063#1:K>"	"S1A063"	"1"	"K"	"male"	"40-44"	"Maori"	"Delivery Contractor"	168	1132
+156	156	"<S1A-063#1:T>"	"S1A063"	"1"	"T"	"male"	"35-39"	"Maori"	"Building Supervisor"	137	721
+157	157	"<S1A-063#1:W>"	"S1A063"	"1"	"W"	"female"	"35-39"	"Pakeha"	"Lecturer"	39	188
+158	158	"<S1A-064#1:D>"	"S1A064"	"1"	"D"	"female"	"16-19"	"Pakeha"	"Doing Catering Course"	154	1307
+159	159	"<S1A-064#1:F>"	"S1A064"	"1"	"F"	"female"	"20-24"	"Pakeha"	"Shop Assistant"	122	636
+160	160	"<S1A-065#1:O>"	"S1A065"	"1"	"O"	"male"	"40-44"	"Pakeha"	"Firefighter"	81	1024
+161	161	"<S1A-065#1:W>"	"S1A065"	"1"	"W"	"male"	"30-34"	"Pakeha"	"Firefighter"	92	809
+162	162	"<S1A-066#1:F>"	"S1A066"	"1"	"F"	"female"	"25-29"	"Maori"	"Postal Clerk"	177	817
+163	163	"<S1A-066#1:M>"	"S1A066"	"1"	"M"	"male"	"30-34"	"Cook Island Maori"	"Customer Services Manager"	164	1088
+164	164	"<S1A-066#1:S>"	"S1A066"	"1"	"S"	NA	NA	NA	NA	1	0
+165	165	"<S1A-067#1:A>"	"S1A067"	"1"	"A"	"female"	"30-34"	"Pakeha"	"Student"	163	794
+166	166	"<S1A-067#1:S>"	"S1A067"	"1"	"S"	"female"	"40-44"	"Maori"	"Processing Officer"	165	1128
+167	167	"<S1A-068#1:G>"	"S1A068"	"1"	"G"	"female"	"25-29"	"Pakeha"	"Casual Research Assistant"	74	342
+168	168	"<S1A-068#1:I>"	"S1A068"	"1"	"I"	"male"	"35-39"	"Pakeha"	"Quantity Surv & Carpentry"	136	1821
+169	169	"<S1A-069#1:H>"	"S1A069"	"1"	"H"	"female"	"20-24"	"Pakeha"	"Clerical AssistantNote-taker"	52	532
+170	170	"<S1A-069#1:J>"	"S1A069"	"1"	"J"	"female"	"40-44"	"Pakeha"	"Lecturer"	74	320
+171	171	"<S1A-069#1:R>"	"S1A069"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Cultural Consultant"	56	266
+172	172	"<S1A-069#1:S>"	"S1A069"	"1"	"S"	"female"	"20-24"	"Pakeha"	"Library Assistant"	72	316
+173	173	"<S1A-069#1:W>"	"S1A069"	"1"	"W"	"male"	"20-24"	"Pakeha"	"Actor"	108	774
+174	174	"<S1A-069#1:X>"	"S1A069"	"1"	"X"	"male"	NA	NA	NA	4	8
+175	175	"<S1A-070#1:A>"	"S1A070"	"1"	"A"	"female"	"20-24"	"Pakeha"	"P/T Clerical"	100	993
+176	176	"<S1A-070#1:B>"	"S1A070"	"1"	"B"	"male"	"20-24"	"Pakeha"	"Knowledge Engineer"	113	1006
+177	177	"<S1A-071#1:D>"	"S1A071"	"1"	"D"	"female"	"25-29"	"Pakeha"	NA	183	1112
+178	178	"<S1A-071#1:K>"	"S1A071"	"1"	"K"	"female"	"30-34"	"Pakeha"	"Caregiver"	210	1384
+179	179	"<S1A-072#1:?>"	"S1A072"	"1"	"?"	NA	NA	NA	NA	1	0
+180	180	"<S1A-072#1:B>"	"S1A072"	"1"	"B"	"male"	"20-24"	"Pakeha"	"Technical Writer/Analyst Programmer"	71	286
+181	181	"<S1A-072#1:C>"	"S1A072"	"1"	"C"	"female"	"20-24"	"Pakeha"	"Research Assistant"	117	624
+182	182	"<S1A-072#1:J>"	"S1A072"	"1"	"J"	"female"	"20-24"	"Pakeha"	"Accountant"	143	819
+183	183	"<S1A-072#1:P>"	"S1A072"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Sports Shop Assistant"	86	303
+184	184	"<S1A-073#1:?>"	"S1A073"	"1"	"?"	NA	NA	NA	NA	2	0
+185	185	"<S1A-073#1:D>"	"S1A073"	"1"	"D"	"male"	"20-24"	"Pakeha"	NA	169	1075
+186	186	"<S1A-073#1:J>"	"S1A073"	"1"	"J"	"female"	"20-24"	"Pakeha"	"Accountant"	78	327
+187	187	"<S1A-073#1:P>"	"S1A073"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Sports Shop Assistant"	158	582
+188	188	"<S1A-074#1:A>"	"S1A074"	"1"	"A"	"male"	"20-24"	"Pakeha"	NA	66	616
+189	189	"<S1A-074#1:F>"	"S1A074"	"1"	"F"	"female"	"20-24"	"Pakeha"	"Research Assistant"	50	263
+190	190	"<S1A-074#1:J>"	"S1A074"	"1"	"J"	"female"	"25-29"	"Pakeha"	"Teaching Assistant"	25	217
+191	191	"<S1A-074#1:L>"	"S1A074"	"1"	"L"	"male"	"20-24"	"Pakeha"	NA	33	230
+192	192	"<S1A-074#1:M>"	"S1A074"	"1"	"M"	"male"	"25-29"	"Pakeha"	"Analyst Programmer"	82	653
+193	193	"<S1A-075#1:?>"	"S1A075"	"1"	"?"	NA	NA	NA	NA	1	1
+194	194	"<S1A-075#1:E>"	"S1A075"	"1"	"E"	"female"	"45-49"	"Pakeha"	"Arts Manager"	158	1661
+195	195	"<S1A-075#1:W>"	"S1A075"	"1"	"W"	"female"	"45-49"	"Pakeha"	"Composer/Music Education Advisor"	136	892
+196	196	"<S1A-076#1:D>"	"S1A076"	"1"	"D"	"male"	"40-44"	"Pakeha"	NA	165	859
+197	197	"<S1A-076#1:E>"	"S1A076"	"1"	"E"	"male"	"45-49"	"Pakeha"	NA	179	1233
+198	198	"<S1A-077#1:A>"	"S1A077"	"1"	"A"	"male"	"20-24"	"Tokelauan"	"Student"	140	967
+199	199	"<S1A-077#1:T>"	"S1A077"	"1"	"T"	"female"	"20-24"	"Samoan"	"Student/Checkout Operator"	117	947
+200	200	"<S1A-078#1:K>"	"S1A078"	"1"	"K"	"male"	"50-54"	"Pakeha"	"School Principal"	148	1222
+201	201	"<S1A-078#1:M>"	"S1A078"	"1"	"M"	"male"	"55-59"	"Pakeha"	"Deputy Principal"	112	838
+202	202	"<S1A-079#1:G>"	"S1A079"	"1"	"G"	"male"	"25-29"	"Maori/Pakeha"	"Senior Policy Advisor"	91	387
+203	203	"<S1A-079#1:P>"	"S1A079"	"1"	"P"	"male"	"30-34"	"Pakeha"	"Reservations Consultant"	111	330
+204	204	"<S1A-079#1:R>"	"S1A079"	"1"	"R"	"female"	"20-24"	"Maori"	"Lecturer"	202	1267
+205	205	"<S1A-080#1:F>"	"S1A080"	"1"	"F"	"female"	"45-49"	"Pakeha"	"Teacher"	15	66
+206	206	"<S1A-080#1:N>"	"S1A080"	"1"	"N"	"male"	"50-54"	"Maori"	"Teacher"	278	2178
+207	207	"<S1A-080#1:R>"	"S1A080"	"1"	"R"	"male"	"45-49"	"Maori"	"Teacher"	175	991
+208	208	"<S1A-081#1:A>"	"S1A081"	"1"	"A"	"male"	"50-54"	"Maori"	"Lecturer"	140	1211
+209	209	"<S1A-081#1:B>"	"S1A081"	"1"	"B"	"male"	"55-59"	"Maori"	"Lecturer"	135	814
+210	210	"<S1A-082#1:J>"	"S1A082"	"1"	"J"	"female"	"45-49"	"Maori"	"Shop Assistant"	166	1414
+211	211	"<S1A-082#1:V>"	"S1A082"	"1"	"V"	"female"	"40-44"	"Pakeha"	NA	113	649
+212	212	"<S1A-083#1:A>"	"S1A083"	"1"	"A"	"female"	"25-29"	"Maori"	"Student"	160	850
+213	213	"<S1A-083#1:B>"	"S1A083"	"1"	"B"	"female"	"30-34"	"Maori"	"P/T Counsellor"	182	2313
+214	214	"<S1A-084#1:?>"	"S1A084"	"1"	"?"	NA	NA	NA	NA	1	0
+215	215	"<S1A-084#1:A>"	"S1A084"	"1"	"A"	"female"	"50-54"	"Maori"	"Editor"	243	1234
+216	216	"<S1A-084#1:J>"	"S1A084"	"1"	"J"	"female"	"55-59"	"Maori"	"Editor"	256	1951
+217	217	"<S1A-085#1:K>"	"S1A085"	"1"	"K"	"female"	"30-34"	"Maori"	"Primary Teacher"	116	868
+218	218	"<S1A-085#1:R>"	"S1A085"	"1"	"R"	"female"	"25-29"	"Maori/Pakeha"	"Primary Teacher"	138	1057
+219	219	"<S1A-086#1:?>"	"S1A086"	"1"	"?"	NA	NA	NA	NA	2	21
+220	220	"<S1A-086#1:A>"	"S1A086"	"1"	"A"	"female"	"55-59"	"Maori"	"Primary Teacher"	165	1676
+221	221	"<S1A-086#1:B>"	"S1A086"	"1"	"B"	"female"	"45-49"	"Maori"	"Principal Primary School"	154	1600
+222	222	"<S1A-086#1:X>"	"S1A086"	"1"	"X"	"female"	NA	NA	NA	16	27
+223	223	"<S1A-087#1:A>"	"S1A087"	"1"	"A"	"male"	"25-29"	"Maori"	NA	230	1067
+224	224	"<S1A-087#1:B>"	"S1A087"	"1"	"B"	"male"	"25-29"	"Maori"	"Policy Analyst"	243	1654
+225	225	"<S1A-088#1:A>"	"S1A088"	"1"	"A"	"female"	"20-24"	"Maori"	"Lecturer"	156	1053
+226	226	"<S1A-088#1:B>"	"S1A088"	"1"	"B"	"female"	"20-24"	"Maori/Pakeha"	"Administration Assistant"	183	1425
+227	227	"<S1A-089#1:A>"	"S1A089"	"1"	"A"	"male"	"16-19"	"Maori"	NA	167	920
+228	228	"<S1A-089#1:B>"	"S1A089"	"1"	"B"	"male"	"16-19"	"Maori"	NA	188	1299
+229	229	"<S1A-090#1:L>"	"S1A090"	"1"	"L"	"female"	"30-34"	"Maori"	"Primary Teacher"	150	1452
+230	230	"<S1A-090#1:Q>"	"S1A090"	"1"	"Q"	"female"	"40-44"	"Maori"	"Policy Manager"	159	1233
+231	231	"<S1A-091#1:A>"	"S1A091"	"1"	"A"	"female"	"35-39"	"Pakeha"	"Student Support Person"	160	1005
+232	232	"<S1A-091#1:B>"	"S1A091"	"1"	"B"	"female"	"45-49"	"Pakeha"	"Teacher"	105	846
+233	233	"<S1A-092#1:A>"	"S1A092"	"1"	"A"	"female"	"20-24"	"Pakeha"	"P/T Shop Assistant"	158	1209
+234	234	"<S1A-092#1:B>"	"S1A092"	"1"	"B"	"female"	"20-24"	"Pakeha"	NA	118	694
+235	235	"<S1A-093#1:P>"	"S1A093"	"1"	"P"	"male"	"16-19"	"Pakeha"	"Student"	182	1692
+236	236	"<S1A-093#1:S>"	"S1A093"	"1"	"S"	"male"	"16-19"	"Pakeha"	"Student"	98	258
+237	237	"<S1A-094#1:A>"	"S1A094"	"1"	"A"	"female"	"16-19"	"Pakeha"	"Shop Assistant"	148	1490
+238	238	"<S1A-094#1:B>"	"S1A094"	"1"	"B"	"female"	"20-24"	"Pakeha"	NA	124	382
+239	239	"<S1A-095#1:B>"	"S1A095"	"1"	"B"	"female"	"16-19"	"Pakeha"	"Shop Assistant"	103	585
+240	240	"<S1A-095#1:M>"	"S1A095"	"1"	"M"	"female"	"20-24"	"Pakeha"	NA	175	1470
+241	241	"<S1A-096#1:A>"	"S1A096"	"1"	"A"	"female"	"20-24"	"Pakeha"	"Student"	176	1492
+242	242	"<S1A-096#1:B>"	"S1A096"	"1"	"B"	"female"	"20-24"	"Pakeha"	"Temp"	162	813
+243	243	"<S1A-097#1:G>"	"S1A097"	"1"	"G"	"male"	"40-44"	"Maori"	"Delivery Contractor"	181	1159
+244	244	"<S1A-097#1:N>"	"S1A097"	"1"	"N"	"female"	"35-39"	"Pakeha"	"Lecturer"	185	1014
+245	245	"<S1A-098#1:D>"	"S1A098"	"1"	"D"	"female"	"35-39"	"Pakeha"	"Lecturer"	126	812
+246	246	"<S1A-098#1:M>"	"S1A098"	"1"	"M"	"female"	"65-69"	"Pakeha"	NA	188	1398
+247	247	"<S1A-099#1:J>"	"S1A099"	"1"	"J"	"female"	"40-44"	"Pakeha"	"Lecturer College of Education"	145	911
+248	248	"<S1A-099#1:P>"	"S1A099"	"1"	"P"	"female"	"45-49"	"Pakeha"	"Choreographer"	131	1251
+249	249	"<S1A-100#1:M>"	"S1A100"	"1"	"M"	"female"	"40-44"	"Pakeha"	"Teacher"	156	952
+250	250	"<S1A-100#1:O>"	"S1A100"	"1"	"O"	"female"	NA	"Pakeha"	NA	161	1482
+251	251	"<S1B-001#1:?>"	"S1B001"	"1"	"?"	NA	NA	NA	NA	2	3
+252	252	"<S1B-001#1:A>"	"S1B001"	"1"	"A"	"male"	"20-24"	"Pakeha"	"Kitchenhand/Student"	30	98
+253	253	"<S1B-001#1:B>"	"S1B001"	"1"	"B"	"male"	"16-19"	"Pakeha"	"Tutor/Student"	26	99
+254	254	"<S1B-001#1:C>"	"S1B001"	"1"	"C"	"male"	"20-24"	"Pakeha"	"P/T Pool Attendant/Student"	28	155
+255	255	"<S1B-001#1:E>"	"S1B001"	"1"	"E"	"female"	"16-19"	"Pakeha"	"Gymnastics Coach/Student"	28	156
+256	256	"<S1B-001#1:G>"	"S1B001"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Student"	21	81
+257	257	"<S1B-001#1:M>"	"S1B001"	"1"	"M"	"male"	"20-24"	"Pakeha"	"Baker/Student"	21	70
+258	258	"<S1B-001#1:T>"	"S1B001"	"1"	"T"	"female"	"45-49"	"Pakeha"	"Lecturer"	292	2205
+259	259	"<S1B-001#1:X>"	"S1B001"	"1"	"X"	"male"	NA	NA	NA	2	0
+260	260	"<S1B-002#1:?>"	"S1B002"	"1"	"?"	NA	NA	NA	NA	13	14
+261	261	"<S1B-002#1:B>"	"S1B002"	"1"	"B"	"female"	"35-39"	"Cook Island Maori"	"Student"	5	36
+262	262	"<S1B-002#1:L>"	"S1B002"	"1"	"L"	"female"	"20-24"	"Pakeha"	"PR Office Assistant"	77	484
+263	263	"<S1B-002#1:M>"	"S1B002"	"1"	"M"	"male"	"20-24"	"Maori/Samoan"	"Clerk/Cleaner/Student"	13	94
+264	264	"<S1B-002#1:R>"	"S1B002"	"1"	"R"	"female"	"20-24"	"Pakeha"	"Waitress/Student"	1	1
+265	265	"<S1B-002#1:S>"	"S1B002"	"1"	"S"	"female"	"40-44"	"Pakeha"	"Restauranteur"	44	382
+266	266	"<S1B-002#1:T>"	"S1B002"	"1"	"T"	"male"	"55-59"	"Pakeha"	"Lecturer"	104	842
+267	267	"<S1B-002#1:V>"	"S1B002"	"1"	"V"	"male"	"16-19"	"Pakeha"	"Student"	10	56
+268	268	"<S1B-002#1:X>"	"S1B002"	"1"	"X"	"female"	NA	NA	NA	34	4
+269	269	"<S1B-003#1:?>"	"S1B003"	"1"	"?"	NA	NA	NA	NA	8	7
+270	270	"<S1B-003#1:H>"	"S1B003"	"1"	"H"	"female"	"50-54"	"Pakeha"	"Student"	62	366
+271	271	"<S1B-003#1:J>"	"S1B003"	"1"	"J"	"male"	"20-24"	"Pakeha"	"Actor/Arts Administrator/Student"	9	64
+272	272	"<S1B-003#1:P>"	"S1B003"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Student"	17	176
+273	273	"<S1B-003#1:R>"	"S1B003"	"1"	"R"	"male"	"20-24"	"Pakeha"	"P/T Barman/Student"	24	274
+274	274	"<S1B-003#1:S>"	"S1B003"	"1"	"S"	"male"	"16-19"	"Pakeha"	"Student"	13	111
+275	275	"<S1B-003#1:T>"	"S1B003"	"1"	"T"	"male"	"45-49"	"Pakeha"	"Lecturer"	126	1073
+276	276	"<S1B-003#1:X>"	"S1B003"	"1"	"X"	"female"	NA	NA	NA	4	10
+277	277	"<S1B-003#1:Y>"	"S1B003"	"1"	"Y"	"female"	NA	NA	NA	22	10
+278	278	"<S1B-004#1:?>"	"S1B004"	"1"	"?"	NA	NA	NA	NA	4	1
+279	279	"<S1B-004#1:B>"	"S1B004"	"1"	"B"	"female"	"20-24"	"Pakeha"	"Distributor/Student"	5	30
+280	280	"<S1B-004#1:C>"	"S1B004"	"1"	"C"	"male"	"20-24"	"Pakeha"	"Student"	3	20
+281	281	"<S1B-004#1:D>"	"S1B004"	"1"	"D"	"male"	"30-34"	"Pakeha"	"Student"	39	402
+282	282	"<S1B-004#1:H>"	"S1B004"	"1"	"H"	"female"	"20-24"	"Pakeha"	"Cleaner/Student"	10	64
+283	283	"<S1B-004#1:J>"	"S1B004"	"1"	"J"	"female"	"20-24"	"Pakeha"	"Barmaid/Student"	5	59
+284	284	"<S1B-004#1:K>"	"S1B004"	"1"	"K"	"female"	"20-24"	"Pakeha"	"Telephonist/Student"	11	88
+285	285	"<S1B-004#1:L>"	"S1B004"	"1"	"L"	"female"	"45-49"	"Pakeha"	"Student"	2	39
+286	286	"<S1B-004#1:N>"	"S1B004"	"1"	"N"	"female"	"20-24"	"Pakeha"	"Student"	17	188
+287	287	"<S1B-004#1:T>"	"S1B004"	"1"	"T"	"female"	"40-44"	"Pakeha"	"Lecturer"	100	1330
+288	288	"<S1B-005#1:?>"	"S1B005"	"1"	"?"	NA	NA	NA	NA	11	29
+289	289	"<S1B-005#1:D>"	"S1B005"	"1"	"D"	"female"	"30-34"	"Pakeha"	",Teacher"	9	123
+290	290	"<S1B-005#1:E>"	"S1B005"	"1"	"E"	"male"	"20-24"	"Samoan/Dutch"	"Student"	7	102
+291	291	"<S1B-005#1:L>"	"S1B005"	"1"	"L"	"female"	"20-24"	"Samoan"	"Student"	6	109
+292	292	"<S1B-005#1:M>"	"S1B005"	"1"	"M"	"female"	"35-39"	"Maori/Spanish"	"Shop Assistant/Student"	1	10
+293	293	"<S1B-005#1:N>"	"S1B005"	"1"	"N"	"female"	"20-24"	"Pakeha"	"P/T Cinema Attendant/Student"	4	49
+294	294	"<S1B-005#1:O>"	"S1B005"	"1"	"O"	"female"	"50-54"	"Pakeha"	"Primary Relieving Teacher"	8	32
+295	295	"<S1B-005#1:T>"	"S1B005"	"1"	"T"	"female"	"30-34"	"Maori"	"Lecturer"	113	1645
+296	296	"<S1B-005#1:V>"	"S1B005"	"1"	"V"	"male"	"20-24"	"Pakeha"	"Anglican Youth Worker"	9	58
+297	297	"<S1B-005#1:X>"	"S1B005"	"1"	"X"	"female"	NA	NA	NA	3	0
+298	298	"<S1B-005#1:Y>"	"S1B005"	"1"	"Y"	"female"	NA	NA	NA	2	0
+299	299	"<S1B-006#1:?>"	"S1B006"	"1"	"?"	NA	NA	NA	NA	7	1
+300	300	"<S1B-006#1:A>"	"S1B006"	"1"	"A"	"male"	"20-24"	"Pakeha"	"Political Researcher"	53	549
+301	301	"<S1B-006#1:G>"	"S1B006"	"1"	"G"	"male"	"25-29"	"Jewish"	"Student"	5	19
+302	302	"<S1B-006#1:H>"	"S1B006"	"1"	"H"	"female"	"45-49"	"Irish"	"Programme Assistant"	11	41
+303	303	"<S1B-006#1:P>"	"S1B006"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Student"	6	38
+304	304	"<S1B-006#1:Q>"	"S1B006"	"1"	"Q"	"female"	"20-24"	"Pakeha"	"Retail/Student"	11	106
+305	305	"<S1B-006#1:R>"	"S1B006"	"1"	"R"	"female"	"20-24"	"Pakeha"	"Student"	4	17
+306	306	"<S1B-006#1:S>"	"S1B006"	"1"	"S"	"female"	"25-29"	"Pakeha/Danish"	"Steward/Student"	24	403
+307	307	"<S1B-006#1:T>"	"S1B006"	"1"	"T"	"female"	"45-49"	"Pakeha"	"Lecturer"	70	746
+308	308	"<S1B-006#1:X>"	"S1B006"	"1"	"X"	"female"	NA	NA	NA	1	0
+309	309	"<S1B-006#1:Y>"	"S1B006"	"1"	"Y"	"female"	NA	NA	NA	9	5
+310	310	"<S1B-007#1:?>"	"S1B007"	"1"	"?"	NA	NA	NA	NA	134	141
+311	311	"<S1B-007#1:B>"	"S1B007"	"1"	"B"	"female"	"20-24"	"Pakeha"	"Shop Assistant/Student"	41	456
+312	312	"<S1B-007#1:C>"	"S1B007"	"1"	"C"	"male"	"20-24"	"Greek"	"Network Administrator/Student"	3	10
+313	313	"<S1B-007#1:D>"	"S1B007"	"1"	"D"	"female"	"20-24"	"Pakeha"	"P/T Telemarketing Trainer/Student"	25	385
+314	314	"<S1B-007#1:E>"	"S1B007"	"1"	"E"	"male"	"20-24"	"Pakeha"	"Student"	2	73
+315	315	"<S1B-007#1:F>"	"S1B007"	"1"	"F"	"female"	"20-24"	"Pakeha"	"Shop Assistant/Student"	8	90
+316	316	"<S1B-007#1:G>"	"S1B007"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Research Officer/Chauffeur/Student"	15	196
+317	317	"<S1B-007#1:T>"	"S1B007"	"1"	"T"	"female"	"45-49"	"Pakeha"	"Lecturer"	88	936
+318	318	"<S1B-007#1:W>"	"S1B007"	"1"	"W"	"female"	NA	NA	NA	29	20
+319	319	"<S1B-007#1:X>"	"S1B007"	"1"	"X"	"female"	NA	NA	NA	19	0
+320	320	"<S1B-007#1:Y>"	"S1B007"	"1"	"Y"	"female"	NA	NA	NA	20	66
+321	321	"<S1B-008#1:?>"	"S1B008"	"1"	"?"	NA	NA	NA	NA	4	2
+322	322	"<S1B-008#1:P>"	"S1B008"	"1"	"P"	"female"	"40-44"	"Pakeha"	"Student"	11	37
+323	323	"<S1B-008#1:Q>"	"S1B008"	"1"	"Q"	"male"	"65-69"	"Pakeha"	"Student"	68	389
+324	324	"<S1B-008#1:S>"	"S1B008"	"1"	"S"	"male"	"16-19"	"Pakeha"	"Student"	10	70
+325	325	"<S1B-008#1:T>"	"S1B008"	"1"	"T"	"female"	"20-24"	"Pakeha"	"P/T Tutor/Retail Assistant"	175	1319
+326	326	"<S1B-008#1:U>"	"S1B008"	"1"	"U"	"male"	"16-19"	"Pakeha"	"Student"	3	25
+327	327	"<S1B-008#1:V>"	"S1B008"	"1"	"V"	"female"	"16-19"	"Pakeha"	"Fast Food Restaurant/Student"	2	5
+328	328	"<S1B-008#1:X>"	"S1B008"	"1"	"X"	"female"	NA	NA	NA	20	12
+329	329	"<S1B-009#1:?>"	"S1B009"	"1"	"?"	NA	NA	NA	NA	1	1
+330	330	"<S1B-009#1:A>"	"S1B009"	"1"	"A"	"male"	"35-39"	"Pakeha"	"Researcher/Student"	7	36
+331	331	"<S1B-009#1:B>"	"S1B009"	"1"	"B"	"male"	"16-19"	"Pakeha"	"Factory Labourer/Student"	4	31
+332	332	"<S1B-009#1:H>"	"S1B009"	"1"	"H"	"female"	"20-24"	"Pakeha"	"Student"	18	106
+333	333	"<S1B-009#1:I>"	"S1B009"	"1"	"I"	"female"	"20-24"	"Pakeha"	"P/T Receptionist/Student"	4	14
+334	334	"<S1B-009#1:K>"	"S1B009"	"1"	"K"	"female"	"20-24"	"Pakeha"	"Office & Supermarket Worker/Student"	1	1
+335	335	"<S1B-009#1:T>"	"S1B009"	"1"	"T"	"male"	"25-29"	"Pakeha"	"Tutor"	100	1677
+336	336	"<S1B-009#1:X>"	"S1B009"	"1"	"X"	"female"	NA	NA	NA	1	0
+337	337	"<S1B-009#1:Y>"	"S1B009"	"1"	"Y"	"female"	NA	NA	NA	2	0
+338	338	"<S1B-010#1:?>"	"S1B010"	"1"	"?"	NA	NA	NA	NA	10	7
+339	339	"<S1B-010#1:A>"	"S1B010"	"1"	"A"	"male"	"20-24"	"Maori/Negro/Pakeha"	"Student"	78	327
+340	340	"<S1B-010#1:F>"	"S1B010"	"1"	"F"	"female"	"25-29"	"Pakeha"	"Student"	3	23
+341	341	"<S1B-010#1:H>"	"S1B010"	"1"	"H"	"female"	"16-19"	"Cook Island/Pakeha"	"Student"	31	167
+342	342	"<S1B-010#1:J>"	"S1B010"	"1"	"J"	"male"	"20-24"	"Maori"	"Student"	25	103
+343	343	"<S1B-010#1:K>"	"S1B010"	"1"	"K"	"female"	"20-24"	"Maori"	"Student"	33	86
+344	344	"<S1B-010#1:M>"	"S1B010"	"1"	"M"	"male"	"35-39"	"Maori"	"Student"	21	57
+345	345	"<S1B-010#1:P>"	"S1B010"	"1"	"P"	"female"	"20-24"	"Maori"	"Student"	3	7
+346	346	"<S1B-010#1:R>"	"S1B010"	"1"	"R"	"male"	"25-29"	"Maori"	"Student"	11	42
+347	347	"<S1B-010#1:T>"	"S1B010"	"1"	"T"	"female"	"25-29"	"Maori/French"	"Student/Tutor"	91	862
+348	348	"<S1B-010#1:W>"	"S1B010"	"1"	"W"	"male"	"50-54"	"Maori"	",Tutor P/T/Student"	7	19
+349	349	"<S1B-011#1:?>"	"S1B011"	"1"	"?"	NA	NA	NA	NA	4	4
+350	350	"<S1B-011#1:A>"	"S1B011"	"1"	"A"	"female"	"25-29"	"Pakeha"	"Registered Nurse/Student"	31	105
+351	351	"<S1B-011#1:B>"	"S1B011"	"1"	"B"	"male"	"20-24"	"Pakeha"	"Student"	6	38
+352	352	"<S1B-011#1:C>"	"S1B011"	"1"	"C"	"male"	"20-24"	"Pakeha"	"Student"	54	387
+353	353	"<S1B-011#1:D>"	"S1B011"	"1"	"D"	"female"	"20-24"	"Pakeha"	"Student"	2	0
+354	354	"<S1B-011#1:E>"	"S1B011"	"1"	"E"	"female"	"20-24"	"Pakeha"	"Shop Assistant/Student"	14	21
+355	355	"<S1B-011#1:T>"	"S1B011"	"1"	"T"	"male"	"60-64"	"Pakeha"	"Priest"	178	2076
+356	356	"<S1B-011#1:X>"	"S1B011"	"1"	"X"	"male"	NA	NA	NA	27	4
+357	357	"<S1B-011#1:Y>"	"S1B011"	"1"	"Y"	"male"	NA	NA	NA	13	4
+358	358	"<S1B-012#1:?>"	"S1B012"	"1"	"?"	NA	NA	NA	NA	37	61
+359	359	"<S1B-012#1:E>"	"S1B012"	"1"	"E"	"male"	"16-19"	"Pakeha"	"Student"	28	219
+360	360	"<S1B-012#1:F>"	"S1B012"	"1"	"F"	"female"	"16-19"	"Pakeha"	"Student"	25	224
+361	361	"<S1B-012#1:G>"	"S1B012"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Pizza Delivery/Timberhand/Student"	2	10
+362	362	"<S1B-012#1:H>"	"S1B012"	"1"	"H"	"male"	"16-19"	"Chinese"	"Student"	2	7
+363	363	"<S1B-012#1:I>"	"S1B012"	"1"	"I"	"female"	"20-24"	"Pakeha"	"Student"	1	8
+364	364	"<S1B-012#1:J>"	"S1B012"	"1"	"J"	"female"	"16-19"	"Pakeha"	"Student"	16	135
+365	365	"<S1B-012#1:K>"	"S1B012"	"1"	"K"	"male"	"16-19"	"Pakeha"	"Student"	42	266
+366	366	"<S1B-012#1:L>"	"S1B012"	"1"	"L"	"male"	"20-24"	"Pakeha"	"Student"	26	241
+367	367	"<S1B-012#1:T>"	"S1B012"	"1"	"T"	"male"	"20-24"	"Pakeha"	"Faculty"	139	1260
+368	368	"<S1B-012#1:W>"	"S1B012"	"1"	"W"	"female"	NA	NA	NA	20	9
+369	369	"<S1B-012#1:X>"	"S1B012"	"1"	"X"	"male"	NA	NA	NA	10	0
+370	370	"<S1B-012#1:Y>"	"S1B012"	"1"	"Y"	"male"	NA	NA	NA	13	6
+371	371	"<S1B-013#1:?>"	"S1B013"	"1"	"?"	NA	NA	NA	NA	2	2
+372	372	"<S1B-013#1:A>"	"S1B013"	"1"	"A"	"male"	"35-39"	"Pakeha"	"Researcher/Student"	1	1
+373	373	"<S1B-013#1:B>"	"S1B013"	"1"	"B"	"male"	"16-19"	"Pakeha"	"Factory Labourer/Student"	55	1848
+374	374	"<S1B-013#1:H>"	"S1B013"	"1"	"H"	"female"	"20-24"	"Pakeha"	"Student"	2	4
+375	375	"<S1B-013#1:T>"	"S1B013"	"1"	"T"	"male"	"25-29"	"Pakeha"	"Tutor"	6	33
+376	376	"<S1B-014#1:D>"	"S1B014"	"1"	"D"	"male"	"16-19"	"Pakeha"	"Shop Assistant/Student"	8	55
+377	377	"<S1B-014#1:F>"	"S1B014"	"1"	"F"	"male"	"16-19"	"Pakeha"	"Student"	1	5
+378	378	"<S1B-014#1:K>"	"S1B014"	"1"	"K"	"male"	"16-19"	"Pakeha"	"Produce Assistant/Student"	1	14
+379	379	"<S1B-014#1:P>"	"S1B014"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Student"	5	32
+380	380	"<S1B-014#1:Q>"	"S1B014"	"1"	"Q"	"male"	"16-19"	"Pakeha"	"Student"	12	61
+381	381	"<S1B-014#1:R>"	"S1B014"	"1"	"R"	"male"	"16-19"	"Pakeha"	"Student"	5	22
+382	382	"<S1B-014#1:T>"	"S1B014"	"1"	"T"	"male"	"20-24"	"Pakeha"	"Tutor/Fulltime Student"	184	1771
+383	383	"<S1B-014#1:W>"	"S1B014"	"1"	"W"	"male"	"20-24"	"Maori/Pakeha"	"Student"	2	4
+384	384	"<S1B-014#1:Z>"	"S1B014"	"1"	"Z"	NA	NA	NA	NA	50	97
+385	385	"<S1B-015#1:?>"	"S1B015"	"1"	"?"	NA	NA	NA	NA	23	50
+386	386	"<S1B-015#1:B>"	"S1B015"	"1"	"B"	"male"	"20-24"	"Pakeha"	"Student"	5	28
+387	387	"<S1B-015#1:C>"	"S1B015"	"1"	"C"	"male"	"16-19"	"Pakeha"	"Student"	8	54
+388	388	"<S1B-015#1:D>"	"S1B015"	"1"	"D"	"male"	"20-24"	"Pakeha"	"Computer Programmer/Student"	3	18
+389	389	"<S1B-015#1:E>"	"S1B015"	"1"	"E"	"male"	"16-19"	"Pakeha"	"Student"	24	115
+390	390	"<S1B-015#1:F>"	"S1B015"	"1"	"F"	"male"	"30-34"	"Pakeha"	"Student"	6	27
+391	391	"<S1B-015#1:G>"	"S1B015"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Engineer"	1	3
+392	392	"<S1B-015#1:R>"	"S1B015"	"1"	"R"	"male"	"16-19"	"Pakeha"	"Student"	10	30
+393	393	"<S1B-015#1:T>"	"S1B015"	"1"	"T"	"female"	"20-24"	"Pakeha"	"P/T Tutor"	210	1606
+394	394	"<S1B-016#1:?>"	"S1B016"	"1"	"?"	NA	NA	NA	NA	41	66
+395	395	"<S1B-016#1:B>"	"S1B016"	"1"	"B"	"female"	"20-24"	"Pakeha"	"Student"	22	243
+396	396	"<S1B-016#1:C>"	"S1B016"	"1"	"C"	"female"	"25-29"	"Pakeha"	"Student"	20	191
+397	397	"<S1B-016#1:D>"	"S1B016"	"1"	"D"	"female"	"25-29"	"Pakeha"	"Student"	7	83
+398	398	"<S1B-016#1:E>"	"S1B016"	"1"	"E"	"female"	"25-29"	"Pakeha"	"Library Assistant"	12	169
+399	399	"<S1B-016#1:F>"	"S1B016"	"1"	"F"	"female"	"40-44"	"Pakeha"	"Student"	13	179
+400	400	"<S1B-016#1:G>"	"S1B016"	"1"	"G"	"female"	"25-29"	"Pakeha"	"Student"	6	44
+401	401	"<S1B-016#1:H>"	"S1B016"	"1"	"H"	"male"	"20-24"	"Pakeha"	"P/T Computer Analyst/Student"	2	49
+402	402	"<S1B-016#1:J>"	"S1B016"	"1"	"J"	"female"	"25-29"	"Pakeha"	"Student"	8	76
+403	403	"<S1B-016#1:L>"	"S1B016"	"1"	"L"	"male"	"20-24"	"Pakeha"	"Librarian"	8	40
+404	404	"<S1B-016#1:T>"	"S1B016"	"1"	"T"	"female"	"45-49"	"Pakeha"	"Lecturer"	108	1125
+405	405	"<S1B-017#1:?>"	"S1B017"	"1"	"?"	NA	NA	NA	NA	39	20
+406	406	"<S1B-017#1:B>"	"S1B017"	"1"	"B"	"male"	"16-19"	"Maori"	"Freelance Journalist"	9	125
+407	407	"<S1B-017#1:C>"	"S1B017"	"1"	"C"	"female"	"35-39"	"Maori"	"Student"	8	45
+408	408	"<S1B-017#1:E>"	"S1B017"	"1"	"E"	"female"	"25-29"	"Samoan/Pakeha"	"Student"	1	23
+409	409	"<S1B-017#1:G>"	"S1B017"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Musician"	4	17
+410	410	"<S1B-017#1:H>"	"S1B017"	"1"	"H"	"female"	"20-24"	"Pakeha"	"Student"	3	28
+411	411	"<S1B-017#1:J>"	"S1B017"	"1"	"J"	"male"	"20-24"	"Pakeha"	"Student"	7	91
+412	412	"<S1B-017#1:L>"	"S1B017"	"1"	"L"	"female"	"16-19"	"Pakeha"	"Shop Assistant/Student"	5	62
+413	413	"<S1B-017#1:M>"	"S1B017"	"1"	"M"	"female"	"16-19"	"Samoan"	"Student"	3	12
+414	414	"<S1B-017#1:P>"	"S1B017"	"1"	"P"	"female"	"30-34"	"Maori"	"Student"	31	234
+415	415	"<S1B-017#1:T>"	"S1B017"	"1"	"T"	"female"	"35-39"	"Pakeha"	"Assistant Lecturer"	188	1694
+416	416	"<S1B-017#1:W>"	"S1B017"	"1"	"W"	"female"	NA	NA	NA	15	4
+417	417	"<S1B-017#1:X>"	"S1B017"	"1"	"X"	"male"	NA	NA	NA	9	0
+418	418	"<S1B-017#1:Y>"	"S1B017"	"1"	"Y"	"male"	NA	NA	NA	4	0
+419	419	"<S1B-018#1:?>"	"S1B018"	"1"	"?"	NA	NA	NA	NA	1	2
+420	420	"<S1B-018#1:A>"	"S1B018"	"1"	"A"	"female"	"25-29"	"Pakeha"	"Chef/Student"	16	154
+421	421	"<S1B-018#1:B>"	"S1B018"	"1"	"B"	"female"	"20-24"	"Pakeha"	"Machinist in Proof Centre/Student"	9	174
+422	422	"<S1B-018#1:H>"	"S1B018"	"1"	"H"	"male"	"20-24"	"Pakeha"	"Student"	22	320
+423	423	"<S1B-018#1:J>"	"S1B018"	"1"	"J"	"male"	"16-19"	"Pakeha"	"Barman/Student"	6	157
+424	424	"<S1B-018#1:L>"	"S1B018"	"1"	"L"	"female"	"35-39"	"Pakeha"	"ECE Worker/Student"	19	230
+425	425	"<S1B-018#1:O>"	"S1B018"	"1"	"O"	"female"	"35-39"	"Pakeha"	"Student"	16	223
+426	426	"<S1B-018#1:R>"	"S1B018"	"1"	"R"	"female"	"20-24"	"Pakeha"	"Waitress/Student"	6	145
+427	427	"<S1B-018#1:S>"	"S1B018"	"1"	"S"	"male"	"20-24"	"Pakeha"	"Student"	8	133
+428	428	"<S1B-018#1:T>"	"S1B018"	"1"	"T"	"male"	"25-29"	"Pakeha"	"Education Researcher"	63	588
+429	429	"<S1B-019#1:?>"	"S1B019"	"1"	"?"	NA	NA	NA	NA	10	4
+430	430	"<S1B-019#1:B>"	"S1B019"	"1"	"B"	"male"	"20-24"	"Pakeha"	"Bank Officer/Student"	15	51
+431	431	"<S1B-019#1:C>"	"S1B019"	"1"	"C"	"female"	"16-19"	"Pakeha"	"Cleaner/Student"	11	89
+432	432	"<S1B-019#1:D>"	"S1B019"	"1"	"D"	"female"	"20-24"	"Pakeha"	"Student"	2	7
+433	433	"<S1B-019#1:E>"	"S1B019"	"1"	"E"	"female"	"30-34"	"NZ Greek"	"IHC Drama Teacher"	10	54
+434	434	"<S1B-019#1:F>"	"S1B019"	"1"	"F"	NA	NA	NA	NA	5	4
+435	435	"<S1B-019#1:G>"	"S1B019"	"1"	"G"	"male"	"20-24"	"Pakeha"	"Student"	15	76
+436	436	"<S1B-019#1:T>"	"S1B019"	"1"	"T"	"male"	"35-39"	"Pakeha"	"Lecturer"	211	1574
+437	437	"<S1B-019#1:X>"	"S1B019"	"1"	"X"	"female"	NA	NA	NA	2	0
+438	438	"<S1B-019#1:Y>"	"S1B019"	"1"	"Y"	"female"	NA	NA	NA	11	4
+439	439	"<S1B-020#1:?>"	"S1B020"	"1"	"?"	NA	NA	NA	NA	6	1
+440	440	"<S1B-020#1:A>"	"S1B020"	"1"	"A"	"male"	"20-24"	"Pakeha"	"Political Researcher"	25	353
+441	441	"<S1B-020#1:G>"	"S1B020"	"1"	"G"	"male"	"25-29"	"Jewish"	"Student"	5	62
+442	442	"<S1B-020#1:H>"	"S1B020"	"1"	"H"	"female"	"45-49"	"Irish"	"Programme Assistant"	64	1394
+443	443	"<S1B-020#1:Q>"	"S1B020"	"1"	"Q"	NA	NA	NA	NA	4	52
+444	444	"<S1B-020#1:R>"	"S1B020"	"1"	"R"	"female"	"20-24"	"Pakeha"	"Student"	2	35
+445	445	"<S1B-020#1:S>"	"S1B020"	"1"	"S"	"female"	"25-29"	"Pakeha/Danish"	"Steward/Student"	7	184
+446	446	"<S1B-020#1:T>"	"S1B020"	"1"	"T"	"female"	"45-49"	"Pakeha"	"Lecturer"	41	246
+447	447	"<S1B-020#1:X>"	"S1B020"	"1"	"X"	"female"	NA	NA	NA	1	0
+448	448	"<S1B-021#1:A>"	"S1B021"	"1"	"A"	"male"	"40-44"	"Pakeha"	"Self-Employed Consultant"	26	433
+449	449	"<S1B-021#1:J>"	"S1B021"	"1"	"J"	"male"	"40-44"	"Pakeha"	"Teacher"	49	658
+450	450	"<S1B-021#1:N>"	"S1B021"	"1"	"N"	"male"	"35-39"	"Pakeha"	"Broadcaster"	16	183
+451	451	"<S1B-021#1:R>"	"S1B021"	"1"	"R"	"male"	"70-74"	"Pakeha"	"Member of Parliament"	40	654
+452	452	"<S1B-021#1:X>"	"S1B021"	"1"	"X"	"male"	NA	NA	NA	10	28
+453	453	"<S1B-022#1:G>"	"S1B022"	"1"	"G"	"male"	"40-44"	"Pakeha"	"Economist"	59	826
+454	454	"<S1B-022#1:J>"	"S1B022"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Member of Parliament"	50	720
+455	455	"<S1B-022#1:N>"	"S1B022"	"1"	"N"	"male"	"35-39"	"Pakeha"	"Broadcaster"	22	197
+456	456	"<S1B-022#1:P>"	"S1B022"	"1"	"P"	"male"	"30-34"	"Pakeha"	"Lecturer"	6	100
+457	457	"<S1B-022#1:S>"	"S1B022"	"1"	"S"	"male"	"30-34"	"Pakeha"	"Member of Parliament"	65	794
+458	458	"<S1B-023#1:D>"	"S1B023"	"1"	"D"	"male"	"45-49"	"Pakeha"	"Journalist"	67	1745
+459	459	"<S1B-023#1:M>"	"S1B023"	"1"	"M"	"female"	"30-34"	"Pakeha"	"Broadcaster/Journalist"	23	350
+460	460	"<S1B-024#1:J>"	"S1B024"	"1"	"J"	"female"	"45-49"	"Pakeha"	"Writer"	53	686
+461	461	"<S1B-024#1:M>"	"S1B024"	"1"	"M"	"female"	"30-34"	"Pakeha"	"Broadcaster/Journalist"	64	674
+462	462	"<S1B-024#1:S>"	"S1B024"	"1"	"S"	"male"	"35-39"	"Pakeha"	"TV Quiz Show Host"	63	705
+463	463	"<S1B-025#1:M>"	"S1B025"	"1"	"M"	"female"	"30-34"	"Pakeha"	"Broadcaster/Journalist"	34	411
+464	464	"<S1B-025#1:R>"	"S1B025"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Journalist"	68	1462
+465	465	"<S1B-026#1:J>"	"S1B026"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Member of Parliament"	109	995
+466	466	"<S1B-026#1:L>"	"S1B026"	"1"	"L"	"male"	"40-44"	"Pakeha"	"Journalist"	51	535
+467	467	"<S1B-026#1:T>"	"S1B026"	"1"	"T"	"male"	"60-64"	"Pakeha"	"Self Employed Barrister"	94	900
+468	468	"<S1B-026#1:X>"	"S1B026"	"1"	"X"	NA	NA	NA	NA	34	4
+469	469	"<S1B-027#1:F>"	"S1B027"	"1"	"F"	"female"	"40-44"	"Pakeha"	"Editor"	10	287
+470	470	"<S1B-027#1:H>"	"S1B027"	"1"	"H"	"female"	"30-34"	"Pakeha"	"Broadcaster/Journalist"	19	291
+471	471	"<S1B-027#1:M>"	"S1B027"	"1"	"M"	"male"	"45-49"	"Pakeha"	"Member of Parliament"	26	603
+472	472	"<S1B-027#1:N>"	"S1B027"	"1"	"N"	"male"	"40-44"	"Pakeha"	"Managing Director/Bank CEO"	7	248
+473	473	"<S1B-027#1:P>"	"S1B027"	"1"	"P"	"male"	"40-44"	"Pakeha"	"Journalist"	26	383
+474	474	"<S1B-027#1:R>"	"S1B027"	"1"	"R"	"female"	"40-44"	"Pakeha"	"Minister of Finance"	49	907
+475	475	"<S1B-028#1:B>"	"S1B028"	"1"	"B"	"male"	"55-59"	"Pakeha"	"Prime Minister"	51	542
+476	476	"<S1B-028#1:F>"	"S1B028"	"1"	"F"	"male"	"55-59"	"Pakeha"	"Company Chairman"	79	897
+477	477	"<S1B-028#1:H>"	"S1B028"	"1"	"H"	"male"	"40-44"	"Pakeha"	"Journalist"	45	369
+478	478	"<S1B-028#1:J>"	"S1B028"	"1"	"J"	"female"	"45-49"	"Pakeha"	"Lecturer"	23	327
+479	479	"<S1B-028#1:M>"	"S1B028"	"1"	"M"	"male"	"45-49"	"Pakeha"	"Member of Parliament"	32	385
+480	480	"<S1B-029#1:?>"	"S1B029"	"1"	"?"	NA	NA	NA	NA	1	2
+481	481	"<S1B-029#1:L>"	"S1B029"	"1"	"L"	"male"	"40-44"	"Pakeha"	"Journalist"	36	398
+482	482	"<S1B-029#1:R>"	"S1B029"	"1"	"R"	"male"	"55-59"	"Pakeha"	"Self-Employed"	55	1171
+483	483	"<S1B-029#1:W>"	"S1B029"	"1"	"W"	"male"	"60-64"	"Maori"	"Professor"	24	494
+484	484	"<S1B-029#1:X>"	"S1B029"	"1"	"X"	"male"	NA	NA	NA	24	104
+485	485	"<S1B-030#1:A>"	"S1B030"	"1"	"A"	"male"	"50-54"	"Pakeha"	"Company Director"	20	320
+486	486	"<S1B-030#1:G>"	"S1B030"	"1"	"G"	"female"	"50-54"	"Pakeha"	"Executive Director Nurses Association"	5	71
+487	487	"<S1B-030#1:H>"	"S1B030"	"1"	"H"	"female"	"40-44"	"Pakeha"	"Member of Parliament"	28	267
+488	488	"<S1B-030#1:L>"	"S1B030"	"1"	"L"	"male"	"40-44"	"Pakeha"	"Journalist"	42	569
+489	489	"<S1B-030#1:S>"	"S1B030"	"1"	"S"	"male"	"30-34"	"Pakeha"	"Member of Parliament"	46	636
+490	490	"<S1B-030#1:Z>"	"S1B030"	"1"	"Z"	NA	NA	NA	NA	29	532
+491	491	"<S1B-031#1:J>"	"S1B031"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Prime Minister"	71	1043
+492	492	"<S1B-031#1:L>"	"S1B031"	"1"	"L"	"male"	"40-44"	"Pakeha"	"Journalist"	20	350
+493	493	"<S1B-031#1:M>"	"S1B031"	"1"	"M"	"male"	"40-44"	"Pakeha"	"Leader of the Opposition"	51	741
+494	494	"<S1B-032#1:?>"	"S1B032"	"1"	"?"	NA	NA	NA	NA	8	8
+495	495	"<S1B-032#1:A>"	"S1B032"	"1"	"A"	"male"	"40-44"	"Pakeha"	"Member of Parliament"	24	287
+496	496	"<S1B-032#1:G>"	"S1B032"	"1"	"G"	"male"	"45-49"	"Pakeha"	"Company Director"	30	339
+497	497	"<S1B-032#1:H>"	"S1B032"	"1"	"H"	"male"	"40-44"	"Pakeha"	"Journalist"	64	644
+498	498	"<S1B-032#1:M>"	"S1B032"	"1"	"M"	"male"	"35-39"	"Pakeha"	"Member of Parliament"	34	453
+499	499	"<S1B-032#1:R>"	"S1B032"	"1"	"R"	"male"	NA	"Pakeha"	"Member of Parliament"	40	480
+500	500	"<S1B-032#1:W>"	"S1B032"	"1"	"W"	"male"	"45-49"	"Scots/Maori"	"Member of Parliament"	52	617
+501	501	"<S1B-033#1:B>"	"S1B033"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Journalist"	86	628
+502	502	"<S1B-033#1:J>"	"S1B033"	"1"	"J"	"female"	"30-34"	"Pakeha"	"Journalist"	23	304
+503	503	"<S1B-033#1:R>"	"S1B033"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Journalist"	77	516
+504	504	"<S1B-033#1:S>"	"S1B033"	"1"	"S"	"male"	"40-44"	"Pakeha"	"Political Editor/Commentator"	60	631
+505	505	"<S1B-033#1:T>"	"S1B033"	"1"	"T"	"male"	"60-64"	"Pakeha"	"Barrister"	37	344
+506	506	"<S1B-034#1:?>"	"S1B034"	"1"	"?"	NA	NA	NA	NA	1	1
+507	507	"<S1B-034#1:A>"	"S1B034"	"1"	"A"	"male"	"40-44"	"Pakeha"	"Consultant"	32	375
+508	508	"<S1B-034#1:J>"	"S1B034"	"1"	"J"	"male"	"40-44"	"Pakeha"	"Teacher"	54	512
+509	509	"<S1B-034#1:N>"	"S1B034"	"1"	"N"	"male"	"35-39"	"Pakeha"	"Broadcaster"	33	311
+510	510	"<S1B-034#1:R>"	"S1B034"	"1"	"R"	"male"	NA	"Pakeha"	"Member of Parliament"	65	797
+511	511	"<S1B-034#1:X>"	"S1B034"	"1"	"X"	"male"	NA	NA	NA	51	9
+512	512	"<S1B-035#1:?>"	"S1B035"	"1"	"?"	NA	NA	NA	NA	3	3
+513	513	"<S1B-035#1:B>"	"S1B035"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Political Editor/Commentator"	86	666
+514	514	"<S1B-035#1:H>"	"S1B035"	"1"	"H"	"male"	"40-44"	"Pakeha"	"Journalist"	85	579
+515	515	"<S1B-035#1:J>"	"S1B035"	"1"	"J"	"female"	"30-34"	"Pakeha"	"Journalist"	41	350
+516	516	"<S1B-035#1:T>"	"S1B035"	"1"	"T"	"male"	"60-64"	"Pakeha"	"Barrister"	50	428
+517	517	"<S1B-035#1:X>"	"S1B035"	"1"	"X"	"male"	NA	NA	NA	63	23
+518	518	"<S1B-036#1:H>"	"S1B036"	"1"	"H"	"male"	"50-54"	"Pakeha"	"Radio Programme Producer"	31	510
+519	519	"<S1B-036#1:V>"	"S1B036"	"1"	"V"	"male"	"50-54"	"Pakeha"	"Lecturer"	104	1832
+520	520	"<S1B-036#1:X>"	"S1B036"	"1"	"X"	"male"	NA	NA	NA	79	115
+521	521	"<S1B-037#1:B>"	"S1B037"	"1"	"B"	"male"	"60-64"	"Pakeha"	"Privacy Commissioner"	22	612
+522	522	"<S1B-037#1:H>"	"S1B037"	"1"	"H"	"male"	"40-44"	"Pakeha"	"Political Editor/Commentator"	25	529
+523	523	"<S1B-037#1:J>"	"S1B037"	"1"	"J"	"female"	"35-39"	"Pakeha"	"Minister of the Crown"	28	699
+524	524	"<S1B-037#1:Z>"	"S1B037"	"1"	"Z"	"male"	NA	NA	NA	3	85
+525	525	"<S1B-038#1:?>"	"S1B038"	"1"	"?"	NA	NA	NA	NA	5	2
+526	526	"<S1B-038#1:C>"	"S1B038"	"1"	"C"	"female"	"35-39"	"Pakeha"	"Talkback Host"	54	554
+527	527	"<S1B-038#1:H>"	"S1B038"	"1"	"H"	"male"	"40-44"	"Pakeha"	"Journalist"	94	788
+528	528	"<S1B-038#1:J>"	"S1B038"	"1"	"J"	"female"	"40-44"	"Pakeha"	"Newspaper Editor"	45	440
+529	529	"<S1B-038#1:P>"	"S1B038"	"1"	"P"	"male"	"45-49"	"Pakeha"	"Television Journalist"	17	299
+530	530	"<S1B-038#1:R>"	"S1B038"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Journalist"	52	652
+531	531	"<S1B-039#1:D>"	"S1B039"	"1"	"D"	"female"	"35-39"	"Pakeha"	"Journalist"	60	543
+532	532	"<S1B-039#1:H>"	"S1B039"	"1"	"H"	"female"	"35-39"	"Pakeha"	"Journalist"	68	1068
+533	533	"<S1B-039#1:J>"	"S1B039"	"1"	"J"	"male"	"35-39"	"Pakeha/Arabic"	"Writer for The Listener"	60	752
+534	534	"<S1B-040#1:B>"	"S1B040"	"1"	"B"	"male"	"60-64"	"Pakeha"	"Privacy Commissioner"	11	231
+535	535	"<S1B-040#1:H>"	"S1B040"	"1"	"H"	"male"	"40-44"	"Pakeha"	"Political Editor/Commentator"	21	316
+536	536	"<S1B-040#1:J>"	"S1B040"	"1"	"J"	"female"	"35-39"	"Pakeha"	"Minister of the Crown"	43	954
+537	537	"<S1B-040#1:T>"	"S1B040"	"1"	"T"	"male"	NA	NA	NA	4	110
+538	538	"<S1B-040#1:U>"	"S1B040"	"1"	"U"	"male"	NA	NA	NA	5	112
+539	539	"<S1B-040#1:V>"	"S1B040"	"1"	"V"	"female"	NA	NA	NA	9	122
+540	540	"<S1B-040#1:Z>"	"S1B040"	"1"	"Z"	"female"	NA	NA	NA	3	51
+541	541	"<S1B-041#1:F>"	"S1B041"	"1"	"F"	"female"	"65-69"	"Pakeha"	"Former Teacher"	114	1913
+542	542	"<S1B-041#1:I>"	"S1B041"	"1"	"I"	"male"	"50-54"	"Pakeha"	"Documentary Producer"	14	146
+543	543	"<S1B-042#1:I>"	"S1B042"	"1"	"I"	"female"	"50-54"	"Pakeha"	"Producer/Journalist/Trainer"	58	464
+544	544	"<S1B-042#1:J>"	"S1B042"	"1"	"J"	"male"	"50-54"	"Pakeha"	"Tutor"	135	1584
+545	545	"<S1B-043#1:F>"	"S1B043"	"1"	"F"	"female"	"50-54"	"Pakeha"	"Writer/Contract Script-Writer"	80	1053
+546	546	"<S1B-043#1:I>"	"S1B043"	"1"	"I"	"female"	"50-54"	"Pakeha"	"Executive Radio Producer"	6	76
+547	547	"<S1B-043#1:L>"	"S1B043"	"1"	"L"	"female"	"65-69"	"Pakeha"	"Writer"	80	1028
+548	548	"<S1B-044#1:I>"	"S1B044"	"1"	"I"	"female"	"30-34"	"Pakeha"	"Broadcaster/Journalist"	77	1146
+549	549	"<S1B-044#1:R>"	"S1B044"	"1"	"R"	"female"	"40-44"	"Spanish/German"	"Florist"	86	906
+550	550	"<S1B-045#1:I>"	"S1B045"	"1"	"I"	"male"	"60-64"	"Pakeha"	"Journalist"	30	335
+551	551	"<S1B-045#1:R>"	"S1B045"	"1"	"R"	"female"	"45-49"	"Maori"	"Teacher/Advocate/Negotiator"	140	1730
+552	552	"<S1B-046#1:I>"	"S1B046"	"1"	"I"	"female"	"40-44"	"Pakeha"	"Training & Devt Manager"	18	94
+553	553	"<S1B-046#1:J>"	"S1B046"	"1"	"J"	"female"	"30-34"	"Pakeha"	"Entertainer"	58	746
+554	554	"<S1B-046#1:L>"	"S1B046"	"1"	"L"	"female"	"30-34"	"Pakeha"	"Entertainer"	86	1196
+555	555	"<S1B-047#1:D>"	"S1B047"	"1"	"D"	"female"	"40-44"	"Maori"	"Barrister & Solicitor"	31	696
+556	556	"<S1B-047#1:I>"	"S1B047"	"1"	"I"	"female"	"30-34"	"Pakeha"	"Broadcaster/Journalist"	30	503
+557	557	"<S1B-047#1:R>"	"S1B047"	"1"	"R"	"male"	"40-44"	"Pakeha"	"Managing Director"	43	819
+558	558	"<S1B-048#1:I>"	"S1B048"	"1"	"I"	"female"	"50-54"	"Pakeha"	"Radio Programme Maker"	49	344
+559	559	"<S1B-048#1:K>"	"S1B048"	"1"	"K"	"male"	"35-39"	"Pakeha"	"Unemployed"	170	1829
+560	560	"<S1B-049#1:I>"	"S1B049"	"1"	"I"	"male"	"35-39"	"Maori/Pakeha"	"Director"	43	363
+561	561	"<S1B-049#1:M>"	"S1B049"	"1"	"M"	"male"	"50-54"	"Maori"	"Lecturer"	108	1810
+562	562	"<S1B-050#1:I>"	"S1B050"	"1"	"I"	"male"	"35-39"	"Maori/Pakeha"	"DirectorBA HONS"	32	519
+563	563	"<S1B-050#1:P>"	"S1B050"	"1"	"P"	"female"	"55-59"	"Maori"	"Self-employed Writer"	91	1416
+564	564	"<S1B-051#1:?>"	"S1B051"	"1"	"?"	NA	NA	NA	NA	7	31
+565	565	"<S1B-051#1:A>"	"S1B051"	"1"	"A"	"male"	"45-49"	"Pakeha"	"Law Professor"	6	97
+566	566	"<S1B-051#1:C>"	"S1B051"	"1"	"C"	"male"	"40-44"	"Pakeha"	"MP"	27	477
+567	567	"<S1B-051#1:D>"	"S1B051"	"1"	"D"	"male"	"50-54"	"Pakeha"	"Minister of the Crown"	4	32
+568	568	"<S1B-051#1:E>"	"S1B051"	"1"	"E"	"male"	"40-44"	"Pakeha"	"MP"	4	45
+569	569	"<S1B-051#1:G>"	"S1B051"	"1"	"G"	"male"	"65-69"	"Pakeha"	"NZ High Commission London"	1	12
+570	570	"<S1B-051#1:J>"	"S1B051"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Prime Minister"	7	124
+571	571	"<S1B-051#1:K>"	"S1B051"	"1"	"K"	"male"	"45-49"	"Pakeha"	"Speaker Parliament"	90	554
+572	572	"<S1B-051#1:P>"	"S1B051"	"1"	"P"	"male"	"45-49"	"Pakeha"	"MP"	12	255
+573	573	"<S1B-051#1:R>"	"S1B051"	"1"	"R"	"female"	"40-44"	"Pakeha"	"Minister of Finance"	8	143
+574	574	"<S1B-051#1:T>"	"S1B051"	"1"	"T"	"female"	"35-39"	"Pakeha"	"MP"	2	33
+575	575	"<S1B-052#1:K>"	"S1B052"	"1"	"K"	"female"	"45-49"	"Pakeha"	"MP"	96	1826
+576	576	"<S1B-052#1:R>"	"S1B052"	"1"	"R"	"male"	"45-49"	"Pakeha"	"MP"	10	198
+577	577	"<S1B-052#1:X>"	"S1B052"	"1"	"X"	NA	NA	NA	NA	4	0
+578	578	"<S1B-053#1:H>"	"S1B053"	"1"	"H"	"female"	"40-44"	"Pakeha"	"MP"	81	1628
+579	579	"<S1B-053#1:R>"	"S1B053"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Minister of the Crown"	2	8
+580	580	"<S1B-053#1:Y>"	"S1B053"	"1"	"Y"	NA	NA	NA	NA	17	1
+581	581	"<S1B-053#2:?>"	"S1B053"	"2"	"?"	NA	NA	NA	NA	2	44
+582	582	"<S1B-053#2:A>"	"S1B053"	"2"	"A"	"female"	"45-49"	"Pakeha"	"MP"	4	56
+583	583	"<S1B-053#2:B>"	"S1B053"	"2"	"B"	"male"	"45-49"	"Pakeha"	"MP"	7	106
+584	584	"<S1B-053#2:J>"	"S1B053"	"2"	"J"	"male"	"55-59"	"Pakeha"	"MP"	3	62
+585	585	"<S1B-053#2:K>"	"S1B053"	"2"	"K"	"male"	"45-49"	"Pakeha"	"Speaker Parliament"	36	187
+586	586	"<S1B-053#2:M>"	"S1B053"	"2"	"M"	"male"	"40-44"	"Pakeha"	"Minister of the Crown"	4	89
+587	587	"<S1B-053#2:P>"	"S1B053"	"2"	"P"	"male"	"50-54"	"Pakeha"	"Associate Professor of English"	1	12
+588	588	"<S1B-053#2:R>"	"S1B053"	"2"	"R"	"male"	"45-49"	"Pakeha"	"Minister of the Crown"	3	38
+589	589	"<S1B-053#2:W>"	"S1B053"	"2"	"W"	"male"	"45-49"	"Scots/Maori"	"MP"	4	87
+590	590	"<S1B-053#2:X>"	"S1B053"	"2"	"X"	"male"	"50-54"	"Maori"	"(no BI)"	2	0
+591	591	"<S1B-054#1:B>"	"S1B054"	"1"	"B"	"male"	"55-59"	"Pakeha"	"MP"	58	1079
+592	592	"<S1B-054#1:H>"	"S1B054"	"1"	"H"	"female"	"40-44"	"Pakeha"	"MP"	6	150
+593	593	"<S1B-054#1:K>"	"S1B054"	"1"	"K"	"male"	"45-49"	"Pakeha"	"Speaker Parliament"	17	135
+594	594	"<S1B-054#1:X>"	"S1B054"	"1"	"X"	NA	NA	NA	NA	3	0
+595	595	"<S1B-054#2:P>"	"S1B054"	"2"	"P"	"male"	"35-39"	"Pakeha"	"MP"	20	478
+596	596	"<S1B-054#2:S>"	"S1B054"	"2"	"S"	"male"	"55-59"	"Pakeha"	"MP"	8	69
+597	597	"<S1B-055#1:R>"	"S1B055"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Minister of the Crown"	3	58
+598	598	"<S1B-055#1:S>"	"S1B055"	"1"	"S"	"male"	"55-59"	"Pakeha"	"MP"	10	138
+599	599	"<S1B-055#1:W>"	"S1B055"	"1"	"W"	"male"	"60-64"	"Pakeha"	"MP"	113	2218
+600	600	"<S1B-055#1:X>"	"S1B055"	"1"	"X"	"male"	NA	NA	NA	6	0
+601	601	"<S1B-055#1:Y>"	"S1B055"	"1"	"Y"	"female"	"55-59"	"Maori"	NA	37	85
+602	602	"<S1B-056#1:?>"	"S1B056"	"1"	"?"	NA	NA	NA	NA	1	2
+603	603	"<S1B-056#1:D>"	"S1B056"	"1"	"D"	"male"	"35-39"	"Pakeha"	"MP"	61	1267
+604	604	"<S1B-056#1:P>"	"S1B056"	"1"	"P"	"male"	"45-49"	"Pakeha"	"Minister of the Crown"	43	805
+605	605	"<S1B-056#1:X>"	"S1B056"	"1"	"X"	NA	NA	NA	NA	3	0
+606	606	"<S1B-057#1:B>"	"S1B057"	"1"	"B"	"male"	"55-59"	"Pakeha"	"MP"	39	798
+607	607	"<S1B-057#1:J>"	"S1B057"	"1"	"J"	"male"	"45-49"	"Pakeha"	"MP"	76	1192
+608	608	"<S1B-057#1:P>"	"S1B057"	"1"	"P"	"male"	"45-49"	"Pakeha"	"Minister of the Crown"	5	56
+609	609	"<S1B-057#1:S>"	"S1B057"	"1"	"S"	"male"	"55-59"	"Pakeha"	"MP"	9	41
+610	610	"<S1B-058#1:J>"	"S1B058"	"1"	"J"	"female"	"45-49"	"Pakeha"	"Management"	78	1596
+611	611	"<S1B-058#1:X>"	"S1B058"	"1"	"X"	NA	NA	NA	NA	14	5
+612	612	"<S1B-058#1:Y>"	"S1B058"	"1"	"Y"	"male"	NA	NA	NA	6	0
+613	613	"<S1B-058#2:?>"	"S1B058"	"2"	"?"	NA	NA	NA	NA	1	8
+614	614	"<S1B-058#2:P>"	"S1B058"	"2"	"P"	"male"	"35-39"	"Pakeha"	"MP"	19	621
+615	615	"<S1B-058#2:S>"	"S1B058"	"2"	"S"	"male"	"55-59"	"Pakeha"	"MP"	3	27
+616	616	"<S1B-059#1:E>"	"S1B059"	"1"	"E"	"female"	"35-39"	"Pakeha"	"MP"	22	523
+617	617	"<S1B-059#2:?>"	"S1B059"	"2"	"?"	NA	NA	NA	NA	2	4
+618	618	"<S1B-059#2:B>"	"S1B059"	"2"	"B"	"male"	"55-59"	"Pakeha"	"MP"	38	680
+619	619	"<S1B-059#2:P>"	"S1B059"	"2"	"P"	"male"	"45-49"	"Pakeha"	"Minister of the Crown"	54	967
+620	620	"<S1B-059#2:S>"	"S1B059"	"2"	"S"	NA	NA	NA	NA	8	0
+621	621	"<S1B-060#1:?>"	"S1B060"	"1"	"?"	NA	NA	NA	NA	3	19
+622	622	"<S1B-060#1:A>"	"S1B060"	"1"	"A"	"male"	"60-64"	"Pakeha"	"MP"	12	298
+623	623	"<S1B-060#1:B>"	"S1B060"	"1"	"B"	"male"	"55-59"	"Pakeha"	"Minister of the Crown"	5	49
+624	624	"<S1B-060#1:C>"	"S1B060"	"1"	"C"	"male"	"45-49"	"Pakeha"	"MP"	18	276
+625	625	"<S1B-060#1:D>"	"S1B060"	"1"	"D"	"male"	"55-59"	"Pakeha"	"MP"	1	33
+626	626	"<S1B-060#1:E>"	"S1B060"	"1"	"E"	"female"	"45-49"	"Pakeha"	"Management"	6	37
+627	627	"<S1B-060#1:H>"	"S1B060"	"1"	"H"	"male"	"35-39"	"Pakeha"	"Counsellor/Teacher"	2	34
+628	628	"<S1B-060#1:J>"	"S1B060"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Prime Minister"	1	6
+629	629	"<S1B-060#1:K>"	"S1B060"	"1"	"K"	"male"	"45-49"	"Pakeha"	"Speaker Parliament"	84	430
+630	630	"<S1B-060#1:M>"	"S1B060"	"1"	"M"	"male"	"45-49"	"Pakeha"	"MP"	4	89
+631	631	"<S1B-060#1:P>"	"S1B060"	"1"	"P"	"male"	"50-54"	"Pakeha"	"Cabinet Minister"	2	71
+632	632	"<S1B-060#1:R>"	"S1B060"	"1"	"R"	"male"	"45-49"	"Pakeha"	"MP"	27	582
+633	633	"<S1B-060#1:S>"	"S1B060"	"1"	"S"	"male"	"45-49"	"Pakeha"	"Regional Councillor"	4	30
+634	634	"<S1B-060#1:W>"	"S1B060"	"1"	"W"	"male"	"45-49"	"Scots/Maori"	"MP"	5	76
+635	635	"<S1B-061#1:C>"	"S1B061"	"1"	"C"	"female"	"20-24"	"Pakeha"	NA	62	464
+636	636	"<S1B-061#1:P>"	"S1B061"	"1"	"P"	"male"	"20-24"	"Pakeha"	"Lawyer"	72	704
+637	637	"<S1B-061#1:X>"	"S1B061"	"1"	"X"	"female"	NA	NA	NA	17	0
+638	638	"<S1B-061#2:A>"	"S1B061"	"2"	"A"	"female"	"20-24"	"Pakeha"	NA	53	370
+639	639	"<S1B-061#2:D>"	"S1B061"	"2"	"D"	"female"	"20-24"	"Pakeha"	NA	48	564
+640	640	"<S1B-062#1:?>"	"S1B062"	"1"	"?"	NA	NA	NA	NA	1	1
+641	641	"<S1B-062#1:C>"	"S1B062"	"1"	"C"	"female"	"20-24"	"Maori/Nuiean/Samoan"	"Legal Researcher"	109	988
+642	642	"<S1B-062#1:D>"	"S1B062"	"1"	"D"	"female"	"20-24"	"Pakeha"	"Courier"	88	810
+643	643	"<S1B-062#1:X>"	"S1B062"	"1"	"X"	"female"	NA	NA	NA	12	18
+644	644	"<S1B-062#2:E>"	"S1B062"	"2"	"E"	"female"	"20-24"	"Pakeha"	NA	41	426
+645	645	"<S1B-062#2:F>"	"S1B062"	"2"	"F"	"male"	"20-24"	"Chinese"	"Video Hire"	38	242
+646	646	"<S1B-063#1:A>"	"S1B063"	"1"	"A"	"male"	"20-24"	"Pakeha"	"Lawyer"	74	578
+647	647	"<S1B-063#1:C>"	"S1B063"	"1"	"C"	"male"	"20-24"	"Chinese"	"Video Hire"	7	47
+648	648	"<S1B-063#1:P>"	"S1B063"	"1"	"P"	"male"	"30-34"	"Pakeha"	"Law Clerk"	59	830
+649	649	"<S1B-063#1:X>"	"S1B063"	"1"	"X"	"male"	NA	NA	NA	10	12
+650	650	"<S1B-063#2:B>"	"S1B063"	"2"	"B"	"female"	"20-24"	"Pakeha"	NA	6	42
+651	651	"<S1B-063#2:D>"	"S1B063"	"2"	"D"	"female"	"20-24"	"Pakeha"	NA	49	508
+652	652	"<S1B-063#2:R>"	"S1B063"	"2"	"R"	"male"	"25-29"	"Pakeha"	NA	41	248
+653	653	"<S1B-063#2:Y>"	"S1B063"	"2"	"Y"	"female"	NA	NA	NA	6	8
+654	654	"<S1B-064#1:C>"	"S1B064"	"1"	"C"	"male"	"20-24"	"Chinese"	"Video Hire"	53	653
+655	655	"<S1B-064#1:P>"	"S1B064"	"1"	"P"	"male"	"30-34"	"Pakeha"	"Law Clerk"	42	194
+656	656	"<S1B-064#1:X>"	"S1B064"	"1"	"X"	"male"	NA	NA	NA	3	0
+657	657	"<S1B-064#2:A>"	"S1B064"	"2"	"A"	"male"	"20-24"	"Maori/Pakeha"	"P/T Lawyer"	84	883
+658	658	"<S1B-064#2:D>"	"S1B064"	"2"	"D"	"female"	"20-24"	"Pakeha"	NA	62	376
+659	659	"<S1B-065#1:?>"	"S1B065"	"1"	"?"	NA	NA	NA	NA	2	10
+660	660	"<S1B-065#1:C>"	"S1B065"	"1"	"C"	"male"	"20-24"	"Maori/Pakeha"	"P/T Lawyer"	38	281
+661	661	"<S1B-065#1:P>"	"S1B065"	"1"	"P"	"male"	"35-39"	"Pakeha"	"Legal Editor"	32	357
+662	662	"<S1B-065#1:X>"	"S1B065"	"1"	"X"	"male"	NA	NA	NA	3	0
+663	663	"<S1B-065#2:D>"	"S1B065"	"2"	"D"	"male"	"45-49"	"Pakeha"	"Barrister"	136	1135
+664	664	"<S1B-065#2:F>"	"S1B065"	"2"	"F"	"male"	"35-39"	"Pakeha"	"Detective NZ Police"	99	753
+665	665	"<S1B-065#2:Y>"	"S1B065"	"2"	"Y"	NA	NA	NA	NA	3	1
+666	666	"<S1B-066#1:C>"	"S1B066"	"1"	"C"	"female"	"20-24"	"Pakeha"	NA	59	570
+667	667	"<S1B-066#1:D>"	"S1B066"	"1"	"D"	"male"	"20-24"	"Pakeha"	"Lawyer"	40	162
+668	668	"<S1B-066#1:X>"	"S1B066"	"1"	"X"	"male"	NA	NA	NA	1	0
+669	669	"<S1B-066#2:A>"	"S1B066"	"2"	"A"	"male"	"40-44"	"Pakeha"	"Solicitor"	90	997
+670	670	"<S1B-066#2:P>"	"S1B066"	"2"	"P"	"female"	"20-24"	"Maori"	"P/T Film Technician"	82	312
+671	671	"<S1B-066#2:Y>"	"S1B066"	"2"	"Y"	NA	NA	NA	NA	2	4
+672	672	"<S1B-067#1:C>"	"S1B067"	"1"	"C"	"female"	"20-24"	"Pakeha"	NA	27	193
+673	673	"<S1B-067#1:D>"	"S1B067"	"1"	"D"	"male"	"20-24"	"Chinese"	"Video Hire"	53	460
+674	674	"<S1B-067#2:A>"	"S1B067"	"2"	"A"	"male"	"30-34"	"Pakeha"	"Solicitor"	89	936
+675	675	"<S1B-067#2:B>"	"S1B067"	"2"	"B"	"female"	"35-39"	"Pakeha"	"Barrister"	2	12
+676	676	"<S1B-067#2:P>"	"S1B067"	"2"	"P"	"male"	"30-34"	"Pakeha"	"Constable"	79	699
+677	677	"<S1B-067#2:X>"	"S1B067"	"2"	"X"	"male"	NA	NA	NA	3	0
+678	678	"<S1B-068#1:C>"	"S1B068"	"1"	"C"	"male"	"35-39"	"Pakeha"	"Lawyer"	90	1292
+679	679	"<S1B-068#1:J>"	"S1B068"	"1"	"J"	"female"	"45-49"	"Pakeha"	"Judge"	1	5
+680	680	"<S1B-068#1:P>"	"S1B068"	"1"	"P"	"female"	"25-29"	"Pakeha"	"Police Constable"	86	735
+681	681	"<S1B-068#1:X>"	"S1B068"	"1"	"X"	NA	NA	NA	NA	1	0
+682	682	"<S1B-069#1:C>"	"S1B069"	"1"	"C"	"male"	"40-44"	"Pakeha"	"Solicitor"	86	781
+683	683	"<S1B-069#1:P>"	"S1B069"	"1"	"P"	"male"	"25-29"	"Pakeha"	"PC Rentals Area Manager"	93	677
+684	684	"<S1B-069#1:X>"	"S1B069"	"1"	"X"	NA	NA	NA	NA	1	0
+685	685	"<S1B-069#2:C>"	"S1B069"	"2"	"C"	"male"	"40-44"	"Pakeha"	"Solicitor"	42	377
+686	686	"<S1B-069#2:J>"	"S1B069"	"2"	"J"	"male"	"55-59"	"Pakeha"	"District Court Judge"	6	55
+687	687	"<S1B-069#2:R>"	"S1B069"	"2"	"R"	"male"	"45-49"	"Pakeha"	"Police Officer"	44	325
+688	688	"<S1B-070#1:C>"	"S1B070"	"1"	"C"	"male"	"50-54"	"Pakeha"	"Barrister"	124	1428
+689	689	"<S1B-070#1:D>"	"S1B070"	"1"	"D"	"male"	"30-34"	"European Asian"	"Director"	114	582
+690	690	"<S1B-070#1:X>"	"S1B070"	"1"	"X"	"male"	NA	NA	NA	4	11
+691	691	"<S1B-071#1:C>"	"S1B071"	"1"	"C"	NA	"20-24"	"Pakeha"	"Kentucky Fried Chicken"	97	491
+692	692	"<S1B-071#1:S>"	"S1B071"	"1"	"S"	"female"	"40-44"	"Pakeha"	"Education Officer"	162	1420
+693	693	"<S1B-072#1:?>"	"S1B072"	"1"	"?"	NA	NA	NA	NA	8	5
+694	694	"<S1B-072#1:A>"	"S1B072"	"1"	"A"	NA	"35-39"	"Pakeha"	"Dance Programme Manager"	3	13
+695	695	"<S1B-072#1:C>"	"S1B072"	"1"	"C"	NA	"45-49"	"Pakeha"	"Manager Film Programme"	34	206
+696	696	"<S1B-072#1:E>"	"S1B072"	"1"	"E"	NA	"55-59"	"Pakeha"	"Manager Craft Programmes"	33	298
+697	697	"<S1B-072#1:J>"	"S1B072"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Arts Administrator"	132	1321
+698	698	"<S1B-072#1:P>"	"S1B072"	"1"	"P"	"male"	"50-54"	"Pakeha"	"Executive Director"	50	222
+699	699	"<S1B-072#1:X>"	"S1B072"	"1"	"X"	NA	NA	NA	NA	31	6
+700	700	"<S1B-072#1:Y>"	"S1B072"	"1"	"Y"	NA	NA	NA	NA	15	0
+701	701	"<S1B-073#1:K>"	"S1B073"	"1"	"K"	NA	"30-34"	"Dutch"	"Former Teacher"	100	793
+702	702	"<S1B-073#1:R>"	"S1B073"	"1"	"R"	NA	"30-34"	"Pakeha"	"Secondary Teacher"	130	845
+703	703	"<S1B-073#1:S>"	"S1B073"	"1"	"S"	NA	"30-34"	"Pakeha"	"Teacher"	83	465
+704	704	"<S1B-073#1:X>"	"S1B073"	"1"	"X"	NA	NA	NA	NA	1	0
+705	705	"<S1B-074#1:?>"	"S1B074"	"1"	"?"	NA	NA	NA	NA	7	6
+706	706	"<S1B-074#1:B>"	"S1B074"	"1"	"B"	"male"	"50-54"	"Pakeha"	"Chartered Accountant"	27	282
+707	707	"<S1B-074#1:D>"	"S1B074"	"1"	"D"	"male"	"45-49"	"Pakeha"	"Director Of Computing Centre"	153	1426
+708	708	"<S1B-074#1:F>"	"S1B074"	"1"	"F"	NA	"45-49"	"Pakeha"	"Uni Administrator"	33	221
+709	709	"<S1B-074#1:K>"	"S1B074"	"1"	"K"	NA	"50-54"	"Pakeha"	"Computer Consultant"	38	258
+710	710	"<S1B-074#1:V>"	"S1B074"	"1"	"V"	NA	NA	NA	NA	2	0
+711	711	"<S1B-074#1:W>"	"S1B074"	"1"	"W"	NA	NA	NA	NA	7	0
+712	712	"<S1B-074#1:X>"	"S1B074"	"1"	"X"	NA	NA	NA	NA	22	11
+713	713	"<S1B-074#1:Y>"	"S1B074"	"1"	"Y"	NA	NA	NA	NA	63	12
+714	714	"<S1B-075#1:?>"	"S1B075"	"1"	"?"	NA	NA	NA	NA	1	0
+715	715	"<S1B-075#1:A>"	"S1B075"	"1"	"A"	NA	"50-54"	"Pakeha"	"Deputy Academic Registrar"	118	895
+716	716	"<S1B-075#1:B>"	"S1B075"	"1"	"B"	NA	"55-59"	"Pakeha"	"Administrator"	61	489
+717	717	"<S1B-075#1:C>"	"S1B075"	"1"	"C"	NA	"35-39"	"Pakeha"	"Manager International Students"	18	107
+718	718	"<S1B-075#1:E>"	"S1B075"	"1"	"E"	NA	"60-64"	"Pakeha"	"Administrator"	34	209
+719	719	"<S1B-075#1:Y>"	"S1B075"	"1"	"Y"	"male"	"25-29"	"Maori/Pakeha"	"Manager"	52	365
+720	720	"<S1B-076#1:?>"	"S1B076"	"1"	"?"	NA	NA	NA	NA	11	20
+721	721	"<S1B-076#1:A>"	"S1B076"	"1"	"A"	NA	"45-49"	"Pakeha"	"Teacher"	135	987
+722	722	"<S1B-076#1:J>"	"S1B076"	"1"	"J"	NA	"25-29"	"Pakeha"	"Assistant Teacher"	21	219
+723	723	"<S1B-076#1:K>"	"S1B076"	"1"	"K"	"male"	"50-54"	"Pakeha"	"Teacher"	3	12
+724	724	"<S1B-076#1:L>"	"S1B076"	"1"	"L"	NA	"35-39"	"Pakeha"	"Secondary Teacher"	68	578
+725	725	"<S1B-076#1:R>"	"S1B076"	"1"	"R"	NA	"35-39"	"Pakeha"	"Teacher"	10	25
+726	726	"<S1B-076#1:S>"	"S1B076"	"1"	"S"	NA	"40-44"	"Pakeha"	"Teacher"	24	201
+727	727	"<S1B-077#1:?>"	"S1B077"	"1"	"?"	NA	NA	NA	NA	16	18
+728	728	"<S1B-077#1:A>"	"S1B077"	"1"	"A"	NA	"45-49"	"Pakeha"	"Teacher Asst Special School"	10	22
+729	729	"<S1B-077#1:B>"	"S1B077"	"1"	"B"	NA	"45-49"	"Pakeha"	"School Teacher"	10	5
+730	730	"<S1B-077#1:G>"	"S1B077"	"1"	"G"	NA	"40-44"	"Pakeha"	"Primary School Teacher"	32	202
+731	731	"<S1B-077#1:K>"	"S1B077"	"1"	"K"	NA	"35-39"	"Pakeha"	"Special Needs Teacher"	39	388
+732	732	"<S1B-077#1:L>"	"S1B077"	"1"	"L"	NA	"40-44"	"Pakeha"	"Board Secretary"	3	15
+733	733	"<S1B-077#1:M>"	"S1B077"	"1"	"M"	"male"	"50-54"	"Pakeha"	"Principal Special School"	141	1236
+734	734	"<S1B-077#1:V>"	"S1B077"	"1"	"V"	NA	"50-54"	"Pakeha"	"School Teacher"	18	118
+735	735	"<S1B-077#1:Z>"	"S1B077"	"1"	"Z"	NA	NA	NA	NA	12	92
+736	736	"<S1B-078#1:C>"	"S1B078"	"1"	"C"	"male"	"20-24"	"Pakeha"	"Supermarket Cadet Manager"	156	722
+737	737	"<S1B-078#1:S>"	"S1B078"	"1"	"S"	NA	"45-49"	"Pakeha"	"Liaison Officer"	137	1093
+738	738	"<S1B-079#1:?>"	"S1B079"	"1"	"?"	NA	NA	NA	NA	4	1
+739	739	"<S1B-079#1:B>"	"S1B079"	"1"	"B"	"male"	"35-39"	"Pakeha"	"Lecturer"	7	10
+740	740	"<S1B-079#1:E>"	"S1B079"	"1"	"E"	NA	"45-49"	"Pakeha"	"Lecturer"	154	1886
+741	741	"<S1B-079#1:M>"	"S1B079"	"1"	"M"	"male"	"35-39"	"Pakeha"	"Lecturer"	5	54
+742	742	"<S1B-079#1:S>"	"S1B079"	"1"	"S"	NA	"20-24"	"Pakeha"	NA	8	14
+743	743	"<S1B-079#1:W>"	"S1B079"	"1"	"W"	NA	NA	NA	NA	22	1
+744	744	"<S1B-079#1:X>"	"S1B079"	"1"	"X"	"male"	NA	NA	NA	9	9
+745	745	"<S1B-079#1:Y>"	"S1B079"	"1"	"Y"	"male"	NA	NA	NA	26	1
+746	746	"<S1B-080#1:?>"	"S1B080"	"1"	"?"	NA	NA	NA	NA	17	15
+747	747	"<S1B-080#1:A>"	"S1B080"	"1"	"A"	NA	"45-49"	"Pakeha"	"Teacher Asst Special School"	24	170
+748	748	"<S1B-080#1:B>"	"S1B080"	"1"	"B"	NA	"45-49"	"Pakeha"	"School Teacher"	62	463
+749	749	"<S1B-080#1:G>"	"S1B080"	"1"	"G"	NA	"40-44"	"Pakeha"	"Primary School Teacher"	7	18
+750	750	"<S1B-080#1:K>"	"S1B080"	"1"	"K"	NA	"35-39"	"Pakeha"	"Special Needs Teacher"	35	325
+751	751	"<S1B-080#1:L>"	"S1B080"	"1"	"L"	NA	"40-44"	"Pakeha"	"Board Secretary"	9	70
+752	752	"<S1B-080#1:M>"	"S1B080"	"1"	"M"	"male"	"50-54"	"Pakeha"	"Principal Special School"	81	481
+753	753	"<S1B-080#1:V>"	"S1B080"	"1"	"V"	NA	"50-54"	"Pakeha"	"School Teacher"	50	384
+754	754	"<S1B-080#1:Z>"	"S1B080"	"1"	"Z"	NA	NA	NA	NA	6	16
+755	755	"<S2A-001#1:?>"	"S2A001"	"1"	"?"	NA	NA	NA	NA	1	1
+756	756	"<S2A-001#1:G>"	"S2A001"	"1"	"G"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	19	284
+757	757	"<S2A-001#1:J>"	"S2A001"	"1"	"J"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	227	2104
+758	758	"<S2A-001#1:W>"	"S2A001"	"1"	"W"	"male"	"40-44"	"Pakeha"	"NZRFU Resource Coach"	48	686
+759	759	"<S2A-001#1:X>"	"S2A001"	"1"	"X"	"male"	NA	NA	NA	1	41
+760	760	"<S2A-002#1:J>"	"S2A002"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Radio/TV Presenter"	84	1225
+761	761	"<S2A-002#1:P>"	"S2A002"	"1"	"P"	"male"	"50-54"	"Pakeha"	"Sports Education Consultant"	191	2228
+762	762	"<S2A-003#1:C>"	"S2A003"	"1"	"C"	"male"	"35-39"	"Pakeha"	"Radio/TV Presenter"	6	20
+763	763	"<S2A-003#1:I>"	"S2A003"	"1"	"I"	"male"	"65-69"	"Pakeha"	"Barrister and Solicitor"	159	1549
+764	764	"<S2A-003#1:J>"	"S2A003"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Executive Director WSF"	32	435
+765	765	"<S2A-004#1:A>"	"S2A004"	"1"	"A"	"male"	"40-44"	"Pakeha"	"Sportsgoods Sales Manager"	164	1757
+766	766	"<S2A-004#1:C>"	"S2A004"	"1"	"C"	"male"	"45-49"	"Pakeha"	"Marketing Manager/Broadcaster"	116	1076
+767	767	"<S2A-004#1:X>"	"S2A004"	"1"	"X"	"male"	NA	NA	NA	21	9
+768	768	"<S2A-005#1:A>"	"S2A005"	"1"	"A"	"male"	"65-69"	"Pakeha"	NA	184	1744
+769	769	"<S2A-005#1:J>"	"S2A005"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Executive Director WSF"	46	546
+770	770	"<S2A-006#1:P>"	"S2A006"	"1"	"P"	"male"	"60-64"	"Pakeha"	"Broadcaster/Financial Consultant"	66	860
+771	771	"<S2A-006#1:R>"	"S2A006"	"1"	"R"	"male"	"50-54"	"Pakeha"	"PR/Journalism/Promotions"	228	2110
+772	772	"<S2A-007#1:S>"	"S2A007"	"1"	"S"	"male"	"45-49"	"Pakeha"	"Advertising Manager"	169	2118
+773	773	"<S2A-008#1:P>"	"S2A008"	"1"	"P"	"male"	"60-64"	"Pakeha"	"Broadcaster/Financial Consultant"	109	1212
+774	774	"<S2A-008#1:R>"	"S2A008"	"1"	"R"	"male"	"50-54"	"Pakeha"	"PR/Journalist/Promotions"	240	1579
+775	775	"<S2A-009#1:B>"	"S2A009"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Broadcaster"	193	2652
+776	776	"<S2A-010#1:A>"	"S2A010"	"1"	"A"	"male"	"55-59"	"Pakeha"	"Journalist/Commentator"	79	938
+777	777	"<S2A-010#2:?>"	"S2A010"	"2"	"?"	NA	NA	NA	NA	2	2
+778	778	"<S2A-010#2:F>"	"S2A010"	"2"	"F"	NA	"20-24"	"Pakeha"	"Administration Officer/Secretary"	174	1317
+779	779	"<S2A-010#2:V>"	"S2A010"	"2"	"V"	NA	NA	NA	NA	1	0
+780	780	"<S2A-010#2:W>"	"S2A010"	"2"	"W"	NA	NA	NA	NA	6	9
+781	781	"<S2A-010#2:X>"	"S2A010"	"2"	"X"	NA	NA	NA	NA	21	11
+782	782	"<S2A-010#2:Y>"	"S2A010"	"2"	"Y"	NA	NA	NA	NA	28	18
+783	783	"<S2A-011#1:?>"	"S2A011"	"1"	"?"	NA	NA	NA	NA	1	0
+784	784	"<S2A-011#1:B>"	"S2A011"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Broadcaster"	76	790
+785	785	"<S2A-011#1:J>"	"S2A011"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Radio/Television Presenter"	26	254
+786	786	"<S2A-011#1:P>"	"S2A011"	"1"	"P"	"male"	"35-39"	"Pakeha"	"Journalist"	55	531
+787	787	"<S2A-011#1:R>"	"S2A011"	"1"	"R"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	59	822
+788	788	"<S2A-012#1:?>"	"S2A012"	"1"	"?"	NA	NA	NA	NA	3	0
+789	789	"<S2A-012#1:B>"	"S2A012"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Broadcaster"	52	492
+790	790	"<S2A-012#1:J>"	"S2A012"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Radio/TV Presenter"	45	756
+791	791	"<S2A-012#1:P>"	"S2A012"	"1"	"P"	"male"	"35-39"	"Pakeha"	"Journalist"	2	36
+792	792	"<S2A-012#1:R>"	"S2A012"	"1"	"R"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	118	995
+793	793	"<S2A-013#1:B>"	"S2A013"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Television Journalist"	127	1828
+794	794	"<S2A-013#1:K>"	"S2A013"	"1"	"K"	"male"	"35-39"	"Samoan"	"Company Director"	75	1305
+795	795	"<S2A-014#1:B>"	"S2A014"	"1"	"B"	"male"	"40-44"	"Pakeha"	"Television Journalist"	136	1737
+796	796	"<S2A-014#1:K>"	"S2A014"	"1"	"K"	"male"	"35-39"	"Samoan"	"Company Director"	53	1089
+797	797	"<S2A-015#1:P>"	"S2A015"	"1"	"P"	"male"	"30-34"	"Pakeha"	"Television Presenter"	72	620
+798	798	"<S2A-015#1:S>"	"S2A015"	"1"	"S"	"male"	"25-29"	"Pakeha"	"Television Presenter/Radio Announcer"	163	1314
+799	799	"<S2A-015#1:X>"	"S2A015"	"1"	"X"	NA	NA	NA	NA	6	7
+800	800	"<S2A-016#1:A>"	"S2A016"	"1"	"A"	"male"	"30-34"	"Pakeha"	"Cartage Contractor"	166	1554
+801	801	"<S2A-016#1:P>"	"S2A016"	"1"	"P"	"male"	"50-54"	"Pakeha"	"Sports Broadcaster"	51	473
+802	802	"<S2A-016#1:X>"	"S2A016"	"1"	"X"	"male"	NA	NA	NA	498	234
+803	803	"<S2A-017#1:T>"	"S2A017"	"1"	"T"	"male"	"30-34"	"Pakeha"	"Launchmaster"	128	2160
+804	804	"<S2A-018#1:J>"	"S2A018"	"1"	"J"	"male"	"40-44"	"Pakeha"	"Media"	218	1749
+805	805	"<S2A-018#2:J>"	"S2A018"	"2"	"J"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	28	299
+806	806	"<S2A-018#2:W>"	"S2A018"	"2"	"W"	"male"	"40-44"	"Pakeha"	"NZRFU Resource Coach"	6	67
+807	807	"<S2A-019#1:G>"	"S2A019"	"1"	"G"	"male"	"40-44"	"Pakeha"	"Farm Tour Guide"	232	2686
+808	808	"<S2A-019#1:U>"	"S2A019"	"1"	"U"	NA	NA	NA	NA	1	0
+809	809	"<S2A-019#1:V>"	"S2A019"	"1"	"V"	NA	NA	NA	NA	2	11
+810	810	"<S2A-019#1:W>"	"S2A019"	"1"	"W"	NA	NA	NA	NA	2	0
+811	811	"<S2A-019#1:X>"	"S2A019"	"1"	"X"	NA	NA	NA	NA	2	0
+812	812	"<S2A-019#1:Y>"	"S2A019"	"1"	"Y"	NA	NA	NA	NA	1	0
+813	813	"<S2A-020#1:G>"	"S2A020"	"1"	"G"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	29	316
+814	814	"<S2A-020#1:J>"	"S2A020"	"1"	"J"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	257	1992
+815	815	"<S2A-020#1:W>"	"S2A020"	"1"	"W"	"male"	"40-44"	"Pakeha"	"NZRFU Resource Coach"	37	453
+816	816	"<S2A-021#1:G>"	"S2A021"	"1"	"G"	"male"	"45-49"	"Pakeha"	"Lecturer"	126	2103
+817	817	"<S2A-021#1:X>"	"S2A021"	"1"	"X"	"male"	NA	NA	NA	3	2
+818	818	"<S2A-022#1:T>"	"S2A022"	"1"	"T"	"male"	"55-59"	"Maori"	"Company Director"	150	2051
+819	819	"<S2A-023#1:C>"	"S2A023"	"1"	"C"	NA	"30-34"	"Pakeha"	"Lecturer"	166	2205
+820	820	"<S2A-023#1:X>"	"S2A023"	"1"	"X"	NA	NA	NA	NA	1	0
+821	821	"<S2A-024#1:H>"	"S2A024"	"1"	"H"	NA	"35-39"	"Pakeha"	"Seismologist"	132	1913
+822	822	"<S2A-025#1:V>"	"S2A025"	"1"	"V"	NA	"35-39"	"Pakeha"	"Senior Lecturer"	124	1862
+823	823	"<S2A-026#1:E>"	"S2A026"	"1"	"E"	NA	"35-39"	"Pakeha"	"Scientist"	70	1181
+824	824	"<S2A-026#1:X>"	"S2A026"	"1"	"X"	NA	NA	NA	NA	1	0
+825	825	"<S2A-026#2:M>"	"S2A026"	"2"	"M"	"male"	"30-34"	"Pakeha"	"Post Doctoral Fellow"	27	894
+826	826	"<S2A-027#1:E>"	"S2A027"	"1"	"E"	NA	"30-34"	"Pakeha"	"Environmental Geochemist"	57	1504
+827	827	"<S2A-027#1:X>"	"S2A027"	"1"	"X"	NA	NA	NA	NA	1	0
+828	828	"<S2A-027#2:R>"	"S2A027"	"2"	"R"	NA	"40-44"	"Maori"	"Publisher"	26	787
+829	829	"<S2A-028#1:S>"	"S2A028"	"1"	"S"	NA	"40-44"	"Pakeha"	"Scientist Enviroment Officer"	117	1711
+830	830	"<S2A-028#2:E>"	"S2A028"	"2"	"E"	NA	"45-49"	"Pakeha"	"Arts Manager"	27	817
+831	831	"<S2A-028#2:X>"	"S2A028"	"2"	"X"	NA	NA	NA	NA	1	0
+832	832	"<S2A-029#1:S>"	"S2A029"	"1"	"S"	NA	"25-29"	"Pakeha"	"Patent Attorney"	121	1812
+833	833	"<S2A-029#2:J>"	"S2A029"	"2"	"J"	NA	"30-34"	"Pakeha"	"Commercial Manager"	111	1640
+834	834	"<S2A-030#1:K>"	"S2A030"	"1"	"K"	NA	"30-34"	"Pakeha/German"	"Fisheries Technician"	56	1047
+835	835	"<S2A-030#2:N>"	"S2A030"	"2"	"N"	NA	"20-24"	"Pakeha"	"Student"	63	933
+836	836	"<S2A-030#2:R>"	"S2A030"	"2"	"R"	NA	NA	NA	NA	2	15
+837	837	"<S2A-030#2:S>"	"S2A030"	"2"	"S"	NA	NA	NA	NA	1	15
+838	838	"<S2A-030#2:T>"	"S2A030"	"2"	"T"	NA	NA	NA	NA	1	12
+839	839	"<S2A-030#2:X>"	"S2A030"	"2"	"X"	NA	NA	NA	NA	1	43
+840	840	"<S2A-030#2:Z>"	"S2A030"	"2"	"Z"	NA	NA	NA	NA	1	12
+841	841	"<S2A-031#1:S>"	"S2A031"	"1"	"S"	NA	"20-24"	"Pakeha"	"Student"	121	2019
+842	842	"<S2A-031#1:X>"	"S2A031"	"1"	"X"	NA	NA	NA	NA	5	0
+843	843	"<S2A-032#1:F>"	"S2A032"	"1"	"F"	NA	"30-34"	"Maori/Pakeha"	"Journalist/Editor"	135	2103
+844	844	"<S2A-032#1:X>"	"S2A032"	"1"	"X"	NA	NA	NA	NA	1	0
+845	845	"<S2A-033#1:F>"	"S2A033"	"1"	"F"	NA	"45-49"	"Pakeha"	"Writer/Literary Consultant"	129	2151
+846	846	"<S2A-034#1:D>"	"S2A034"	"1"	"D"	"male"	"50-54"	"Pakeha"	"Member of Parliament"	144	1985
+847	847	"<S2A-035#1:A>"	"S2A035"	"1"	"A"	NA	"55-59"	"Pakeha"	"Food Writer/Consultant"	114	2130
+848	848	"<S2A-036#1:D>"	"S2A036"	"1"	"D"	"male"	"50-54"	"Pakeha"	"Geologist/Science Manager"	137	2024
+849	849	"<S2A-037#1:M>"	"S2A037"	"1"	"M"	"male"	"35-39"	"Pakeha"	"Expedition Manager"	119	1982
+850	850	"<S2A-037#1:X>"	"S2A037"	"1"	"X"	NA	NA	NA	NA	3	0
+851	851	"<S2A-038#1:G>"	"S2A038"	"1"	"G"	"male"	"60-64"	"Pakeha"	"Scientist"	85	1525
+852	852	"<S2A-038#1:X>"	"S2A038"	"1"	"X"	NA	NA	NA	NA	4	0
+853	853	"<S2A-038#2:H>"	"S2A038"	"2"	"H"	"male"	"55-59"	"Pakeha"	"Consultant"	101	1688
+854	854	"<S2A-039#1:L>"	"S2A039"	"1"	"L"	NA	"35-39"	"Maori"	"Health Portfolio Manager"	131	2116
+855	855	"<S2A-040#1:A>"	"S2A040"	"1"	"A"	NA	"20-24"	"Pakeha"	"Student/Teaching Fellow"	113	1969
+856	856	"<S2A-040#1:S>"	"S2A040"	"1"	"S"	NA	NA	NA	NA	10	10
+857	857	"<S2A-040#1:T>"	"S2A040"	"1"	"T"	"male"	NA	NA	NA	1	0
+858	858	"<S2A-040#1:U>"	"S2A040"	"1"	"U"	"male"	NA	NA	NA	2	9
+859	859	"<S2A-040#1:V>"	"S2A040"	"1"	"V"	NA	NA	NA	NA	1	3
+860	860	"<S2A-040#1:W>"	"S2A040"	"1"	"W"	"male"	NA	NA	NA	3	0
+861	861	"<S2A-040#1:X>"	"S2A040"	"1"	"X"	NA	NA	NA	NA	4	0
+862	862	"<S2A-040#1:Y>"	"S2A040"	"1"	"Y"	NA	NA	NA	NA	8	0
+863	863	"<S2A-041#1:E>"	"S2A041"	"1"	"E"	NA	"30-34"	"Pakeha"	"Lecturer"	81	1796
+864	864	"<S2A-041#1:X>"	"S2A041"	"1"	"X"	NA	NA	NA	NA	5	0
+865	865	"<S2A-042#1:J>"	"S2A042"	"1"	"J"	"male"	"35-39"	"Pakeha"	"Lecturer"	154	2137
+866	866	"<S2A-043#1:M>"	"S2A043"	"1"	"M"	"male"	"25-29"	"Pakeha"	"Computer Programmer"	129	1969
+867	867	"<S2A-043#1:Z>"	"S2A043"	"1"	"Z"	NA	NA	NA	NA	1	0
+868	868	"<S2A-044#1:P>"	"S2A044"	"1"	"P"	"male"	"60-64"	"Pakeha"	"Lecturer"	90	1898
+869	869	"<S2A-045#1:M>"	"S2A045"	"1"	"M"	NA	"30-34"	"Maori"	"Lecturer"	84	2008
+870	870	"<S2A-046#1:S>"	"S2A046"	"1"	"S"	"male"	"30-34"	"Maori"	"Manager"	119	2222
+871	871	"<S2A-046#1:X>"	"S2A046"	"1"	"X"	NA	NA	NA	NA	1	0
+872	872	"<S2A-047#1:M>"	"S2A047"	"1"	"M"	"male"	"40-44"	"Pakeha"	"Deputy Secretary to Treasury"	137	2104
+873	873	"<S2A-048#1:H>"	"S2A048"	"1"	"H"	NA	"40-44"	"Pakeha"	"Member of Parliament"	110	2280
+874	874	"<S2A-049#1:S>"	"S2A049"	"1"	"S"	"male"	"30-34"	"Maori"	"Manager"	192	3226
+875	875	"<S2A-050#1:M>"	"S2A050"	"1"	"M"	"male"	"40-44"	"Pakeha"	"Deputy Secretary to Treasury"	116	2214
+876	876	"<S2A-050#1:X>"	"S2A050"	"1"	"X"	NA	NA	NA	NA	6	0
+877	877	"<S2A-051#1:B>"	"S2A051"	"1"	"B"	"male"	"50-54"	"Pakeha"	"Former Airline Serviceman"	191	1868
+878	878	"<S2A-051#1:F>"	"S2A051"	"1"	"F"	NA	"45-49"	"Pakeha"	"Shop Assistant"	17	57
+879	879	"<S2A-051#1:G>"	"S2A051"	"1"	"G"	NA	"45-49"	"Pakeha"	"Teacher"	7	22
+880	880	"<S2A-051#1:J>"	"S2A051"	"1"	"J"	NA	"45-49"	"Pakeha"	"Typist/Clerk"	9	31
+881	881	"<S2A-051#1:K>"	"S2A051"	"1"	"K"	NA	"40-44"	"Pakeha"	"Receptionist/Telephonist"	3	10
+882	882	"<S2A-051#1:M>"	"S2A051"	"1"	"M"	"male"	"50-54"	"Pakeha"	"Managing Director"	1	5
+883	883	"<S2A-051#1:X>"	"S2A051"	"1"	"X"	NA	NA	NA	NA	1	0
+884	884	"<S2A-052#1:T>"	"S2A052"	"1"	"T"	"male"	"20-24"	"Pakeha"	"Cadet Supermarket Manager"	178	2006
+885	885	"<S2A-052#1:X>"	"S2A052"	"1"	"X"	"male"	NA	NA	NA	14	0
+886	886	"<S2A-053#1:J>"	"S2A053"	"1"	"J"	NA	"40-44"	"Pakeha"	"Home Economist"	174	2064
+887	887	"<S2A-053#1:X>"	"S2A053"	"1"	"X"	NA	NA	NA	NA	1	0
+888	888	"<S2A-054#1:V>"	"S2A054"	"1"	"V"	NA	"25-29"	"Pakeha"	"Technician"	145	1387
+889	889	"<S2A-054#1:X>"	"S2A054"	"1"	"X"	NA	NA	NA	NA	67	4
+890	890	"<S2A-054#2:B>"	"S2A054"	"2"	"B"	"male"	"50-54"	"Pakeha"	"Former Airline Serviceman"	90	715
+891	891	"<S2A-054#2:F>"	"S2A054"	"2"	"F"	NA	"45-49"	"Pakeha"	"Shop Assistant"	7	18
+892	892	"<S2A-054#2:G>"	"S2A054"	"2"	"G"	NA	"45-49"	"Pakeha"	"Teacher"	1	9
+893	893	"<S2A-054#2:J>"	"S2A054"	"2"	"J"	NA	"45-49"	"Pakeha"	"Typist/Clerk"	2	9
+894	894	"<S2A-054#2:K>"	"S2A054"	"2"	"K"	NA	"40-44"	"Pakeha"	"Receptionist/Telephonist"	25	131
+895	895	"<S2A-054#2:M>"	"S2A054"	"2"	"M"	"male"	"50-54"	"Pakeha"	"Managing Director"	1	8
+896	896	"<S2A-055#1:M>"	"S2A055"	"1"	"M"	NA	"40-44"	"Pakeha"	"Education Offiver/Tupperware"	142	1917
+897	897	"<S2A-056#1:A>"	"S2A056"	"1"	"A"	NA	"55-59"	"Pakeha"	"Food Writer/Consultant"	192	2064
+898	898	"<S2A-057#1:V>"	"S2A057"	"1"	"V"	"male"	"50-54"	"Pakeha"	"Writer/Broadcaster"	185	2178
+899	899	"<S2A-058#1:J>"	"S2A058"	"1"	"J"	NA	"35-39"	"Pakeha"	"Food Writer/Author"	131	2040
+900	900	"<S2A-059#1:G>"	"S2A059"	"1"	"G"	NA	"45-49"	"Pakeha"	"Computer Consultant"	136	2400
+901	901	"<S2A-060#1:F>"	"S2A060"	"1"	"F"	NA	NA	NA	NA	2	0
+902	902	"<S2A-060#1:P>"	"S2A060"	"1"	"P"	"male"	"35-39"	"Pakeha"	"Librarian"	93	2121
+903	903	"<S2A-060#1:X>"	"S2A060"	"1"	"X"	NA	NA	NA	NA	1	0
+904	904	"<S2A-061#1:J>"	"S2A061"	"1"	"J"	"male"	"55-59"	"Pakeha"	"District Court Judge"	106	2218
+905	905	"<S2A-062#1:M>"	"S2A062"	"1"	"M"	"male"	"55-59"	"Pakeha"	"District Court Judge"	108	2002
+906	906	"<S2A-063#1:C>"	"S2A063"	"1"	"C"	"male"	"20-24"	"Chinese"	"Video Hire"	36	670
+907	907	"<S2A-063#2:P>"	"S2A063"	"2"	"P"	NA	"35-39"	"Pakeha"	"Barrister"	78	1711
+908	908	"<S2A-063#2:X>"	"S2A063"	"2"	"X"	"male"	NA	NA	NA	2	0
+909	909	"<S2A-063#2:Y>"	"S2A063"	"2"	"Y"	"male"	NA	NA	NA	1	0
+910	910	"<S2A-064#1:C>"	"S2A064"	"1"	"C"	"male"	"25-29"	"Pakeha"	NA	130	2069
+911	911	"<S2A-064#1:X>"	"S2A064"	"1"	"X"	"male"	NA	NA	NA	3	22
+912	912	"<S2A-065#1:C>"	"S2A065"	"1"	"C"	"male"	"50-54"	"Pakeha"	"Barrister"	129	1966
+913	913	"<S2A-065#1:X>"	"S2A065"	"1"	"X"	NA	NA	NA	NA	1	0
+914	914	"<S2A-066#1:C>"	"S2A066"	"1"	"C"	"male"	"30-34"	"Pakeha"	"Lawyer"	130	2110
+915	915	"<S2A-066#1:X>"	"S2A066"	"1"	"X"	NA	NA	NA	NA	1	1
+916	916	"<S2A-067#1:C>"	"S2A067"	"1"	"C"	"male"	"35-39"	"Pakeha"	"Lawyer"	117	2022
+917	917	"<S2A-067#1:X>"	"S2A067"	"1"	"X"	NA	NA	NA	"X is audience"	3	0
+918	918	"<S2A-068#1:C>"	"S2A068"	"1"	"C"	"male"	"30-34"	"Pakeha"	"Solicitor"	189	2438
+919	919	"<S2A-068#1:X>"	"S2A068"	"1"	"X"	NA	NA	NA	NA	2	0
+920	920	"<S2A-069#1:C>"	"S2A069"	"1"	"C"	"male"	"40-44"	"Pakeha"	"Solicitor"	173	2134
+921	921	"<S2A-069#1:X>"	"S2A069"	"1"	"X"	NA	NA	NA	"X is audience"	9	0
+922	922	"<S2A-070#1:J>"	"S2A070"	"1"	"J"	"male"	"55-59"	"Pakeha"	"District Court Judge"	105	2031
+923	923	"<S2B-001#1:J>"	"S2B001"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Prime Minister"	4	44
+924	924	"<S2B-001#1:L>"	"S2B001"	"1"	"L"	"male"	"50-54"	"Pakeha"	"Radio Newsreader"	52	959
+925	925	"<S2B-001#1:M>"	"S2B001"	"1"	"M"	"male"	"40-44"	"Pakeha"	"Leader of the Opposition"	2	34
+926	926	"<S2B-001#2:H>"	"S2B001"	"2"	"H"	"male"	"45-49"	"Pakeha"	"Radio Broadcaster"	36	665
+927	927	"<S2B-001#3:A>"	"S2B001"	"3"	"A"	NA	"25-29"	"Pakeha"	"Reporter"	14	213
+928	928	"<S2B-002#1:J>"	"S2B002"	"1"	"J"	NA	"35-39"	"Pakeha"	"Radio Journalist"	25	449
+929	929	"<S2B-002#2:H>"	"S2B002"	"2"	"H"	"male"	"55-59"	"Maori"	"Broadcaster"	30	672
+930	930	"<S2B-002#3:H>"	"S2B002"	"3"	"H"	"male"	"55-59"	"Maori"	"Broadcaster"	45	865
+931	931	"<S2B-003#1:M>"	"S2B003"	"1"	"M"	"male"	"55-59"	"Maori"	"Broadcaster"	28	472
+932	932	"<S2B-003#2:C>"	"S2B003"	"2"	"C"	"male"	"45-49"	"Pakeha"	"Marketing Manager/Broadcaster"	32	506
+933	933	"<S2B-003#3:N>"	"S2B003"	"3"	"N"	"male"	"30-34"	"Maori"	"Television Presenter/Reporter"	55	949
+934	934	"<S2B-004#1:H>"	"S2B004"	"1"	"H"	"male"	"55-59"	"Maori"	"Broadcaster"	39	697
+935	935	"<S2B-004#2:G>"	"S2B004"	"2"	"G"	"male"	"30-34"	"Pakeha"	"Freelance Broadcast"	37	958
+936	936	"<S2B-004#3:R>"	"S2B004"	"3"	"R"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	36	592
+937	937	"<S2B-005#1:M>"	"S2B005"	"1"	"M"	"male"	"50-54"	"Pakeha"	"Member of Parliament"	3	61
+938	938	"<S2B-005#1:V>"	"S2B005"	"1"	"V"	NA	"35-39"	"Pakeha"	"Newsreader"	29	562
+939	939	"<S2B-005#1:Z>"	"S2B005"	"1"	"Z"	"male"	NA	NA	NA	2	50
+940	940	"<S2B-005#2:C>"	"S2B005"	"2"	"C"	"male"	"45-49"	"Pakeha"	"Marketing Manager/Broadcaster"	37	596
+941	941	"<S2B-005#3:J>"	"S2B005"	"3"	"J"	NA	"35-39"	"Pakeha"	"Television News Presenter"	34	411
+942	942	"<S2B-005#3:R>"	"S2B005"	"3"	"R"	"male"	"45-49"	"Pakeha"	"Newscaster"	32	353
+943	943	"<S2B-006#1:A>"	"S2B006"	"1"	"A"	"male"	"30-34"	"Pakeha"	"Cartage Contractor"	1	49
+944	944	"<S2B-006#1:D>"	"S2B006"	"1"	"D"	"male"	"35-39"	"Pakeha"	"Executive Radio Producer"	15	289
+945	945	"<S2B-006#1:Z>"	"S2B006"	"1"	"Z"	"male"	NA	NA	NA	4	69
+946	946	"<S2B-006#2:H>"	"S2B006"	"2"	"H"	"male"	"45-49"	"Pakeha"	"Radio Broadcaster"	38	804
+947	947	"<S2B-006#2:T>"	"S2B006"	"2"	"T"	"male"	NA	NA	NA	4	23
+948	948	"<S2B-006#3:V>"	"S2B006"	"3"	"V"	NA	"25-29"	"Pakeha"	"Radio Producer/Newsreader"	41	743
+949	949	"<S2B-007#1:V>"	"S2B007"	"1"	"V"	NA	"35-39"	"Pakeha"	"Newsreader"	19	335
+950	950	"<S2B-007#2:R>"	"S2B007"	"2"	"R"	"male"	"45-49"	"Pakeha"	"Radio Announcer/News Reader"	41	736
+951	951	"<S2B-007#2:S>"	"S2B007"	"2"	"S"	"male"	NA	NA	NA	3	60
+952	952	"<S2B-007#2:T>"	"S2B007"	"2"	"T"	"male"	NA	NA	NA	4	52
+953	953	"<S2B-007#2:Z>"	"S2B007"	"2"	"Z"	"male"	NA	NA	NA	3	50
+954	954	"<S2B-007#3:D>"	"S2B007"	"3"	"D"	NA	"25-29"	"Pakeha"	"Radio Producer/News Reader"	37	777
+955	955	"<S2B-008#1:S>"	"S2B008"	"1"	"S"	NA	"20-24"	"Pakeha"	"Radio Announcer"	28	481
+956	956	"<S2B-008#1:T>"	"S2B008"	"1"	"T"	"male"	NA	NA	NA	1	39
+957	957	"<S2B-008#1:U>"	"S2B008"	"1"	"U"	"male"	NA	NA	NA	2	28
+958	958	"<S2B-008#1:W>"	"S2B008"	"1"	"W"	"male"	NA	NA	NA	2	30
+959	959	"<S2B-008#2:B>"	"S2B008"	"2"	"B"	"male"	NA	NA	NA	2	41
+960	960	"<S2B-008#2:V>"	"S2B008"	"2"	"V"	NA	"35-39"	"Pakeha"	"News Reader"	37	537
+961	961	"<S2B-008#3:L>"	"S2B008"	"3"	"L"	"male"	"50-54"	"Pakeha"	"Radio Newsreader"	34	725
+962	962	"<S2B-008#3:Z>"	"S2B008"	"3"	"Z"	"male"	NA	NA	NA	3	66
+963	963	"<S2B-009#1:S>"	"S2B009"	"1"	"S"	NA	"20-24"	"Pakeha"	"Radio Announcer"	14	235
+964	964	"<S2B-009#2:H>"	"S2B009"	"2"	"H"	"male"	"45-49"	"Pakeha"	"Radio Broadcaster"	48	887
+965	965	"<S2B-009#2:T>"	"S2B009"	"2"	"T"	"male"	NA	NA	NA	2	20
+966	966	"<S2B-009#2:U>"	"S2B009"	"2"	"U"	"male"	NA	NA	NA	1	14
+967	967	"<S2B-009#2:X>"	"S2B009"	"2"	"X"	"male"	NA	NA	NA	3	0
+968	968	"<S2B-009#2:Z>"	"S2B009"	"2"	"Z"	"male"	NA	NA	NA	2	31
+969	969	"<S2B-009#3:L>"	"S2B009"	"3"	"L"	"male"	"50-54"	"Pakeha"	"Radio Newsreader"	37	787
+970	970	"<S2B-010#1:G>"	"S2B010"	"1"	"G"	"male"	"30-34"	"Pakeha"	"FREELANCE Broadcaster"	19	405
+971	971	"<S2B-010#1:X>"	"S2B010"	"1"	"X"	NA	NA	NA	NA	2	0
+972	972	"<S2B-010#2:A>"	"S2B010"	"2"	"A"	NA	"45-49"	"Semitic"	"Broadcaster"	60	645
+973	973	"<S2B-010#2:B>"	"S2B010"	"2"	"B"	"male"	"40-44"	"Pakeha"	"Television Journalist"	30	421
+974	974	"<S2B-010#3:J>"	"S2B010"	"3"	"J"	"male"	"35-39"	"Pakeha"	"Radio/TV Presenter"	38	521
+975	975	"<S2B-011#1:J>"	"S2B011"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Radio Broadcaster"	44	893
+976	976	"<S2B-011#2:L>"	"S2B011"	"2"	"L"	"male"	"50-54"	"Pakeha"	"Radio Newsreader"	47	922
+977	977	"<S2B-011#2:T>"	"S2B011"	"2"	"T"	NA	NA	NA	NA	7	115
+978	978	"<S2B-011#2:Z>"	"S2B011"	"2"	"Z"	"male"	NA	NA	NA	3	60
+979	979	"<S2B-012#1:L>"	"S2B012"	"1"	"L"	"male"	"50-54"	"Pakeha"	"Radio News Reader"	47	891
+980	980	"<S2B-012#1:Z>"	"S2B012"	"1"	"Z"	"male"	NA	NA	NA	2	28
+981	981	"<S2B-012#2:J>"	"S2B012"	"2"	"J"	NA	"30-34"	"Maori"	"Television Presenter"	74	1024
+982	982	"<S2B-013#1:H>"	"S2B013"	"1"	"H"	"male"	"45-49"	"Pakeha"	"Radio Broadcaster"	28	654
+983	983	"<S2B-013#1:S>"	"S2B013"	"1"	"S"	"male"	NA	NA	NA	3	41
+984	984	"<S2B-013#1:T>"	"S2B013"	"1"	"T"	"male"	NA	NA	NA	1	64
+985	985	"<S2B-013#1:Z>"	"S2B013"	"1"	"Z"	"male"	NA	NA	NA	1	33
+986	986	"<S2B-013#2:D>"	"S2B013"	"2"	"D"	NA	"25-29"	"Pakeha"	"Radio Producer/News Reader"	32	663
+987	987	"<S2B-013#3:B>"	"S2B013"	"3"	"B"	"male"	"40-44"	"Pakeha"	"Broadcaster"	41	561
+988	988	"<S2B-014#1:R>"	"S2B014"	"1"	"R"	"male"	"45-49"	"Pakeha"	"Radio Announcer/News Reader"	33	702
+989	989	"<S2B-014#1:S>"	"S2B014"	"1"	"S"	"male"	NA	NA	NA	2	39
+990	990	"<S2B-014#1:Z>"	"S2B014"	"1"	"Z"	"male"	NA	NA	NA	4	48
+991	991	"<S2B-014#2:T>"	"S2B014"	"2"	"T"	"male"	"40-44"	"Pakeha"	"Television Newscaster"	52	735
+992	992	"<S2B-014#3:J>"	"S2B014"	"3"	"J"	"male"	"35-39"	"Pakeha"	"Radio/TV Presenter"	35	408
+993	993	"<S2B-015#1:H>"	"S2B015"	"1"	"H"	"male"	"45-49"	"Pakeha"	"Radio Broadcaster"	30	694
+994	994	"<S2B-015#1:S>"	"S2B015"	"1"	"S"	"male"	NA	NA	NA	2	43
+995	995	"<S2B-015#1:Z>"	"S2B015"	"1"	"Z"	"male"	NA	NA	NA	1	48
+996	996	"<S2B-015#2:J>"	"S2B015"	"2"	"J"	NA	"30-34"	"Maori"	"Television Presenter"	50	550
+997	997	"<S2B-015#3:G>"	"S2B015"	"3"	"G"	"male"	"25-29"	"Maori"	"Journalist"	14	267
+998	998	"<S2B-015#3:W>"	"S2B015"	"3"	"W"	NA	"30-34"	"Maori"	"Journalist/Presenter"	25	379
+999	999	"<S2B-016#1:D>"	"S2B016"	"1"	"D"	NA	"25-29"	"Pakeha"	"Radio Producer/News Reader"	40	778
+1000	1000	"<S2B-016#2:S>"	"S2B016"	"2"	"S"	"male"	"35-39"	"Pakeha"	"Sports Broadcaster"	33	613
+1001	1001	"<S2B-016#3:C>"	"S2B016"	"3"	"C"	"male"	"45-49"	"Pakeha"	"Marketing Manager/Broadcaster"	30	574
+1002	1002	"<S2B-017#1:D>"	"S2B017"	"1"	"D"	NA	"25-29"	"Pakeha"	"Radio Producer/Newsreader"	34	690
+1003	1003	"<S2B-017#1:J>"	"S2B017"	"1"	"J"	"male"	"55-59"	"Pakeha"	"Prime Minister"	2	30
+1004	1004	"<S2B-017#2:G>"	"S2B017"	"2"	"G"	"male"	"45-49"	"Pakeha"	"Journalist"	2	74
+1005	1005	"<S2B-017#2:V>"	"S2B017"	"2"	"V"	NA	"35-39"	"Pakeha"	"Newsreader"	16	322
+1006	1006	"<S2B-017#2:X>"	"S2B017"	"2"	"X"	"male"	NA	NA	NA	15	34
+1007	1007	"<S2B-017#2:Z>"	"S2B017"	"2"	"Z"	"male"	NA	NA	NA	1	45
+1008	1008	"<S2B-017#3:V>"	"S2B017"	"3"	"V"	NA	"35-39"	"Pakeha"	"News Reader"	46	846
+1009	1009	"<S2B-018#1:G>"	"S2B018"	"1"	"G"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster RNZ"	38	609
+1010	1010	"<S2B-018#1:Z>"	"S2B018"	"1"	"Z"	"male"	NA	NA	NA	1	4
+1011	1011	"<S2B-018#2:C>"	"S2B018"	"2"	"C"	NA	"30-34"	"Pakeha"	"Journalist"	28	414
+1012	1012	"<S2B-018#3:W>"	"S2B018"	"3"	"W"	NA	"30-34"	"Maori"	"Journalist/Presenter"	50	1012
+1013	1013	"<S2B-019#1:R>"	"S2B019"	"1"	"R"	"male"	"40-44"	"Pakeha"	"Sports Broadcaster"	40	758
+1014	1014	"<S2B-019#2:D>"	"S2B019"	"2"	"D"	NA	"25-29"	"Pakeha"	"Radio Producer/News Reader"	48	794
+1015	1015	"<S2B-019#2:S>"	"S2B019"	"2"	"S"	NA	NA	NA	NA	3	43
+1016	1016	"<S2B-019#2:T>"	"S2B019"	"2"	"T"	"male"	NA	NA	NA	5	42
+1017	1017	"<S2B-019#2:Z>"	"S2B019"	"2"	"Z"	"male"	NA	NA	NA	4	61
+1018	1018	"<S2B-019#3:A>"	"S2B019"	"3"	"A"	NA	"25-29"	"Pakeha"	"Reporter"	17	306
+1019	1019	"<S2B-020#1:N>"	"S2B020"	"1"	"N"	"male"	"30-34"	"Maori"	"Television Presenter/Reporter"	77	1166
+1020	1020	"<S2B-020#2:T>"	"S2B020"	"2"	"T"	"male"	"40-44"	"Pakeha"	"Television Newscaster"	58	820
+1021	1021	"<S2B-021#1:P>"	"S2B021"	"1"	"P"	"male"	"40-44"	"Pakeha"	"University Reader"	136	1977
+1022	1022	"<S2B-022#1:C>"	"S2B022"	"1"	"C"	NA	"40-44"	"Pakeha"	"Musician/Broadcaster"	55	824
+1023	1023	"<S2B-022#1:X>"	"S2B022"	"1"	"X"	NA	NA	NA	NA	83	51
+1024	1024	"<S2B-022#2:R>"	"S2B022"	"2"	"R"	"male"	"50-54"	"Pakeha"	"Professor"	38	648
+1025	1025	"<S2B-022#3:K>"	"S2B022"	"3"	"K"	NA	"50-54"	"Pakeha"	"Self-Employed"	38	643
+1026	1026	"<S2B-023#1:D>"	"S2B023"	"1"	"D"	"male"	"45-49"	"Pakeha"	"Lawyer/Publisher"	45	692
+1027	1027	"<S2B-023#2:P>"	"S2B023"	"2"	"P"	"male"	"60-64"	"Pakeha"	"Legal Editor/Publisher"	30	690
+1028	1028	"<S2B-023#3:M>"	"S2B023"	"3"	"M"	"male"	"45-49"	"Pakeha"	"Oral Historian"	47	714
+1029	1029	"<S2B-024#1:H>"	"S2B024"	"1"	"H"	"male"	"50-54"	"Maori"	"Catholic Priest"	155	1575
+1030	1030	"<S2B-024#2:F>"	"S2B024"	"2"	"F"	NA	NA	"Pakeha"	"Writer"	27	572
+1031	1031	"<S2B-025#1:G>"	"S2B025"	"1"	"G"	NA	"45-49"	"Pakeha"	"Liaison Officer"	56	1092
+1032	1032	"<S2B-025#1:X>"	"S2B025"	"1"	"X"	NA	NA	NA	NA	55	58
+1033	1033	"<S2B-025#2:F>"	"S2B025"	"2"	"F"	NA	"30-34"	"Pakeha/Dutch"	"Actor"	69	899
+1034	1034	"<S2B-025#2:W>"	"S2B025"	"2"	"W"	NA	NA	NA	NA	3	0
+1035	1035	"<S2B-025#2:Y>"	"S2B025"	"2"	"Y"	"male"	NA	NA	NA	3	0
+1036	1036	"<S2B-026#1:J>"	"S2B026"	"1"	"J"	"male"	"65-69"	"Pakeha"	"Retired Public Servant/Academic"	104	2192
+1037	1037	"<S2B-027#1:J>"	"S2B027"	"1"	"J"	"male"	"65-69"	"Pakeha"	"Retired Public Servant/Academic"	152	2294
+1038	1038	"<S2B-028#1:M>"	"S2B028"	"1"	"M"	"male"	"45-49"	"Pakeha"	"Solicitor"	38	619
+1039	1039	"<S2B-028#2:A>"	"S2B028"	"2"	"A"	NA	"45-49"	"Pakeha"	"Member of Parliament"	34	571
+1040	1040	"<S2B-028#3:V>"	"S2B028"	"3"	"V"	NA	"30-34"	"Maori/Pakeha"	"Journalist/Editor"	34	657
+1041	1041	"<S2B-029#1:F>"	"S2B029"	"1"	"F"	NA	"45-49"	"Maori/Pakeha"	"Advisor to Race Relations"	32	594
+1042	1042	"<S2B-029#2:J>"	"S2B029"	"2"	"J"	"male"	"55-59"	"Pakeha"	"Prime Minister"	64	985
+1043	1043	"<S2B-029#3:L>"	"S2B029"	"3"	"L"	NA	"50-54"	"Pakeha"	"Writer/DPB"	28	598
+1044	1044	"<S2B-030#1:A>"	"S2B030"	"1"	"A"	NA	"50-54"	"Pakeha"	"Research Fellow"	43	856
+1045	1045	"<S2B-030#2:A>"	"S2B030"	"2"	"A"	NA	"50-54"	"Pakeha"	"Research Fellow"	115	1843
+1046	1046	"<S2B-031#1:K>"	"S2B031"	"1"	"K"	"male"	"30-34"	"Other"	"Secretary"	41	679
+1047	1047	"<S2B-031#2:K>"	"S2B031"	"2"	"K"	"male"	"30-34"	"Other"	"Secretary"	103	1639
+1048	1048	"<S2B-032#1:K>"	"S2B032"	"1"	"K"	NA	"50-54"	"Pakeha"	"Self-Employed"	122	1953
+1049	1049	"<S2B-033#1:K>"	"S2B033"	"1"	"K"	NA	"50-54"	"Pakeha"	"Self-Employed"	58	1267
+1050	1050	"<S2B-033#2:K>"	"S2B033"	"2"	"K"	NA	"50-54"	"Pakeha"	"Self-Employed"	72	907
+1051	1051	"<S2B-034#1:G>"	"S2B034"	"1"	"G"	NA	"45-49"	"Pakeha"	"Liaison Officer"	81	1284
+1052	1052	"<S2B-034#1:X>"	"S2B034"	"1"	"X"	NA	NA	NA	NA	106	125
+1053	1053	"<S2B-034#1:Y>"	"S2B034"	"1"	"Y"	NA	NA	NA	NA	48	72
+1054	1054	"<S2B-034#2:G>"	"S2B034"	"2"	"G"	NA	"45-49"	"Pakeha"	"Liaison Officer"	38	594
+1055	1055	"<S2B-035#1:A>"	"S2B035"	"1"	"A"	"male"	"40-44"	"Pakeha"	"Researcher"	174	2226
+1056	1056	"<S2B-036#1:E>"	"S2B036"	"1"	"E"	NA	"50-54"	"Pakeha"	"Lecturer"	161	2277
+1057	1057	"<S2B-037#1:C>"	"S2B037"	"1"	"C"	NA	"60-64"	"Maori"	"Governor General of NZ"	58	964
+1058	1058	"<S2B-037#2:M>"	"S2B037"	"2"	"M"	"male"	"55-59"	"Pakeha"	"Teacher"	52	901
+1059	1059	"<S2B-038#1:E>"	"S2B038"	"1"	"E"	NA	"50-54"	"Pakeha"	"Lecturer"	197	3128
+1060	1060	"<S2B-039#1:G>"	"S2B039"	"1"	"G"	"male"	"40-44"	"Pakeha"	"Entertainer"	98	1309
+1061	1061	"<S2B-039#1:S>"	"S2B039"	"1"	"S"	"male"	NA	NA	NA	5	0
+1062	1062	"<S2B-039#1:U>"	"S2B039"	"1"	"U"	"male"	NA	NA	NA	1	0
+1063	1063	"<S2B-039#1:V>"	"S2B039"	"1"	"V"	"male"	NA	NA	NA	1	4
+1064	1064	"<S2B-039#1:W>"	"S2B039"	"1"	"W"	"male"	NA	NA	NA	1	0
+1065	1065	"<S2B-039#1:Y>"	"S2B039"	"1"	"Y"	NA	NA	NA	NA	1	0
+1066	1066	"<S2B-039#2:T>"	"S2B039"	"2"	"T"	NA	"30-34"	"Pakeha/Dutch"	"Actor"	57	821
+1067	1067	"<S2B-039#2:X>"	"S2B039"	"2"	"X"	"male"	NA	NA	NA	2	0
+1068	1068	"<S2B-040#1:K>"	"S2B040"	"1"	"K"	"male"	"30-34"	"Other"	"Secretary"	116	1854
+1069	1069	"<S2B-041#1:P>"	"S2B041"	"1"	"P"	"male"	"45-49"	"Pakeha"	"Barrister"	132	2443
+1070	1070	"<S2B-042#1:D>"	"S2B042"	"1"	"D"	"male"	"50-54"	"Pakeha"	"Lawyer"	138	2224
+1071	1071	"<S2B-043#1:R>"	"S2B043"	"1"	"R"	"male"	"50-54"	"Pakeha"	"Company Executive"	81	1542
+1072	1072	"<S2B-043#2:G>"	"S2B043"	"2"	"G"	"male"	"35-39"	"Pakeha"	"TV/Film Producer"	113	1596
+1073	1073	"<S2B-044#1:D>"	"S2B044"	"1"	"D"	"male"	"40-44"	"Maori"	"Journalist"	71	955
+1074	1074	"<S2B-044#2:G>"	"S2B044"	"2"	"G"	"male"	"45-49"	"Pakeha"	"Director Public Affairs TVNZ"	114	1590
+1075	1075	"<S2B-045#1:A>"	"S2B045"	"1"	"A"	"male"	"60-64"	"Pakeha"	"Dean of Commerce"	109	1606
+1076	1076	"<S2B-045#2:R>"	"S2B045"	"2"	"R"	"male"	"50-54"	"Pakeha"	"Professor"	123	1739
+1077	1077	"<S2B-046#1:T>"	"S2B046"	"1"	"T"	"male"	"45-49"	"Pakeha"	"Lecturer"	82	1958
+1078	1078	"<S2B-047#1:C>"	"S2B047"	"1"	"C"	"male"	"40-44"	"Pakeha"	"Member of Parliament"	77	1786
+1079	1079	"<S2B-047#1:X>"	"S2B047"	"1"	"X"	NA	NA	NA	NA	5	0
+1080	1080	"<S2B-048#1:F>"	"S2B048"	"1"	"F"	NA	"45-49"	"Pakeha"	"Social Researcher"	125	1979
+1081	1081	"<S2B-048#1:X>"	"S2B048"	"1"	"X"	NA	NA	NA	NA	1	0
+1082	1082	"<S2B-049#1:L>"	"S2B049"	"1"	"L"	"male"	NA	"Pakeha"	"Former Lecturer"	105	1971
+1083	1083	"<S2B-050#1:C>"	"S2B050"	"1"	"C"	NA	NA	NA	NA	26	561
+1084	1084	"<S2B-050#1:J>"	"S2B050"	"1"	"J"	NA	NA	NA	NA	73	1643
+1085	1085	"<S2B-050#1:X>"	"S2B050"	"1"	"X"	NA	NA	NA	NA	3	0

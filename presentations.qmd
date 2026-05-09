@@ -1,8 +1,25 @@
 ---
-title: "Presentations & Talks"
+title: ""
 ---
 
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Academic talks</p>
+    <h1 class="pg-title">Presentations &amp; Talks</h1>
+    <p class="pg-subtitle">1 plenary &nbsp;·&nbsp; 42 conference talks &nbsp;·&nbsp; 6 posters &nbsp;·&nbsp; 19 public lectures &amp; webinars &nbsp;·&nbsp; 14 invited talks &nbsp;·&nbsp; 12 application talks</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">Slides linked where available</span>
+      <span class="pg-hbadge">Videos linked where available</span>
+    </div>
+  </div>
+</div>
+```
+
+
 ## Conference & Workshop Organization
+
+**IC:** [XXIII International CALL Research Conference](https://languages-cultures.uq.edu.au/), Brisbane, Australia, 3–5/10/2025 (with Peter Crosthwaite, Paul Moore, Noriko Iwashita, Hao Tran & Teresa Hien)
 
 **IC:** [ISLE7 (7th Meeting of the International Society for the Linguistics of English)](https://languages-cultures.uq.edu.au/isle7), Brisbane, Australia, 19–23/6/2023. International hybrid conference (with Kate Burridge & Michael Haugh)
 

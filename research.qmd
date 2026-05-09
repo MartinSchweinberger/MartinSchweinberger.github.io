@@ -1,6 +1,43 @@
 ---
-title: "Research"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">What I do</p>
+    <h1 class="pg-title">Research &amp; Projects</h1>
+    <p class="pg-subtitle">Computational corpus linguistics &nbsp;·&nbsp; Digital discourse &nbsp;·&nbsp; Language data science &nbsp;·&nbsp; AU$16M+ in research funding</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">LADAL Director</span>
+      <span class="pg-hbadge">LDaCA CI</span>
+      <span class="pg-hbadge">ARDC HASS Digital Champion 2019</span>
+    </div>
+  </div>
+</div>
+```
+
+
+
+```{=html}
+<div class="tag-cloud">
+  <span class="tag tag-navy">Corpus linguistics</span>
+  <span class="tag tag-navy">Digital discourse</span>
+  <span class="tag tag-navy">Language variation &amp; change</span>
+  <span class="tag tag-navy">Social media analysis</span>
+  <span class="tag">R / RStudio</span>
+  <span class="tag">Python / NLTK</span>
+  <span class="tag">NLP &amp; machine learning</span>
+  <span class="tag">Mixed-effects models</span>
+  <span class="tag">Tree-based models</span>
+  <span class="tag">Semantic vector spaces</span>
+  <span class="tag">Acoustic phonetics (Praat)</span>
+  <span class="tag">Eye-tracking data</span>
+  <span class="tag tag-gold">Reproducibility &amp; open science</span>
+  <span class="tag tag-gold">FAIR data principles</span>
+  <span class="tag tag-gold">Research infrastructure</span>
+</div>
+```
 
 ## Research Profile
 

@@ -1,93 +1,597 @@
 ---
-title: "Martin Schweinberger"
+title: ""
+toc: false
+page-layout: full
 ---
 
-::: {.columns}
-::: {.column width="70%"}
+```{=html}
+<!-- ═══════════════════════════════════════════════════════════
+     HERO — side-by-side layout (photo right, text left)
+═══════════════════════════════════════════════════════════ -->
+<section class="ms-hero">
+  <div class="ms-hero-inner">
 
-**ABOUT**
+    <div class="ms-hero-text">
+      <p class="ms-eyebrow">Senior Lecturer in Applied Linguistics &nbsp;·&nbsp; University of Queensland</p>
+      <h1 class="ms-hero-title">Martin Schweinberger</h1>
+      <p class="ms-hero-sub">
+        Computational corpus linguist specialising in language variation, digital discourse,
+        and language data science. Director of <a href="https://ladal.edu.au" class="ms-hero-link">LADAL</a>
+        and CI of <a href="https://ldaca.edu.au" class="ms-hero-link">LDaCA</a>.
+      </p>
+      <div class="ms-hero-actions">
+        <a href="publications.qmd" class="ms-btn-primary">Publications</a>
+        <a href="research.qmd" class="ms-btn-ghost">Research &amp; Projects →</a>
+      </div>
+      <div class="ms-badges">
+        <span class="ms-badge">23 journal articles</span>
+        <span class="ms-badge">20+ book chapters</span>
+        <span class="ms-badge">AU$16M+ funding</span>
+        <span class="ms-badge">ISLE VP Profession</span>
+        <span class="ms-badge">ICAME Board</span>
+      </div>
+    </div>
 
-My name is Martin Schweinberger and I am Senior Lecturer in Applied Linguistics at the [University of Queensland (UQ)](https://www.uq.edu.au/) in Australia. At UQ, I am Director of the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au) (together with Michael Haugh) and I would consider myself a quantitative corpus linguist specialised in computational analyses of text and speech. In my research, I aim to combine and bridge the gap between computational linguistics and corpus linguistics.
+    <div class="ms-hero-photo">
+      <img src="images/martinschweinbergeruq.jpg"
+           alt="Dr Martin Schweinberger"
+           class="ms-photo" />
+    </div>
 
-I am steering committee member and Chief Investigator (CI) of the [Language Data Commons of Australia (LDaCA)](https://www.ldaca.edu.au/) where I focus on producing resources and training through LADAL. LDaCA aims at establishing language data infrastructures and text analytics upskilling resources in Australia and has received substantive funding from the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/). I am Associate Editor of the [*Australian Review of Applied Linguistics* (ARAL)](https://alaa.net.au/ARALJournal) and book series editor for the Bloomsbury series [*Language, Data Science and Digital Humanities*](https://www.bloomsbury.com/au/series/language-data-science-and-digital-humanities/). Finally, I am also Vice-President Profession of the [International Society for the Linguistics of English (ISLE)](https://www.isle-linguistics.org/) and re-elected board member of the [International Computer Archive of Modern and Medieval English (ICAME)](https://icame.info/).
+  </div>
+</section>
 
-Regarding my background, I have a PhD in English linguistics and I studied at the Universität Kassel, Germany, where I graduated in 2008 with an MA in English Philology, Philosophy, and Psychology. After my MA, I remained in Kassel for a short while but soon moved to Hamburg to work on my PhD thesis.
+<!-- ═══════════════════════════════════════════════════════════
+     STATS BAR
+═══════════════════════════════════════════════════════════ -->
+<section class="ms-stats-bar">
+  <div class="ms-stat">
+    <span class="ms-stat-num">1.1M+</span>
+    <span class="ms-stat-label">LADAL page views</span>
+  </div>
+  <div class="ms-stat">
+    <span class="ms-stat-num">AU$16M+</span>
+    <span class="ms-stat-label">Competitive funding</span>
+  </div>
+  <div class="ms-stat">
+    <span class="ms-stat-num">42</span>
+    <span class="ms-stat-label">Conference talks</span>
+  </div>
+  <div class="ms-stat">
+    <span class="ms-stat-num">96+</span>
+    <span class="ms-stat-label">Media reports</span>
+  </div>
+</section>
+```
 
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT — kept as Markdown for easy editing
+═══════════════════════════════════════════════════════════ -->
+
+```{=html}
+<section class="ms-section ms-section-white">
+  <div class="ms-section-inner ms-about-grid">
+    <div class="ms-about-text">
+```
+
+**About**
+
+My name is Martin Schweinberger and I am Senior Lecturer in Applied Linguistics and Director of Research at the [University of Queensland (UQ)](https://www.uq.edu.au/), Australia. I am Director of the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au) and a quantitative corpus linguist specialised in computational analyses of text and speech.
+
+I am Steering Committee member and Chief Investigator (CI) of the [Language Data Commons of Australia (LDaCA)](https://www.ldaca.edu.au/). I am Associate Editor of the [*Australian Review of Applied Linguistics* (ARAL)](https://alaa.net.au/ARALJournal), Editorial Board member of the *Journal of English and Applied Linguistics*, and book series editor for the Bloomsbury series [*Language, Data Science and Digital Humanities*](https://www.bloomsbury.com/au/series/language-data-science-and-digital-humanities/). I am Vice-President Profession of the [International Society for the Linguistics of English (ISLE)](https://www.isle-linguistics.org/) and board member of the [International Computer Archive of Modern and Medieval English (ICAME)](https://icame.info/).
+
+I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*) and an MA from Universität Kassel (1.1). I am a native speaker of German and work at near-native level in English.
+
+```{=html}
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<!-- ═══════════════════════════════════════════════════════════
+     RESEARCH AREAS — card grid
+═══════════════════════════════════════════════════════════ -->
+<section class="ms-section ms-section-tint">
+  <div class="ms-section-inner">
+    <p class="ms-section-label">Research focus</p>
+    <h2 class="ms-section-title">What I work on</h2>
+    <div class="ms-cards">
+
+      <div class="ms-card">
+        <div class="ms-card-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+        </div>
+        <h3>Language Variation &amp; Change</h3>
+        <p>Mechanisms of change in English amplifier systems, discourse markers, and particles across varieties of English — with particular focus on Irish, Australian, and New Zealand English.</p>
+      </div>
+
+      <div class="ms-card">
+        <div class="ms-card-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+        </div>
+        <h3>Digital Discourse &amp; Vulgarity</h3>
+        <p>Corpus-based analysis of vulgarity, impoliteness, and sociolinguistic variation in online and social media discourse — combining computational and interpretive-pragmatic methods.</p>
+      </div>
+
+      <div class="ms-card">
+        <div class="ms-card-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+        </div>
+        <h3>Language Data Science</h3>
+        <p>Computational humanities, text analytics, NLP, and machine learning applied to language data — with a strong commitment to reproducibility, open science, and FAIR data principles.</p>
+      </div>
+
+      <div class="ms-card">
+        <div class="ms-card-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+        </div>
+        <h3>Research Infrastructure</h3>
+        <p>Building open-access digital research infrastructure for the humanities — directing LADAL and contributing to LDaCA, Australia's national language data commons, reaching 500K+ researchers worldwide.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════
+     BOOKS IN PROGRESS — signal for hiring committees
+═══════════════════════════════════════════════════════════ -->
+<section class="ms-section ms-section-white">
+  <div class="ms-section-inner">
+    <p class="ms-section-label">In progress</p>
+    <h2 class="ms-section-title">Books under contract</h2>
+    <div class="ms-book-cards">
+
+      <div class="ms-book-card">
+        <div class="ms-book-publisher">Cambridge University Press</div>
+        <h3 class="ms-book-title">Data-Intensive Pragmatics: Doing Pragmatics at Scale</h3>
+        <p class="ms-book-series">Cambridge Elements in Pragmatics · Eds. Jonathan Culpeper &amp; Michael Haugh</p>
+        <p class="ms-book-status">Contract signed 11/2025 · Manuscript due 09/2026</p>
+      </div>
+
+      <div class="ms-book-card">
+        <div class="ms-book-publisher">Edinburgh University Press</div>
+        <h3 class="ms-book-title">A Practical Introduction to Distant Reading and Text Analysis</h3>
+        <p class="ms-book-series">Single-authored monograph</p>
+        <p class="ms-book-status">Manuscript due 12/2026</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════
+     DIGITAL FOOTPRINT — compact link strip
+═══════════════════════════════════════════════════════════ -->
+<section class="ms-section ms-section-navy">
+  <div class="ms-section-inner ms-footprint">
+    <div class="ms-footprint-text">
+      <p class="ms-section-label" style="color:rgba(255,255,255,0.55);">Find me online</p>
+      <h2 style="color:#fff; font-size:1.3rem; margin:0 0 0.4rem;">Digital Footprint</h2>
+      <p style="color:rgba(255,255,255,0.70); font-size:0.9rem; margin:0;">
+        ORCID: <a href="https://orcid.org/0000-0003-1923-9153" class="ms-navy-link">0000-0003-1923-9153</a>
+      </p>
+    </div>
+    <div class="ms-footprint-links">
+      <a href="https://scholar.google.com/citations?user=zgFnhd8AAAAJ&hl=en" class="ms-profile-btn">Google Scholar</a>
+      <a href="https://www.researchgate.net/profile/Martin_Schweinberger" class="ms-profile-btn">ResearchGate</a>
+      <a href="https://github.com/MartinSchweinberger" class="ms-profile-btn">GitHub</a>
+      <a href="https://ladal.edu.au" class="ms-profile-btn">LADAL</a>
+      <a href="https://www.linkedin.com/in/martin-schweinberger-53515a96/" class="ms-profile-btn">LinkedIn</a>
+      <a href="https://www.ldaca.edu.au/" class="ms-profile-btn">LDaCA</a>
+    </div>
+  </div>
+</section>
+```
+
+<!-- ═══════════════════════════════════════════════════════════
+     NEWS — kept as Markdown so you can edit it easily
+═══════════════════════════════════════════════════════════ -->
+
+```{=html}
+<section class="ms-section ms-section-white">
+  <div class="ms-section-inner">
+    <p class="ms-section-label">Latest</p>
+    <h2 class="ms-section-title">News</h2>
+    <div class="ms-news-list">
+```
+
+::: {.ms-news-item}
+**12/12/2025** — Invited talk on **Vulgarity in World Englishes** at LMU Munich (Stephanie Hackert). [(slides)](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx)
 :::
-::: {.column width="30%"}
 
-![Dr Martin Schweinberger](images/martinschweinberger-uq.jpg){width=100% fig-alt="Dr Martin Schweinberger"}
-
-:::
+::: {.ms-news-item}
+**7/11/2025** — Talk on **Vulgarity in Spoken Interaction Across Englishes** + Lightning Talk on **Data Structure Harmonization** at the *Forum on Englishes in Australia*, Melbourne.
 :::
 
----
-
-::: {.columns}
-::: {.column width="70%"}
-
-**RESEARCH AREAS**
-
-- Mechanisms of language variation and change
-- Determinants of language use and linguistic variability
-- Discourse markers and particles / adjective intensification
-- L1 & L2 acquisition
-- Computational modelling and visualization of linguistic data
-- Computational Humanities (Digital Humanities)
-- Language Data Science and reproducibility
-- Best Practices in text analytics and data management
-
----
-
-**DIGITAL FOOTPRINT**
-
-My ORCID is [0000-0003-1923-9153](https://orcid.org/0000-0003-1923-9153) and you can also find me on [Google Scholar](https://scholar.google.com/citations?user=zgFnhd8AAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Martin_Schweinberger), [LinkedIn](https://www.linkedin.com/in/martin-schweinberger-53515a96/?originalSubdomain=au), [GitHub](https://github.com/MartinSchweinberger), [GitLab](https://gitlab.com/MartinSchweinberger), or follow me on Twitter/X (@ronautic).
-
-:::
-::: {.column width="30%"}
-
-![Martin](images/martin-schweinberger-private-uq.jpg){width=100% fig-alt="Martin"}
-
-:::
+::: {.ms-news-item}
+**12/10/2025** — Invited lecture on **Vulgarity in World Englishes** at the University of South Australia. [(slides)](resources/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx) · [(recording)](https://www.youtube.com/watch?v=Y0EFJMZn4KM)
 :::
 
----
+::: {.ms-news-item}
+**13/6/2025** — New article in [**The Conversation**](https://theconversation.com/201-ways-to-say-fuck-what-1-7-billion-words-of-online-text-shows-about-how-the-world-swears-257815): *"201 ways to say 'fuck': what 1.7 billion words of online text shows about how the world swears"* (with Kate Burridge).
+:::
 
-**NEWS**
+::: {.ms-news-item}
+**23/5/2025** — **National TV coverage** — Kate's and my study on vulgarity featured on [Channel 10 News](https://www.facebook.com/watch/?v=1908501349952962).
+:::
 
-**12/12/2025:** Stephanie Hackert from LMU Munich invited me to give a talk on **Vulgarity in World Englishes** [(slides)](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx).
+::: {.ms-news-item}
+**22–23/5/2025** — Interviews on **ABC Drive** (Ellen Fanning) and **ABC Radio Melbourne** (Ali Moore) discussing vulgarity in public discourse. [Listen (ABC Drive)](https://www.abc.net.au/listen/programs/brisbane-drive/drive/105307926) · [Open-access paper](https://tinyurl.com/vulgarity-lingua)
+:::
 
-**7/11/2025:** Giving a talk on **Vulgarity in Spoken Interaction Across Englishes** and a Lightning Talk on **Data Structure Harmonization** at the ***Forum on Englishes*** in Australia in Melbourne.
+::: {.ms-news-item}
+**27/1/2025** — Invited talk at Universität Hamburg on **Indigenous Australian Languages & LDaCA**. [(slides)](resources/Schweinberger_UHH_LanguagesAustralia_LDaCA(1).pptx)
+:::
 
-**12/10/2025:** Amir Sheikhan from the University of South Australia invited me to give a **lecture on "Vulgarity in World Englishes"**. [(slides](resources/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx) and [recording)](https://www.youtube.com/watch?v=Y0EFJMZn4KM)
+::: {.ms-news-item}
+**25/11/2024** — Invited talk at Universität Bonn on **Vulgarity in Online Discourse**. [(slides)](resources/UBonn_Vulgarity_Schweinberger_20241125(2).pptx)
+:::
 
-**13/6/2025:** Just out: [**The Conversation** article](https://theconversation.com/201-ways-to-say-fuck-what-1-7-billion-words-of-online-text-shows-about-how-the-world-swears-257815) about "201 ways to say 'fuck'" by Kate Burridge and myself.
+::: {.ms-news-item}
+**16/12/2023** — Invited application talk at Universität Innsbruck on **adjective amplification**. [(slides)](resources/AdjAmp_Schweinberger_Innsbruck.pptx)
+:::
 
-**6/4/2025:** Was on **ABC Radio Melbourne Victorian Evenings with David Astle** together with Kate Burridge (28:28–42:32) — you can [listen to the segment here](https://www.abc.net.au/listen/programs/melbourne-evenings/evenings/105360986).
+::: {.ms-news-item}
+**19/1/2023** — Workshop on **conditional inference trees** at Universität Bonn. [(materials)](https://martinschweinberger.github.io/TreesUBonn/)
+:::
 
-**30/5/2025:** Was on **ABC Radio Hobart with Joel Rheinberger** (4:15–18:50) to discuss Kate's and my paper on vulgarity in online discourse. You can [listen to the segment here](https://www.abc.net.au/listen/programs/hobart-your-afternoon/afternoons/105336798) and [read our open-access paper here](https://t.co/czEE3vLTOI).
+::: {.ms-news-item}
+**13/1/2023** — Invited talk on **Reproducibility in corpus-based analyses of learner speech** at Universität Hamburg. [(slides)](resources/ReproL2_UHH_Schweinberger.pdf)
+:::
 
-**23/5/2025:** **I was on TV — Kate's and my study made it to the national news!** [Check out this Channel 10 News segment!](https://www.facebook.com/watch/?v=1908501349952962)
+::: {.ms-news-item}
+**25/10/2022** — Talk on **transparency and reproducibility in Corpus Linguistics** for the [Sydney Corpus Lab](https://sydneycorpuslab.com/). [(slides)](resources/SCL_Reproducibility_Schweinberger_min-1.pdf)
+:::
 
-**22–23/5/2025:** I spoke about vulgarity in public and online discourse on **ABC Drive with Ellen Fanning** (22 May) and on **ABC Radio Melbourne with Ali Moore** (23 May). You can [listen to the ABC Drive interview here](https://www.abc.net.au/listen/programs/brisbane-drive/drive/105307926) (17:50–33:00), and [read our open-access paper (with Kate Burridge) here](https://tinyurl.com/vulgarity-lingua).
+```{=html}
+    </div><!-- /.ms-news-list -->
+  </div>
+</section>
 
-**27/1/2025:** I am invited to the University of Hamburg to talk about **Indigenous Australian Languages — Linguistic Features, Revitalization Efforts, and Research Infrastructure for Archiving and Accessibility** as part of the Lecture Series "Preserving the Past – Shaping the Future: Zur Dokumentation von Sprache und Kultur" [(slides)](resources/Schweinberger_UHH_LanguagesAustralia_LDaCA.pptx).
+<!-- ═══════════════════════════════════════════════════════════
+     ACKNOWLEDGEMENTS
+═══════════════════════════════════════════════════════════ -->
+<section class="ms-ack">
+  <div class="ms-section-inner">
+    <p>I would like to thank <a href="https://sfla.ch/" class="ms-navy-link">Susanne Flach</a> for her help setting up this website. <em>Last updated 2025/05.</em></p>
+  </div>
+</section>
 
-**25/11/2024:** I am invited to the University of Bonn to talk about **Vulgarity in Online Discourse around the English-Speaking World** [(slides)](resources/UBonn_Vulgarity_Schweinberger_20241125.pptx).
+<!-- ═══════════════════════════════════════════════════════════
+     PAGE-LEVEL CSS — all scoped to ms- prefix
+═══════════════════════════════════════════════════════════ -->
+<style>
 
-**16/12/2023:** I have been invited to give a talk at the University of Innsbruck about **what we can learn from analyses of adjective amplification** [(slides)](resources/AdjAmp_Schweinberger_Innsbruck.pptx).
+/* ── Shared section structure ──────────────────────────── */
+.ms-section { padding: 4rem 1.5rem; }
+.ms-section-inner { max-width: 900px; margin: 0 auto; }
+.ms-section-white { background: #fff; }
+.ms-section-tint  { background: #E8F2FC; }
+.ms-section-navy  { background: #0D1B2A; }
 
-**13/12/2023:** I'm invited to give a talk on my research about computational analyses of **vowel production among L1- and L2-speakers of English** at the Carl von Ossietzky University Oldenburg.
+.ms-section-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #C9A84C;
+  margin: 0 0 0.4rem;
+}
+.ms-section-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #0D1B2A;
+  margin: 0 0 1.8rem;
+  letter-spacing: -0.02em;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
 
-**2/11/2023:** I just checked the **web-traffic analytics of [LADAL](https://ladal.edu.au/)** and since starting the analytics on January 1, 2021, we have had **more than 750,000 page views, 400,000+ active sessions, and 300,000+ users**!
+/* ── Hero ──────────────────────────────────────────────── */
+.ms-hero {
+  background: linear-gradient(135deg, #0D1B2A 0%, #1A3A5C 100%);
+  padding: 4rem 1.5rem 3rem;
+  border-bottom: 3px solid #C9A84C;
+}
+.ms-hero-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+.ms-hero-text { flex: 1; }
+.ms-hero-photo { flex-shrink: 0; }
+.ms-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  border: 4px solid rgba(201,168,76,0.6);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+}
+.ms-eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #C9A84C;
+  margin: 0 0 0.6rem;
+}
+.ms-hero-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+  margin: 0 0 1rem;
+  border: none !important;
+  padding: 0 !important;
+}
+.ms-hero-sub {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.78);
+  line-height: 1.65;
+  margin: 0 0 1.5rem;
+  max-width: 520px;
+}
+.ms-hero-link {
+  color: #E8C96B;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(232,201,107,0.4);
+}
+.ms-hero-link:hover { color: #fff; border-bottom-color: #fff; }
 
-**19/1/2023:** I am giving a **workshop on conditional inference trees** at the Rheinische Friedrich-Wilhelms-Universität Bonn [(workshop materials)](https://martinschweinberger.github.io/TreesUBonn/).
+.ms-hero-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.4rem;
+}
+.ms-btn-primary {
+  background: #C9A84C;
+  color: #0D1B2A !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 0.55rem 1.4rem;
+  border-radius: 4px;
+  text-decoration: none !important;
+  border: none;
+  transition: background 0.18s;
+}
+.ms-btn-primary:hover { background: #E8C96B; border-bottom: none !important; }
+.ms-btn-ghost {
+  background: transparent;
+  color: rgba(255,255,255,0.85) !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.55rem 1.2rem;
+  border-radius: 4px;
+  border: 1px solid rgba(255,255,255,0.28) !important;
+  text-decoration: none !important;
+  transition: border-color 0.18s, color 0.18s;
+}
+.ms-btn-ghost:hover { color: #fff !important; border-color: rgba(255,255,255,0.6) !important; border-bottom: 1px solid rgba(255,255,255,0.6) !important; }
 
-**13/1/2023:** I am invited to give a **talk entitled *Reproducibility in corpus-based computational analyses of learner speech*** at the Institute of English Studies at the University of Hamburg [(slides)](resources/ReproL2_UHH_Schweinberger.pdf).
+.ms-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+.ms-badge {
+  background: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.80);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 0.25rem 0.7rem;
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.15);
+  letter-spacing: 0.02em;
+}
 
-**25/10/2022:** I have the honour of giving a **talk about transparency and reproducibility in Corpus Linguistics for the [Sydney Corpus Lab](https://sydneycorpuslab.com/)** led by Monika Bednarek at the University of Sydney. [Here is a link to the slides](resources/SCL_Reproducibility_Schweinberger_min-1.pdf).
+/* ── Stats bar ──────────────────────────────────────────── */
+.ms-stats-bar {
+  background: #1A3A5C;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 2rem 2rem;
+}
+.ms-stat { text-align: center; padding: 0.5rem 1rem; }
+.ms-stat-num {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #C9A84C;
+  line-height: 1;
+}
+.ms-stat-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: rgba(255,255,255,0.60);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-top: 4px;
+  display: block;
+}
 
-**1/9/2022:** I co-organized the workshop [***Computational Thinking in the Humanities***](https://ladal.edu.au/compthinking.html). The workshop focused on the history and future as well as the challenges and the potential of computational approaches in the humanities and social sciences.
+/* ── About ──────────────────────────────────────────────── */
+.ms-about-grid { max-width: 760px; }
+.ms-about-grid p { font-size: 0.97rem; line-height: 1.8; }
+.ms-about-grid strong { font-weight: 700; color: #0D1B2A; }
 
----
+/* ── Research cards ─────────────────────────────────────── */
+.ms-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+.ms-card {
+  background: #fff;
+  border: 1px solid #D0D8E4;
+  border-top: 3px solid #C9A84C;
+  border-radius: 6px;
+  padding: 1.3rem 1.4rem;
+  transition: box-shadow 0.18s, transform 0.18s;
+}
+.ms-card:hover {
+  box-shadow: 0 6px 20px rgba(13,27,42,0.10);
+  transform: translateY(-2px);
+}
+.ms-card-icon {
+  color: #2563A8;
+  margin-bottom: 0.7rem;
+}
+.ms-card h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #0D1B2A;
+  margin: 0 0 0.5rem;
+  border: none !important;
+  padding: 0 !important;
+}
+.ms-card p {
+  font-size: 0.84rem;
+  color: #4A6A8A;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ── Book cards ─────────────────────────────────────────── */
+.ms-book-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+.ms-book-card {
+  background: #F7F8FA;
+  border: 1px solid #D0D8E4;
+  border-left: 4px solid #2563A8;
+  border-radius: 4px;
+  padding: 1.2rem 1.4rem;
+}
+.ms-book-publisher {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2563A8;
+  margin-bottom: 0.4rem;
+}
+.ms-book-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #0D1B2A;
+  margin: 0 0 0.3rem;
+  border: none !important;
+  padding: 0 !important;
+  line-height: 1.3;
+}
+.ms-book-series {
+  font-size: 0.82rem;
+  color: #4A6A8A;
+  font-style: italic;
+  margin: 0 0 0.3rem;
+}
+.ms-book-status {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #C9A84C;
+  margin: 0;
+}
+
+/* ── Digital footprint strip ────────────────────────────── */
+.ms-footprint {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.ms-footprint-text { flex-shrink: 0; }
+.ms-footprint-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.ms-profile-btn {
+  background: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.82) !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.35rem 0.9rem;
+  border-radius: 4px;
+  border: 1px solid rgba(255,255,255,0.18) !important;
+  text-decoration: none !important;
+  transition: background 0.15s, color 0.15s;
+}
+.ms-profile-btn:hover {
+  background: rgba(201,168,76,0.25);
+  color: #E8C96B !important;
+  border-color: rgba(201,168,76,0.4) !important;
+  border-bottom: 1px solid rgba(201,168,76,0.4) !important;
+}
+.ms-navy-link { color: rgba(255,255,255,0.75); border-bottom: 1px solid rgba(255,255,255,0.25); }
+.ms-navy-link:hover { color: #E8C96B; border-bottom-color: #E8C96B; }
+
+/* ── News list ──────────────────────────────────────────── */
+.ms-news-list { display: flex; flex-direction: column; gap: 0; }
+.ms-news-item {
+  border-left: 3px solid #D0D8E4;
+  padding: 0.65rem 0 0.65rem 1.1rem;
+  font-size: 0.93rem;
+  color: #1A3A5C;
+  line-height: 1.6;
+  transition: border-color 0.15s;
+}
+.ms-news-item:hover { border-left-color: #C9A84C; }
+.ms-news-item strong { color: #0D1B2A; font-weight: 600; }
+.ms-news-item + .ms-news-item { border-top: 1px solid #EEF1F5; margin-top: 0; }
+
+/* ── Acknowledgement strip ──────────────────────────────── */
+.ms-ack {
+  background: #F7F8FA;
+  border-top: 1px solid #D0D8E4;
+  padding: 1.2rem 1.5rem;
+}
+.ms-ack p {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 0.82rem;
+  color: #4A6A8A;
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 680px) {
+  .ms-hero-inner { flex-direction: column-reverse; gap: 1.5rem; text-align: center; }
+  .ms-photo { width: 140px; height: 140px; }
+  .ms-hero-title { font-size: 2rem; }
+  .ms-hero-actions { justify-content: center; }
+  .ms-badges { justify-content: center; }
+  .ms-stats-bar { gap: 4px; padding: 1.5rem 1rem; }
+  .ms-stat-num { font-size: 1.6rem; }
+  .ms-footprint { flex-direction: column; gap: 1rem; }
+  .ms-section-title { font-size: 1.4rem; }
+}
+</style>
+```
+
 

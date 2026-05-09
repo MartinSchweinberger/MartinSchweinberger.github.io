@@ -1,10 +1,29 @@
 ---
-title: "Memberships & Reviewing"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Community &amp; service</p>
+    <h1 class="pg-title">Memberships &amp; Reviewing</h1>
+    <p class="pg-subtitle">ISLE Vice-President Profession &nbsp;·&nbsp; ICAME Board &nbsp;·&nbsp; Associate Editor ARAL &nbsp;·&nbsp; Reviewer for 14 international journals</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">ISLE</span>
+      <span class="pg-hbadge">ICAME</span>
+      <span class="pg-hbadge">LDaCA</span>
+      <span class="pg-hbadge">ALS</span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## Leadership Positions
 
-- Vice-President Profession of the [*International Society for the Linguistics of English*](https://www.isle-linguistics.org) (ISLE) (elected)
+- Associate Editor of the [*Australian Review of Applied Linguistics* (ARAL)](https://alaa.net.au/ARALJournal) (since 1/2024)
+- Editorial Board member of the *Journal of English and Applied Linguistics* (since 9/2024)
+- Book series editor, [*Language, Data Science and Digital Humanities*](https://www.bloomsbury.com/au/series/language-data-science-and-digital-humanities/) (Bloomsbury Academic, since 10/2024)
 - Board member of the [*International Computer Archive of Modern and Medieval English*](http://icame.info) (ICAME) (re-elected)
 - Steering committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, since 2024)
 - Advisory committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, 2023)
@@ -42,6 +61,9 @@ I have been reviewing for:
 - [*Journal of Pragmatics*](https://www.journals.elsevier.com/journal-of-pragmatics) (JoP, Q1, since 5/2017)
 - [*Language in Society*](https://www.cambridge.org/core/journals/language-in-society) (LSoc, Q1, since 3/2018)
 - [*Open Linguistics*](https://www.degruyter.com/view/j/opli?lang=en) (Q2, since 11/2019)
+- *Pragmatics & Society* (P&S, Q1, since 11/2019)
+- *Research in Corpus Linguistics* (RCL, since 8/2023)
+- *Studia Linguistica* (SL, Q2, since 3/2024)
 
 In addition, I have been reviewing book proposals, monographs, and chapters for edited volumes by various publishers (e.g. Cambridge University Press, John Benjamins, and Peter Lang).
 

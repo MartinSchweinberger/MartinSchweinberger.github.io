@@ -1,6 +1,22 @@
 ---
-title: "Teaching"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Education &amp; mentoring</p>
+    <h1 class="pg-title">Teaching</h1>
+    <p class="pg-subtitle">University courses at MA and BA level &nbsp;·&nbsp; PhD supervision &nbsp;·&nbsp; Workshops across Australia, Germany, and Norway</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">Inductive learning approach</span>
+      <span class="pg-hbadge">Research-led teaching</span>
+      <span class="pg-hbadge">Graduate Certificate in Social &amp; Cultural Data Analytics (2026)</span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## Future Supervision
 

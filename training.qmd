@@ -1,6 +1,22 @@
 ---
-title: "Training"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Skills development</p>
+    <h1 class="pg-title">Workshops &amp; Training</h1>
+    <p class="pg-subtitle">60+ free tutorials via LADAL &nbsp;·&nbsp; Workshops at universities in Australia, Germany, Finland, and Norway &nbsp;·&nbsp; Science management certification</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">R programming</span>
+      <span class="pg-hbadge">Text analytics</span>
+      <span class="pg-hbadge">Statistics for linguists</span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## Professional Training — Science Management
 

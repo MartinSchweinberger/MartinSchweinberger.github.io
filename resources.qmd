@@ -1,6 +1,21 @@
 ---
-title: "Resources"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Open-access materials</p>
+    <h1 class="pg-title">Resources</h1>
+    <p class="pg-subtitle">Free tutorials, R scripts, data sets, and course materials &nbsp;·&nbsp; All open-access via LADAL and GitHub</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge"><a href="https://ladal.edu.au" style="color:inherit;text-decoration:none;">ladal.edu.au</a></span>
+      <span class="pg-hbadge"><a href="https://github.com/MartinSchweinberger" style="color:inherit;text-decoration:none;">GitHub</a></span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## Tutorials
 

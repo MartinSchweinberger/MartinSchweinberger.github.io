@@ -1,0 +1,315 @@
+"id"	"part"	"text.id"	"spk.ref"	"speaker.id"	"gender"	"age.exact"	"age"	"dialect.of.english"	"dialect.state"	"current.state"	"ed.level"	"ed.years"	"occupation"	"ethnicity"	"speech.unit.count"	"word.count"
+"1"	1	"sbc001"	"doris"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	50	592
+"2"	1	"sbc001"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2
+"3"	1	"sbc001"	"lenore"	NA	"female"	"30"	"26-33"	"los angeles"	"california"	"california"	"college or higher"	"16"	"student"	"white"	62	348
+"4"	1	"sbc001"	"lynne"	NA	"female"	"19"	"19-25"	"montana"	"montana"	NA	"high school or lower"	"12"	"student/ho"	"white"	107	4066
+"5"	1	"sbc002"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	1
+"6"	1	"sbc002"	"harold"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	162	942
+"7"	1	"sbc002"	"jamie"	NA	"female"	"30"	"26-33"	"walnut cre"	"california"	"california"	"college or higher"	"16"	"dancer/da"	"white"	235	1108
+"8"	1	"sbc002"	"miles"	NA	"male"	NA	NA	NA	NA	"california"	NA	NA	NA	"african-american"	203	2354
+"9"	1	"sbc002"	"pete"	NA	"male"	"36"	"34-41"	"san leandr"	"california"	"california"	NA	"18"	"grad student"	"white"	157	406
+"10"	1	"sbc003"	"marilyn"	NA	"female"	"33"	"26-33"	NA	NA	"california"	NA	NA	"writer"	"white"	306	2189
+"11"	1	"sbc003"	"pete"	NA	"male"	"36"	"34-41"	"san leandr"	"california"	"california"	NA	"18"	"grad student"	"white"	277	1050
+"12"	1	"sbc003"	"roy"	NA	"male"	"34"	"34-41"	NA	NA	"california"	NA	NA	"designer"	"white"	217	1449
+"13"	1	"sbc004"	"carolyn"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	180	1079
+"14"	1	"sbc004"	"dog"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	0
+"15"	1	"sbc004"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	2
+"16"	1	"sbc004"	"kate"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"17"	1	"sbc004"	"kathy"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	129	716
+"18"	1	"sbc004"	"pam"	NA	"female"	"43"	"42-49"	"massachusetts"	"massachusetts"	"new mexico"	NA	NA	"housewife"	"white"	19	38
+"19"	1	"sbc004"	"shane"	NA	"male"	"23"	"19-25"	"corpus christi"	"texas"	"texas"	"college or higher"	NA	"med student"	"chicano/latino"	26	36
+"20"	1	"sbc004"	"sharon"	NA	"female"	"24"	"19-25"	"new mexico"	"new mexico"	"texas"	"college or higher"	NA	"teacher"	"white"	232	2550
+"21"	1	"sbc004"	"warren"	NA	"male"	"34"	"34-41"	"wenham"	"massachusetts"	"illinois"	NA	"23"	"veterinarian"	"white"	6	8
+"22"	1	"sbc005"	"darryl"	NA	"male"	"33"	"26-33"	"san francisco"	"california"	"california"	"college or higher"	"16"	"comm./comp"	"white"	163	1019
+"23"	1	"sbc005"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"24"	1	"sbc005"	"pamela"	NA	"female"	"38"	"34-41"	"southern california"	"california"	"california"	"college or higher"	"16"	"actress/fi"	"white"	163	1776
+"25"	1	"sbc006"	"alina"	NA	"female"	"34"	"34-41"	"los angeles"	"california"	"california"	"college or higher"	"16"	"housewife"	"white"	290	5249
+"26"	1	"sbc006"	"all"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"27"	1	"sbc006"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"28"	1	"sbc006"	"lenore"	NA	"female"	"30"	"26-33"	"los angeles"	"california"	"california"	"college or higher"	"16"	"student"	"white"	292	611
+"29"	1	"sbc007"	"alice"	NA	"female"	"28"	"26-33"	"pryor"	"montana"	"montana"	"college or higher"	"16"	"student"	"native american"	154	1572
+"30"	1	"sbc007"	"mary"	NA	"female"	"27"	"26-33"	"pryor"	"montana"	"montana"	"college or higher"	"13"	"cook fire"	"native american"	154	1473
+"31"	1	"sbc008"	"all"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"32"	1	"sbc008"	"arnold"	NA	"male"	NA	NA	"saginaw"	"michigan"	"california"	"high school or lower"	"12"	"us army"	"white"	32	115
+"33"	1	"sbc008"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	9
+"34"	1	"sbc008"	"june"	NA	"female"	"21"	"19-25"	"laguna beach"	"california"	"california"	"college or higher"	"17"	"grad student"	"white"	9	35
+"35"	1	"sbc008"	"rebecca"	NA	"female"	"31"	"26-33"	"saratoga"	"california"	"california"	"college or higher"	"22"	"attorney"	"white"	324	2499
+"36"	1	"sbc008"	"rickie"	NA	"female"	NA	NA	"san francisco"	"california"	"california"	"high school or lower"	"12"	"clerk"	"african-american"	318	2118
+"37"	1	"sbc009"	"kathy"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	146	1245
+"38"	1	"sbc009"	"nathan"	NA	"male"	"19"	"19-25"	"mobile"	"alabama"	"alabama"	"high school or lower"	"12"	"student"	"white"	147	1257
+"39"	1	"sbc010"	"brad"	NA	"male"	"45"	"42-49"	NA	NA	NA	"ma"	"18"	"director o"	"white"	250	1014
+"40"	1	"sbc010"	"phil"	NA	"male"	"30"	"26-33"	NA	NA	"new mexico"	"college or higher"	"16"	"graphic designer"	"chicano/latino"	246	2541
+"41"	1	"sbc011"	"angela"	NA	"female"	"90"	"50+"	"middle wes"	"missouri"	"arizona"	"college or higher"	"18"	"teacher j"	"white"	195	1231
+"42"	1	"sbc011"	"doris"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	186	1378
+"43"	1	"sbc011"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	3
+"44"	1	"sbc011"	"sam"	NA	"female"	"72"	"50+"	"arcadia"	"indiana"	"arizona"	NA	"15"	"retired"	"white"	103	558
+"45"	1	"sbc012"	"bev"	NA	"female"	"20"	"19-25"	"southern california"	"california"	"california"	"high school or lower"	"15"	"student"	"white"	2	60
+"46"	1	"sbc012"	"carolyn"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	13	113
+"47"	1	"sbc012"	"frank"	NA	"male"	"24"	"19-25"	"southern california"	"california"	"california"	"college or higher"	"16"	"business o"	"white"	24	1142
+"48"	1	"sbc012"	"gilbert"	NA	"male"	"22"	"19-25"	"southern california"	"california"	"california"	"high school or lower"	NA	"student"	"chicano/latino"	16	189
+"49"	1	"sbc012"	"laura"	NA	"female"	"23"	"19-25"	"san jose"	"california"	"california"	"high school or lower"	NA	"student"	"asian-american"	4	16
+"50"	1	"sbc012"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"51"	1	"sbc012"	"maria"	NA	"female"	"26"	"26-33"	"nicaragua"	NA	"california"	"high school or lower"	"15"	"dispatcher"	"chicano/latino"	9	43
+"52"	1	"sbc012"	"montoya"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	83	2030
+"53"	1	"sbc012"	"rachel"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	31
+"54"	1	"sbc012"	"ramon"	NA	"male"	"19"	"19-25"	"moreno valley"	"california"	"california"	"high school or lower"	"12"	"student"	"chicano/latino"	20	152
+"55"	1	"sbc012"	"ruben"	NA	"male"	"27"	"26-33"	"southern california"	"california"	"california"	"college or higher"	"17"	"teacher"	"chicano/latino"	10	103
+"56"	1	"sbc013"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	13
+"57"	1	"sbc013"	"ken"	NA	"male"	"51"	"50+"	"midwest"	"indiana"	"indiana"	"doctoral degree"	"23"	"director o"	"white"	147	290
+"58"	1	"sbc013"	"kendra"	NA	"female"	"25"	"19-25"	"midwest"	"indiana"	"indiana"	"college or higher"	"16"	"administrator"	"white"	395	1810
+"59"	1	"sbc013"	"kev"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2
+"60"	1	"sbc013"	"kevin"	NA	"male"	"26"	"26-33"	"midwest"	"indiana"	"indiana"	"college or higher"	"16"	"missionary"	"white"	307	1160
+"61"	1	"sbc013"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"62"	1	"sbc013"	"marci"	NA	"female"	"50"	"50+"	"midwest"	"indiana"	"indiana"	"ma"	"19"	"counselor"	"white"	339	1442
+"63"	1	"sbc013"	"wendy"	NA	"female"	"26"	"26-33"	"midwest"	"indiana"	"indiana"	"college or higher"	"16"	"missionary"	"white"	367	1651
+"64"	1	"sbc014"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	0
+"65"	1	"sbc014"	"fred"	NA	"male"	"47"	"42-49"	"chrisman"	"illinois"	"illinois"	"college or higher"	"18"	"loan officer"	"white"	104	1431
+"66"	1	"sbc014"	"jim"	NA	"male"	"41"	"34-41"	"metro st.l."	"illinois"	"illinois"	NA	"16"	"banking"	"white"	108	2475
+"67"	1	"sbc014"	"joe"	NA	"male"	"45"	"42-49"	"dupo"	"illinois"	"illinois"	NA	"17"	"banking"	"white"	88	874
+"68"	1	"sbc014"	"kurt"	NA	"male"	"70"	"50+"	"millstad"	"illinois"	"illinois"	NA	"12"	"retired-co"	"white"	21	84
+"69"	1	"sbc014"	"vivian"	NA	"female"	"55"	"50+"	"shenandoah"	"pennsylvania"	"illinois"	"high school or lower"	"13"	"banking"	"white"	3	9
+"70"	1	"sbc015"	"joanne"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	377	3107
+"71"	1	"sbc015"	"ken"	NA	"male"	"51"	"50+"	"midwest"	"indiana"	"indiana"	"doctoral degree"	"23"	"director o"	"white"	363	2533
+"72"	1	"sbc015"	"lenore"	NA	"female"	"30"	"26-33"	"los angeles"	"california"	"california"	"college or higher"	"16"	"student"	"white"	177	745
+"73"	2	"sbc016"	"brad"	"0054"	"male"	"25"	"19-25"	"santa barbara"	"california"	"california"	"college or higher"	"14"	"salesman"	"chicano/white"	425	3173
+"74"	2	"sbc016"	"jonathan"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	20
+"75"	2	"sbc016"	"tammy"	"0055"	"female"	"51"	"50+"	"cleveland"	"ohio"	"california"	"doctoral degree"	"21"	"professor"	"white"	422	1346
+"76"	2	"sbc016"	"todd"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	5	9
+"77"	2	"sbc017"	"jim"	"0056"	"male"	"45"	"42-49"	"?"	NA	"california"	"college or higher"	"?"	"sound editor"	"white"	168	2480
+"78"	2	"sbc017"	"michael"	"0057"	"male"	"34"	"34-41"	"?"	"massachusetts"	"california"	"college or higher"	"16"	"musician/computers"	"white"	165	1450
+"79"	2	"sbc018"	"cat"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"80"	2	"sbc018"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	0
+"81"	2	"sbc018"	"heidi"	"0058"	"female"	"34"	"34-41"	"richland center"	"wisconsin"	"wisconsin"	"college or higher"	"?"	"?"	"white"	15	98
+"82"	2	"sbc018"	"kristen"	"0060"	"female"	"40"	"34-41"	"webster"	"new york"	"wisconsin"	"college or higher"	"16"	"licenced veterinary technician"	"white"	51	407
+"83"	2	"sbc018"	"lindsey"	"0061"	"female"	"28"	"26-33"	"milwaukee"	"wisconsin"	"wisconsin"	"doctoral degree"	"?"	"veterinarian"	"white"	55	547
+"84"	2	"sbc018"	"marcia"	"0059"	"female"	"28"	"26-33"	"warren"	"michigan"	"wisconsin"	"doctoral degree"	"?"	"veterinarian"	"white"	72	724
+"85"	2	"sbc018"	"trent"	"0062"	"male"	"40"	"34-41"	"minnesota"	"minnesota"	"wisconsin"	"doctoral degree"	"?"	"veterinarian"	"white"	4	6
+"86"	2	"sbc019"	"brett"	"0067"	"male"	"12"	"0-18"	"st. joseph"	"michigan"	"michigan"	"high school or lower"	"7"	"student"	"white"	145	593
+"87"	2	"sbc019"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	0
+"88"	2	"sbc019"	"frank"	"0064"	"male"	"42"	"42-49"	"midwest"	"ohio"	"michigan"	"college or higher"	"20"	"special ed. teacher/proprietor of decorating business"	"white"	207	1668
+"89"	2	"sbc019"	"jan"	"0065"	"female"	"40"	"34-41"	"benton harbor"	"michigan"	"michigan"	"college or higher"	"16"	"homemaker/volunteer"	"white"	96	317
+"90"	2	"sbc019"	"melissa"	"0066"	"female"	"14"	"0-18"	"st. joseph"	"michigan"	"michigan"	"high school or lower"	"9"	"student"	"white"	172	1259
+"91"	2	"sbc019"	"ron"	"0063"	"male"	"31"	"26-33"	"midwest"	"michigan"	"california"	"college or higher"	"20"	"graduate student"	"white"	87	213
+"92"	2	"sbc020"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	14	1
+"93"	2	"sbc020"	"dan"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	28
+"94"	2	"sbc020"	"jeff"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	27	3748
+"95"	2	"sbc020"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	9	0
+"96"	2	"sbc021"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	83	57
+"97"	2	"sbc021"	"aud1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	24	19
+"98"	2	"sbc021"	"aud2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	21	19
+"99"	2	"sbc021"	"aud3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"100"	2	"sbc021"	"aud4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2
+"101"	2	"sbc021"	"aud5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"102"	2	"sbc021"	"aud6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2
+"103"	2	"sbc021"	"aud7"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"104"	2	"sbc021"	"aud8"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"105"	2	"sbc021"	"congr"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"106"	2	"sbc021"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	80	15
+"107"	2	"sbc021"	"read"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	71
+"108"	2	"sbc021"	"walt"	"0072"	"male"	"40"	"34-41"	"?"	NA	"massachusetts"	"college or higher"	"16"	"\"evangelist & minister of the gospel\""	"white"	173	4347
+"109"	2	"sbc022"	"bill"	"0076"	"male"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	2	22
+"110"	2	"sbc022"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"111"	2	"sbc022"	"lance"	"0075"	"male"	"28"	"26-33"	"vancouver"	"washington"	"washington"	"college or higher"	"16"	"air traffic controller"	"asian-american"	114	883
+"112"	2	"sbc022"	"randy"	"0074"	"male"	"40"	"34-41"	"northwest us"	NA	"washington"	"college or higher"	"16"	"faa air traffic control spec."	"white"	117	1640
+"113"	2	"sbc023"	"alice"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	5
+"114"	2	"sbc023"	"deborah"	"0080"	"female"	"85"	"50+"	"?"	NA	"kansas"	"college or higher"	"18"	"retired"	NA	12	53
+"115"	2	"sbc023"	"diane"	"0084"	"female"	"46"	"42-49"	"rochester"	"minnesota"	"kansas"	"college or higher"	"18"	"selfemployed"	"white"	99	510
+"116"	2	"sbc023"	"evelyn"	"0082"	"female"	"82"	"50+"	"midwest"	NA	"kansas"	"college or higher"	"18"	"retired"	"white"	135	913
+"117"	2	"sbc023"	"harriet"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"118"	2	"sbc023"	"janicd"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2
+"119"	2	"sbc023"	"janice"	"0081"	"female"	"59"	"50+"	"clay center"	"kansas"	"kansas"	"college or higher"	"16"	"homemaker"	"white"	84	536
+"120"	2	"sbc023"	"kim"	"0087"	"female"	"62"	"50+"	"st. paul"	"minnesota"	"kansas"	"college or higher"	"16"	"housewife/volunteer"	"white"	37	381
+"121"	2	"sbc023"	"linda"	"0077"	"female"	"56"	"50+"	"south alabama mostly"	"alabama"	"kansas"	"doctoral degree"	"22"	"consultant/ parttime college instructor"	"white"	200	601
+"122"	2	"sbc023"	"lois"	"0085"	"female"	"58"	"50+"	"oregon"	"missouri"	"kansas"	"ma"	"18"	"teacher"	"white"	22	174
+"123"	2	"sbc023"	"lori"	"0083"	"female"	"47"	"42-49"	"kansas"	"kansas"	"kansas"	"college or higher"	"?"	"cpa"	"white"	85	555
+"124"	2	"sbc023"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	20	24
+"125"	2	"sbc023"	"nancy"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2
+"126"	2	"sbc023"	"nora"	"0078"	"female"	"65"	"50+"	"lincoln"	"kansas"	"kansas"	"college or higher"	"16"	"housewife"	NA	21	82
+"127"	2	"sbc023"	"patty"	"0086"	"female"	"53"	"50+"	"emporia"	"kansas"	"kansas"	"college or higher"	"16"	"?"	"white"	90	674
+"128"	2	"sbc023"	"sue"	"0079"	"female"	"53"	"50+"	"madison"	"wisconsin"	"kansas"	"college or higher"	"18"	"accountant"	NA	83	514
+"129"	2	"sbc024"	"dan"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	177	817
+"130"	2	"sbc024"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	0
+"131"	2	"sbc024"	"jennifer"	"0090"	"female"	"23"	"19-25"	"newton"	"massachusetts"	"massachusetts"	"college or higher"	"16"	"student"	"white"	184	1721
+"132"	2	"sbc024"	"mac"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	16	5
+"133"	2	"sbc025"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"134"	2	"sbc025"	"foster"	"0093"	"male"	"65"	"50+"	"?"	"delaware"	"pennsylvania"	"doctoral degree"	"26"	"?"	"white"	3	3304
+"135"	2	"sbc025"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"136"	2	"sbc026"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	18	3
+"137"	2	"sbc026"	"bernie"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	12
+"138"	2	"sbc026"	"cheryl"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	13
+"139"	2	"sbc026"	"dan"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	34	1288
+"140"	2	"sbc026"	"derek"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	228
+"141"	2	"sbc026"	"grant"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	11	307
+"142"	2	"sbc026"	"karen"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	102
+"143"	2	"sbc026"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	0
+"144"	2	"sbc026"	"patty"	"0086"	"female"	"53"	"50+"	"emporia"	"kansas"	"kansas"	"college or higher"	"16"	"?"	"white"	49	1254
+"145"	2	"sbc026"	"paul"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	661
+"146"	2	"sbc026"	"rose"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	164
+"147"	2	"sbc027"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	24	43
+"148"	2	"sbc027"	"aud1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	10
+"149"	2	"sbc027"	"aud2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	13
+"150"	2	"sbc027"	"aud3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"151"	2	"sbc027"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	7	0
+"152"	2	"sbc027"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	12	11
+"153"	2	"sbc027"	"phil"	"0094"	"male"	"27"	"26-33"	"chicago"	"illinois"	"illinois"	"high school or lower"	"12"	"science performer"	"african-american"	47	2949
+"154"	2	"sbc028"	"both"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"155"	2	"sbc028"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"156"	2	"sbc028"	"jeff"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	356	2246
+"157"	2	"sbc028"	"jill"	"0096"	"female"	"23"	"19-25"	"southern california"	"california"	"pennsylvania"	"college or higher"	"16"	"student"	"white"	361	2203
+"158"	2	"sbc029"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	11	0
+"159"	2	"sbc029"	"larry"	"0088"	"male"	"53"	"50+"	"midwest"	"minnesota"	"california"	"college or higher"	"16"	"sales"	"white"	270	2221
+"160"	2	"sbc029"	"seth"	"0089"	"male"	"33"	"26-33"	"?"	"california/new mexico/virginia/washington"	"california"	"college or higher"	"16"	"hvac engineering"	"white"	268	2648
+"161"	2	"sbc030"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	12	3
+"162"	2	"sbc030"	"danny"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	21	3610
+"163"	2	"sbc030"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"164"	2	"sbc030"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	7	0
+"165"	3	"sbc031"	"beth"	"0100"	"female"	"25"	"19-25"	"?"	NA	"washington"	"college or higher"	"14"	"farm wife/accountant"	"white"	296	1958
+"166"	3	"sbc031"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"167"	3	"sbc031"	"jamie"	"0102"	"female"	"?"	NA	"?"	NA	"washington"	"?"	"?"	"waitress"	NA	36	182
+"168"	3	"sbc031"	"rosemary"	"0101"	"female"	"57"	"50+"	"?"	NA	"washington"	"college or higher"	"18"	"elementary teacher"	"white"	258	1305
+"169"	3	"sbc031"	"sherry"	"0099"	"female"	"28"	"26-33"	"?"	NA	"washington"	"college or higher"	"18"	"student"	"white"	297	1212
+"170"	3	"sbc032"	"elaine"	"0106"	"female"	"48"	"42-49"	"albuquerque"	"new mexico"	"new mexico"	"college or higher"	"24"	"unemployed"	"white"	9	31
+"171"	3	"sbc032"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	0
+"172"	3	"sbc032"	"tom_1"	"0103"	"male"	"60"	"50+"	"boston/new mexico"	"massachusetts/new mexico"	"new mexico"	"college or higher"	"16"	"graphic designer"	"white"	240	1030
+"173"	3	"sbc032"	"tom_2"	"0104"	"male"	"70"	"50+"	"irvington"	"new jersey"	"new mexico"	"college or higher"	"18"	"semi-retired consultant/government"	"white"	393	3245
+"174"	3	"sbc032"	"tom_3"	"0105"	"male"	"68"	"50+"	"pine ridge reservation"	"south dakota"	"new mexico"	"college or higher"	"22"	"retired judge/legal arbitrator/hearing officer"	"native american/white"	362	1609
+"175"	3	"sbc032"	"tucker"	"0107"	"female"	"31"	"26-33"	"boston/santa fe"	"massachusetts/new mexico"	"california"	"college or higher"	"19"	"student"	"white"	13	52
+"176"	3	"sbc033"	"bill"	"0110"	"male"	"52"	"50+"	"new york city"	"new york"	"massachusetts"	"doctoral degree"	"20"	"chemistry professor"	"white"	80	328
+"177"	3	"sbc033"	"don"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	58	120
+"178"	3	"sbc033"	"jenn"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	94	612
+"179"	3	"sbc033"	"laura"	"0111"	"female"	"54"	"50+"	"new york city"	"new york"	"new jersey"	"doctoral degree"	"22"	"professor"	"white"	72	268
+"180"	3	"sbc033"	"leanne"	"0113"	"female"	"24"	"19-25"	"s. orange"	"new jersey"	"new york"	"college or higher"	"16"	"student"	"white"	99	424
+"181"	3	"sbc033"	"lisbeth"	"0109"	"female"	"?"	NA	"new york city"	"new york"	"massachusetts"	"doctoral degree"	"24"	"sociology professor"	"white"	77	452
+"182"	3	"sbc033"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	0
+"183"	3	"sbc033"	"mary"	"0114"	"female"	"22"	"19-25"	"?"	"new jersey"	"new york"	"college or higher"	"16"	"fashion design"	"white"	34	137
+"184"	3	"sbc033"	"richard"	"0115"	"male"	"27"	"26-33"	"s. orange"	"new jersey"	"new jersey"	"college or higher"	"16"	"sales"	"white"	21	56
+"185"	3	"sbc034"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	0
+"186"	3	"sbc034"	"karen"	"0116"	"female"	"22"	"19-25"	"?"	NA	"massachusetts"	"college or higher"	"16"	"bookstore employee"	"white"	147	2059
+"187"	3	"sbc034"	"scott"	"0117"	"male"	"24"	"19-25"	"?"	"oregon"	"massachusetts"	"college or higher"	"16"	"library public service"	"white"	148	580
+"188"	3	"sbc035"	"dale"	"0125"	"male"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	10	47
+"189"	3	"sbc035"	"erika"	"0120"	"female"	"17"	"0-18"	"pittsburgh"	"pennsylvania"	"pennsylvania"	"high school or lower"	"11"	"student"	"white"	37	149
+"190"	3	"sbc035"	"gail"	"0122"	"female"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	125	639
+"191"	3	"sbc035"	"genevieve"	"0123"	"female"	"80"	"50+"	"?"	"pennsylvania"	"pennsylvania"	"high school or lower"	"12"	"?"	"other"	19	74
+"192"	3	"sbc035"	"maureen"	"0121"	"female"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	87	349
+"193"	3	"sbc035"	"patty"	"0118"	"female"	"53"	"50+"	"wampum"	"pennsylvania"	"pennsylvania"	"college or higher"	"16"	"music teacher"	"white"	218	1794
+"194"	3	"sbc035"	"roger"	"0124"	"male"	"81"	"50+"	"?"	"pennsylvania"	"pennsylvania"	"college or higher"	"16"	"civil engineer"	"other"	18	79
+"195"	3	"sbc035"	"stephanie"	"0119"	"female"	"16"	"0-18"	"pittsburgh"	"pennsylvania"	"pennsylvania"	"high school or lower"	"11"	"student"	"white"	206	1938
+"196"	3	"sbc036"	"baby"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	10	0
+"197"	3	"sbc036"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	0
+"198"	3	"sbc036"	"kevin"	"0126"	"male"	"22"	"19-25"	"albuquerque"	"new mexico"	"california"	"college or higher"	"16"	"student"	"white"	265	901
+"199"	3	"sbc036"	"lisa"	"0127"	"female"	"20"	"19-25"	"albuquerque"	"new mexico"	"new mexico"	"college or higher"	"14"	"student"	"white"	340	2124
+"200"	3	"sbc036"	"marie"	"0128"	"female"	"20"	"19-25"	"albuquerque"	"new mexico"	"new mexico"	"college or higher"	"13"	"service"	"chicano/latino"	320	3010
+"201"	3	"sbc037"	"dolores"	"0129"	"female"	"56"	"50+"	"mercedes"	"texas"	"texas"	"college or higher"	"16"	"active in local politics"	"chicano/latino"	176	1327
+"202"	3	"sbc037"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	21	8
+"203"	3	"sbc037"	"julia"	"0131"	"female"	"80"	"50+"	"mercedes"	"texas"	"texas"	"high school or lower"	"5"	"homemaker"	"chicano/latino"	189	1000
+"204"	3	"sbc037"	"kate"	"0132"	"female"	"20"	"19-25"	"corpus christi"	"texas"	"texas"	"college or higher"	"14"	"student"	"chicano/latino"	25	116
+"205"	3	"sbc037"	"shane"	"0130"	"male"	"26"	"26-33"	"corpus christi"	"texas"	"texas"	"college or higher"	"20"	"student"	"chicano/latino"	131	531
+"206"	3	"sbc038"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	53	334
+"207"	3	"sbc038"	"aud_2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	8
+"208"	3	"sbc038"	"ben"	"0133"	"male"	"74"	"50+"	"colorado springs"	"colorado"	"nevada"	"college or higher"	"16"	"civil engineer"	"white"	61	3369
+"209"	3	"sbc038"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	12	9
+"210"	3	"sbc039"	"alice"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	6	28
+"211"	3	"sbc039"	"amy"	"0135"	"female"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	61	274
+"212"	3	"sbc039"	"don"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	77	203
+"213"	3	"sbc039"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"214"	3	"sbc039"	"kirsten"	"0134"	"female"	"29"	"26-33"	"holland (michigan)"	"michigan"	"illinois"	"college or higher"	"16"	"education"	"white"	222	3318
+"215"	3	"sbc039"	"lori"	"0137"	"female"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	133	368
+"216"	3	"sbc039"	"nicole"	"0138"	"female"	"?"	NA	"?"	NA	NA	"?"	"?"	"?"	NA	64	130
+"217"	3	"sbc040"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	9	76
+"218"	3	"sbc040"	"debra"	"0140"	"female"	"30"	"26-33"	"louisville"	"kentucky"	"kentucky"	"college or higher"	"16"	"horse park employee"	"white"	17	3816
+"219"	3	"sbc040"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	8	0
+"220"	3	"sbc041"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"221"	3	"sbc041"	"kristin"	"0141"	"female"	"35"	"34-41"	"cleveland/san francisco"	"california/ohio"	"california"	"college or higher"	"18"	"nutritionist"	"white"	165	2330
+"222"	3	"sbc041"	"paige"	"0142"	"female"	"37"	"34-41"	"general america"	NA	"california"	"college or higher"	"20"	"student"	"white"	165	733
+"223"	3	"sbc042"	"curt"	"0147"	"male"	"56"	"50+"	"detroit"	"michigan"	"washington"	"college or higher"	"13"	"contract"	"white"	32	241
+"224"	3	"sbc042"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	9	2
+"225"	3	"sbc042"	"gemini"	"0148"	"female"	"17"	"0-18"	"?"	NA	"washington"	"high school or lower"	"11"	"student"	"asian-american"	29	143
+"226"	3	"sbc042"	"kendra"	"0143"	"female"	"15"	"0-18"	"tri-cities"	"washington"	"washington"	"high school or lower"	"10"	"student"	"white"	45	527
+"227"	3	"sbc042"	"kitty"	"0146"	"female"	"41"	"34-41"	"chicago"	"illinois"	"washington"	"college or higher"	"13"	"secretary"	"white"	126	1150
+"228"	3	"sbc042"	"marlena"	"0145"	"female"	"13"	"0-18"	"tri-cities"	"washington"	"washington"	"high school or lower"	"8"	"student"	"white"	17	49
+"229"	3	"sbc042"	"sabrina"	"0144"	"female"	"18"	"0-18"	"tri-cities"	"washington"	"washington"	"high school or lower"	"11"	"student"	"white"	101	581
+"230"	3	"sbc043"	"alice"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	259	2909
+"231"	3	"sbc043"	"annette"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	259	3262
+"232"	3	"sbc044"	"cam"	"0151"	"male"	"30"	"26-33"	"beloit"	"wisconsin"	"wisconsin"	"college or higher"	"16"	"network administrator"	"white"	168	1085
+"233"	3	"sbc044"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	0
+"234"	3	"sbc044"	"lajuan"	"0152"	"male"	"35"	"34-41"	"indianapolis"	"indiana"	"wisconsin"	"college or higher"	"16"	"retail management"	"african-american"	170	5231
+"235"	3	"sbc045"	"corinna"	"0154"	"female"	"26"	"26-33"	"jamesville"	"wisconsin"	"wisconsin"	"college or higher"	"13"	"student"	"native american"	170	2143
+"236"	3	"sbc045"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	26	26
+"237"	3	"sbc045"	"patrick"	"0153"	"male"	"25"	"19-25"	"milwaukee"	"wisconsin"	"wisconsin"	"college or higher"	"16"	"customer service"	"white"	188	2091
+"238"	4	"sbc046"	"darren"	"0156"	"male"	"24"	"19-25"	"shreveport"	"louisiana"	"louisiana"	"college or higher"	"16"	"student/waiter"	"white"	116	868
+"239"	4	"sbc046"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	0
+"240"	4	"sbc046"	"reed"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	118	2107
+"241"	4	"sbc046"	"sally"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	8	12
+"242"	4	"sbc047"	"fred"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	206	1213
+"243"	4	"sbc047"	"richard"	"0158"	"male"	"32"	"26-33"	"east los angeles"	"california"	"california"	"high school or lower"	"12"	"car salesman"	"chicano/latino"	206	3018
+"244"	4	"sbc048"	"dan"	"0163"	"male"	"36"	"34-41"	"boston"	"massachusetts"	"massachusetts"	"college or higher"	"?"	"student"	"white"	87	224
+"245"	4	"sbc048"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	0
+"246"	4	"sbc048"	"judy"	"0162"	"female"	"28"	"26-33"	"fresno"	"california"	"california"	"college or higher"	"19"	"grad student"	"white"	235	767
+"247"	4	"sbc048"	"lea"	"0160"	"female"	"55"	"50+"	"fresno"	"california"	"california"	"college or higher"	"15"	"homemaker"	"white"	242	1073
+"248"	4	"sbc048"	"tim"	"0161"	"male"	"60"	"50+"	"akron"	"ohio"	"california"	"college or higher"	"15"	"administrative job"	"white"	150	645
+"249"	4	"sbc049"	"allen"	"0170"	"male"	"76"	"50+"	"boston"	"massachusetts"	"massachusetts"	"high school or lower"	"10"	"retired printer"	"white"	29	173
+"250"	4	"sbc049"	"annette"	"0165"	"female"	"44"	"42-49"	"boston"	"massachusetts"	"massachusetts"	"college or higher"	"?"	"personnel recruiter"	"white"	61	212
+"251"	4	"sbc049"	"dan"	"0163"	"male"	"36"	"34-41"	"boston"	"massachusetts"	"massachusetts"	"college or higher"	"?"	"student"	"white"	136	963
+"252"	4	"sbc049"	"dave"	"0171"	"male"	"15"	"0-18"	"boston"	"massachusetts"	"massachusetts"	"?"	"?"	"high-school student"	"white"	19	117
+"253"	4	"sbc049"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	1
+"254"	4	"sbc049"	"glen"	"0173"	"male"	"15"	"0-18"	"boston"	"massachusetts"	"massachusetts"	"?"	"?"	"high-school student"	"white"	1	4
+"255"	4	"sbc049"	"jane"	"0172"	"female"	"11"	"0-18"	"boston"	"massachusetts"	"massachusetts"	"?"	"?"	"grade-school student"	"white"	2	3
+"256"	4	"sbc049"	"john"	"0164"	"male"	"53"	"50+"	"boston"	"massachusetts"	"massachusetts"	"high school or lower"	"12"	"computer operations"	"white"	116	667
+"257"	4	"sbc049"	"linda"	"0169"	"female"	"42"	"42-49"	"boston"	"massachusetts"	"massachusetts"	"college or higher"	"?"	"esl teacher"	"white"	45	131
+"258"	4	"sbc049"	"lucy"	"0167"	"female"	"47"	"42-49"	"boston"	"massachusetts"	"massachusetts"	"?"	"?"	"secretary/graphic artist"	"white"	259	2247
+"259"	4	"sbc050"	"arianna"	"0177"	"female"	"21"	"19-25"	"new england"	"vermont"	"vermont"	"college or higher"	"15"	"student"	"white"	115	945
+"260"	4	"sbc050"	"dana"	"0174"	"female"	"20"	"19-25"	"newton"	"massachusetts"	"massachusetts"	"college or higher"	"14"	"student"	"white"	180	885
+"261"	4	"sbc050"	"kelly"	"0175"	"female"	"20"	"19-25"	"?"	NA	"vermont"	"college or higher"	"14"	"student"	"white"	124	752
+"262"	4	"sbc050"	"nancy"	"0176"	"female"	"21"	"19-25"	"new england"	"vermont"	"vermont"	"college or higher"	"15"	"student"	"white"	96	461
+"263"	4	"sbc051"	"alice"	"0179"	"female"	"47"	"42-49"	"philadelphia"	"pennsylvania"	"california"	"doctoral degree"	"?"	"attorney"	"white"	195	998
+"264"	4	"sbc051"	"bernard"	"0181"	"male"	"51"	"50+"	"san gabriel valley"	"california"	"california"	"college or higher"	"16"	"gardener/artist"	"white"	156	690
+"265"	4	"sbc051"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	14	0
+"266"	4	"sbc051"	"fran"	"0178"	"female"	"50"	"50+"	"new orleans"	"louisiana"	"new york"	"college or higher"	"16"	"artist/retired accountant"	"white"	303	2680
+"267"	4	"sbc051"	"sean"	"0180"	"male"	"49"	"42-49"	"denver"	"colorado"	"california"	"college or higher"	"12"	"artist/painter"	"white"	193	910
+"268"	4	"sbc052"	"andrew"	"0182"	"male"	"47"	"42-49"	"san antonio"	"texas"	"new mexico"	"college or higher"	"18"	"data management"	"white"	197	1329
+"269"	4	"sbc052"	"brenda"	"0184"	"female"	"45"	"42-49"	"san antonio"	"texas"	"texas"	"college or higher"	"12"	"housewife"	"white"	9	45
+"270"	4	"sbc052"	"cindy"	"0183"	"female"	"47"	"42-49"	"northwest"	"montana"	"new mexico"	"college or higher"	"13"	"homemaker"	"white"	152	1079
+"271"	4	"sbc052"	"darlene"	"0185"	"female"	"44"	"42-49"	"san antonio"	"texas"	"texas"	"high school or lower"	"12"	"retail"	"white"	266	2978
+"272"	4	"sbc052"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	9	0
+"273"	4	"sbc053"	"bailiff"	"0187"	"male"	"?"	NA	"?"	NA	"california"	"?"	"?"	"bailiff"	NA	12	86
+"274"	4	"sbc053"	"judge"	"0186"	"male"	"53"	"50+"	"st. louis"	"missouri"	"california"	"doctoral degree"	"21"	"attorney"	"white"	105	1257
+"275"	4	"sbc053"	"karen"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	4	184
+"276"	4	"sbc053"	"mark"	"0192"	"male"	"?"	NA	"?"	NA	"california"	"?"	"?"	"?"	NA	6	162
+"277"	4	"sbc053"	"matthew"	"0190"	"male"	"49"	"42-49"	"orange county"	"california"	"california"	"high school or lower"	"13"	"contractor"	"white"	25	634
+"278"	4	"sbc053"	"mitchell"	"0189"	"male"	"33"	"26-33"	"santa barbara"	"california"	"california"	"high school or lower"	"12"	"contractor"	"white"	57	1091
+"279"	4	"sbc053"	"radio"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2
+"280"	4	"sbc053"	"rose"	"0188"	"female"	"?"	NA	"?"	"california"	NA	"?"	"?"	"?"	NA	33	204
+"281"	4	"sbc054"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	39	2
+"282"	4	"sbc054"	"aud_2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	1
+"283"	4	"sbc054"	"aud_3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	1
+"284"	4	"sbc054"	"cynthia"	"0193"	"female"	"47"	"42-49"	"chicago"	"illinois"	"illinois"	"college or higher"	"18"	"storyteller/teacher/writer"	"white"	69	2596
+"285"	4	"sbc054"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	32	72
+"286"	4	"sbc055"	"aud"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	9	52
+"287"	4	"sbc055"	"aud_2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	17
+"288"	4	"sbc055"	"many"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	39	0
+"289"	4	"sbc055"	"perrot"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	31	337
+"290"	4	"sbc055"	"wood"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	49	2535
+"291"	4	"sbc056"	"deb"	"0201"	"female"	"?"	NA	"?"	NA	"colorado"	"?"	"?"	"?"	NA	3	5
+"292"	4	"sbc056"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	0
+"293"	4	"sbc056"	"gary"	"0196"	"male"	"41"	"34-41"	"?"	"california/virginia"	"colorado"	"college or higher"	"19"	"military officer"	"white"	275	1067
+"294"	4	"sbc056"	"horse"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	0
+"295"	4	"sbc056"	"jackie"	"0200"	"female"	"?"	NA	"?"	NA	"colorado"	"?"	"?"	"?"	NA	48	166
+"296"	4	"sbc056"	"julie"	"0198"	"female"	"?"	NA	"?"	NA	"colorado"	"?"	"?"	"?"	NA	320	5234
+"297"	4	"sbc056"	"karen"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	18	96
+"298"	4	"sbc056"	"matt"	"0197"	"male"	"42"	"42-49"	"falls church/albuquerque"	"new mexico/virginia"	"california"	"doctoral degree"	"24"	"professor"	"white"	18	49
+"299"	4	"sbc057"	"benton"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	39	84
+"300"	4	"sbc057"	"bill"	"0203"	"male"	"22"	"19-25"	"shreveport"	"louisiana"	"louisiana"	"college or higher"	"?"	"waiter"	"white"	42	61
+"301"	4	"sbc057"	"darren"	"0156"	"male"	"24"	"19-25"	"shreveport"	"louisiana"	"louisiana"	"college or higher"	"16"	"student/waiter"	"white"	41	128
+"302"	4	"sbc057"	"jed"	"0204"	"male"	"37"	"34-41"	"shreveport"	"louisiana"	"louisiana"	"doctoral degree"	"?"	"psychologist"	NA	32	594
+"303"	4	"sbc057"	"martin"	"0205"	"male"	"37"	"34-41"	"southern"	"florida"	"louisiana"	"college or higher"	"16"	"aircraft mechanic/photographer"	"white"	2	10
+"304"	4	"sbc057"	"nick"	"0202"	"male"	"37"	"34-41"	"shreveport"	"louisiana"	"louisiana"	"college or higher"	"?"	"plumber/judo instructor"	"white"	149	2695
+"305"	4	"sbc058"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	12	2
+"306"	4	"sbc058"	"sheri"	"0207"	"female"	"37"	"34-41"	"palo alto"	"california"	"idaho"	"college or higher"	"?"	"mother/student"	"white"	229	2280
+"307"	4	"sbc058"	"steven"	"0208"	"male"	"11"	"0-18"	"boise"	"idaho"	"idaho"	"high school or lower"	"?"	"student"	"white"	221	1283
+"308"	4	"sbc059"	"cam"	"0151"	"male"	"30"	"26-33"	"beloit"	"wisconsin"	"wisconsin"	"college or higher"	"16"	"network administrator"	"white"	236	2103
+"309"	4	"sbc059"	"dog"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	7
+"310"	4	"sbc059"	"env"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	3
+"311"	4	"sbc059"	"fred"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	145	1149
+"312"	4	"sbc059"	"wess"	"0211"	"male"	"71"	"50+"	"beloit"	"wisconsin"	"wisconsin"	"high school or lower"	"12"	"rural carrier"	"white"	305	3205
+"313"	4	"sbc060"	"alan"	"0213"	"male"	"66"	"50+"	"shreveport"	"louisiana"	"louisiana"	"college or higher"	"?"	"investments"	"white"	89	3684
+"314"	4	"sbc060"	"jon"	"0212"	"male"	"72"	"50+"	"shreveport"	"louisiana"	"louisiana"	"college or higher"	"?"	"business owner"	"white"	89	350

@@ -1,6 +1,24 @@
 ---
-title: "Media"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Public reach</p>
+    <h1 class="pg-title">Media Coverage</h1>
+    <p class="pg-subtitle">96+ media reports &nbsp;·&nbsp; 205M+ potential reach &nbsp;·&nbsp; TV, national radio, international press &nbsp;·&nbsp; AU$1.9M advertising equivalent</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">Channel 10 News</span>
+      <span class="pg-hbadge">ABC Radio</span>
+      <span class="pg-hbadge">The Guardian</span>
+      <span class="pg-hbadge">Der Spiegel</span>
+      <span class="pg-hbadge">CNN</span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## TV Appearances
 

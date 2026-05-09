@@ -1,6 +1,22 @@
 ---
-title: "Publications"
+title: ""
 ---
+
+```{=html}
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Academic output</p>
+    <h1 class="pg-title">Publications</h1>
+    <p class="pg-subtitle">23 peer-reviewed journal articles &nbsp;·&nbsp; 20 book chapters &nbsp;·&nbsp; 4 edited volumes &nbsp;·&nbsp; 2 monographs under contract</p>
+    <div class="pg-header-badges">
+      <span class="pg-hbadge">Q1 journals</span>
+      <span class="pg-hbadge">Open access where possible</span>
+      <span class="pg-hbadge">ORCID 0000-0003-1923-9153</span>
+    </div>
+  </div>
+</div>
+```
+
 
 ## Journal Articles (Peer-Reviewed)
 
@@ -9,6 +25,8 @@ title: "Publications"
 [JP 2] *in prep.* Schweinberger, Martin. On the L1-acquisition of variation in adjective amplification. *International Journal of English Linguistics*. Prospective submission 11/2026.
 
 [JP 1] *in prep.* Schweinberger, Martin and Michael Haugh. Introducing the Language Technology and Data Analysis Laboratory (LADAL). An open-source collaborative support infrastructure for computational humanities research. *Language Resources and Evaluation*. Prospective submission 10/2026. (SJR: Q1)
+
+[JS 6] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to *Applied Corpus Linguistics*.
 
 [JS 5] *submitted.* Visioni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. Submitted 3/2026 to *Australian Review of Applied Linguistics*.
 
@@ -74,6 +92,24 @@ title: "Publications"
 ---
 
 ## Book Chapters
+
+20\. Schweinberger, Martin. 2025. Implications of the replication crisis for corpus linguistics — some suggestions to improve reproducibility and transparency. In Mikko Laitinen & Paula Rautionaho (Eds.), *Data-intensive Investigations of English*, 258–286. Cambridge University Press.
+
+19\. Crosthwaite, Peter and Martin Schweinberger. 2025. Corpora and instructed second language acquisition: A useful methodological synergy? In S. Loewen, F. J. Poole, H.-B. Hwang, & M. D. Coss (Eds.), *Technology and Instructed Second Language Acquisition: Connecting Research and Pedagogy*, 115–138. John Benjamins.
+
+18\. Schweinberger, Martin and Yuki Komiya. 2024. A corpus-based comparative acoustic analysis of target-like vowel production by L1-Japanese learners and native speakers of English. In Sarah Buschfeld, Patricia Ronan, Theresa Neumeier, Andreas Weilinghoff, & Lisa Westermeyer (Eds.), *Crossing Boundaries through Corpora*, 41–61. John Benjamins.
+
+17\. Schweinberger, Martin and Patricia Ronan. 2024. Boring much? Semantic determinants of constructional attraction in Irish English. In Martin Schweinberger & Patricia Ronan (Eds.), *Socio-pragmatic Variation in Ireland and Scotland*, 107–130. De Gruyter [TiLs series].
+
+16\. Schweinberger, Martin and Patricia Ronan. 2024. Concluding remarks and future directions in studies on sociopragmatic variation. In Martin Schweinberger & Patricia Ronan (Eds.), *Socio-pragmatic Variation in Ireland and Scotland*, 235–240. De Gruyter.
+
+15\. Ronan, Patricia and Martin Schweinberger. 2024. An introduction to sociopragmatic variation. In Martin Schweinberger & Patricia Ronan (Eds.), *Socio-pragmatic Variation in Ireland and Scotland*. De Gruyter.
+
+14\. Schweinberger, Martin. 2024. When natural language processing meets corpus linguistics: A computational approach to analyzing the Corpus of Oz Early English. In Carolina Amador-Moreno, Dagmar Haumann, & Arne Peters (Eds.), *Digitally-Assisted Historical English Linguistics*, 73–88. Routledge.
+
+13\. Schweinberger, Martin and Yuki Komiya. 2022. A corpus-based computational analysis of high-front and -back vowel production of L1-Japanese learners of English and L1-English speakers. In Rosey Billington (Ed.), *Proceedings of the Eighteenth Australasian International Conference on Speech Science and Technology*, 196–200. Australasian Speech Science and Technology Association.
+
+12\. Schweinberger, Martin. 2022. Absolutely fantastic and really, really good — Language variation and change in Irish English. In Carolina Amador-Moreno & Stephen Lucek (Eds.), *Expanding the Landscapes of Irish English: Research in Honour of Jeffrey Kallen*, 129–142. Routledge.
 
 11\. Schweinberger, Martin. 2024. Exploring metadiscourse in Twitter data. In Nik Groom and Maggie Charles (Eds.), *The Routledge Handbook of Metadiscourse*, 404–416. London: Routledge.
 

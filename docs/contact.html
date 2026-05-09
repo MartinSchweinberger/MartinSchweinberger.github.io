@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Contact – Martin Schweinberger</title>
+<title>contact – Martin Schweinberger</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,6 +68,204 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<style>
+/* ══════════════════════════════════════════════════════════
+   SHARED INNER-PAGE STYLES — martinschweinberger.de
+   Applied via include-in-header or inline {=html} blocks
+   ══════════════════════════════════════════════════════════ */
+
+/* ── Page header banner ─────────────────────────────────── */
+.pg-header {
+  background: linear-gradient(135deg, #0D1B2A 0%, #1A3A5C 100%);
+  border-bottom: 3px solid #C9A84C;
+  padding: 3rem 0 2.5rem;
+  margin: -1.5rem -1.5rem 2.5rem;   /* bleeds to page edges */
+}
+.pg-header-inner {
+  max-width: 780px;
+  padding: 0 1.5rem;
+}
+.pg-eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: #C9A84C;
+  margin: 0 0 0.4rem;
+}
+.pg-title {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 2.2rem !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+  margin: 0 0 0.7rem !important;
+  letter-spacing: -0.025em;
+  border: none !important;
+  padding: 0 !important;
+  display: block !important;
+}
+.pg-subtitle {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.70);
+  margin: 0 0 1rem;
+  line-height: 1.55;
+}
+.pg-header-badges { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.pg-hbadge {
+  background: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.75);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.70rem;
+  font-weight: 500;
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.15);
+  letter-spacing: 0.02em;
+}
+
+/* ── Section h2 with gold left-bar ─────────────────────── */
+.quarto-document h2 {
+  display: flex !important;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 2.8rem !important;
+  padding-top: 0.2rem;
+}
+.quarto-document h2::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  min-height: 1.15em;
+  background: #C9A84C;
+  border-radius: 2px;
+  flex-shrink: 0;
+  align-self: stretch;
+}
+
+/* ── Publication / entry status chips ──────────────────── */
+.chip {
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.67rem;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+  margin: 0 3px 0 0;
+  line-height: 1.6;
+}
+.chip-prep      { background: #E8F2FC; color: #1A4A8A; }
+.chip-submitted { background: #F5E9C0; color: #7A5200; }
+.chip-revision  { background: #FFF0E0; color: #8A4000; }
+.chip-q1        { background: #E8F7EE; color: #1A6B3A; }
+.chip-oa        { background: #F0E6FB; color: #6B1E9C; }
+.chip-year      { background: #F7F8FA; color: #2D5880; border: 1px solid #D0D8E4; }
+
+/* ── Skills / tag cloud ─────────────────────────────────── */
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 1.5rem; }
+.tag {
+  background: #E8F2FC;
+  color: #1A3A5C;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  border: 1px solid #D0D8E4;
+}
+.tag-gold  { background: #F5E9C0; color: #7A5200; border-color: #E8C96B; }
+.tag-navy  { background: #1A3A5C; color: #fff; border-color: #1A3A5C; }
+
+/* ── Stat cards (for awards/funding) ───────────────────── */
+.stat-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.stat-card {
+  background: #fff;
+  border: 1px solid #D0D8E4;
+  border-top: 3px solid #C9A84C;
+  border-radius: 6px;
+  padding: 1.1rem 1.2rem;
+  text-align: center;
+}
+.stat-card-num {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #0D1B2A;
+  line-height: 1;
+}
+.stat-card-label {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: #4A6A8A;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-top: 5px;
+}
+
+/* ── Contact profile links ──────────────────────────────── */
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+.contact-card {
+  background: #fff;
+  border: 1px solid #D0D8E4;
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  text-decoration: none !important;
+  transition: box-shadow 0.18s, border-color 0.18s;
+}
+.contact-card:hover {
+  border-color: #2563A8;
+  box-shadow: 0 3px 12px rgba(13,27,42,0.09);
+}
+.contact-card-icon {
+  width: 36px; height: 36px;
+  background: #E8F2FC;
+  border-radius: 6px;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  color: #2563A8;
+}
+.contact-card-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #0D1B2A;
+  display: block;
+  line-height: 1.3;
+}
+.contact-card-value {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.78rem;
+  color: #4A6A8A;
+  display: block;
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 680px) {
+  .pg-title { font-size: 1.75rem !important; }
+  .pg-header { padding: 2rem 0 1.8rem; margin: -1rem -1rem 2rem; }
+  .stat-cards { grid-template-columns: 1fr 1fr; }
+}
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -82,7 +280,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -186,64 +384,112 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="2">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#contact-details" id="toc-contact-details" class="nav-link active" data-scroll-target="#contact-details">Contact Details</a></li>
-  <li><a href="#online-profiles" id="toc-online-profiles" class="nav-link" data-scroll-target="#online-profiles">Online Profiles</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Contact</h1>
+
+
+
+<div class="pg-header">
+  <div class="pg-header-inner">
+    <p class="pg-eyebrow">Get in touch</p>
+    <h1 class="pg-title">Contact</h1>
+    <p class="pg-subtitle">School of Languages and Cultures &nbsp;·&nbsp; The University of Queensland &nbsp;·&nbsp; Brisbane, Australia</p>
+  </div>
+</div>
+
+<div style="max-width:760px; margin: 2rem 0;">
+
+  <h2 class="anchored">Contact Details</h2>
+
+  <div class="contact-grid">
+
+    <a href="mailto:m.schweinberger@uq.edu.au" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">Email (UQ)</span>
+        <span class="contact-card-value">m.schweinberger@uq.edu.au</span>
+      </div>
+    </a>
+
+    <a href="https://orcid.org/0000-0003-1923-9153" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">ORCID</span>
+        <span class="contact-card-value">0000-0003-1923-9153</span>
+      </div>
+    </a>
+
+    <a href="https://languages-cultures.uq.edu.au/profile/1150/martin-schweinberger" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">UQ Staff Profile</span>
+        <span class="contact-card-value">languages-cultures.uq.edu.au</span>
+      </div>
+    </a>
+
+    <a href="https://scholar.google.com/citations?user=zgFnhd8AAAAJ&amp;hl=en" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">Google Scholar</span>
+        <span class="contact-card-value">Publication metrics &amp; citations</span>
+      </div>
+    </a>
+
+    <a href="https://www.researchgate.net/profile/Martin_Schweinberger" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">ResearchGate</span>
+        <span class="contact-card-value">researchgate.net</span>
+      </div>
+    </a>
+
+    <a href="https://github.com/MartinSchweinberger" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">GitHub</span>
+        <span class="contact-card-value">MartinSchweinberger</span>
+      </div>
+    </a>
+
+    <a href="https://www.linkedin.com/in/martin-schweinberger-53515a96/" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">LinkedIn</span>
+        <span class="contact-card-value">martin-schweinberger</span>
+      </div>
+    </a>
+
+    <a href="https://ladal.edu.au" target="_blank" class="contact-card">
+      <div class="contact-card-icon">
+        <svg width="18" height="18" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
+      </div>
+      <div>
+        <span class="contact-card-label">LADAL</span>
+        <span class="contact-card-value">ladal.edu.au</span>
+      </div>
+    </a>
+
+  </div>
+
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="contact-details" class="level2">
-<h2 class="anchored" data-anchor-id="contact-details">Contact Details</h2>
-<p><strong>Dr Martin Schweinberger</strong><br>
-Senior Lecturer in Applied Linguistics<br>
-School of Languages and Cultures<br>
-The University of Queensland<br>
-Brisbane, QLD 4072, Australia</p>
-<p><strong>Email:</strong> m.schweinberger [at] uq.edu.au</p>
-<hr>
-</section>
-<section id="online-profiles" class="level2">
-<h2 class="anchored" data-anchor-id="online-profiles">Online Profiles</h2>
-<ul>
-<li><a href="https://orcid.org/0000-0003-1923-9153">ORCID: 0000-0003-1923-9153</a></li>
-<li><a href="https://scholar.google.com/citations?user=zgFnhd8AAAAJ&amp;hl=en">Google Scholar</a></li>
-<li><a href="https://www.researchgate.net/profile/Martin_Schweinberger">ResearchGate</a></li>
-<li><a href="https://www.linkedin.com/in/martin-schweinberger-53515a96/?originalSubdomain=au">LinkedIn</a></li>
-<li><a href="https://github.com/MartinSchweinberger">GitHub</a></li>
-<li><a href="https://gitlab.com/MartinSchweinberger">GitLab</a></li>
-<li>Twitter/X: <span class="citation" data-cites="ronautic">@ronautic</span></li>
-<li><a href="https://languages-cultures.uq.edu.au/profile/1150/martin-schweinberger">UQ Staff Profile</a></li>
-<li><a href="https://ladal.edu.au">LADAL</a></li>
-</ul>
-
-
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
