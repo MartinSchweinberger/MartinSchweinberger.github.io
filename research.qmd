@@ -41,25 +41,10 @@ One basic issue underlying my research is to investigate how, why, and to what e
 
 A major current focus is the analysis of discourse on social media, especially vulgarity and impoliteness in online and public discourse. Another abiding interest is reproducibility and open science in corpus linguistics — I have given talks including a plenary at ICAME 42 and co-edited a special issue of *IJCL* on this topic.
 
----
-
-## Digital Humanities
-
 In 2019, I was a *Digital Champion* on behalf of the *Australian Research Data Commons* (ARDC) and I continue to promote digital methods in HASS by offering workshops on computational methods and giving talks about best practices in research data management and methodology.
 
 In my current role at the School of Languages and Cultures, I established the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au). LADAL is a free, open-source, collaborative support infrastructure for digital and computational humanities, established in 2019 at the University of Queensland. Its tutorials and interactive notebooks have been accessed by over 500,000 users worldwide and have been viewed over 1.1 million times.
 
----
-
-## Methodological Competencies
-
-My research builds primarily on quantitative analyses of corpus data and computational analyses of speech. I have specialised in multivariate regression models (fixed- and random-effect) and tree-based models (Conditional Inference Trees, Random Forests, Boruta) for testing the impact of independent variables and their interactions on a dependent variable. I also have substantial experience with exploratory and dimension-reduction methods including cluster analysis, correspondence analysis, and Semantic Vector Space Models, as well as NLP methods such as sentiment analysis, topic modelling, and word embeddings.
-
----
-
-## Activities in the Scientific Community
-
-I am a member of the International Society for the Linguistics of English (ISLE), the Societas Linguistica Europaea (SLE), and the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). I regularly present at conferences, publish in internationally visible venues, and have organised conferences for both senior and early-career researchers, including ISLE 7 (Brisbane, 2023) and the CALL Research Conference (Brisbane, 2025).
 
 ---
 
@@ -109,7 +94,7 @@ This work is methodologically oriented as well as empirically substantive: I hav
 
 ---
 
-### 4. Adjective Amplification
+### 4. Adjective Amplification in English
 
 This long-running research project investigates the amplifier (or intensifier) systems of varieties of English — how degree adverbs such as *very*, *really*, *absolutely*, and *totally* combine with gradable adjectives, how their frequencies and collocational preferences vary across national varieties and social groups, and how innovations spread through speech communities over time. The project spans diachronic corpus analysis, sociolinguistic modelling, learner corpus research, and L1-acquisition studies, and has produced some of my most widely cited work including the [2015 ISLE Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize)-winning article on discourse *eh* in New Zealand English.
 
