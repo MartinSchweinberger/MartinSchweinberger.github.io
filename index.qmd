@@ -33,7 +33,7 @@ page-layout: full
     </div>
 
     <div class="ms-hero-photo">
-      <img src="images/martinschweinbergeruq.jpg"
+      <img src="images/martinschweinberger-uq.jpg"
            alt="Dr Martin Schweinberger"
            class="ms-photo" />
     </div>
@@ -46,16 +46,16 @@ page-layout: full
 ═══════════════════════════════════════════════════════════ -->
 <section class="ms-stats-bar">
   <div class="ms-stat">
-    <span class="ms-stat-num">1.1M+</span>
-    <span class="ms-stat-label">LADAL page views</span>
+    <span class="ms-stat-num">40+</span>
+    <span class="ms-stat-label">Peer-reviewed publications</span>
   </div>
   <div class="ms-stat">
     <span class="ms-stat-num">AU$16M+</span>
     <span class="ms-stat-label">Competitive funding</span>
   </div>
   <div class="ms-stat">
-    <span class="ms-stat-num">42</span>
-    <span class="ms-stat-label">Conference talks</span>
+    <span class="ms-stat-num">90+</span>
+    <span class="ms-stat-label">Conference talks and presentations</span>
   </div>
   <div class="ms-stat">
     <span class="ms-stat-num">96+</span>
@@ -129,7 +129,21 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
         <h3>Research Infrastructure</h3>
         <p>Building open-access digital research infrastructure for the humanities — directing LADAL and contributing to LDaCA, Australia's national language data commons, reaching 500K+ researchers worldwide.</p>
       </div>
+      <div class="ms-card">
+  <div class="ms-card-icon">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+  </div>
+  <h3>Learner Language &amp; Applied Linguistics</h3>
+  <p>Corpus-based and experimental studies of how L2 speakers acquire variation in amplification, discourse markers, and pragmatic constructions — combining learner corpus research with insights for EFL pedagogy and language assessment.</p>
+</div>
 
+<div class="ms-card">
+  <div class="ms-card-icon">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+  </div>
+  <h3>Computational Acoustic Phonetics</h3>
+  <p>Automated extraction and machine-learning analysis of vowel formants and voice-onset times in L1 and L2 speech — using Praat and R to map learner pronunciation against native-speaker norms and generate personalised feedback.</p>
+</div>
     </div>
   </div>
 </section>
@@ -139,8 +153,8 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 ═══════════════════════════════════════════════════════════ -->
 <section class="ms-section ms-section-white">
   <div class="ms-section-inner">
-    <p class="ms-section-label">In progress</p>
-    <h2 class="ms-section-title">Books under contract</h2>
+    <p class="ms-section-label">Publication</p>
+    <h2 class="ms-section-title">Books under contract and Edited Special Issues</h2>
     <div class="ms-book-cards">
 
       <div class="ms-book-card">
@@ -151,10 +165,16 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
       </div>
 
       <div class="ms-book-card">
-        <div class="ms-book-publisher">Edinburgh University Press</div>
-        <h3 class="ms-book-title">A Practical Introduction to Distant Reading and Text Analysis</h3>
-        <p class="ms-book-series">Single-authored monograph</p>
-        <p class="ms-book-status">Manuscript due 12/2026</p>
+        <div class="ms-book-publisher">Edited Special Issues</div>
+        <h3 class="ms-book-title">Bad Language and Vulgarity Online and in Public Discourse</h3>
+        <p class="ms-book-series">(Co-edited with Kate Burridge and Paula Rautionaho</p>
+        <p class="ms-book-status">Lingua</p>
+        <h3 class="ms-book-title">Reproducibility, Replication and Robustness in Corpus Linguistics</h3>
+        <p class="ms-book-series">(Co-edited with Michael Haugh</p>
+        <p class="ms-book-status">International Journal of Corpus Linguistics</p>
+        <h3 class="ms-book-title">Address Terms in World Englishes</h3>
+        <p class="ms-book-series">(Co-edited with Anke Lensch and Hanna Bruns</p>
+        <p class="ms-book-status">World Englishes</p>
       </div>
 
     </div>
@@ -255,7 +275,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 ═══════════════════════════════════════════════════════════ -->
 <section class="ms-ack">
   <div class="ms-section-inner">
-    <p>I would like to thank <a href="https://sfla.ch/" class="ms-navy-link">Susanne Flach</a> for her help setting up this website. <em>Last updated 2025/05.</em></p>
+    <p></p>
   </div>
 </section>
 

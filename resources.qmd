@@ -109,7 +109,3 @@ If you find any bugs in the code or mistakes in the results, please let me know.
 - ICE Hong Kong: word counts ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-HK.r), [result](http://martinschweinberger.de/docs/data/BiodataIceHongKong.txt))
 - SBCAE: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-SBC.r), [result](http://martinschweinberger.de/docs/data/BiodataSbcae.txt))
 
-**TestCorpus**  
-[A small sample corpus](http://www.martinschweinberger.de/blog/wp-content/uploads/2012/10/TestCorpus.zip) for testing functions.
-
-*(last updated 2024/06)*

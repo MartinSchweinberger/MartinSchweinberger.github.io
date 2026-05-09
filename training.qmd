@@ -81,5 +81,3 @@ The workshops below were held in German at various German universities with abou
 - *Johannes Gutenberg-Universität Mainz*: Statistik für Linguisten (01/04–02/04/2015)
 - *Universität Hamburg*: Statistik für Linguisten / Statistics for linguists (06/02–07/02/2017)
 - *Universität Bonn*: Corpus Linguistics: Focus on quantitative methods (06/03–09/02/2018)
-
-*(last updated 2024/06)*

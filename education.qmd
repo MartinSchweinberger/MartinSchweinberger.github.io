@@ -18,6 +18,21 @@ title: ""
 ```
 
 
+## Leadership Positions
+
+- Associate Editor of the [*Australian Review of Applied Linguistics* (ARAL)](https://alaa.net.au/ARALJournal) (since 1/2024)
+- Editorial Board member of the *Journal of English and Applied Linguistics* (since 9/2024)
+- Book series editor, [*Language, Data Science and Digital Humanities*](https://www.bloomsbury.com/au/series/language-data-science-and-digital-humanities/) (Bloomsbury Academic, since 10/2024)
+- Board member of the [*International Computer Archive of Modern and Medieval English*](http://icame.info) (ICAME) (re-elected)
+- Steering committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, since 2024)
+- Advisory committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, 2023)
+- Steering committee [*Australian Text Analytics Platform*](https://www.atap.edu.au/) (ATAP) (2021–2023, project merged into LDaCA in 2024)
+- Affiliate member of the *Australian Research Council (ARC) Center for Excellence for the Dynamics of Language* ([CoEDL](http://www.dynamicsoflanguage.edu.au/))
+- Former Queensland state chair of the [*Australian Computation and Linguistics Olympiad*](https://www.ozclo.org.au/) (OzCLO, 2021)
+- In 2019 I was [HASS Digital Champion](https://ardc.edu.au/project/humanities-arts-and-social-sciences/) on behalf of the *Australian Research Data Commons* ([ARDC](https://ardc.edu.au/)).
+
+---
+
 ## Education
 
 **Since 11/2014** PhD in English linguistics (Universität Hamburg): Final grade: *magna cum laude*
@@ -88,4 +103,3 @@ UQ = The University of Queensland, Australia
 
 **1–2/2024** [Linguistic Research Infrastructure (LiRI)](https://www.cl.uzh.ch/en/LiRI.html), Universität Zürich — invited by Prof. Dr. Gerold Schneider & Prof. Dr. Volker Dellwo
 
-*(last updated 2024/03/02)*

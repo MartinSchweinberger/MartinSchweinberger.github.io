@@ -153,4 +153,3 @@ Scheme: Australian Research Council (ARC)
 Role: CI (Project lead: Nick Enfield)  
 Collaborators: Various Australian & international stakeholders
 
-*(last updated 2024/09/20)*
