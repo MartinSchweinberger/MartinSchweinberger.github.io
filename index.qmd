@@ -163,13 +163,13 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
       <div class="ms-book-card">
         <div class="ms-book-publisher">Edited Special Issues</div>
         <h3 class="ms-book-title">Bad Language and Vulgarity Online and in Public Discourse</h3>
-        <p class="ms-book-series">(Co-edited with Kate Burridge and Paula Rautionaho</p>
+        <p class="ms-book-series">Co-edited with Kate Burridge and Paula Rautionaho</p>
         <p class="ms-book-status">Lingua</p>
         <h3 class="ms-book-title">Reproducibility, Replication and Robustness in Corpus Linguistics</h3>
-        <p class="ms-book-series">(Co-edited with Michael Haugh</p>
+        <p class="ms-book-series">Co-edited with Michael Haugh</p>
         <p class="ms-book-status">International Journal of Corpus Linguistics</p>
         <h3 class="ms-book-title">Address Terms in World Englishes</h3>
-        <p class="ms-book-series">(Co-edited with Anke Lensch and Hanna Bruns</p>
+        <p class="ms-book-series">Co-edited with Anke Lensch and Hanna Bruns</p>
         <p class="ms-book-status">World Englishes</p>
       </div>
 

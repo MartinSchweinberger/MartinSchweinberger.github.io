@@ -17,8 +17,6 @@ title: ""
 </div>
 ```
 
-
-
 ```{=html}
 <div class="tag-cloud">
   <span class="tag tag-navy">Corpus linguistics</span>
@@ -41,69 +39,138 @@ title: ""
 
 ## Research Profile
 
-In my research I have mainly taken a variationist approach to statistically modeling linguistic variation within and across non-standard or post-colonial varieties of English. While I have mostly relied on corpus data and used [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) to investigate linguistic phenomena, I have also used questionnaire designs and engaged in acoustic analyses of audio data using, for example, the Bavarian Archive for Speech Signals's *The Munich Automatic Segmentation System* ([MAUS](https://www.en.phonetik.uni-muenchen.de/research/current_projects/maus_en.html)) and [PRAAT](http://www.fon.hum.uva.nl/praat/) to investigate target language proximity in vowel production by non-native speakers of English. My position as associate professor at the Arctic University of Norway allowed me to gain experience in experimental methods including web-based eye-tracking and analyzing data obtained from experimental designs. I am also developed an interest in language documentation, anthropological linguistics, and field work methods.
+In my research I have mainly taken a variationist approach to statistically modelling linguistic variation within and across non-standard and post-colonial varieties of English. While I have mostly relied on corpus data and used [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) to investigate linguistic phenomena, I have also engaged in acoustic analyses of audio data using the Bavarian Archive for Speech Signals's *The Munich Automatic Segmentation System* ([MAUS](https://www.en.phonetik.uni-muenchen.de/research/current_projects/maus_en.html)) and [Praat](http://www.fon.hum.uva.nl/praat/), and have used questionnaire designs and experimental methods including web-based eye-tracking during my time at the Arctic University of Norway. I also have an interest in language documentation, anthropological linguistics, and fieldwork methods.
 
-One basic issue underlying my research has been to investigate how, why, and to what extent social, cultural, and psychological factors impact linguistic behavior. The aim of these analyses does not merely focus on describing differences between speakers with distinct social profiles but to elucidate mechanisms underlying processes of language change. In this line of research, I have become particularly interested in how semantically bleached elements, such as discourse particles and degree adverbs (intensifiers), correlate with social, cultural, and psychological factors. For instance, an article for which I won the ISLE [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize) in 2015 investigated whether traditional variationist variables and psycholinguistic factors correlate with the use of the discourse particle *eh* in New Zealand English.
+One basic issue underlying my research is to investigate how, why, and to what extent social, cultural, and psychological factors shape linguistic behaviour — not merely to describe differences between speaker groups, but to elucidate the mechanisms driving language change. I have become particularly interested in how semantically bleached elements such as discourse particles and degree adverbs (intensifiers) pattern across varieties and change over time. An article for which I won the ISLE [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize) in 2015 exemplifies this line of work, investigating psycholinguistic and social determinants of discourse *eh* in New Zealand English.
 
-A more recent focus of my work lies in the analysis of discourse on social media and combining linguistic methods with insights from digital media studies. Another broader interest of mine is reproducibility and best practices in research. To this end, I have given talks — such as my plenary at ICAME42 — and organized workshops to raise awareness of potentially problematic research practices.
+A major current focus is the analysis of discourse on social media, especially vulgarity and impoliteness in online and public discourse. Another abiding interest is reproducibility and open science in corpus linguistics — I have given talks including a plenary at ICAME 42 and co-edited a special issue of *IJCL* on this topic.
 
 ---
 
 ## Digital Humanities
 
-In 2019, I was a *Digital Champion* on behalf of the *Australian Data Research Commons* (ARDC) and I continue to promote the use of digital methods in HASS (Humanities, Arts and Social Sciences) by offering workshops on computational methods and giving talks about best practices in research data management and research methodology.
+In 2019, I was a *Digital Champion* on behalf of the *Australian Research Data Commons* (ARDC) and I continue to promote digital methods in HASS by offering workshops on computational methods and giving talks about best practices in research data management and methodology.
 
-In my current role at the School of Languages and Cultures, I established the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au). LADAL is a free, open-source, collaborative support infrastructure for digital and computational humanities established in 2019 by the School of Languages and Cultures at the University of Queensland. LADAL aims at assisting anyone interested in working with language data in matters relating to data processing, visualization, and analysis and offers guidance on matters relating to language technology and digital research tools.
+In my current role at the School of Languages and Cultures, I established the [Language Technology and Data Analysis Laboratory (LADAL)](https://ladal.edu.au). LADAL is a free, open-source, collaborative support infrastructure for digital and computational humanities, established in 2019 at the University of Queensland. Its tutorials and interactive notebooks have been accessed by over 500,000 users worldwide and have been viewed over 1.1 million times.
 
 ---
 
 ## Methodological Competencies
 
-In terms of methodology, my research has mainly built on quantitative analyses of corpus data or computational analyses of speech. With respect to statistical analyses, I have specialized in multivariate regression models (both fixed- and random-effect models) and tree-based models (Random Forests and Boruta) which allow testing the impact that independent variables and interactions between variables have on some dependent variable. I also have substantive experience in applying exploratory classification or dimension-reduction and agglomerative methods, such as cluster analyses and Semantic Vector Space Models.
+My research builds primarily on quantitative analyses of corpus data and computational analyses of speech. I have specialised in multivariate regression models (fixed- and random-effect) and tree-based models (Conditional Inference Trees, Random Forests, Boruta) for testing the impact of independent variables and their interactions on a dependent variable. I also have substantial experience with exploratory and dimension-reduction methods including cluster analysis, correspondence analysis, and Semantic Vector Space Models, as well as NLP methods such as sentiment analysis, topic modelling, and word embeddings.
 
 ---
 
 ## Activities in the Scientific Community
 
-I am member of various academic societies, including the International Society for the Linguistics of English (ISLE), the Societas Lingustica Europaea (SLE), and the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). I regularly present findings from my research at conferences and actively publish results in internationally visible formats. In addition, I have organized conferences targeted at both senior and junior researchers.
+I am a member of the International Society for the Linguistics of English (ISLE), the Societas Linguistica Europaea (SLE), and the Deutsche Gesellschaft für Sprachwissenschaft (DGfS). I regularly present at conferences, publish in internationally visible venues, and have organised conferences for both senior and early-career researchers, including ISLE 7 (Brisbane, 2023) and the CALL Research Conference (Brisbane, 2025).
 
 ---
 
 ## Research Projects
 
-**1. Language Data Commons of Australia HASS RDC (LDaCA-RDC)**
+### 1. Language Data Commons of Australia (LDaCA)
 
-Large collections of language data have been amassed in Australia. The aim of LDaCA is to federate these efforts into a nationally integrated research infrastructure for collections of high strategic importance.
+Australia holds large and diverse collections of language data, many stored in short-lived repositories or in siloed institutional archives. The aim of LDaCA is to consolidate these into a nationally integrated research data infrastructure of high strategic importance — establishing governance, access policy, shared technical infrastructure, a discovery portal, and community engagement to secure and make accessible Australia's linguistic heritage, including Indigenous language materials.
+
+My contribution focuses on producing open-access training and support resources through LADAL and on building the text analytics capacity of the broader HASS research community. The **Australian Text Analytics Platform (ATAP)**, which I co-led as Chair of the User Advisory Group from 2021–2023, was developed under this umbrella before being integrated into LDaCA in 2024. ATAP filled the gap between generic text analytics tools and highly specialised custom code, developing an integrated, notebook-based platform for processing and analysing language data.
 
 - *Scheme:* HASS Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)
-- *Role:* CI & Advisory committee (Project lead: Michael Haugh)
-- *Funding period:* 2021–2029
+- *Role:* CI & Steering Committee (Project lead: Michael Haugh)
+- *Funding period:* 2021–2029 (Phase I: 2021–2023; Phase II: 2024–2029)
+- *ATAP scheme:* ARDC Platforms Program, 2021–2023
 
-**2. Australian Text Analytics Platform (ATAP)**
+**Selected publications:** [LADAL chapter (Springer, 2021)](https://link.springer.com/chapter/10.1007/978-3-030-46309-0_9) · [Replication crisis chapter (CUP, 2025)](https://www.cambridge.org/core/books/abs/dataintensive-investigations-of-english/implications-of-the-replication-crisis/7EBD8DA77FA7E49FC9468A525F64246B) · [Reproducibility & corpus linguistics, *IJCL* 2025](https://doi.org/10.1075/ijcl.25081.sch) · [COVID-19 Twittersphere, *Big Data & Society* 2021](https://journals.sagepub.com/doi/full/10.1177/20539517211021437) · *in prep.:* Introducing LADAL (*Language Resources and Evaluation*)
 
-Text analytics in Australian research happen at either a basic, generic level or at a very specialised level with hand-crafted code. ATAP fills the space between these two possibilities. (ATAP was integrated into LDaCA in 2024.)
+**Selected talks:** [ICAME 42 Plenary](resources/ICAME42_Plenary_Schweinberger-3.pdf) · [ICAME 42 LADAL talk](resources/ICAME42_LADAL_Schweinberger.pdf) · [ARDC eResearch Summit 2019](resources/HaughSchweinberger_eResearchSummit_20190730.pptx) · [ARDC Webinar 2019](resources/HaughSchweinberger_ARDC_Webinar_20191029.ppt) · [LDaCA & LADAL, LiRI Zürich 2024](presentations.qmd#invited-talks) · [LADAL UEF 2020](resources/LADAL_experiences_20201125_compressed.pdf) · [Computational Thinking in the Humanities 2022](resources/Schweinberger_Lightning_20220829.pdf)
 
-- *Scheme:* Australian Research Data Commons (ARDC) Platforms Program
-- *Role:* CI, Steering committee & Chair of the User Advisory Group (Project lead: Michael Haugh)
-- *Funding period:* 2021–2023
+---
 
-**3. Acquisition, Variation, and Diachronic Change of English Amplifier Systems**
+### 2. Vulgarity and Bad Language in Online and Public Discourse
 
-In this research project I focus on adjective amplification in English, addressing questions involving the acquisition of variation and how linguistic innovations diffuse through the speech community.
+This is one of my most active current research lines, combining corpus-linguistic, sociolinguistic, and computational methods to investigate vulgarity, profanity, and impoliteness in digital and public discourse across varieties of English. Using large-scale Twitter/X corpora and spoken data, I examine the frequency, distribution, social patterning, and discourse functions of vulgar language across Australia, the UK, and the USA — and increasingly in spoken interaction across World Englishes more broadly.
 
-**4. VowelChartProject**
+The project spans multiple funded sub-projects: a UQ Digital Cultures and Societies Hub project on swearing on Twitter (2022–2023, AU$15,075), a School of Languages and Cultures Research Support project with Svenja Kranich at Universität Bonn (2024, AU$3,000), and contributions to an international collaborative network. I co-edited a special issue of *Lingua* ([Bad Language and Vulgarity Online and in Public Discourse](https://www.sciencedirect.com/special-issue/10JMTRGXHQT), 2025/26) with Paula Rautionaho and Kate Burridge, and have an article under contract as the editorial introduction to that volume. This research has attracted widespread media attention, including coverage on Channel 10 News, five ABC Radio programmes, *The Guardian*, *Der Spiegel*, *CNN*, and over 96 other media reports reaching an estimated audience of 205 million with an advertising equivalent of AU$1.9 million.
 
-The VowelChartProject analyzed vowel formants of German, Russian, and Spanish learners of English in PRAAT to investigate where, why, and to what extent learners of English differ from native speakers with respect to vowel production and word-final devoicing.
+- *Funding:* UQ Digital Cultures and Societies Hub (AU$15,075, 2022–2023); SLC Research Support Scheme (AU$3,000, 2024)
+- *Collaborators:* Kate Burridge (Monash), Michael Haugh (UQ), Mikko Laitinen & Paula Rautionaho (Univ. of Eastern Finland), Sam Hames (UQ), Marissa Takahashi (QUT), Svenja Kranich (Univ. Bonn), Amir Sheikhan (UniSA)
 
-![Example vowel chart from the VowelChartProject](images/BeispielVC.png){width=50% fig-alt="Example vowel chart showing F1 and F2 frequencies"}
+**Selected publications:** [Vulgarity in Online Discourse, *Lingua* 2025](https://www.sciencedirect.com/science/article/pii/S0024384125000713) · [Vulgarity intro, *Lingua* 2026](https://doi.org/10.1016/j.lingua.2026.104133) · *submitted:* F%$# Twitter (*Corpora*) · *submitted:* Swearing online (*Digital Scholarship in the Humanities*) · *submitted:* Pop Goes Profanity · [*The Conversation*, 2025](https://theconversation.com/201-ways-to-say-fuck-what-1-7-billion-words-of-online-text-shows-about-how-the-world-swears-257815)
 
-The data for this project consists of audio recordings of German, Spanish, and Russian learners of English who produce word lists and a short story. After being recorded, students receive a personalized vowel chart depicting their F1 and F2 frequencies for English vowels alongside native speaker norms.
+**Selected talks:** [FoEiA 2025](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/VulgarityAroundTheWorld_FoEiA2025.pptx) · [ICAME 46 2025](presentations.qmd#conference-presentations-talks) · [LMU Munich 2025](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx) · [UniSA 2025](resources/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx) · [Universität Bonn 2024](resources/UBonn_Vulgarity_Schweinberger_20241125(2).pptx) · [Universität Bayreuth 2023](presentations.qmd#invited-talks) · [F%$# Twitter, LDaCA Digital Fellowship 2024](presentations.qmd#public-lectures--panels--webinars)
 
-**5. Language Documentation of Southern Low German**
+---
 
-The project aims to create a speech corpus of one of the southernmost, as yet undocumented, varieties of Low German, Oberweserplatt, to enable the documentation of this variety shortly before extinction.
+### 3. Computational Analysis of Digital Discourse and Social Media
 
-**6. Discourse-Pragmatic Variation and L1-Acquisition**
+Beyond vulgarity, I pursue a broader research line in computational corpus analysis of digital and social media discourse. This encompasses text-analytic approaches to born-digital data including topic modelling, sentiment analysis, network analysis, keyword and collocation analysis, and computational discourse analysis. Key topics include metadiscourse in social media, address terms and politeness on Twitter across national varieties of English, conspiracy discourse on Reddit, and data-driven approaches to discourse structure.
 
-I continue to work on discourse pragmatic variation and socio-linguistic determinants of the use of discourse *like*, investigating at what age and in which order distinct functional variants are acquired.
+This work is methodologically oriented as well as empirically substantive: I have made contributions to the development and evaluation of text-analytic methods themselves — for instance publishing on seeded topic modelling as a more appropriate alternative to unsupervised LDA for corpus-pragmatic research ([*Discourse Studies*, 2024](https://journals.sagepub.com/doi/10.1177/14614456241293895)) and on accountability and meta-reflection in corpus-based discourse analysis ([*Corpus Linguistics and Linguistic Theory*, 2024](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0104/html?lang=en)). A two-book contract with Cambridge University Press and Edinburgh University Press reflects the depth of this research line.
 
+**Selected publications:** [Seeded topic modelling, *Discourse Studies* 2024](https://journals.sagepub.com/doi/10.1177/14614456241293895) · [Corpus-based discourse analysis, *CLLT* 2024](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0104/html?lang=en) · [COVID-19 Twittersphere, *Big Data & Society* 2021](https://journals.sagepub.com/doi/full/10.1177/20539517211021437) · [Metadiscourse in Twitter, *Routledge Handbook of Metadiscourse*, 2024](presentations.qmd) · [NLP meets corpus linguistics, *Routledge* 2024](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003360285-6/natural-language-processing-meets-corpus-linguistics-martin-schweinberger) · *submitted:* Conspiracy discourse on Reddit (*Applied Corpus Linguistics*) · *submitted:* Address terms on Twitter (*World Englishes*) · *in prep.:* Data-Intensive Pragmatics (Cambridge UP)
+
+**Selected talks:** [ALS 2020 COVID-19 Twitter](resources/schweinberger-ppt-ALS2020-2020-12-14.pdf) · [Data Science MeetUp Brisbane 2020](resources/schweinberger-ppt-brisbane-2020-09-10.pdf) · [FoEiA 2025 corpus standardisation](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/Data%20Formats_FoEiA2025.pptx)
+
+---
+
+### 4. Adjective Amplification
+
+This long-running research project investigates the amplifier (or intensifier) systems of varieties of English — how degree adverbs such as *very*, *really*, *absolutely*, and *totally* combine with gradable adjectives, how their frequencies and collocational preferences vary across national varieties and social groups, and how innovations spread through speech communities over time. The project spans diachronic corpus analysis, sociolinguistic modelling, learner corpus research, and L1-acquisition studies, and has produced some of my most widely cited work including the [2015 ISLE Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize)-winning article on discourse *eh* in New Zealand English.
+
+Core questions include: what determines whether a new intensifier succeeds or fails in the lexical competition (*totally* vs *awfully*); whether psycholinguistic priming effects drive variability and change; how L2 learners acquire the variable use of amplifiers alongside native-speaker norms; and whether the same sociolinguistic constraints operate across Irish, Australian, New Zealand, Hong Kong, Indian, and Philippine English.
+
+- *Funding:* School of Languages and Cultures Targeted Research Support Scheme (AU$5,440, 2020–2021); ZFF Universität Kassel (€3,000, 2018–ongoing)
+
+**Selected publications:** [Adjective amplification, *World Englishes* 2024](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) · [Australian English amplifiers, *AJL* 2021](https://www.tandfonline.com/doi/full/10.1080/07268602.2021.1931028) · [Irish English intensifiers, *Anglistik* 2021](https://angl.winter-verlag.de/article/ANGL/2021/1/11) · [*very* among L2 learners, *IJLCR* 2020](https://benjamins.com/catalog/ijlcr.20011.sch) · [AmE fiction, JB 2020](https://benjamins.com/catalog/scl.96.09sch) · [Modeling amplification, JB 2022](https://benjamins.com/catalog/scl.107.13sch) · [Waning forms, JB 2021](https://benjamins.com/catalog/slcs.218.08sch) · *under revision:* Priming in NZE (*ELL*) · *in prep.:* L1-acquisition of amplifier variation
+
+**Selected talks:** [JAECS 2020 HK/Indian/Philippine](resources/schweinberger-ppt-jaecs2020-2020-10-3-4.pdf) · [ISLE 6 2021 waning forms](resources/isle6_losers_schweinberger_20210515.pdf) · [ICAME 40 2019](resources/schweinberger-ppt-neuchatel-2019-05-30.pdf) · [ICAME 38 2017](resources/schweinberger-ppt-prague-2017-05-27.pdf) · [ISLE 4 2016](resources/schweinberger-ppt-poznan-2016-09-20.pdf) · [ALS 2018](resources/schweinberger-ppt-adelaide-2018-12-10.pdf) · [AcqVA Aurora 2021](resources/schweinberger_acqvalunch_20210505.pdf) · [Universität Innsbruck 2023](resources/AdjAmp_Schweinberger_Innsbruck.pptx)
+
+---
+
+### 5. Discourse-Pragmatic Variation and L1 Acquisition
+
+This project continues the research that grew out of my PhD dissertation on the discourse marker *like* in varieties of English. The overarching questions concern how pragmatic innovations — particularly discourse particles and markers — diffuse through speech communities, and at what age and in which order distinct functional variants are acquired by L1 speakers. I am investigating whether extra-linguistic social factors are acquired alongside the linguistic constructions themselves or whether the pragmatic structures are acquired first and sociolinguistic variation is added post-hoc. The project draws on corpus data from Irish, New Zealand, and British English and combines quantitative sociolinguistic modelling with developmental perspectives.
+
+More broadly, this line of work connects to corpus pragmatics and the analysis of socio-pragmatic variation in Ireland and Scotland, documented in the edited volume I co-edited with Patricia Ronan ([De Gruyter, 2024](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457/html?lang=de)).
+
+**Selected publications:** [L1-acquisition of *like*, *Functions of Language* 2023](https://benjamins.com/catalog/fol.20025.sch) · [*like* variability & change, *IJGL* 2019](https://www.degruyter.com/view/j/ijgl.2019.8.issue-2/ijgl-2019-2007/ijgl-2019-2007.xml) · [Speech-unit final *like*, *EWW* 2020](https://benjamins.com/catalog/eww.00041.sch) · [*like* in Irish English, JB 2012](https://benjamins.com/catalog/veaw.g44.09sch) · [Socio-pragmatic variation in Ireland & Scotland, De Gruyter 2024](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457/html?lang=de) · [PhD dissertation, 2014](http://ediss.sub.uni-hamburg.de/volltexte/2014/6969/pdf/Dissertation.pdf)
+
+**Selected talks:** [ICAME 33 Leuven 2012](resources/schweinberger-ppt-leuven-2012-06-02.pdf) · [LCTG3 Greifswald 2011](resources/schweinberger-ppt-greifswald-2011-07-01.pdf) · [ICAME 31 Gießen 2010](resources/schweinberger-ppt-giessen-2010-05-28.pdf) · [Leuphana Universität Lüneburg 2012](resources/schweinberger-ppt-luneburg-2012-12-03.pdf)
+
+---
+
+### 6. Language Documentation of Southern Low German
+
+This project aims to create a speech corpus of one of the southernmost, as yet undocumented, varieties of Low German — Oberweserplatt, spoken in the region around the upper Weser river — to enable its documentation shortly before extinction. Oberweserplatt is endangered and has received no systematic linguistic documentation to date, making corpus creation urgent. The corpus is being developed through fieldwork using semi-automated transcription methods and will capture multiple registers and text types, with rich metadata about speakers, their social networks, and recording contexts. Beyond its archival and documentary value, the corpus will serve as a resource for variationist, contact-linguistic, and typological research on Low German.
+
+---
+
+### 7. Learner Language and Applied Linguistics
+
+This project brings together my empirical and pedagogically-oriented work on how L2 learners of English develop their linguistic competence across multiple domains, including grammar, pragmatics, and discourse. A central concern is the relationship between learner corpus research and language teaching: by examining how learners pattern relative to native-speaker norms in large-scale corpora, this line of work generates actionable insights for curriculum design, written corrective feedback, and classroom pedagogy.
+
+Key contributions include studies on how L1 background shapes the acquisition of amplifier variation (connecting directly to the Adjective Amplification project), an analysis of written corrective feedback and L2 error resolution ([*Journal of Second Language Writing*, 2020](https://www.sciencedirect.com/science/article/abs/pii/S1060374320300205)), an investigation of Indonesian teacher trainees' perceptions of data-driven learning ([*Applied Corpus Linguistics*, 2021](https://www.sciencedirect.com/science/article/pii/S2666799121000034#!)), a study of EAP students' genre awareness in blended learning environments ([*Journal of English for Academic Purposes*, 2021](https://www.sciencedirect.com/science/article/pii/S1475158521000655)), and work on the use of corpus tools for L2 teaching and learning at undergraduate level. A broader methodological contribution is the examination of how learner corpus research and instructed second language acquisition can be combined as a productive methodological synergy ([John Benjamins, 2025](https://benjamins.com/catalog/lllt.63.05cro)). Most recently, this line of work extends into intelligibility and pronunciation research, including a submitted paper on listener perceptions of intelligibility in multilingual contexts.
+
+- *Collaborators:* Peter Crosthwaite (UQ), Naomi Storch (Univ. Melbourne), Yon Visioni (UQ), Yuki Komiya
+
+**Selected publications:** [Corpora and ISLA, JB 2025](https://benjamins.com/catalog/lllt.63.05cro) · [Written corrective feedback, *JSLW* 2020](https://www.sciencedirect.com/science/article/abs/pii/S1060374320300205) · [Indonesian teacher trainees, *Applied Corpus Linguistics* 2021](https://www.sciencedirect.com/science/article/pii/S2666799121000034#!) · [Genre awareness blended learning, *JEAP* 2021](https://www.sciencedirect.com/science/article/pii/S1475158521000655) · [Learner corpus research & teaching, *ARAL* 2020](https://benjamins.com/catalog/aral.00032.sch) · [*very* among L2 learners, *IJLCR* 2020](https://benjamins.com/catalog/ijlcr.20011.sch) · *submitted:* Intelligibility & pronunciation (*ARAL*)
+
+**Selected talks:** [Corpus technology for language learning 2021](resources/Schweinberger2021CorpusTechnologyForLanguageLearning.pdf) · [Corpus technology invited talk 2021](presentations.qmd#invited-talks) · [CALL Research Conference 2025](presentations.qmd#conference--workshop-organization)
+
+---
+
+### 8. VowelChartProject
+
+The VowelChartProject developed a pedagogically-oriented tool for acoustic phonetics in the L2 classroom, combining corpus-based acoustic analysis with individualised student feedback. The project extracted vowel formants (F1 and F2) from recordings of German, Russian, and Spanish learners of English using Praat and R, measuring the degree of target-language proximity for each vowel and for word-final devoicing. Students produced word lists and a short story, and subsequently received a personalised vowel chart plotting their formant values alongside native-speaker norms for their L1 group — giving them concrete visual evidence of where their vowel production diverges from the target.
+
+The project ran across three funding phases (€77,860 total from BMBF via L3Prof, Universität Hamburg, 2016–2018) and has since evolved into a broader research line on computational acoustic analysis of learner speech. More recent work extends the methods to L1-Japanese and L1-Chinese learners of English and deploys machine-learning classifiers to distinguish learner from native-speaker vowel production.
+
+- *Funding:* BMBF via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH (€77,860 across three phases, 2016–2018)
+
+![Example vowel chart from the VowelChartProject](images/BeispielVC.png){width=50% fig-alt="Example vowel chart showing F1 and F2 frequencies for learners and native speakers"}
+
+**Selected publications:** [Komiya & Schweinberger, JB 2024](https://benjamins.com/catalog/scl.119.03sch) · [Komiya & Schweinberger, SST 2022](https://sst2022.files.wordpress.com/2022/12/schweinberger-komiya-2022-a-corpus-based-computational-analysis-of-high-front-and-back-vowel-production-of-l1-japanese-learners-of-english-and-l1-english-speakers.pdf)
+
+**Selected talks:** [ISLE 7 2023 L1-Chinese](presentations.qmd#conference-presentations-talks) · [ICAME 44 2023](presentations.qmd#conference-presentations-talks) · [ICAME 43 2022 L1-Japanese](resources/AnalyzingL2Speech_KomiyaSchweinberger_20220728.pdf) · [LiRI Zürich 2024 invited](presentations.qmd#invited-talks) · [Universität Kiel 2022](presentations.qmd#invited-application-talks) · [Universität Freiburg 2023](presentations.qmd#invited-application-talks) · [CuTLi 2017 VowelChartProject](presentations.qmd#invited-talks)
+
+*(last updated 2026/05)*
