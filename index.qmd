@@ -46,10 +46,6 @@ page-layout: full
 ═══════════════════════════════════════════════════════════ -->
 <section class="ms-stats-bar">
   <div class="ms-stat">
-    <span class="ms-stat-num">Director</span>
-    <span class="ms-stat-label">Language Technology and Data Analysis Lab</span>
-  </div>
-  <div class="ms-stat">
     <span class="ms-stat-num">40+</span>
     <span class="ms-stat-label">Peer-reviewed publications</span>
   </div>
