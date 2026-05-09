@@ -7,7 +7,7 @@ title: ""
   <div class="pg-header-inner">
     <p class="pg-eyebrow">Recognition &amp; support</p>
     <h1 class="pg-title">Awards &amp; Funding</h1>
-    <p class="pg-subtitle">AU$16M+ competitive funding &nbsp;·&nbsp; ISLE Richard M. Hogg Prize &nbsp;·&nbsp; ARDC HASS Digital Champion</p>
+    <p class="pg-subtitle">Substantive competitive funding &nbsp;·&nbsp; ISLE Richard M. Hogg Prize &nbsp;·&nbsp; ARDC HASS Digital Champion</p>
     <div class="pg-header-badges">
       <span class="pg-hbadge">LDaCA</span>
       <span class="pg-hbadge">ATAP</span>
@@ -18,12 +18,12 @@ title: ""
 
 <div class="stat-cards">
   <div class="stat-card">
-    <span class="stat-card-num">AU$16M+</span>
-    <span class="stat-card-label">Competitive funding</span>
+    <span class="stat-card-num">Chief Investigator</span>
+    <span class="stat-card-label">LDaCA</span>
   </div>
   <div class="stat-card">
-    <span class="stat-card-num">AU$32K+</span>
-    <span class="stat-card-label">Non-competitive grants</span>
+    <span class="stat-card-num">Director</span>
+    <span class="stat-card-label">LADAL</span>
   </div>
   <div class="stat-card">
     <span class="stat-card-num">6</span>
@@ -69,22 +69,19 @@ Funding period: 2021–2023
 
 Text analysis in Australian research is conducted either at a basic, generic level or at a highly specialized level with custom code. ATAP aimed to fill the gap between these two approaches, developing an integrated, notebook-based platform for processing and extracting text data.
 
----
 
-### Applications Submitted: Competitive Schemes (decision pending)
-
-**Social Network Analysis and related Research (SoNAR)**  
+**Interfaces to Data for Historical Social Network Analysis and Research (SoNAR (IDH))**  
 Scheme: Deutsche Forschungsgesellschaft (DFG)  
 Role: International Collaborator (lead: Gerhard Müller)  
 Collaborators: Various German Libraries and universities & international stakeholders  
-LOI submitted 9/2024
+
+SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Research, will examine and evaluate approaches to build and operate an advanced research technology environment supporting Historical Network Analysis and related research. Project partners from various fields – historiography, information visualization, artificial intelligence and computer sciences as well as information science – work on this topic from their respective perspective.
 
 ---
 
 ### Successful Applications as Project Lead
 
 **Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**  
-Volume: 15,075.88 AUD  
 Funding body: Digital Cultures and Societies Hub (UQ)  
 Role: Project lead  
 Collaborators: Marissa Takahashi (QUT/Australian Digital Observatory), Mikko Laitinen (University of Eastern Finland), Paula Rautionaho (University of Eastern Finland), Michael Haugh (UQ), Sam Hames (UQ)  
@@ -92,8 +89,8 @@ Duration: 8/2022 – 7/2023
 
 This project empirically assesses the assumption that Australians swear frequently by comparing Twitter data from Australia, the UK, and the US. It develops a prototype using computational methods to clean Twitter data, detect and extract swear words, and analyze their frequency and usage contexts.
 
-**[VowelChartProject](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html)**  
-Volume: 77,860 € (3rd phase: 42,960 €, 2nd phase: 22,900 €, 1st phase: 12,000 €)  
+**[VowelChartProject](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html)**
+
 Funding body: BMBF (via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH)  
 Role: Project lead & Principal Investigator (PI)  
 Duration: 9/2016 – 9/2018
@@ -105,43 +102,36 @@ The VowelChartProject extracted vowel formants from German, Russian, and Spanish
 ### Applications Successful: Non-Competitive Schemes
 
 *[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)*  
-Volume: 27,048.18 AU$  
 Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)  
 Role: Project lead & CI  
 Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)
 
 *Bad Language and Vulgarity Online and in Public Discourse*  
-Volume: 3,000 AU$  
 Funding body: School of Languages and Cultures Research Support Scheme (UQ)  
 Role: Project lead & CI  
 Collaborators: Prof. Dr. Svenja Kranich, University of Bonn  
 Duration: 9/2024 – 12/2024
 
 *Automated, corpus- and usage-based semantic classification of adjectives*  
-Volume: 3,000 AU$  
 Funding body: School of Languages and Cultures Research Support Scheme (UQ)  
 Role: Project lead & CI  
 Collaborators: Chang-Hao Luo  
 Duration: 11/2023 – 3/2025
 
 *Acquisition, Variation, and Diachronic Change of English Amplifier Systems*  
-Volume: 5,440 AU$  
 Funding body: School of Languages and Cultures/Targeted Research Support Scheme (UQ)  
 Role: Project lead, Principal Investigator (PI)  
 Duration: 6/2020 – ongoing (funding until 12/2021)
 
 *Dimensions of Intensification*  
-Volume: 3,000 €  
 Funding body: Zentrale Forschungsförderung ([ZFF](http://www.uni-kassel.de/uni/?zff)), UKS  
 Role: PI (Project lead: Holden Härtl)  
 Duration: 3/2018 – ongoing
 
 *Travel costs recompensation acquired from external sources*  
-Volume: 2,162.26 €  
 Funding bodies: *International Society for the Linguistics of English*, *GlaxoSmithKline Stiftung*, *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*
 
 *Conference organization support acquired from external sources*  
-Volume: 1,150 €  
 Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*, *Society for the Promotion of Academic Inter-Cultural Activities e.V.*
 
 ---
