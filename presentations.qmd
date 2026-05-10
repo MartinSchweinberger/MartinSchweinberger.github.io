@@ -101,15 +101,15 @@ title: ""
 
 17\. 2017: Schweinberger, Martin. *Modelling intensification in New Zealand English data*. [Methods in Dialectology XVI](http://pj.ninjal.ac.jp/Methodsxvi/). Tokyo, 7–11/08/2017. ([slides](resources/schweinberger-ppt-tokyo-2017-08-10.pdf))
 
-16\. 2017: Schweinberger, Martin. *Using intensifier-adjective collocations to determine mechanisms of change*. [ICAME 38](https://icame.ff.cuni.cz/). Prague, 24–28/5/2017. ([slides](resources/schweinberger-ppt-prague-2017-05-27.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersIreNze20170526.r), [NZE data](http://martinschweinberger.de/docs/data/datanze.txt), [IrE data](http://martinschweinberger.de/docs/data/dataire.txt))
+16\. 2017: Schweinberger, Martin. *Using intensifier-adjective collocations to determine mechanisms of change*. [ICAME 38](https://icame.ff.cuni.cz/). Prague, 24–28/5/2017. ([slides](resources/schweinberger-ppt-prague-2017-05-27.pdf), 
 
-15\. 2016: Schweinberger, Martin. *Ongoing change in the New Zealand English Intensifier System*. ISLE 4. Poznań, Poland, 18–21/9/2016. ([slides](resources/schweinberger-ppt-poznan-2016-09-20.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersNZE_2016-09-20_ISLE.r))
+15\. 2016: Schweinberger, Martin. *Ongoing change in the New Zealand English Intensifier System*. ISLE 4. Poznań, Poland, 18–21/9/2016. ([slides](resources/schweinberger-ppt-poznan-2016-09-20.pdf), [R script](resources/IntensifiersNZE_2016-09-20_ISLE.r))
 
-14\. 2016: Schweinberger, Martin. *Ongoing Changes in the Irish Intensifier System*. NPIE4. Bergen, 5–7/7/2016. ([slides](resources/schweinberger-ppt-bergen-2016-07-05.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersIrE_2016-07-02.r))
+14\. 2016: Schweinberger, Martin. *Ongoing Changes in the Irish Intensifier System*. NPIE4. Bergen, 5–7/7/2016. ([slides](resources/schweinberger-ppt-bergen-2016-07-05.pdf), [R script](resources/IntensifiersIrE_2016-07-02.r))
 
-13\. 2016: Schweinberger, Martin. *On the Acquisition of Intensifier Constructions*. 17. NLK, Hamburg, 31/3–2/4/2016. ([slides](resources/schweinberger-ppt-hamburg-2016-04-02.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntAcq_20160331.r))
+13\. 2016: Schweinberger, Martin. *On the Acquisition of Intensifier Constructions*. 17. NLK, Hamburg, 31/3–2/4/2016. ([slides](resources/schweinberger-ppt-hamburg-2016-04-02.pdf), [R script](resources/IntAcq_20160331.r))
 
-12\. 2015: Schweinberger, Martin. *Why We Need Better Statistics – A Case Study on eh in New Zealand English*. 16. NLK. Leibniz Universität Hannover, 26–28/3/2015. ([slides](resources/schweinberger-ppt-hannover-2015-03-27.pdf), [R script](http://martinschweinberger.de/docs/scripts/EHinNZENLK2015.r))
+12\. 2015: Schweinberger, Martin. *Why We Need Better Statistics – A Case Study on eh in New Zealand English*. 16. NLK. Leibniz Universität Hannover, 26–28/3/2015. ([slides](resources/schweinberger-ppt-hannover-2015-03-27.pdf), [R script](resources/EHinNZENLK2015.r))
 
 11\. 2012: Schweinberger, Martin. *Global diffusion and local implementation – the discourse particle LIKE around the world*. ICAME 33. Leuven, Belgium, 26/5–3/6/2012. ([slides](resources/schweinberger-ppt-leuven-2012-06-02.pdf))
 
@@ -147,7 +147,7 @@ title: ""
 
 2\. 2016: Schweinberger, Martin. *Gender Differences in Emotion Language*. Submission for "Posterpreis der Universitätsgesellschaft e.V." 2016. Kassel, 21/11/2016. ([poster](resources/schweinberger-poster-kassel-2016-11-21.pdf))
 
-1\. 2016: Schweinberger, Martin. *Using Sentiment Analysis to Investigate the Social Stratification of Emotives in Irish English*. ST & D 2016. Kassel, 18–20/7/2016. ([poster](resources/schweinberger-poster-kassel-2016-07-18.pdf), [R script](http://martinschweinberger.de/docs/scripts/SentimentIrE_2016-07-05.r))
+1\. 2016: Schweinberger, Martin. *Using Sentiment Analysis to Investigate the Social Stratification of Emotives in Irish English*. ST & D 2016. Kassel, 18–20/7/2016. ([poster](resources/schweinberger-poster-kassel-2016-07-18.pdf), [R script](resources/SentimentIrE_2016-07-05.r))
 
 ---
 
@@ -243,7 +243,7 @@ title: ""
 
 5\. 2016: Schweinberger, Martin. *What is my vision for research-led teaching in Corpus Linguistics at Undergraduate level?* University College Dublin, Ireland, 14/12/2016.
 
-4\. 2016: Schweinberger, Martin. *Very good, really great, absolutely amazing — Sociolinguistic Variation in New Zealand's Intensifier System*. Universität Erlangen-Nürnberg, Germany, 20/7/2016. ([slides](resources/schweinberger-ppt-erlangen-2016-07-20.pdf), [R script](http://martinschweinberger.de/docs/scripts/IntensifiersNZE_2016-07-20.r))
+4\. 2016: Schweinberger, Martin. *Very good, really great, absolutely amazing — Sociolinguistic Variation in New Zealand's Intensifier System*. Universität Erlangen-Nürnberg, Germany, 20/7/2016. ([slides](resources/schweinberger-ppt-erlangen-2016-07-20.pdf), [R script](resources/IntensifiersNZE_2016-07-20.r))
 
 3\. 2013: Schweinberger, Martin. *The effect of Singapore's language policy on multilingualism in Singapore*. Universität Köln, Germany, 16/4/2013. ([slides](resources/schweinberger-ppt-koeln-2013-04-16.pdf))
 

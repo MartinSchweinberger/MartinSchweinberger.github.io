@@ -1,0 +1,163 @@
+### --- R Script “Generalized linear Mixed-Effects Model”
+### --- this script works from R2.11 onwards 
+### --- earlier versions require package Design 
+### --- instead of package rms
+
+#############################################################
+
+### --- load packages 
+library(rpart)
+library(chron)
+library(Hmisc)
+library(rms)
+library(Matrix)
+library(lme4)
+library(coda)
+library(e1071)
+library(zipfR)
+library(ape)
+library(ggplot2)
+library(languageR)
+library(car)
+library(lattice)
+### ---package nlme needs removal  
+### --- since fixef would not function otherwise
+detach("package:nlme")
+
+################################################
+
+### --- load data: msch-data-mainz-20121024
+rm(list=ls(all=T))
+mydata <-read.table(choose.files(), header=T, sep="\t", comment.char="", quote="")
+attach(mydata); str(mydata); summary(mydata)
+
+### --- Plot: dispersion of 'eh' across files
+#qqmath( ~ HIT|FILE, data = mydata)
+
+### --- Plot: dispersion of 'eh' across files
+#qqmath( ~ HIT|IDSPEAKER, data = mydata)
+
+### --- we will not use model fitting here because we will take 
+### --- the minimalized lrm model as a starting point
+
+### --- create glmm model
+model.glmm = lmer(HIT ~ SEX + AGE + PAK + (1|FILE) + (1|IDSPEAKER), data=mydata, family = "binomial")
+
+### --- report model.glmm
+print(model.glmm, corr = FALSE)
+
+### --- comparison between the penalized lrm and 
+### --- the new glmm model
+############################################################
+### --- WORKS ONLY IF A LRM OBJECTS EXISTS IN MEMORY
+############################################################
+#### --- activate to use
+#cor.test(coef(model.lrm.pen), fixef(model.glmm))
+
+### --- Modell-Evaluation
+probs = 1/(1+exp(-fitted(model.glmm)))
+somers2(probs, as.numeric(mydata$HIT)-1)
+
+### --- Plot: Comparison between the R2 values of the lrm
+### --- and the glmm objects
+############################################################
+### --- WORKS ONLY IF A LRM OBJECTS EXISTS IN MEMORY
+############################################################
+#### --- activate to use
+#par(mfrow=c(1,2))
+#plot.logistic.fit.fnc(model.lrm, mydata)
+#mtext("lrm", 3, 0.5)
+#plot.logistic.fit.fnc(model.glmm, mydata)
+#mtext("lmer", 3, 0.5)
+#par(mfrow=c(1,1))
+
+### --- Plot: R2 of the glmm model
+############################################################
+### --- active to use
+#par(mfrow=c(1,1))
+#plot.logistic.fit.fnc(model.glmm, mydata)
+#mtext("lmer", 3, 0.5)
+#par(mfrow=c(1,1))
+
+### --- Plot: diagnostic plots
+par(mfrow=c(1, 3))
+res.model.glmm <- residuals(model.glmm)
+hist(res.model.glmm)
+par(pty = "s")
+qqnorm(res.model.glmm)
+qqline(res.model.glmm)
+fit.model.glmm <- fitted(model.glmm)
+plot(fit.model.glmm, res.model.glmm)
+par(mfrow=c(1,1))
+
+### --- Check p-values
+### --- package(pvals) no longer works
+### --- activate for use
+# x = pvals.fnc(model.glmm, nsim = 10000, withMCMC=TRUE)
+# x$fixed
+
+### Calculate effect sizes of fixed-effects
+oddsratios.glmm <- exp(1)^fixef(model.glmm)
+oddsratios.glmm
+
+### --- tocalculate the percentages of in crease or decrase
+### --- you need to substract 1 from the odds ratio
+### --- Example: Output = odds ratios of nominal variable SEX
+### --- the odds ratio is reported for SEX=M 
+#> 1.61623474  - 1 = 0.6162347
+### --- this says that if the turn is uttered by a male, 
+### --- then the probabilty that there is an 'eh' 
+### --- at the end of this turn increases by 
+### --- 61.6 per cent
+
+### --- plot: effects in lmer object
+par(mfrow=c(2, 2))
+plotLMER.fnc(model.glmm, fun=plogis, ylim=c(0, 0.1),
+ylab="Probability of ‘eh’")
+par(mfrow=c(1, 1))
+
+### --- plot: fixed effects in lmer object
+par(mfrow=c(2, 2))
+xylowess.fnc(model.glmm)
+par(mfrow=c(1, 1))
+
+### --- plot: random effects in lmer object
+par(mfrow=c(2, 2))
+dotplot(ranef(model.glmm,postVar=TRUE))
+par(mfrow=c(1, 1))
+
+library(lme4)
+library(ggplot2) # Plotting
+data("Orthodont",package="MEMSS")
+fm1 <- lmer(
+    formula = distance ~ age*Sex + (age|Subject)
+    , data = Orthodont
+)
+newdat <- expand.grid(
+    age=c(8,10,12,14)
+    , Sex=c("Male","Female")
+    , distance = 0
+)
+mm <- model.matrix(terms(fm1),newdat)
+newdat$distance <- mm %*% fixef(fm1)
+pvar1 <- diag(mm %*% tcrossprod(vcov(fm1),mm))
+tvar1 <- pvar1+VarCorr(fm1)$Subject[1]  ## must be adapted for more complex models
+newdat <- data.frame(
+    newdat
+    , plo = newdat$distance-2*sqrt(pvar1)
+    , phi = newdat$distance+2*sqrt(pvar1)
+    , tlo = newdat$distance-2*sqrt(tvar1)
+    , thi = newdat$distance+2*sqrt(tvar1)
+)
+#plot confidence
+g0 <- ggplot(newdat, aes(x=age, y=distance, colour=Sex))+geom_point()
+g0 + geom_errorbar(aes(ymin = plo, ymax = phi))+
+    opts(title="CI based on fixed-effects uncertainty ONLY")
+#plot prediction
+g0 + geom_errorbar(aes(ymin = tlo, ymax = thi))+
+    opts(title="CI based on FE uncertainty + RE variance")
+
+###############################################################
+###                   END
+################################################################
+

@@ -1,0 +1,159 @@
+### --- R Script “Binomial Logistic Regression”
+### --- this script works from R2.11 onwards 
+### --- earlier versions require package Design 
+### --- instead of package rms
+
+#############################################################
+#“When there is a single elementary observation in a row of the #data frame, with a column specifying the value of the binary #predictor, we use lrm()” Baayen 2008:196-197).
+#############################################################
+
+### --- load packages 
+library(Hmisc)
+library(car)
+library(rpart)
+library(chron)
+library(Hmisc)
+library(rms)
+library(Matrix)
+library(coda)
+library(e1071)
+library(zipfR)
+library(ape)
+library(languageR)
+library(car)
+library(MASS)
+library(lattice)
+#library(perturb)
+
+################################################
+
+
+### --- load data: msch-data-mainz-20121024
+rm(list=ls(all=T))
+mydata <-read.table(choose.files(), header=T, sep="\t", comment.char="", quote="")
+attach(mydata); str(mydata); summary(mydata)
+
+### --- Plot: eye-balling data ith association plots
+par(mfrow=c(1,3))
+assocplot(table(PAK, HIT))
+assocplot(table(PRIMING, HIT))
+spineplot (HIT ~ AGE)
+par(mfrow=c(1,1))
+
+### --- set options
+mydata.dd = datadist(mydata)
+#options(contrasts=c("contr.treatment", "contr.poly"))
+options(datadist = "mydata.dd")
+xtabs( ~ mydata$HIT)
+
+### --- create saturated model
+model.lrm = lrm(HIT ~ SEX + AGE + PAK + MAO + TYPE + UML + SML + CLE + MAN + PRO + SEX * PAK + SEX * MAO + SEX * AGE+ PRIMING, data = mydata, x = T, y = T)
+
+### --- report: anova()
+anova(model.lrm)
+
+### --- report: model 
+model.lrm
+
+### --- model validation
+validate(model.lrm, bw = T, B = 200)
+
+#####################################################################
+### --- model fitting process stepwise step down
+### --- eliminate insignificant predictors 
+### --- (interations first from higher to lower order
+### --- see if model statistics improve after predictor 
+### --- has been eliminated
+### --- if n of cases is equal test if minimalized model 
+### --- differs sig from more saturated model
+###
+### Example
+###
+### --- previous minimal model (activate to use)
+#model.lrm.1 = lrm(HIT ~ SEX + AGE + PAK + SML + MAN + 
+#PRO + SEX * PAK + SEX * AGE+ PRIMING, 
+#data = mydata, x = T, y = T)
+#
+### --- new minimal model (activate to use)
+#model.lrm.2 = lrm(HIT ~ SEX + AGE + PAK + SEX * PAK + 
+#PRIMING, data = mydata, x = T, y = T)
+#
+### --- test models with anova
+#anova(model.lrm.1, model.lrm2, test="Chi")
+#
+########################################################
+
+### --- new minimal model
+model.lrm.2 = lrm(HIT ~ SEX + AGE + PAK + SEX * PAK + 
+PRIMING, data = mydata, x = T, y = T)
+
+### --- report: anova 
+anova(model.lrm)
+
+### --- report: model 
+model.lrm
+
+### --- model validation
+validate(model.lrm, bw = T, B = 200)
+
+### --- correct for overfitting 
+### --- best penalty is with highest aic!
+pentrace(model.lrm, seq(0, 0.95, by = 0.05))
+
+#### ---- create new model with penalty=.95
+model.lrm.pen = update(model.lrm, penalty = 0.95)
+
+#### --- report new
+model.lrm.pen
+
+### --- report: anova
+anova(model.lrm)
+
+### --- model validation
+validate(model.lrm.pen, bw = T, B = 200)
+
+### --- check if penalty has shrunk coefficients (if yes = good)
+cbind(coef(model.lrm), coef(model.lrm.pen),
+abs(coef(model.lrm) - coef(model.lrm.pen)))
+
+### --- check how good the predictions of the model are
+vorhersagen<-predict.lrm(model.lrm.pen)
+vorhersagen<-ifelse(vorhersagen<=0, 0,1)
+auswertung<-table(vorhersagen, HIT)
+auswertung
+sum(diag(auswertung))/sum(auswertung)
+
+### --- report effect size as odds ratios
+oddsratios.lrm <- exp(1)^model.lrm.pen$coefficients
+oddsratios.lrm
+
+### --- or alternatively (activate to use)
+### --- report effect size as odds ratios
+#effect.sizes<-exp(model.lrm.pen$coefficients)
+#effect.sizes
+
+### --- to calculate the percentages of in crease or decrase
+### --- you need to substract 1 from the odds ratio
+### --- Example: Output = odds ratios of nominal variable SEX
+### --- the odds ratio is reported for SEX=M 
+#> 1.61623474  - 1 = 0.6162347
+### --- this says that if the turn is uttered by a male, 
+### --- then the probabilty that there is an 'eh' 
+### --- at the end of this turn increases by 
+### --- 61.6 per cent
+
+#### --- check for multicolliniarity
+### --- if vifs smaller than 4 no problem
+vif(model.lrm.pen)
+
+#### --- Plot: visualization of standardized coefficients
+par(mfrow=c(2, 2))
+plot(model.lrm.pen, fun=plogis, ylim=c(0, 0.1),
+# plot(model.lrm.pen, fun=plogis, ylim=c(0, 1),
+ylab="Probability of ‘eh’")
+par(mfrow=c(1, 1)) #restore.the.standard.plotting.setting
+
+###############################################################
+###                   END
+###############################################################
+
