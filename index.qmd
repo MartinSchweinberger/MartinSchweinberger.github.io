@@ -213,6 +213,10 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 ```
 
 ::: {.ms-news-item}
+**26-30/05/2026** — Lara Putensen will present our talk **Pop Goes Profanity: Vulgarity Trends in English Chart Hits from 2000 to 2024** at [ICAME47](https://wp.uni-koblenz.de/icame47/) in Koblenz.
+:::
+
+::: {.ms-news-item}
 **12/12/2025** — Invited talk on **Vulgarity in World Englishes** at LMU Munich (Stephanie Hackert). [(slides)](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx)
 :::
 
