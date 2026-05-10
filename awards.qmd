@@ -18,16 +18,16 @@ title: ""
 
 <div class="stat-cards">
   <div class="stat-card">
-    <span class="stat-card-num">Chief Investigator</span>
+    <span class="stat-card-num">CI</span>
     <span class="stat-card-label">LDaCA</span>
   </div>
   <div class="stat-card">
-    <span class="stat-card-num">Director</span>
+    <span class="stat-card-num">Lead</span>
     <span class="stat-card-label">LADAL</span>
   </div>
   <div class="stat-card">
     <span class="stat-card-num">6</span>
-    <span class="stat-card-label">Funded projects (lead)</span>
+    <span class="stat-card-label">Funded projects</span>
   </div>
   <div class="stat-card">
     <span class="stat-card-num">2015</span>
