@@ -18,13 +18,14 @@ title: ""
 ```
 
 
-## Leadership Positions
+## Leadership Roles
 
 - *Director of Research*, [School of Languages and Cultures](https://languages-cultures.uq.edu.au/team/executive) (University of Queensland, since 1/2026)
+- Director of the [*Language Technology and Data Analysis Laboratory* (LADAL)](https://ladal.edu.au/) (since 2019)
 - Associate Editor of the [*Australian Review of Applied Linguistics* (ARAL)](https://alaa.net.au/ARALJournal) (since 1/2024)
-- Editorial Board member of the *Journal of English and Applied Linguistics* (since 9/2024)
 - Book series editor, [*Language, Data Science and Digital Humanities*](https://www.bloomsbury.com/au/series/language-data-science-and-digital-humanities/) (Bloomsbury Academic, since 10/2024)
-- Board member of the [*International Computer Archive of Modern and Medieval English*](http://icame.info) (ICAME) (re-elected)
+- Editorial Board member of the *Journal of English and Applied Linguistics* (since 9/2024)
+- Board member of the [*International Computer Archive of Modern and Medieval English* (ICAME)](http://icame.info) (re-elected)
 - Steering committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, since 2024)
 - Advisory committee [*Language Data Commons of Australia — HASS Research Data Commons*](https://www.ldaca.edu.au/) (LDaCA — HASS RDC, 2023)
 - Steering committee [*Australian Text Analytics Platform*](https://www.atap.edu.au/) (ATAP) (2021–2023, project merged into LDaCA in 2024)
