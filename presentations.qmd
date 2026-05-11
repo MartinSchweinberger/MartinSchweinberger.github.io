@@ -43,7 +43,9 @@ title: ""
 
 ---
 
-## Plenary
+## Plenaries
+
+2026: Schweinberger, Martin. *Vulgarity in within across Varieties of English* [*Forum on Englishes in Australia](https://sites.google.com/view/auseng/home). Melbourne, 21/8/2026.
 
 2021: Schweinberger, Martin. *Corpus Linguistics, Language Data Science, and Computational Linguistics – building bridges or splitting apart?* [ICAME 42 (42nd Meeting of the International Computer Archive of Modern and Medieval English)](http://icame42.englisch.tu-dortmund.de/). Dortmund, Germany, 18–21/8/2021. [[slides]](resources/ICAME42_Plenary_Schweinberger-3.pdf)
 
