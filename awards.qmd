@@ -70,6 +70,14 @@ Funding period: 2021–2023
   
 Text analysis in Australian research is conducted either at a basic, generic level or at a highly specialized level with custom code. ATAP aimed to fill the gap between these two approaches, developing an integrated, notebook-based platform for processing and extracting text data.  
 
+**LLMs4HASS: Exploring the Use of Large Language Models for Qualitative and Interpretive Research in the Humanities and Social Sciences**  
+Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2026 Funding Scheme   
+Year: 2026  
+Role: Researcher (Project lead: Michael Haugh)    
+Collaborators: Laurence Anthony (Waseda) 
+
+LLMs4HASS investigates how large language models can support qualitative HASS research, while addressing analytical limitations, privacy concerns, and heterogeneous data formats through practical, open-source tools for harmonised, analysis-ready research workflows.
+
 ---  
   
 ### Successful Applications: Competetive Schemes (Project Lead)  
