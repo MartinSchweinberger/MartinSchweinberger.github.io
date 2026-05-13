@@ -106,7 +106,7 @@ Scheme: Global Partnerships 2026
 Funding body: University of Queensland
 Year: 2026
 Role: Lead
-Collaborators: Gerold Schneider (UZH), Mikko Laitinen (UZH)
+Collaborators: International academics
 
 ---
 
@@ -159,18 +159,25 @@ Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wiss
 Scheme: Centre for Digital Cultures & Societies – 2026 Funding Scheme 
 Year: 2026
 Role: Lead 
-Collaborators: Michael Haugh, Mikko Laitinen (UEF), Gerold Schneider (UZH), QUT Digital Observatory (QUT)
+Collaborators: Various Australian & international academics
 
 
 *ClimDis: Computational Analysis of Climate Change Discourse — Piloting a UQ–UEF–UZH Research Alliance for EU Horizon Funding*
 Scheme: HASS Partnership & Collaboration Seed Funding Scheme 2026
 Year: 2026
 Role: Lead 
-Collaborators: Mikko Laitinen (UEF), Gerold Schneider (UZH)
+Collaborators: International academics
+
+*Shedding Light on the Dark Matter of Public Controversy*
+Funding body: Australian Research Council (ARC)
+Scheme: ARC Discovery
+Year: 2025
+Role: Lead
+Collaborators: Various Australian & international academics
 
 *ARC Center of Excellence for the Future of Language*  
-Scheme: Australian Research Council (ARC)  
-Year: 2026
+Funding body: Australian Research Council (ARC)  
+Year: 2025
 Role: CI (Project lead: Nick Enfield)  
 Collaborators: Various Australian & international stakeholders
 
