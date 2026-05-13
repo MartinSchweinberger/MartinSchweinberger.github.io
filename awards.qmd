@@ -51,7 +51,7 @@ title: ""
   
 I have substantively contributed to and/or taken a relevant role in the grant applications of the following scientific projects.  
   
-### Successful Applications: Competitive Schemes  
+### Successful Applications: Competitive Schemes (Substantive Contribution)  
   
 **[Language Data Commons of Australia HASS RDC (LDaCA-RDC)](https://www.ldaca.edu.au/)**    
 Scheme: Humanities, Arts and Social Sciences (HASS) Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)    
@@ -69,18 +69,10 @@ Funding period: 2021–2023
 (ATAP has been integrated into LDaCA as of 2024.)  
   
 Text analysis in Australian research is conducted either at a basic, generic level or at a highly specialized level with custom code. ATAP aimed to fill the gap between these two approaches, developing an integrated, notebook-based platform for processing and extracting text data.  
-  
-  
-**Interfaces to Data for Historical Social Network Analysis and Research (SoNAR (IDH))**    
-Scheme: Deutsche Forschungsgesellschaft (DFG)    
-Role: International Collaborator (lead: Gerhard Müller)    
-Collaborators: Various German Libraries and universities & international stakeholders    
-  
-SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Research, will examine and evaluate approaches to build and operate an advanced research technology environment supporting Historical Network Analysis and related research. Project partners from various fields – historiography, information visualization, artificial intelligence and computer sciences as well as information science – work on this topic from their respective perspective.  
-  
+
 ---  
   
-### Successful Applications as Project Lead  
+### Successful Applications: Competetive Schemes (Project Lead)  
   
 **Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**    
 Funding body: Digital Cultures and Societies Hub (UQ)    
@@ -98,16 +90,25 @@ Duration: 9/2016 – 9/2018
   
 The VowelChartProject extracted vowel formants from German, Russian, and Spanish learners of English using PRAAT and R to investigate where, why, and to what extent English learners differ from native English speakers in vowel production and word-final devoicing. Students received personalized vowel charts and written feedback after participating.  
   
----  
-  
-### Applications as Project Lead (Decision Pending)  
-  
-*ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse*  
+ 
+**Decision Pending** *ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse*  
 Scheme: Global Partnerships 2026   
 Funding body: University of Queensland  
 Year: 2026  
 Role: Lead  
 Collaborators: International academics  
+
+---  
+
+### Successful Applications: Competitive Schemes (Minor Contribution)  
+  
+**Interfaces to Data for Historical Social Network Analysis and Research (SoNAR (IDH))**    
+Scheme: Deutsche Forschungsgesellschaft (DFG)    
+Role: International Collaborator (lead: Gerhard Müller)    
+Collaborators: Various German Libraries and universities & international stakeholders    
+  
+SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Research, will examine and evaluate approaches to build and operate an advanced research technology environment supporting Historical Network Analysis and related research. Project partners from various fields – historiography, information visualization, artificial intelligence and computer sciences as well as information science – work on this topic from their respective perspective.  
+
   
 ---  
   
