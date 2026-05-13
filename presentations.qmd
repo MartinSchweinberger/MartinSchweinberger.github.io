@@ -53,6 +53,13 @@ title: ""
 
 ## Conference Presentations (Talks)
 
+45\. 2026: Pan Li, Jhoana and Martin Schweinberger. Vulgarity across the Spanish-Speaking World. [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General). Brisbane, 26-28/11/2026.
+
+
+44\. 2026: Visoni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General). Brisbane, 26-28/11/2026.
+
+43\. 2026: Putensen, Lara and Martin Schweinberger. Pop Goes Profanity: Vulgarity Trends in English Chart Hits from 2000 to 2024. [ICAME47](https://wp.uni-koblenz.de/icame47/). Koblenz, 26-30/05/2026.
+
 42\. 2025: Schweinberger, Martin. Vulgarity in spoken interaction across selected varieties of English. [Forum on Englishes in Australia](https://sites.google.com/view/auseng/home). Melbourne, 7/11/2025. [[slides]](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/VulgarityAroundTheWorld_FoEiA2025.pptx)
 
 41\. 2025: Schweinberger, Martin. Standardizing Corpora: Why and How? [Forum on Englishes in Australia](https://sites.google.com/view/auseng/home). Melbourne, 7/11/2025. [[slides]](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/Data%20Formats_FoEiA2025.pptx)

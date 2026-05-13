@@ -213,7 +213,15 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 ```
 
 ::: {.ms-news-item}
-**21/8/2026** — I will be giving a keynote on Vulgarityat the [*Forum on Englishes in Australia*](https://sites.google.com/view/auseng/home) in Melbourne.
+**26-28/11/2026** — Jhoana Pan Li and Yon Visoni will present our papers on (a) Vulgarity across the Spanish-Speaking world (Jhoana) and (b) Listener Perceptions of Intelligibility in Multilingual Contexts (Yon) at the [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General) in Brisbane.
+:::
+
+::: {.ms-news-item}
+**21/8/2026** — I will be giving a keynote on Vulgarity at the [*Forum on Englishes in Australia*](https://sites.google.com/view/auseng/home) in Melbourne.
+:::
+
+::: {.ms-news-item}
+**5/6/2026** — Svenja Kranich invited me to give a talk on *Reproducibility, Transparency, and AI in Language-Based Empirical Research* at the University of Bonn.
 :::
 
 ::: {.ms-news-item}
