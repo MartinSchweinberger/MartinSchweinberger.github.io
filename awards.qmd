@@ -99,7 +99,24 @@ The VowelChartProject extracted vowel formants from German, Russian, and Spanish
 
 ---
 
+### Applications as Project Lead (Decision Pending)
+
+*ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse*
+Scheme: Global Partnerships 2026 
+Funding body: University of Queensland
+Year: 2026
+Role: Lead
+Collaborators: Gerold Schneider (UZH), Mikko Laitinen (UZH)
+
+---
+
 ### Applications Successful: Non-Competitive Schemes
+
+*School Research Support Funding*
+Scheme: School Research Support Funding Scheme (UQ)
+Funding body: School of Languages and Cultures
+Year(s): 2019, 2020, 2023, 2024, 2026
+Duration (2026 round): 4/2026 – 12/2026
 
 *[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)*  
 Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)  
@@ -138,8 +155,22 @@ Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wiss
 
 ### Applications Unsuccessful: Competitive Schemes
 
+*ClimDis: Computational Analysis of Climate Change Discourse – Building the Research Infrastructure and Grant Pipeline for a UQ–UEF–UZH International Alliance*
+Scheme: Centre for Digital Cultures & Societies – 2026 Funding Scheme 
+Year: 2026
+Role: Lead 
+Collaborators: Michael Haugh, Mikko Laitinen (UEF), Gerold Schneider (UZH), QUT Digital Observatory (QUT)
+
+
+*ClimDis: Computational Analysis of Climate Change Discourse — Piloting a UQ–UEF–UZH Research Alliance for EU Horizon Funding*
+Scheme: HASS Partnership & Collaboration Seed Funding Scheme 2026
+Year: 2026
+Role: Lead 
+Collaborators: Mikko Laitinen (UEF), Gerold Schneider (UZH)
+
 *ARC Center of Excellence for the Future of Language*  
 Scheme: Australian Research Council (ARC)  
+Year: 2026
 Role: CI (Project lead: Nick Enfield)  
 Collaborators: Various Australian & international stakeholders
 
