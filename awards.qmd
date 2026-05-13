@@ -90,8 +90,9 @@ Duration: 9/2016 – 9/2018
   
 The VowelChartProject extracted vowel formants from German, Russian, and Spanish learners of English using PRAAT and R to investigate where, why, and to what extent English learners differ from native English speakers in vowel production and word-final devoicing. Students received personalized vowel charts and written feedback after participating.  
   
+--- 
  
-**Decision Pending** *ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse*  
+*Decision Pending* **ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse**  
 Scheme: Global Partnerships 2026   
 Funding body: University of Queensland  
 Year: 2026  
@@ -114,38 +115,38 @@ SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Resea
   
 ### Applications Successful: Non-Competitive Schemes  
   
-*School Research Support Funding*  
+**School Research Support Funding**  
 Scheme: School Research Support Funding Scheme (UQ)  
 Funding body: School of Languages and Cultures  
 Year(s): 2019, 2020, 2023, 2024, 2026  
 Duration (2026 round): 4/2026 – 12/2026  
   
-*[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)*    
+**[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)**    
 Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)    
 Role: Project lead & CI    
 Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)  
   
-*Bad Language and Vulgarity Online and in Public Discourse*    
+**Bad Language and Vulgarity Online and in Public Discourse**    
 Funding body: School of Languages and Cultures Research Support Scheme (UQ)    
 Role: Project lead & CI    
 Collaborators: Prof. Dr. Svenja Kranich, University of Bonn    
 Duration: 9/2024 – 12/2024  
   
-*Automated, corpus- and usage-based semantic classification of adjectives*    
+**Automated, corpus- and usage-based semantic classification of adjectives**    
 Funding body: School of Languages and Cultures Research Support Scheme (UQ)    
 Role: Project lead & CI    
 Collaborators: Chang-Hao Luo    
 Duration: 11/2023 – 3/2025  
   
-*Acquisition, Variation, and Diachronic Change of English Amplifier Systems*    
+**Acquisition, Variation, and Diachronic Change of English Amplifier Systems**    
 Funding body: School of Languages and Cultures/Targeted Research Support Scheme (UQ)    
 Role: Project lead, Principal Investigator (PI)    
 Duration: 6/2020 – ongoing (funding until 12/2021)  
   
-*Dimensions of Intensification*    
+**Dimensions of Intensification**    
 Funding body: Zentrale Forschungsförderung ([ZFF](http://www.uni-kassel.de/uni/?zff)), UKS    
 Role: PI (Project lead: Holden Härtl)    
-Duration: 3/2018 – ongoing  
+Duration: 3/2018 – 7/2020  
   
 *Travel costs recompensation acquired from external sources*    
 Funding bodies: *International Society for the Linguistics of English*, *GlaxoSmithKline Stiftung*, *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*  
@@ -157,33 +158,33 @@ Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wiss
   
 ### Applications Unsuccessful: Competitive Schemes  
   
-*ClimDis: Computational Analysis of Climate Change Discourse – Building the Research Infrastructure and Grant Pipeline for a UQ–UEF–UZH International Alliance*  
+**ClimDis: Computational Analysis of Climate Change Discourse – Building the Research Infrastructure and Grant Pipeline for a UQ–UEF–UZH International Alliance**  
 Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2026 Funding Scheme   
 Year: 2026  
 Role: Lead   
 Collaborators: Various Australian & international academics  
   
   
-*ClimDis: Computational Analysis of Climate Change Discourse — Piloting a UQ–UEF–UZH Research Alliance for EU Horizon Funding*  
+**ClimDis: Computational Analysis of Climate Change Discourse — Piloting a UQ–UEF–UZH Research Alliance for EU Horizon Funding**  
 Scheme: HASS Partnership & Collaboration Seed Funding Scheme 2026  
 Year: 2026  
 Role: Lead   
 Collaborators: International academics  
   
-*Shedding Light on the Dark Matter of Public Controversy*  
+**Shedding Light on the Dark Matter of Public Controversy**  
 Funding body: Australian Research Council (ARC)  
 Scheme: ARC Discovery  
 Year: 2025  
 Role: Lead  
 Collaborators: Various Australian & international academics  
   
-*ARC Center of Excellence for the Future of Language*    
+**ARC Center of Excellence for the Future of Language**    
 Funding body: Australian Research Council (ARC)    
 Year: 2025  
 Role: CI (Project lead: Nick Enfield)    
 Collaborators: Various Australian & international stakeholders  
   
-*Language and Discourse in De-Democratization*
+**Language and Discourse in De-Democratization**  
 Funding body: Deutsche Forschungsgemeinschaft (DFG)    
 Year: 2025  
 Role: International Partner Investigator  
