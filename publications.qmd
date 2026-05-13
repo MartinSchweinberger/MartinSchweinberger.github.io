@@ -31,13 +31,15 @@ title: ""
 
 [JS 1] *submitted.* Putensen, Lara and Martin Schweinberger. Pop Goes Profanity: Vulgarity Trends in English Chart Hits From 2000 to 2024. Submitted 2/2026 to *Journal of Language and Pop Culture*.
 
-[JA 2] *accepted* Schweinberger, Martin and Amir Sheikhan. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. *World Englishes* [Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. 
-
 [JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. *Corpora*.
 
 [JR 1] *under revision.* Schweinberger, Martin. Priming in Language Change — A corpus-based analysis of adjective amplification in New Zealand English. Submitted 12/2/2020 to *English Language and Linguistics*. (SJR: Q1)
 
 ### Published journal articles
+
+25\. Schweinberger, Martin and Amir Sheikhan. in print. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. *World Englishes*  <https://doi.org/10.1111/weng.70025>  
+[Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. 
+
 
 24\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. *Digital Scholarship in the Humanities*. <https://doi.org/10.1093/llc/fqag070>  
 
