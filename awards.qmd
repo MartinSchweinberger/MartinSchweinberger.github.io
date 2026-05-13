@@ -62,7 +62,7 @@ Funding period: 2021–2029 (phase I: 2021–2023, phase II: 2024–2029)
 In Australia, large language data collections exist, some housed in well-established archives (such as Trove), but many stored in short-lived repositories. LDaCA aims to consolidate these efforts into a nationally integrated research infrastructure. It aims to: (1) establish a governance board representing key stakeholders, (2) develop a comprehensive policy framework for access to language data, (3) create a shared technical infrastructure across institutions, (4) develop a portal for the discovery and access to language data, and (5) engage researchers and communities to secure and make accessible Australia's linguistic heritage.  
   
 **[Australian Text Analytics Platform (ATAP)](https://www.atap.edu.au/)**    
-Scheme: Australian Research Data Commons (ARDC) Platforms Program    
+Scheme: [Australian Research Data Commons (ARDC)](https://ardc.edu.au/) Platforms Program    
 Role: Steering committee & CI & Chair of the User Advisory Group (Project lead: Michael Haugh)    
 Collaborators: Various Australian & international stakeholders    
 Funding period: 2021–2023    
@@ -75,7 +75,7 @@ Text analysis in Australian research is conducted either at a basic, generic lev
 ### Successful Applications: Competetive Schemes (Project Lead)  
   
 **Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**    
-Funding body: Digital Cultures and Societies Hub (UQ)    
+Funding body: [Digital Cultures and Societies Hub (UQ)](https://hass.uq.edu.au/centre-digital-cultures-societies)    
 Role: Project lead    
 Collaborators: Marissa Takahashi (QUT/Australian Digital Observatory), Mikko Laitinen (University of Eastern Finland), Paula Rautionaho (University of Eastern Finland), Michael Haugh (UQ), Sam Hames (UQ)    
 Duration: 8/2022 – 7/2023  
@@ -158,7 +158,7 @@ Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wiss
 ### Applications Unsuccessful: Competitive Schemes  
   
 *ClimDis: Computational Analysis of Climate Change Discourse – Building the Research Infrastructure and Grant Pipeline for a UQ–UEF–UZH International Alliance*  
-Scheme: Centre for Digital Cultures & Societies – 2026 Funding Scheme   
+Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2026 Funding Scheme   
 Year: 2026  
 Role: Lead   
 Collaborators: Various Australian & international academics  
