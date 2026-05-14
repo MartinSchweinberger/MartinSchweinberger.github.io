@@ -124,7 +124,7 @@ Below are links to tutorials I created for the [Language Technology and Data Ana
 
 ---
 
-## Tools
+## Software Development / Programming / Tools  
 
 Below are links to interactive browser-based tools I created for [LADAL](https://ladal.edu.au/tools.html). Each tool is a Jupyter notebook that runs in your browser — no installation required.
 
@@ -148,6 +148,8 @@ You will find a document with general information about my seminars [here](http:
 You will find a model term paper [here](http://martinschweinberger.de/docs/materials/ModelseminararbeitMS.docx). This model term paper includes information about the structure, content, and formatting of term papers. You can also use it as a template and use the formatting within the model. (last updated 2015/04/08)
 
 ---
+
+<!--
 
 ## Programming / Software Development / Corpus Linguistics
 
@@ -179,3 +181,5 @@ If you find any bugs in the code or mistakes in the results, please let me know.
 - ICE Singapore: word counts ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-SG.r), [result](http://martinschweinberger.de/docs/data/BiodataIceSingapore.txt))
 - ICE Hong Kong: word counts ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-ICE-HK.r), [result](http://martinschweinberger.de/docs/data/BiodataIceHongKong.txt))
 - SBCAE: word counts and biodata ([R script](http://martinschweinberger.de/docs/scripts/R-Script-Biodata-SBC.r), [result](http://martinschweinberger.de/docs/data/BiodataSbcae.txt))
+
+-->
