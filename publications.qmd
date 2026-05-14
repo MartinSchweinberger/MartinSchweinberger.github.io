@@ -33,7 +33,9 @@ title: ""
 
 [JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. *Corpora*.
 
+<!--
 [JR 1] *under revision.* Schweinberger, Martin. Priming in Language Change — A corpus-based analysis of adjective amplification in New Zealand English. Submitted 12/2/2020 to *English Language and Linguistics*. (SJR: Q1)
+-->
 
 ### Published journal articles
 
