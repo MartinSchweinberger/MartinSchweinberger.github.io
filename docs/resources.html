@@ -390,6 +390,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#tutorials" id="toc-tutorials" class="nav-link active" data-scroll-target="#tutorials">Tutorials</a></li>
+  <li><a href="#tools" id="toc-tools" class="nav-link" data-scroll-target="#tools">Tools</a></li>
   <li><a href="#for-students" id="toc-for-students" class="nav-link" data-scroll-target="#for-students">For Students</a></li>
   <li><a href="#programming-software-development-corpus-linguistics" id="toc-programming-software-development-corpus-linguistics" class="nav-link" data-scroll-target="#programming-software-development-corpus-linguistics">Programming / Software Development / Corpus Linguistics</a></li>
   </ul>
@@ -405,7 +406,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="pg-header-inner">
     <p class="pg-eyebrow">Open-access materials</p>
     <h1 class="pg-title">Resources</h1>
-    <p class="pg-subtitle">Free tutorials, R scripts, data sets, and course materials &nbsp;·&nbsp; All open-access via LADAL and GitHub</p>
+    <p class="pg-subtitle">Free tutorials, interactive tools, R scripts, data sets, and course materials &nbsp;·&nbsp; All open-access via LADAL and GitHub</p>
     <div class="pg-header-badges">
       <span class="pg-hbadge"><a href="https://ladal.edu.au" style="color:inherit;text-decoration:none;">ladal.edu.au</a></span>
       <span class="pg-hbadge"><a href="https://github.com/MartinSchweinberger" style="color:inherit;text-decoration:none;">GitHub</a></span>
@@ -417,48 +418,119 @@ ul.task-list li input[type="checkbox"] {
 <p>Below are links to tutorials I created for the <a href="https://ladal.edu.au/">Language Technology and Data Analysis Laboratory (LADAL)</a>.</p>
 <p><strong>DATA SCIENCE BASICS</strong></p>
 <ul>
-<li><a href="https://ladal.edu.au/tutorials/comp/comp.html">Computer tips and tricks</a> — useful tips about working with computers, e.g.&nbsp;how to keep your computer running smoothly</li>
-<li><a href="https://ladal.edu.au/tutorials/repro/repro.html">Introduction to data science</a> — basic concepts of data science</li>
-<li><a href="https://ladal.edu.au/introquant/introquant.html">Introduction to quantitative reasoning</a></li>
-<li><a href="https://ladal.edu.au/basicquant/basicquant.html">Basic concepts of quantitative research</a> (methodology)</li>
+<li><a href="https://ladal.edu.au/tutorials/working_with_computers/working_with_computers.html">Working with Computers</a> — setting up a research-ready digital environment; file and folder organisation, data storage, and digital workflows (<a href="https://doi.org/10.5281/zenodo.19332989">doi: 10.5281/zenodo.19332989</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/datamanagement/datamanagement.html">Introduction to Data Management</a> — basic data management techniques: folder organisation, file naming conventions, and data documentation practices (<a href="https://doi.org/10.5281/zenodo.19332868">doi: 10.5281/zenodo.19332868</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/reproducibility/reproducibility.html">Reproducible Research</a> — principles of reproducibility, version control basics, documentation strategies, and reproducible workflows (<a href="https://doi.org/10.5281/zenodo.19332935">doi: 10.5281/zenodo.19332935</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/quant_intro/quant_intro.html">Introduction to Quantitative Reasoning</a> — the scientific method, empirical reasoning, and why quantitative methods matter for humanities research (<a href="https://doi.org/10.5281/zenodo.19329151">doi: 10.5281/zenodo.19329151</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/quant_basics/quant_basics.html">Basic Concepts in Quantitative Research</a> — variables, observations, measurements, and the distinction between descriptive and inferential statistics (<a href="https://doi.org/10.5281/zenodo.19329153">doi: 10.5281/zenodo.19329153</a>)</li>
 </ul>
-<p><strong>INTRODUCTION TO R</strong></p>
+<p><strong>R BASICS</strong></p>
 <ul>
-<li><a href="https://ladal.edu.au/IntroR_workshop.html">Introduction to R for beginners</a></li>
-<li><a href="https://ladal.edu.au/tutorials/string/string.html">String processing with R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/regex/regex.html">Regular expressions in R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/table/table.html">Working with tabulated data in R</a> — how to create, manipulate, and process tabular data</li>
+<li><a href="https://ladal.edu.au/tutorials/why_r/why_r.html">Why R?</a> — reasons for choosing R for language research</li>
+<li><a href="https://ladal.edu.au/tutorials/r_intro/r_intro.html">Getting Started with R</a> — installing R and RStudio, basic R syntax, variables, functions, and your first R script (<a href="https://doi.org/10.5281/zenodo.19332947">doi: 10.5281/zenodo.19332947</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/data_loading/data_loading.html">Loading and Saving Data in R</a> — reading CSV, Excel, plain text, and other file formats; writing data back to disk (<a href="https://doi.org/10.5281/zenodo.19332909">doi: 10.5281/zenodo.19332909</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/string/string.html">String Processing in R</a> — text manipulation with stringr: concatenation, splitting, replacement, and pattern matching (<a href="https://doi.org/10.5281/zenodo.19332969">doi: 10.5281/zenodo.19332969</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/regular_expressions/regular_expressions.html">Regular Expressions in R</a> — character classes, quantifiers, anchors, capture groups, and lookahead/lookbehind (<a href="https://doi.org/10.5281/zenodo.19332943">doi: 10.5281/zenodo.19332943</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/table/table.html">Handling Tables in R</a> — creating and manipulating data frames, subsetting, reshaping, merging, and tabulating data with tidyverse tools (<a href="https://doi.org/10.5281/zenodo.19332975">doi: 10.5281/zenodo.19332975</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/workingwithr/workingwithr.html">Working with R: Control Flow, Functions, and Programming</a> — loops, conditionals, custom functions, and programming patterns in R</li>
+<li><a href="https://ladal.edu.au/tutorials/r_reproducibility/r_reproducibility.html">Reproducibility with R</a> — R Markdown, Quarto, version control with Git, and R Projects for organised workflows (<a href="https://doi.org/10.5281/zenodo.19332937">doi: 10.5281/zenodo.19332937</a>)</li>
+</ul>
+<p><em>How-to guides:</em></p>
+<ul>
+<li><a href="https://ladal.edu.au/tutorials/notebooks/notebooks.html">Creating R Notebooks with R Markdown and Quarto</a> — reproducible analysis documents with embedded code, output, and narrative text (<a href="https://doi.org/10.5281/zenodo.19332919">doi: 10.5281/zenodo.19332919</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/publish/publish.html">Publishing with Bookdown and Quarto</a> — creating and publishing long-form documents and websites from R</li>
+<li><a href="https://ladal.edu.au/tutorials/jupyter/jupyter.html">Creating Interactive Jupyter Notebooks</a> — building interactive teaching materials and reproducible research notebooks (<a href="https://doi.org/10.5281/zenodo.19332892">doi: 10.5281/zenodo.19332892</a>)</li>
+</ul>
+<p><strong>DATA COLLECTION AND ACQUISITION</strong></p>
+<ul>
+<li><a href="https://ladal.edu.au/tutorials/corpus_compilation/corpus_compilation.html">Compiling a Corpus: From Texts to Analysis-Ready Data</a> — principles and practice of corpus design, data collection, cleaning, and metadata organisation (<a href="https://doi.org/10.5281/zenodo.19332645">doi: 10.5281/zenodo.19332645</a>)</li>
+</ul>
+<p><em>How-to guides:</em></p>
+<ul>
+<li><a href="https://ladal.edu.au/tutorials/gutenberg/gutenberg.html">Downloading Texts from Project Gutenberg</a> — batch downloading and cleaning public domain texts via the gutenbergr package (<a href="https://doi.org/10.5281/zenodo.19332882">doi: 10.5281/zenodo.19332882</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/webscraping/webscraping.html">Web Scraping with R</a> — extracting text and data from websites using rvest</li>
+<li><a href="https://ladal.edu.au/tutorials/data_simulation/data_simulation.html">Simulating Data with R</a> — generating synthetic datasets for method testing and teaching</li>
+<li><a href="https://ladal.edu.au/tutorials/pdf_to_text/pdf_to_text.html">Converting PDFs to Text</a> — extracting text from PDF files for further processing</li>
 </ul>
 <p><strong>DATA VISUALIZATION</strong></p>
 <ul>
-<li><a href="https://ladal.edu.au/tutorials/introviz/introviz.html">Introduction to data visualization with R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/dviz/dviz.html">Common visualization types in R</a> — scatter plots, line graphs, bar plots, box plots, etc.</li>
-<li><a href="https://ladal.edu.au/tutorials/leaflet/leaflet.html">Geo-spatial data visualization (mapping) with R</a></li>
+<li><a href="https://ladal.edu.au/tutorials/data_viz_intro/data_viz_intro.html">Introduction to Data Visualization in R</a> — principles of effective visualisation; scatter plots, bar charts, line plots, and box plots with ggplot2 (<a href="https://doi.org/10.5281/zenodo.19332890">doi: 10.5281/zenodo.19332890</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/data_viz_advanced/data_viz_advanced.html">Mastering Data Visualization with R</a> — advanced ggplot2: faceting, small multiples, combining plots, and interactive visualisations (<a href="https://doi.org/10.5281/zenodo.19332872">doi: 10.5281/zenodo.19332872</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/interactive_viz/interactive_viz.html">Interactive Visualizations in R</a> — animated and interactive graphics with plotly and gganimate</li>
+<li><a href="https://ladal.edu.au/tutorials/conceptmaps/conceptmaps.html">Conceptual Maps</a> — spring-layout visualisations of semantic similarity using igraph and ggraph</li>
+<li><a href="https://ladal.edu.au/tutorials/leaflet/leaflet.html">Geo-spatial Data Visualization with R</a> — creating typological and distribution maps with leaflet</li>
+</ul>
+<p><em>Showcase tutorials:</em></p>
+<ul>
+<li><a href="https://ladal.edu.au/tutorials/conceptual_maps_comparison/conceptual_maps_comparison.html">Comparing Methods for Conceptual Maps</a> — comparing word co-occurrence (PPMI), TF-IDF, and GloVe as inputs for conceptual maps (<a href="https://doi.org/10.5281/zenodo.19332087">doi: 10.5281/zenodo.19332087</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/vowelchart/vowelchart.html">Creating Vowel Charts in R</a> — extracting formant values in Praat and plotting vowel charts in R</li>
 </ul>
 <p><strong>STATISTICS</strong></p>
 <ul>
-<li><a href="https://ladal.edu.au/tutorials/dstats/dstats.html">Descriptive statistics</a></li>
-<li><a href="https://ladal.edu.au/tutorials/basicstatz/basicstatz.html">Basic inferential statistics</a></li>
-<li><a href="https://ladal.edu.au/tutorials/regression/regression.html">Fixed- and mixed-effects regression</a></li>
-<li><a href="https://ladal.edu.au/tutorials/tree/tree.html">Tree-based models</a></li>
-<li><a href="https://ladal.edu.au/tutorials/clust/clust.html">Cluster and correspondence analysis</a></li>
-<li><a href="https://ladal.edu.au/tutorials/svm/svm.html">Semantic Vector Space models and other grouping procedures</a></li>
+<li><a href="https://ladal.edu.au/tutorials/descriptive_stats/descriptive_stats.html">Descriptive Statistics with R</a> — mean, median, variance, standard deviation, distributions, and outlier detection (<a href="https://doi.org/10.5281/zenodo.19332864">doi: 10.5281/zenodo.19332864</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/inferential_stats/inferential_stats.html">Basic Inferential Statistics using R</a> — t-tests, chi-square tests, correlation, and interpretation of p-values (<a href="https://doi.org/10.5281/zenodo.19329155">doi: 10.5281/zenodo.19329155</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/anova/anova.html">ANOVA, MANOVA, and ANCOVA using R</a> — analysis of variance for one or more outcome variables and covariates (<a href="https://doi.org/10.5281/zenodo.19329144">doi: 10.5281/zenodo.19329144</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/regression_concepts/regression_concepts.html">Regression Concepts</a> — the conceptual foundations of regression modelling</li>
+<li><a href="https://ladal.edu.au/tutorials/regression/regression.html">Regression Analysis in R</a> — linear, logistic, and ordinal regression with model diagnostics and reporting (<a href="https://doi.org/10.5281/zenodo.19332945">doi: 10.5281/zenodo.19332945</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/mixedmodel/mixedmodel.html">Mixed-Effects Models in R</a> — random effects, contrast coding, model fitting with lme4, and interpretation (<a href="https://doi.org/10.5281/zenodo.19332913">doi: 10.5281/zenodo.19332913</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/structural_equations/structural_equations.html">Structural Equation Modelling</a> — latent variable models and path analysis with lavaan</li>
+<li><a href="https://ladal.edu.au/tutorials/tree_models/tree_models.html">Tree-Based Models in R</a> — decision trees, random forests, and ensemble methods for linguistic data (<a href="https://doi.org/10.5281/zenodo.19242479">doi: 10.5281/zenodo.19242479</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/cluster_analysis/cluster_analysis.html">Cluster and Correspondence Analysis in R</a> — hierarchical clustering, k-means, and correspondence analysis (<a href="https://doi.org/10.5281/zenodo.19242479">doi: 10.5281/zenodo.19242479</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/lexical_similarity/lexical_similarity.html">Introduction to Lexical Similarity</a> — measuring lexical overlap and distance between texts or varieties</li>
+<li><a href="https://ladal.edu.au/tutorials/semantic_vectors/semantic_vectors.html">Semantic Vector Space Models in R</a> — PPMI matrices, LSA via SVD, and GloVe embeddings for semantic analysis (<a href="https://doi.org/10.5281/zenodo.19332955">doi: 10.5281/zenodo.19332955</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/dimension_reduction/dimension_reduction.html">Dimension Reduction Methods</a> — PCA, MDS, t-SNE, and UMAP for high-dimensional linguistic data</li>
+<li><a href="https://ladal.edu.au/tutorials/power_analysis/power_analysis.html">Power Analysis</a> — sample size planning and effect size estimation for linguistic studies</li>
+</ul>
+<p><em>Showcase tutorials:</em></p>
+<ul>
+<li><a href="https://ladal.edu.au/tutorials/phylogenetic_methods/phylogenetic_methods.html">Practical Phylogenetic Methods for Linguistic Typology</a> — genealogically-sensitive methods using glottoTrees; by Erich Round &amp; Martin Schweinberger</li>
+<li><a href="https://ladal.edu.au/tutorials/reinforcement_nlp/reinforcement_nlp.html">Reinforcement Learning and Text Summarisation</a> — applying RL to NLP; text summarisation with reinforcement learning</li>
+<li><a href="https://ladal.edu.au/tutorials/surveys/surveys.html">Designing and Analyzing Survey and Questionnaire Data</a> — survey design, Likert scales, and statistical analysis of questionnaire data</li>
+<li><a href="https://ladal.edu.au/tutorials/eyetracking/eyetracking.html">Eye-Tracking Data Analysis in R</a> — preprocessing and analysing eye-tracking data for psycholinguistic research</li>
 </ul>
 <p><strong>TEXT ANALYTICS / TEXT MINING / CORPUS LINGUISTICS</strong></p>
 <ul>
-<li><a href="https://ladal.edu.au/tutorials/textanalysis/textanalysis.html">Text analysis and distant reading</a></li>
-<li><a href="https://ladal.edu.au/tutorials/kwics/kwics.html">Keyword-in-context concordances in R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/net/net.html">Network Analysis in R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/coll/coll.html">Co-occurrence and Collocation Analysis in R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/topic/topic.html">Topic Modeling with R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/sentiment/sentiment.html">Sentiment Analysis with R</a></li>
-<li><a href="https://ladal.edu.au/tutorials/postag/postag.html">Part-of-speech annotation and syntactic parsing in R</a> — for English, German, Spanish, Italian, and Dutch</li>
+<li><a href="https://ladal.edu.au/tutorials/text_analysis_intro/text_analysis_intro.html">Introduction to Text Analysis: Concepts and Foundations</a> — key concepts, core methods, and research design considerations for corpus linguistics and digital humanities</li>
+<li><a href="https://ladal.edu.au/tutorials/textanalysis/textanalysis.html">Introduction to Text Analysis: Practical Implementation in R</a> — concordancing, word frequency, collocations, keywords, POS tagging, NER, and dependency parsing (<a href="https://doi.org/10.5281/zenodo.19332976">doi: 10.5281/zenodo.19332976</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/concordancing/concordancing.html">Finding Words in Text: Concordancing with R</a> — KWIC displays, search patterns, regular expressions, and filtering concordances (<a href="https://doi.org/10.5281/zenodo.19332093">doi: 10.5281/zenodo.19332093</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/collocations/collocations.html">Collocation and N-gram Analysis in R</a> — measuring collocation strength with MI, t-score, log-likelihood, and other association measures</li>
+<li><a href="https://ladal.edu.au/tutorials/keywords/keywords.html">Keyness and Keyword Analysis in R</a> — identifying vocabulary over- or under-represented in a target corpus relative to a reference corpus</li>
+<li><a href="https://ladal.edu.au/tutorials/pos_tagging/pos_tagging.html">Tagging and Parsing with R</a> — part-of-speech tagging and dependency parsing in 60+ languages using UDPipe</li>
+<li><a href="https://ladal.edu.au/tutorials/network_analysis/network_analysis.html">Network Analysis using R</a> — building and visualising linguistic networks; igraph, network metrics, community detection (<a href="https://doi.org/10.5281/zenodo.19332917">doi: 10.5281/zenodo.19332917</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/topic/topic.html">Topic Modelling with R</a> — Latent Dirichlet Allocation (LDA): fitting, tuning, interpreting, and visualising topic models (<a href="https://doi.org/10.5281/zenodo.19332979">doi: 10.5281/zenodo.19332979</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/sentiment/sentiment.html">Sentiment Analysis in R</a> — polarity scoring and eight basic emotion categories using the NRC lexicon (<a href="https://doi.org/10.5281/zenodo.19332959">doi: 10.5281/zenodo.19332959</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/text_summarisation/text_summarisation.html">Automated Text Summarisation with R</a> — extractive and abstractive text summarisation methods</li>
+<li><a href="https://ladal.edu.au/tutorials/spellcheck/spellcheck.html">Spell Checking with R</a> — spell checkers, OCR error correction, custom dictionaries, and batch processing (<a href="https://doi.org/10.5281/zenodo.19332967">doi: 10.5281/zenodo.19332967</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/readability/readability.html">Readability Analysis in R</a> — Flesch, Gunning Fog, SMOG, Coleman-Liau, and Dale-Chall readability measures (<a href="https://doi.org/10.5281/zenodo.19659678">doi: 10.5281/zenodo.19659678</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/embeddings/embeddings.html">Word Embeddings and Vector Semantics</a> — word2vec, fastText, and GloVe: training, loading, and applying pre-trained embeddings</li>
+<li><a href="https://ladal.edu.au/tutorials/bert_roberta/bert_roberta.html">BERT and RoBERTa in R: Transformer-Based NLP</a> — fine-tuning and applying transformer models for text classification and NER</li>
+<li><a href="https://ladal.edu.au/tutorials/deep_learning/deep_learning.html">Deep Learning with R: Recurrent Neural Networks and TensorFlow</a> — LSTMs and GRUs for sequence modelling in linguistics</li>
+<li><a href="https://ladal.edu.au/tutorials/ollamar/ollamar.html">Local Large Language Models in R with Ollama</a> — running LLMs locally; text generation, classification, NER, summarisation, and embeddings (<a href="https://doi.org/10.5281/zenodo.19332921">doi: 10.5281/zenodo.19332921</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/llm_privacy/llm_privacy.html">Privacy-Preserving Analysis with Local LLMs</a> — analysing sensitive data without cloud APIs using locally-hosted language models</li>
 </ul>
-<p><strong>CASE STUDIES / FOCUS TUTORIALS</strong></p>
+<p><em>Showcase tutorials:</em></p>
 <ul>
-<li><strong>Creating vowel charts with Praat and R</strong>: <a href="https://ladal.edu.au/tutorials/vc/vc.html">This LADAL tutorial</a> shows how to extract formant values in Praat and use these to create a vowel chart in R.</li>
-<li><strong>Corpus Linguistics: Gender and Age Differences in Swearing</strong>: <a href="https://ladal.edu.au/tutorials/corplingr/corplingr.html">This LADAL tutorial</a> exemplifies how to perform a simple corpus analysis focusing on gender and age differences in swear word use in Irish English.</li>
-<li><strong>PDF to txt</strong>: <a href="https://ladal.edu.au/tutorials/pdf2txt/pdf2txt.html">This LADAL tutorial</a> shows how to extract text from PDF files into txt files for further processing.</li>
+<li><a href="https://ladal.edu.au/tutorials/document_classification/document_classification.html">Classifying American Political Speeches</a> — document classification using machine learning and text features</li>
+<li><a href="https://ladal.edu.au/tutorials/topic_modelling_dickens/topic_modelling_dickens.html">Topic Modelling of Charles Dickens’ Novels</a> — iterative STM workflow; interpreting topics for social criticism and literary realism; by Gerold Schneider, Max Lauber &amp; Martin Schweinberger</li>
+<li><a href="https://ladal.edu.au/tutorials/corpus_linguistics/corpus_linguistics.html">Corpus Linguistics with R</a> — gender and age differences in swearing; exemplifies a complete corpus-based analysis in Irish English</li>
+<li><a href="https://ladal.edu.au/tutorials/learner_language/learner_language.html">Analysing Learner Language</a> — computational approaches to second language acquisition research</li>
+<li><a href="https://ladal.edu.au/tutorials/litsty/litsty.html">Computational Literary Stylistics with R</a> — concordancing, keyword analysis, stylometry, and character network visualisation on literary texts (<a href="https://doi.org/10.5281/zenodo.19332905">doi: 10.5281/zenodo.19332905</a>)</li>
+<li><a href="https://ladal.edu.au/tutorials/lexicography/lexicography.html">Lexicography and Creating Dictionaries with R</a> — computational lexicography and dictionary construction</li>
+</ul>
+<hr>
+</section>
+<section id="tools" class="level2">
+<h2 class="anchored" data-anchor-id="tools">Tools</h2>
+<p>Below are links to interactive browser-based tools I created for <a href="https://ladal.edu.au/tools.html">LADAL</a>. Each tool is a Jupyter notebook that runs in your browser — no installation required.</p>
+<ul>
+<li><a href="https://ladal.edu.au/tools.html#concordancing">Concordancing Tool</a> — generates KWIC (keyword-in-context) displays of words or phrases across uploaded texts; results downloadable as Excel or CSV</li>
+<li><a href="https://ladal.edu.au/tools.html#collocations">Collocation Tool</a> — calculates association measures (MI, t-score, log-likelihood) to identify phraseological patterns in uploaded texts</li>
+<li><a href="https://ladal.edu.au/tools.html#keywords">Keyword Tool</a> — identifies vocabulary that is statistically over- or under-represented in your texts compared to a reference corpus using G², chi-squared, and log-ratio</li>
+<li><a href="https://ladal.edu.au/tools.html#pos-tagging">POS Tagging Tool</a> — adds part-of-speech tags to texts in 60+ languages using UDPipe; tagged output downloadable</li>
+<li><a href="https://ladal.edu.au/tools.html#corpus-text-cleaning">Corpus Cleaning Tool</a> — removes or replaces words, XML/HTML tags, URLs, and other patterns across uploaded text files</li>
+<li><a href="https://ladal.edu.au/tools.html#network-analysis">Network Analysis Tool</a> — builds and visualises word co-occurrence networks from uploaded texts; downloads networks as PNG and tables as Excel or CSV</li>
+<li><a href="https://ladal.edu.au/tools.html#topic-modelling">Topic Modelling Tool</a> — generates topic models using LDA and downloads results as an Excel spreadsheet</li>
+<li><a href="https://ladal.edu.au/tools.html#sentiment-analysis">Sentiment Analysis Tool</a> — scores texts for positive/negative polarity and eight basic emotion categories; results downloadable</li>
 </ul>
 <hr>
 </section>
