@@ -24,8 +24,8 @@ page-layout: full
         <a href="research.qmd" class="ms-btn-ghost">Research &amp; Projects →</a>
       </div>
       <div class="ms-badges">
-        <span class="ms-badge">23 journal articles</span>
-        <span class="ms-badge">20+ book chapters</span>
+        <span class="ms-badge">25 journal articles</span>
+        <span class="ms-badge">25 book chapters</span>
         <span class="ms-badge">ISLE VP Profession</span>
         <span class="ms-badge">ICAME Board</span>
       </div>
