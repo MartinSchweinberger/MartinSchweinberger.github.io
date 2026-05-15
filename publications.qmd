@@ -47,20 +47,20 @@ title: ""
 
 24\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. *Digital Scholarship in the Humanities*. <https://doi.org/10.1093/llc/fqag070>  
 
-23\. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. 2026. [Vulgarity and Bad Language in Online and Public Discourse: An Introduction.](https://doi.org/10.1016/j.lingua.2026.104133) *Lingua* 334: 104133. (SJR: Q1) <https://doi.org/10.1016/j.lingua.2026.104133>  
+23\. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. 2026. [Vulgarity and Bad Language in Online and Public Discourse: An Introduction.](https://doi.org/10.1016/j.lingua.2026.104133) *Lingua* 334: 104133. <https://doi.org/10.1016/j.lingua.2026.104133>  
 [Editorial for the Special Issue "Bad language and vulgarity in public and online discourse". Eds. Martin Schweinberger, Paula Rautionaho, and Kate Burridge]
 
-22\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility and transparency in interpretive corpus pragmatics.](https://doi.org/10.1075/ijcl.23033.sch) *International Journal of Corpus Linguistics*. [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] (SJR: Q1)
+22\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility and transparency in interpretive corpus pragmatics.](https://doi.org/10.1075/ijcl.23033.sch) *International Journal of Corpus Linguistics*. [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
 
-21\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility, replicability, and robustness in corpus linguistics. An introduction.](https://doi.org/10.1075/ijcl.25081.sch) *International Journal of Corpus Linguistics*. [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] (SJR: Q1)
+21\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility, replicability, and robustness in corpus linguistics. An introduction.](https://doi.org/10.1075/ijcl.25081.sch) *International Journal of Corpus Linguistics*. [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
 
-20\. Schweinberger, Martin and Kate Burridge. 2025. [Vulgarity in Online Discourse around the English-Speaking World.](https://www.sciencedirect.com/science/article/pii/S0024384125000713) *Lingua* 321: 103946. (SJR: Q1) <https://doi.org/10.1016/j.lingua.2025.103946>
+20\. Schweinberger, Martin and Kate Burridge. 2025. [Vulgarity in Online Discourse around the English-Speaking World.](https://www.sciencedirect.com/science/article/pii/S0024384125000713) *Lingua* 321: 103946.  <https://doi.org/10.1016/j.lingua.2025.103946>
 
 19\. Schweinberger, Martin. 2024. [Seeded topic modeling as a more appropriate alternative to unsupervised standard topic models.](https://journals.sagepub.com/doi/10.1177/14614456241293895) *Discourse Studies* 27(4): 675–678. <https://doi.org/10.1177/14614456241293895>
 
-18\. Bednarek, Monika, Martin Schweinberger and Kelvin Lee. 2024. [Corpus-based discourse analysis: From meta-reflection to accountability.](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0104/html?lang=en) *Corpus Linguistics and Linguistic Theory*: online first. (SJR: Q1) <https://doi.org/10.1515/cllt-2023-0104>
+18\. Bednarek, Monika, Martin Schweinberger and Kelvin Lee. 2024. [Corpus-based discourse analysis: From meta-reflection to accountability.](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0104/html?lang=en) *Corpus Linguistics and Linguistic Theory*: online first. <https://doi.org/10.1515/cllt-2023-0104>
 
-17\. Schweinberger, Martin. 2024. [A corpus-based analysis of adjective amplification in Hong Kong, Indian, and Philippine English.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) *World Englishes*: online first. (SJR: Q1) <https://doi.org/10.1111/weng.12640>
+17\. Schweinberger, Martin. 2024. [A corpus-based analysis of adjective amplification in Hong Kong, Indian, and Philippine English.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) *World Englishes*44, 456–473. <https://doi.org/10.1111/weng.12640>
 
 16\. Schweinberger, Martin. 2023. [On the L1-acquisition of pragmatics of discourse like.](https://benjamins.com/catalog/fol.20025.sch) *Functions of Language* 30(3): 255–286. <https://doi.org/10.1075/fol.20025.sch>
 
