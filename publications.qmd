@@ -17,15 +17,18 @@ title: ""
 </div>
 ```
 
-## Journal Articles (Peer-Reviewed)
+## What I'm currently working on
 
-### What I'm currently working on
+[BP 1] *in prep.* Data-Intensive Pragmatics. *Cambridge University Press* (Contract signed with Cambridge Elements in Pragmatics series, Eds. Jonathan Culpeper and Michael Haugh).
 
 [JP 3] *in prep.* Schweinberger, Martin. On the L1-acquisition of variation in adjective amplification. *International Journal of English Linguistics*. Prospective submission 11/2026.
 
 [JP 2] *in prep.* Schweinberger, Martin and Michael Haugh. Introducing the Language Technology and Data Analysis Laboratory (LADAL). An open-source collaborative support infrastructure for computational humanities research. *Language Resources and Evaluation*. Prospective submission 10/2026. (SJR: Q1)  
 
 [JP 1] *in prep.* Lensch, Anke, Hanna Bruns and Martin Schweinberger. Address Terms in World Englishes - Socio-cultural Impact on Recent Language Variation and Change. *World Englishes* [Introduction to the Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. Prospective submission 5/2026.   
+
+
+[BCP 1] *in prep.*  Schweinberger, Martin and Yon Visoni. Swearing in the City: A Corpus Study of Vulgarity in London English. In TBA.
 
 [JS 3] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to *Applied Corpus Linguistics*.  
 
@@ -40,6 +43,9 @@ title: ""
 -->
 
 ### Published journal articles
+
+
+## Journal Articles (Peer-Reviewed)
 
 25\. Schweinberger, Martin and Amir Sheikhan. in print. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. *World Englishes*  <https://doi.org/10.1111/weng.70025>  
 [Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. 
