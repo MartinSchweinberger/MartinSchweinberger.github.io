@@ -30,13 +30,13 @@ title: ""
 
 [BCP 1] *in prep.*  Schweinberger, Martin and Yon Visoni. Swearing in the City: A Corpus Study of Vulgarity in London English. In TBA.
 
-[JS 3] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0)  (Q1).  
+[JS 3] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0)  (Q1)  
 
-[JS 2] *submitted.* Visioni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. Submitted 3/2026 to [*Australian Review of Applied Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5700177090&tip=sid&clean=0)  (Q1).
+[JS 2] *submitted.* Visioni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. Submitted 3/2026 to [*Australian Review of Applied Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5700177090&tip=sid&clean=0)  (Q1)
 
 [JS 1] *submitted.* Putensen, Lara and Martin Schweinberger. Pop Goes Profanity: Vulgarity Trends in English Chart Hits From 2000 to 2024. Submitted 2/2026 to *Journal of Language and Pop Culture*.
 
-[JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. [*Corpora*](https://www.scimagojr.com/journalsearch.php?q=6200158425&tip=sid&clean=0) (Q1).
+[JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. [*Corpora*](https://www.scimagojr.com/journalsearch.php?q=6200158425&tip=sid&clean=0) (Q1)
 
 <!--
 [JR 1] *under revision.* Schweinberger, Martin. Priming in Language Change — A corpus-based analysis of adjective amplification in New Zealand English. Submitted 12/2/2020 to *English Language and Linguistics*. (SJR: Q1)
@@ -54,9 +54,9 @@ title: ""
 23\. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. 2026. [Vulgarity and Bad Language in Online and Public Discourse: An Introduction.](https://doi.org/10.1016/j.lingua.2026.104133) [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0) 334: 104133. <https://doi.org/10.1016/j.lingua.2026.104133> (Q1)  
 [Editorial for the Special Issue "Bad language and vulgarity in public and online discourse". Eds. Martin Schweinberger, Paula Rautionaho, and Kate Burridge]
 
-22\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility and transparency in interpretive corpus pragmatics.](https://doi.org/10.1075/ijcl.23033.sch) [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) (Q1). [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
+22\. Schweinberger, Martin and Michael Haugh. 2025. Reproducibility and transparency in interpretive corpus pragmatics. [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) 30(2): 234–260. <https://doi.org/10.1075/ijcl.23033.sch> (Q1) [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
 
-21\. Schweinberger, Martin and Michael Haugh. 2025. [Reproducibility, replicability, and robustness in corpus linguistics. An introduction.](https://doi.org/10.1075/ijcl.25081.sch) [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) (Q1). [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
+21\. Schweinberger, Martin and Michael Haugh. 2025. Reproducibility, replicability, and robustness in corpus linguistics. An introduction. [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) 30(2): 119-129.  <https://doi.org/10.1075/ijcl.25081.sch> (Q1) [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
 
 20\. Schweinberger, Martin and Kate Burridge. 2025. [Vulgarity in Online Discourse around the English-Speaking World.](https://www.sciencedirect.com/science/article/pii/S0024384125000713) [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0) 321: 103946.  <https://doi.org/10.1016/j.lingua.2025.103946> (Q1)
 
@@ -66,7 +66,7 @@ title: ""
 
 17\. Schweinberger, Martin. 2024. [A corpus-based analysis of adjective amplification in Hong Kong, Indian, and Philippine English.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0) 44, 456–473. <https://doi.org/10.1111/weng.12640> (Q1)
 
-16\. Schweinberger, Martin. 2023. [On the L1-acquisition of pragmatics of discourse like.](https://benjamins.com/catalog/fol.20025.sch) *[Functions of Language*](https://www.scimagojr.com/journalsearch.php?q=5800207812&tip=sid&clean=0) 30(3): 255–286. <https://doi.org/10.1075/fol.20025.sch> (Q2)
+16\. Schweinberger, Martin. 2023. [On the L1-acquisition of pragmatics of discourse like.](https://benjamins.com/catalog/fol.20025.sch) [*Functions of Language*](https://www.scimagojr.com/journalsearch.php?q=5800207812&tip=sid&clean=0) 30(3): 255–286. <https://doi.org/10.1075/fol.20025.sch> (Q2)
 
 15\. Crosthwaite, Peter, Sulistya Ningrum, and Martin Schweinberger. 2022. [Research Trends in Corpus Linguistics: A Bibliometric Analysis of Two Decades of Scopus-indexed Corpus Linguistics Research in Arts and Humanities.](https://benjamins.com/catalog/ijcl.21072.cro) [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) 28(3): 344–377. <https://doi.org/10.1075/ijcl.21072.cro> (Q1)
 
