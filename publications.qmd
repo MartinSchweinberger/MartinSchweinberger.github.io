@@ -45,7 +45,7 @@ title: ""
 
 ## Journal Articles (Peer-Reviewed)
 
-25\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. [*Digital Scholarship in the Humanities*](https://www.scimagojr.com/journalsearch.php?q=21100465194&tip=sid&clean=0). <https://doi.org/10.1093/llc/fqag070> (Q1)  
+25\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. [*Digital Scholarship in the Humanities*](https://www.scimagojr.com/journalsearch.php?q=21100465194&tip=sid&clean=0). <https://doi.org/10.1093/llc/fqag070> (Open Access, Q1)  
 
 24\. Schweinberger, Martin and Amir Sheikhan. 2026. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0)  <https://doi.org/10.1111/weng.70025> (Open Access, Q1)   
 [Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger].
@@ -57,13 +57,13 @@ title: ""
 
 21\. Schweinberger, Martin and Michael Haugh. 2025. Reproducibility, replicability, and robustness in corpus linguistics. An introduction. [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) 30(2): 119-129.  <https://doi.org/10.1075/ijcl.25081.sch> (Q1) [Special Issue: Reproducibility, Replication and Robustness in Corpus Linguistics, Eds. Martin Schweinberger and Michael Haugh] 
 
-20\. Schweinberger, Martin and Kate Burridge. 2025. [Vulgarity in Online Discourse around the English-Speaking World.](https://www.sciencedirect.com/science/article/pii/S0024384125000713) [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0) 321: 103946.  <https://doi.org/10.1016/j.lingua.2025.103946> (Q1)
+20\. Schweinberger, Martin and Kate Burridge. 2025. [Vulgarity in Online Discourse around the English-Speaking World.](https://www.sciencedirect.com/science/article/pii/S0024384125000713) [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0) 321: 103946.  <https://doi.org/10.1016/j.lingua.2025.103946> (Open Access, Q1)
 
 19\. Schweinberger, Martin. 2024. [Seeded topic modeling as a more appropriate alternative to unsupervised standard topic models.](https://journals.sagepub.com/doi/10.1177/14614456241293895) [*Discourse Studies*](https://www.scimagojr.com/journalsearch.php?q=147229&tip=sid&clean=0) 27(4): 675–678. <https://doi.org/10.1177/14614456241293895> (Q1)
 
 18\. Bednarek, Monika, Martin Schweinberger and Kelvin Lee. 2024. [Corpus-based discourse analysis: From meta-reflection to accountability.](https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0104/html?lang=en) [*Corpus Linguistics and Linguistic Theory*](https://www.scimagojr.com/journalsearch.php?q=5800208102&tip=sid&clean=0): online first. <https://doi.org/10.1515/cllt-2023-0104> (Q1)
 
-17\. Schweinberger, Martin. 2024. [A corpus-based analysis of adjective amplification in Hong Kong, Indian, and Philippine English.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0) 44, 456–473. <https://doi.org/10.1111/weng.12640> (Q1)
+17\. Schweinberger, Martin. 2024. [A corpus-based analysis of adjective amplification in Hong Kong, Indian, and Philippine English.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/weng.12640) [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0) 44, 456–473. <https://doi.org/10.1111/weng.12640> (Open Access, Q1)
 
 16\. Schweinberger, Martin. 2023. [On the L1-acquisition of pragmatics of discourse like.](https://benjamins.com/catalog/fol.20025.sch) [*Functions of Language*](https://www.scimagojr.com/journalsearch.php?q=5800207812&tip=sid&clean=0) 30(3): 255–286. <https://doi.org/10.1075/fol.20025.sch> (Q2)
 
