@@ -45,11 +45,10 @@ title: ""
 
 ## Journal Articles (Peer-Reviewed)
 
-25\. Schweinberger, Martin and Amir Sheikhan. in print. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0)  <https://doi.org/10.1111/weng.70025> (Q1)  
-[Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. 
+25\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. [*Digital Scholarship in the Humanities*](https://www.scimagojr.com/journalsearch.php?q=21100465194&tip=sid&clean=0). <https://doi.org/10.1093/llc/fqag070> (Q1)  
 
-
-24\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. [*Digital Scholarship in the Humanities*](https://www.scimagojr.com/journalsearch.php?q=21100465194&tip=sid&clean=0). <https://doi.org/10.1093/llc/fqag070> (Q1)  
+24\. Schweinberger, Martin and Amir Sheikhan. 2026. A corpus-based analysis of address terms by Australian, British, and United States Twitter users. [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0)  <https://doi.org/10.1111/weng.70025> (Open Access, Q1)   
+[Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger].
 
 23\. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. 2026. [Vulgarity and Bad Language in Online and Public Discourse: An Introduction.](https://doi.org/10.1016/j.lingua.2026.104133) [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0) 334: 104133. <https://doi.org/10.1016/j.lingua.2026.104133> (Q1)  
 [Editorial for the Special Issue "Bad language and vulgarity in public and online discourse". Eds. Martin Schweinberger, Paula Rautionaho, and Kate Burridge]
