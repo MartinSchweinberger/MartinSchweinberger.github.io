@@ -27,8 +27,9 @@ title: ""
 
 [JP 1] *in prep.* Lensch, Anke, Hanna Bruns and Martin Schweinberger. Address Terms in World Englishes - Socio-cultural Impact on Recent Language Variation and Change. [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0) (Q1) [Introduction to the Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. Prospective submission 5/2026.   
 
-
 [BCP 1] *in prep.*  Schweinberger, Martin and Yon Visoni. Swearing in the City: A Corpus Study of Vulgarity in London English. In TBA.
+
+[BCS 1] *submitted.*  Schweinberger, Martin, Michael Haugh and Sam Hames. The Language Technology and Data Analysis Laboratory (LADAL). In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*.Radboud University Press.
 
 [JS 3] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0)  (Q1)  
 
