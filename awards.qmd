@@ -133,8 +133,7 @@ Collaborators: Michael Haugh (UQ)
 **School Research Support Funding**  
 Scheme: School Research Support Funding Scheme (UQ)  
 Funding body: School of Languages and Cultures  
-Year(s): 2019, 2020, 2023, 2024, 2026  
-Duration (2026 round): 4/2026 – 12/2026  
+Year(s): 2020, 2021, 2022, 2023, 2024, 2025, 2026  
   
 **[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)**    
 Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)    
@@ -188,14 +187,14 @@ Collaborators: International academics
   
 **Shedding Light on the Dark Matter of Public Controversy**  
 Funding body: Australian Research Council (ARC)  
-Scheme: ARC Discovery  
-Year: 2025  
+Scheme: ARC Discovery Project  
+Year: 2025 (ID: DPEI270100230) 
 Role: Lead  
 Collaborators: Various Australian & international academics  
   
 **ARC Center of Excellence for the Future of Language**    
 Funding body: Australian Research Council (ARC)    
-Year: 2025  
+Year: 2025 (ID: CEEI260100077)  
 Role: CI (Project lead: Nick Enfield)    
 Collaborators: Various Australian & international stakeholders  
   
@@ -204,3 +203,11 @@ Funding body: Deutsche Forschungsgemeinschaft (DFG)
 Year: 2025  
 Role: International Partner Investigator  
 Collaborators: Various German & international academics     
+
+**No offence, mate! The (micro-)politics of offence in Australia**    
+Funding body: Australian Research Council (ARC)  
+Scheme: ARC Discovery Project 
+Year: 2022 (ID: DP220103241)  
+Role: CI (Project lead: Michael Huagh)    
+Collaborators: Various Australian & international stakeholders  
+  
