@@ -118,6 +118,13 @@ Collaborators: Various German Libraries and universities & international stakeho
   
 SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Research, will examine and evaluate approaches to build and operate an advanced research technology environment supporting Historical Network Analysis and related research. Project partners from various fields – historiography, information visualization, artificial intelligence and computer sciences as well as information science – work on this topic from their respective perspective.  
 
+
+**Studying the Development and Contestation of Discourses and Ideologies through Computational Approaches to Big Data on Online Platforms**  
+Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2023 Funding 
+Year: 2023  
+Role: Collaborator (lead: Sam Hames)     
+Collaborators: Michael Haugh (UQ)    
+
   
 ---  
   
