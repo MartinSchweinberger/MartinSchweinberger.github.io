@@ -47,7 +47,7 @@ Cutting across all of these empirical strands is my commitment to **open, reprod
 
 ## Research Focus Areas
 
-(see the[Awards page for funded projects and grants](awards.qmd))
+(see [Awards & Funding page for funded projects and applications](awards.qmd))
 
 ### 1. Language Data Commons of Australia (LDaCA) & LADAL
 
