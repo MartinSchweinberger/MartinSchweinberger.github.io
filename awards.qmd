@@ -26,7 +26,7 @@ title: ""
     <span class="stat-card-label">LADAL</span>
   </div>
   <div class="stat-card">
-    <span class="stat-card-num">6</span>
+    <span class="stat-card-num">8</span>
     <span class="stat-card-label">Funded projects</span>
   </div>
   <div class="stat-card">
@@ -51,9 +51,36 @@ title: ""
   
 I have substantively contributed to and/or taken a relevant role in the grant applications of the following scientific projects.  
   
-### Successful Applications: Competitive Schemes (Substantive Contribution)  
+### Successful Applications: Competitive Schemes 
+
+**As Project Lead**  
+
+8. **ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse**  
+Scheme: Global Partnerships 2026   
+Funding body: University of Queensland  
+Year: 2026  
+Role: Lead  
+Collaborators: International academics  
   
-**[Language Data Commons of Australia HASS RDC (LDaCA-RDC)](https://www.ldaca.edu.au/)**    
+7. **Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**    
+Funding body: [Digital Cultures and Societies Hub (UQ)](https://hass.uq.edu.au/centre-digital-cultures-societies)    
+Role: Project lead    
+Collaborators: Marissa Takahashi (QUT/Australian Digital Observatory), Mikko Laitinen (University of Eastern Finland), Paula Rautionaho (University of Eastern Finland), Michael Haugh (UQ), Sam Hames (UQ)    
+Duration: 8/2022 – 7/2023  
+  
+This project empirically assesses the assumption that Australians swear frequently by comparing Twitter data from Australia, the UK, and the US. It develops a prototype using computational methods to clean Twitter data, detect and extract swear words, and analyze their frequency and usage contexts.  
+  
+6. [**VowelChartProject**](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html)  
+  
+Funding body: BMBF (via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH)    
+Role: Project lead & Principal Investigator (PI)    
+Duration: 9/2016 – 9/2018  
+  
+The VowelChartProject extracted vowel formants from German, Russian, and Spanish learners of English using PRAAT and R to investigate where, why, and to what extent English learners differ from native English speakers in vowel production and word-final devoicing. Students received personalized vowel charts and written feedback after participating.  
+  
+**Substantive Contribution**  
+  
+5. [**Language Data Commons of Australia HASS RDC (LDaCA-RDC)**](https://www.ldaca.edu.au/)    
 Scheme: Humanities, Arts and Social Sciences (HASS) Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)    
 Role: Advisory committee & CI (Project lead: Michael Haugh)    
 Collaborators: Various Australian & international stakeholders (researchers and institutions, e.g. universities, First Languages Australia, etc.)    
@@ -61,7 +88,7 @@ Funding period: 2021–2029 (phase I: 2021–2023, phase II: 2024–2029)
   
 In Australia, large language data collections exist, some housed in well-established archives (such as Trove), but many stored in short-lived repositories. LDaCA aims to consolidate these efforts into a nationally integrated research infrastructure. It aims to: (1) establish a governance board representing key stakeholders, (2) develop a comprehensive policy framework for access to language data, (3) create a shared technical infrastructure across institutions, (4) develop a portal for the discovery and access to language data, and (5) engage researchers and communities to secure and make accessible Australia's linguistic heritage.  
   
-**[Australian Text Analytics Platform (ATAP)](https://www.atap.edu.au/)**    
+4. [**Australian Text Analytics Platform (ATAP)**](https://www.atap.edu.au/)    
 Scheme: [Australian Research Data Commons (ARDC)](https://ardc.edu.au/) Platforms Program    
 Role: Steering committee & CI & Chair of the User Advisory Group (Project lead: Michael Haugh)    
 Collaborators: Various Australian & international stakeholders    
@@ -70,7 +97,7 @@ Funding period: 2021–2023
   
 Text analysis in Australian research is conducted either at a basic, generic level or at a highly specialized level with custom code. ATAP aimed to fill the gap between these two approaches, developing an integrated, notebook-based platform for processing and extracting text data.  
 
-**LLMs4HASS: Exploring the Use of Large Language Models for Qualitative and Interpretive Research in the Humanities and Social Sciences**  
+3. **LLMs4HASS: Exploring the Use of Large Language Models for Qualitative and Interpretive Research in the Humanities and Social Sciences**  
 Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2026 Funding Scheme   
 Year: 2026  
 Role: Researcher (Project lead: Michael Haugh)    
@@ -78,40 +105,9 @@ Collaborators: Laurence Anthony (Waseda)
 
 LLMs4HASS investigates how large language models can support qualitative HASS research, while addressing analytical limitations, privacy concerns, and heterogeneous data formats through practical, open-source tools for harmonised, analysis-ready research workflows.
 
----  
+**Minor Contribution**  
   
-### Successful Applications: Competetive Schemes (Project Lead)  
-  
-**Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**    
-Funding body: [Digital Cultures and Societies Hub (UQ)](https://hass.uq.edu.au/centre-digital-cultures-societies)    
-Role: Project lead    
-Collaborators: Marissa Takahashi (QUT/Australian Digital Observatory), Mikko Laitinen (University of Eastern Finland), Paula Rautionaho (University of Eastern Finland), Michael Haugh (UQ), Sam Hames (UQ)    
-Duration: 8/2022 – 7/2023  
-  
-This project empirically assesses the assumption that Australians swear frequently by comparing Twitter data from Australia, the UK, and the US. It develops a prototype using computational methods to clean Twitter data, detect and extract swear words, and analyze their frequency and usage contexts.  
-  
-**[VowelChartProject](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html)**  
-  
-Funding body: BMBF (via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH)    
-Role: Project lead & Principal Investigator (PI)    
-Duration: 9/2016 – 9/2018  
-  
-The VowelChartProject extracted vowel formants from German, Russian, and Spanish learners of English using PRAAT and R to investigate where, why, and to what extent English learners differ from native English speakers in vowel production and word-final devoicing. Students received personalized vowel charts and written feedback after participating.  
-  
---- 
- 
-*Decision Pending* **ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse**  
-Scheme: Global Partnerships 2026   
-Funding body: University of Queensland  
-Year: 2026  
-Role: Lead  
-Collaborators: International academics  
-
----  
-
-### Successful Applications: Competitive Schemes (Minor Contribution)  
-  
-**Interfaces to Data for Historical Social Network Analysis and Research (SoNAR (IDH))**    
+2. **Interfaces to Data for Historical Social Network Analysis and Research (SoNAR (IDH))**    
 Scheme: Deutsche Forschungsgesellschaft (DFG)    
 Role: International Collaborator (lead: Gerhard Müller)    
 Collaborators: Various German Libraries and universities & international stakeholders    
@@ -119,7 +115,7 @@ Collaborators: Various German Libraries and universities & international stakeho
 SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Research, will examine and evaluate approaches to build and operate an advanced research technology environment supporting Historical Network Analysis and related research. Project partners from various fields – historiography, information visualization, artificial intelligence and computer sciences as well as information science – work on this topic from their respective perspective.  
 
 
-**Studying the Development and Contestation of Discourses and Ideologies through Computational Approaches to Big Data on Online Platforms**  
+1. **Studying the Development and Contestation of Discourses and Ideologies through Computational Approaches to Big Data on Online Platforms**  
 Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2023 Funding 
 Year: 2023  
 Role: Collaborator (lead: Sam Hames)     
@@ -134,11 +130,6 @@ Collaborators: Michael Haugh (UQ)
 Scheme: School Research Support Funding Scheme (UQ)  
 Funding body: School of Languages and Cultures  
 Year(s): 2020, 2021, 2022, 2023, 2024, 2025, 2026  
-  
-**[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)**    
-Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)    
-Role: Project lead & CI    
-Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)  
   
 **Bad Language and Vulgarity Online and in Public Discourse**    
 Funding body: School of Languages and Cultures Research Support Scheme (UQ)    
@@ -155,7 +146,12 @@ Duration: 11/2023 – 3/2025
 **Acquisition, Variation, and Diachronic Change of English Amplifier Systems**    
 Funding body: School of Languages and Cultures/Targeted Research Support Scheme (UQ)    
 Role: Project lead, Principal Investigator (PI)    
-Duration: 6/2020 – ongoing (funding until 12/2021)  
+Duration: 6/2020 – 12/2021  
+
+**[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)**    
+Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)    
+Role: Project lead & CI    
+Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)  
   
 **Dimensions of Intensification**    
 Funding body: Zentrale Forschungsförderung ([ZFF](http://www.uni-kassel.de/uni/?zff)), UKS    
