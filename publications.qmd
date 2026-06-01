@@ -31,6 +31,8 @@ title: ""
 
 [BCS 1] *submitted.*  Schweinberger, Martin, Michael Haugh and Sam Hames. The Language Technology and Data Analysis Laboratory (LADAL). In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*.Radboud University Press.
 
+[JS 4] *submitted.* Schweinberger, Martin. Priming in Language Change: A Corpus-Based Analysis of Adjective Amplification in New Zealand English. Submitted 6/2026 to [*Corpus Linguistics and Linguistic Theory*](https://www.scimagojr.com/journalsearch.php?q=5800208102&tip=sid&clean=0)  (Q1)  
+
 [JS 3] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0)  (Q1)  
 
 [JS 2] *submitted.* Visioni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. Submitted 3/2026 to [*Australian Review of Applied Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5700177090&tip=sid&clean=0)  (Q1)
