@@ -209,7 +209,7 @@ title: ""
 ## Invited Talks
 
 
-15\. 2026: Schweinberger, Martin. 05/06/2026. Reproducibility, Transparency, and AI in Language-Based Empirical Research. From open science practices to responsible AI use in corpus linguistics and corpus pragmatics. University of Bonn (invitation by Svenja Kranich) ([slides](resources/Reproducibility-Transparency-and-AI_Bonn_20260605))
+15\. 2026: Schweinberger, Martin. 05/06/2026. Reproducibility, Transparency, and AI in Language-Based Empirical Research. From open science practices to responsible AI use in corpus linguistics and corpus pragmatics. University of Bonn (invitation by Svenja Kranich) ([slides](resources/Reproducibility-Transparency-and-AI_Bonn_20260605.pptx))
 
 14\. 2025: Schweinberger, Martin. 18/12/2025. Vulgarity in World Englishes. LMU Munich (invitation by Stephanie Hackert) ([slides](https://github.com/MartinSchweinberger/slides/raw/refs/heads/main/LMU_Schweinberger_VulgarityInWorldEnglishes.pptx)).
 

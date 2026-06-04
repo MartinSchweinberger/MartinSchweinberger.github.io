@@ -221,7 +221,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
-**5/6/2026** — Svenja Kranich invited me to give a talk on *Reproducibility, Transparency, and AI in Language-Based Empirical Research* at the University of Bonn. [(slides)](resources/Reproducibility-Transparency-and-AI_Bonn_20260605)
+**5/6/2026** — Svenja Kranich invited me to give a talk on *Reproducibility, Transparency, and AI in Language-Based Empirical Research* at the University of Bonn. [(slides)](resources/Reproducibility-Transparency-and-AI_Bonn_20260605.pptx)
 :::
 
 ::: {.ms-news-item}
