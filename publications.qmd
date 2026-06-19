@@ -165,7 +165,9 @@ title: ""
 
 [EP 2] Schweinberger, Martin and Michael Haugh. 2025. Reproducibility, Replication and Robustness in Corpus Linguistics [Special Issue]. [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) 30(2). <https://doi.org/10.1075/ijcl.30.2>
 
-[ES 1] Schweinberger, Martin and Patricia Ronan. 2024. [Socio-pragmatic Variation in Ireland and Scotland.](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457/html?lang=de) De Gruyter: Berlin [Trends in Linguistics series, Eds. Barbara Karlson, Tine Breban, et al.].
+[ES 1] Schweinberger, Martin and Patricia Ronan. 2024. [Socio-pragmatic Variation in Ireland and Scotland.](https://www.degruyterbrill.com/document/doi/10.1515/9783110791457/html?lang=de) De Gruyter: Berlin [Trends in Linguistics series, Eds. Barbara Karlson, Tine Breban, et al.].(Reviews by [Karin Aijmer (*Journal of Pragmatics*)](https://www.sciencedirect.com/science/article/abs/pii/S0378216625001122) and by [Joan O’Sullivan (*English Language & Linguistics*](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/abs/martin-schweinberger-and-patricia-ronan-eds-sociopragmatic-variation-in-ireland-using-pragmatic-variation-to-construct-social-identities-trends-in-linguistics-studies-and-monographs-378-berlin-de-gruyter-2024-pp-vi-242-isbn-783110791204/7C00744DFEF4966EBAABB7AB8349FA7D)) 
+
+
 
 ---
 
