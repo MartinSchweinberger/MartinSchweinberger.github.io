@@ -21,14 +21,14 @@ title: ""
 
 [BP 1] *in prep.* Data-Intensive Pragmatics. *Cambridge University Press* (Contract signed with Cambridge Elements in Pragmatics series, Eds. Jonathan Culpeper and Michael Haugh).
 
+<!--
+[JP 3] *in prep.* Tran, Hao and Martin Schweinberger. How does AI reshape student voice? Interactional Metadiscourse across AI-Led, Student-AI-Mediated and Student-Only EAP writing Revisions. [*Journal of English for Academic Purposes*](https://www.scimagojr.com/journalsearch.php?q=21447&tip=sid&clean=0) (Q1). Prospective submission 6/2026.
+-->
 
-[JP 4] *in prep.* Tran, Hao and Martin Schweinberger. How does AI reshape student voice? Interactional Metadiscourse across AI-Led, Student-AI-Mediated and Student-Only EAP writing Revisions. [*Journal of English for Academic Purposes*](https://www.scimagojr.com/journalsearch.php?q=21447&tip=sid&clean=0) (Q1). Prospective submission 6/2026.
+[JP 2] *in prep.* Schweinberger, Martin. On the L1-acquisition of variation in adjective amplification. [*English Language and Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207753&tip=sid&clean=0) (Q1). Prospective submission 11/2026.
 
-[JP 3] *in prep.* Schweinberger, Martin. On the L1-acquisition of variation in adjective amplification. [*English Language and Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207753&tip=sid&clean=0) (Q1). Prospective submission 11/2026.
+[JP 1] *in prep.* Schweinberger, Martin and Michael Haugh. Introducing the Language Technology and Data Analysis Laboratory (LADAL). An open-source collaborative support infrastructure for computational humanities research. [*Language Resources and Evaluation*](https://www.scimagojr.com/journalsearch.php?q=145663&tip=sid&clean=0) (Q1). Prospective submission 10/2026.   
 
-[JP 2] *in prep.* Schweinberger, Martin and Michael Haugh. Introducing the Language Technology and Data Analysis Laboratory (LADAL). An open-source collaborative support infrastructure for computational humanities research. [*Language Resources and Evaluation*](https://www.scimagojr.com/journalsearch.php?q=145663&tip=sid&clean=0) (Q1). Prospective submission 10/2026.   
-
-[JP 1] *in prep.* Lensch, Anke, Hanna Bruns and Martin Schweinberger. Address Terms in World Englishes - Socio-cultural Impact on Recent Language Variation and Change. [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0) (Q1) [Introduction to the Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger]. Prospective submission 5/2026.   
 
 [BCP 1] *in prep.*  Schweinberger, Martin and Yon Visoni. Swearing in the City: A Corpus Study of Vulgarity in London English. In TBA.
 
@@ -44,11 +44,9 @@ title: ""
 
 [JS 1] *submitted.* Putensen, Lara and Martin Schweinberger. Pop Goes Profanity: Vulgarity Trends in English Chart Hits From 2000 to 2024. Submitted 2/2026 to *Journal of Language and Pop Culture*.
 
-[JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. [*Corpora*](https://www.scimagojr.com/journalsearch.php?q=6200158425&tip=sid&clean=0) (Q1)
+[JA 2] *accepted.* Lensch, Anke, Hanna Bruns and Martin Schweinberger. Address Terms in World Englishes - Socio-cultural Impact on Recent Language Variation and Change. [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0) (Q1) [Introduction to the Special Issue *"Address Terms in World Englishes"*. Eds. Anke Lensch, Hanna Bruns, and Martin Schweinberger].  
 
-<!--
-[JR 1] *under revision.* Schweinberger, Martin. Priming in Language Change — A corpus-based analysis of adjective amplification in New Zealand English. Submitted 12/2/2020 to *English Language and Linguistics*. (SJR: Q1)
--->
+[JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. [*Corpora*](https://www.scimagojr.com/journalsearch.php?q=6200158425&tip=sid&clean=0) (Q1)
 
 
 ## Journal Articles (Peer-Reviewed)
