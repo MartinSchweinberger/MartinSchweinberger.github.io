@@ -29,10 +29,10 @@ title: ""
 
 [JP 1] *in prep.* Schweinberger, Martin and Michael Haugh. Introducing the Language Technology and Data Analysis Laboratory (LADAL). An open-source collaborative support infrastructure for computational humanities research. [*Language Resources and Evaluation*](https://www.scimagojr.com/journalsearch.php?q=145663&tip=sid&clean=0) (Q1). Prospective submission 10/2026.   
 
-
 [BCP 1] *in prep.*  Schweinberger, Martin and Yon Visoni. Swearing in the City: A Corpus Study of Vulgarity in London English. In TBA.
 
-[BCS 1] *submitted.*  Schweinberger, Martin, Michael Haugh and Sam Hames. The Language Technology and Data Analysis Laboratory (LADAL). In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*. Radboud University Press.
+[BCS 1] *submitted.* Anthony, Laurence, Michael Falk, Sam Hames, Michael Haugh, Ian Johnson, Ruth Mostern, Martin Schweinberger, Tim Sherratt. Building User-Friendly Toolkits and Platforms for Digital Humanities.
+In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*. Radboud University Press.
 
 [JS 5] *submitted.* Schweinberger, Martin. Priming in Language Change: A Corpus-Based Analysis of Adjective Amplification in New Zealand English. Submitted 6/2026 to [*Corpus Linguistics and Linguistic Theory*](https://www.scimagojr.com/journalsearch.php?q=5800208102&tip=sid&clean=0)  (Q1)  
 
@@ -107,7 +107,7 @@ title: ""
 
 ## Book Chapters (Peer-Reviewed)
 
-23\. Schweinberger, Martin and Howard Luo. *in print.* A Corpus-Based Analysis of General Extenders in Irish English. In Javier Pérez Guerra, Yolanda Fernández Pena, and Ana Elina Martínez Ínsua (Eds.), *Grammar through the Lens of Corpus Linguistics*. John Benjamins. <https://doi.org/10.1075/scl.128.04sch>
+23\. Schweinberger, Martin and Howard Luo. 2026. A Corpus-Based Analysis of General Extenders in Irish English. In Javier Pérez Guerra, Yolanda Fernández Pena, and Ana Elina Martínez Ínsua (Eds.), *Grammar through the Lens of Corpus Linguistics*, 105-132. John Benjamins. <https://doi.org/10.1075/scl.128.04sch>
 
 22\. Schweinberger, Martin. 2026. Reproducibility in Corpus Linguistics. In Hilary Nesi and Petar Milin (Eds.), *International Encyclopedia of Language and Linguistics* (3rd Edition), 290-295. Elsevier. <https://doi.org/10.1016/B978-0-323-95504-1.00967-4>
 
