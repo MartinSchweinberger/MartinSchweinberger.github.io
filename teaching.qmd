@@ -48,6 +48,7 @@ I would be particularly interested in supervising theses on the following topics
 
 ### Post-Graduate Level (MA Courses)
 
+- Quantitative and Reproducible Research with R in the Humanities (LMU, WiSe 2026/27)
 - SLAT7806: Research Methods (UQ, [Evaluation 2025, S1](resources/Course report SLAT7806_9b0e227d-c346-4054-be89-9ec3fb33c49een-US.pdf))
 - SLAT7829: Corpus Linguistics and Text Analysis (UQ, [Evaluation 2025, S1](resources/Course report SLAT7829_690b79b2-a5b9-44d5-9d6f-1bfcf0121aaben-US.pdf))
 - SLAT7830: Second Language Reading (UQ, [Evaluation Sem 1, 2022](resources/7220-SLAT7830-24684_STLUC-EX-S1-2022_-_Course_Survey.pdf))
@@ -89,6 +90,7 @@ In addition, I have worked in and am familiar with various e-learning environmen
 
 ---
 
+LMU = Ludwig-Maximilians-Universität München
 FUB = Freie Universität Berlin  
 EMA = Ernst-Moritz-Arndt-Universität Greifswald  
 LUL = Leuphana Universität Lüneburg  

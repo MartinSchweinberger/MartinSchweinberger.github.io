@@ -208,6 +208,7 @@ title: ""
 
 ## Invited Talks
 
+16\. 2026: Schweinberger, Martin. 24/11/2026. Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English. University of Hamburg (invitation by Hannah Wegener) ([slides](resources/TBA.pptx))
 
 15\. 2026: Schweinberger, Martin. 05/06/2026. Reproducibility, Transparency, and AI in Language-Based Empirical Research. From open science practices to responsible AI use in corpus linguistics and corpus pragmatics. University of Bonn (invitation by Svenja Kranich) ([slides](resources/Reproducibility-Transparency-and-AI_Bonn_20260605.pptx))
 

@@ -217,7 +217,19 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
+**17/12/2026** — I'm invited to give a workshop on *Websrcaping and reproducible research* at the [Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS)](https://www.leibniz-zas.de) in Berlin.
+:::
+
+::: {.ms-news-item}
+**5-8/12/2026** — I will join Gerold Schneider (UZH) and Mikko Laitinen (UEF) for a workshop on vulgarity and hate speech at the [Linguistic Research Intrastructure (LiRI) at the University of Zurich](https://www.liri.uzh.ch/en.html). 
+:::
+
+::: {.ms-news-item}
 **26-28/11/2026** — Jhoana Pan Li and Yon Visoni will present our papers on (a) Vulgarity across the Spanish-Speaking world (Jhoana) and (b) Listener Perceptions of Intelligibility in Multilingual Contexts (Yon) at the [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General) in Brisbane.
+:::
+
+::: {.ms-news-item}
+**24/11/2026** — I'm invited by Hannah Wegener to give a talk entitled *Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English* at the University of Hamburg.
 :::
 
 ::: {.ms-news-item}
