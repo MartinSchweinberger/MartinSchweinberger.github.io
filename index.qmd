@@ -220,7 +220,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 **18-19/12/2026 and 8-9/1/2027** I offer a block seminar on *Quantitative and Reproducible Research with R in the Humanities* at Ludwig-Maximilians-Universität Munich.
 :::
 ::: {.ms-news-item}
-**17/12/2026** — I'm invited to give a workshop on *Websrcaping and reproducible research* at the [Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS)](https://www.leibniz-zas.de) in Berlin.
+**17/12/2026** — I'm invited to give a workshop on *Websrcaping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
 :::
 
 ::: {.ms-news-item}
