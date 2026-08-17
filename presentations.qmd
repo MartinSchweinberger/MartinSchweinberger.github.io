@@ -166,6 +166,8 @@ title: ""
 
 ## Public Lectures / Panels / Webinars
 
+20\. 2026: Schweinberger, Martin. 18/8/2026. Working Safely with Sensitive Research Data Using Local LLMs.*AI in Practice: Lunchtime Insights Series* ([slides](resources/AI-in-Practice-Presentation-Schweinberger.pptx)).
+
 19\. 2026: Schweinberger, Martin. 17/3/2026. Some suggestions to improve reproducibility and transparency in data-intensive corpus linguistics. Book Launch: *Data-Intensive Investigations of English* (ISLE Online Forum, Hybrid event).
 
 18\. 2025: Schweinberger, Martin. 11/10/2025. *Vulgarity in World Englishes*. Public Lecture at the University of South Australia ([slides](resources/UniSA_Schweinberger_VulgarityAroundTheWorld.pptx)).
