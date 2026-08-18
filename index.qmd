@@ -244,6 +244,10 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
+**18/8/2026** — I will chair Laurence Anthony's talk *LLMs for HASS Research. Oppertunities, Challenges, and a Human-Centered Future* ([slides](resources/llms4hass_talk_ver_004.pdf))
+:::
+
+::: {.ms-news-item}
 **18/8/2026** — I will be giving a talk at UQ as part of the **AI in Practice: Lunchtime Insights Series** on *Working Safely with Sensitive Research Data Using Local LLMs*. [(slides)](resources/AI-in-Practice-Presentation-Schweinberger.pptx)
 :::
 
