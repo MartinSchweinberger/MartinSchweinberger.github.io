@@ -213,42 +213,38 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 ```
 
 ::: {.ms-news-item}
-**8-9/7/2027** — I will be giving a keynote on Reproducibility in Language-based Research at the *Second Workshop on Replication in the Language Sciences* (WoReLa2) at the University of Cologne!
+**8-9/7/2027** — Invited to give a keynote on Reproducibility in Language-based Research at the *Second Workshop on Replication in the Language Sciences* (WoReLa2) at the University of Cologne!
 :::
 
 ::: {.ms-news-item}
-**18-19/12/2026 and 8-9/1/2027** I offer a block seminar on *Quantitative and Reproducible Research with R in the Humanities* at Ludwig-Maximilians-Universität Munich.
+**18-19/12/2026 and 8-9/1/2027** Block seminar on *Quantitative and Reproducible Research with R in the Humanities* at Ludwig-Maximilians-Universität Munich.
 :::
 ::: {.ms-news-item}
-**17/12/2026** — I'm invited to give a workshop on *Websrcaping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
-:::
-
-::: {.ms-news-item}
-**5-8/12/2026** — I will join Gerold Schneider (UZH) and Mikko Laitinen (UEF) for a workshop on vulgarity and hate speech at the [Linguistic Research Intrastructure (LiRI) at the University of Zurich](https://www.liri.uzh.ch/en.html). 
+**17/12/2026** — Workshop on *Websrcaping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
 :::
 
 ::: {.ms-news-item}
-**26-28/11/2026** — Jhoana Pan Li and Yon Visoni will present our papers on (a) Vulgarity across the Spanish-Speaking world (Jhoana) and (b) Listener Perceptions of Intelligibility in Multilingual Contexts (Yon) at the [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General) in Brisbane.
+**5-8/12/2026** — Joint workshop on vulgarity and hate speech at the [Linguistic Research Intrastructure (LiRI) at the University of Zurich](https://www.liri.uzh.ch/en.html) together with Gerold Schneider (UZH) and Mikko Laitinen (UEF).
 :::
 
 ::: {.ms-news-item}
-**24/11/2026** — I'm invited by Hannah Wegener to give a talk entitled *Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English* at the University of Hamburg.
+**26-28/11/2026** — Jhoana Pan Li and Yon Visoni present our papers on (a) Vulgarity across the Spanish-Speaking world (Jhoana) and (b) Listener Perceptions of Intelligibility in Multilingual Contexts (Yon) at the [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General) in Brisbane.
 :::
 
 ::: {.ms-news-item}
-**8/9/2026** — Laurence Anthony (Waseda), Mikko Laitinen (UEF), Michael Haugh (UQ) and myself will give a workshop on *Rethinking What Data-Intensive Methods Can Do in Sociolinguistics and Sociopragmatics* at the *6th Asia Pacific Corpus Linguistics Conference (APCLC2026)* in Toyama, Japan, from September 8–11, 2026.
+**24/11/2026** — Invited talk entitled *Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English* at the University of Hamburg (invited by Hannah Wegener).
 :::
 
 ::: {.ms-news-item}
-**21/8/2026** — I will be giving a keynote on Vulgarity at the [*Forum on Englishes in Australia*](https://sites.google.com/view/auseng/home) in Melbourne.
+**8/9/2026** — Workshop on *Rethinking What Data-Intensive Methods Can Do in Sociolinguistics and Sociopragmatics* at the *6th Asia Pacific Corpus Linguistics Conference (APCLC2026)* in Toyama, Japan, from September 8–11, 2026, together with Laurence Anthony (Waseda), Mikko Laitinen (UEF), and Michael Haugh (UQ). 
 :::
 
 ::: {.ms-news-item}
-**18/8/2026** — I will chair Laurence Anthony's talk *LLMs for HASS Research. Oppertunities, Challenges, and a Human-Centered Future* ([slides](resources/llms4hass_talk_ver_004.pdf))
+**21/8/2026** — Keynote on Vulgarity at the [**Forum on Englishes in Australia**](https://sites.google.com/view/auseng/home) in Melbourne ([slides](resources/UniM_Schweinberger_SeriousBusiness.pptx)).
 :::
 
 ::: {.ms-news-item}
-**18/8/2026** — I will be giving a talk at UQ as part of the **AI in Practice: Lunchtime Insights Series** on *Working Safely with Sensitive Research Data Using Local LLMs*. [(slides)](resources/AI-in-Practice-Presentation-Schweinberger.pptx)
+**18/8/2026** — Talk at UQ as part of the **AI in Practice: Lunchtime Insights Series** on *Working Safely with Sensitive Research Data Using Local LLMs*. [(slides)](resources/AI-in-Practice-Presentation-Schweinberger.pptx)
 :::
 
 ::: {.ms-news-item}
@@ -256,7 +252,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
-**26-30/05/2026** — Lara Putensen will present our talk **Pop Goes Profanity: Vulgarity Trends in English Chart Hits from 2000 to 2024** at [ICAME47](https://wp.uni-koblenz.de/icame47/) in Koblenz.
+**26-30/05/2026** — Lara Putensen presented our talk **Pop Goes Profanity: Vulgarity Trends in English Chart Hits from 2000 to 2024** at [ICAME47](https://wp.uni-koblenz.de/icame47/) in Koblenz.
 :::
 
 ::: {.ms-news-item}
