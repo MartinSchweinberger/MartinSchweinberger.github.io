@@ -236,6 +236,10 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
+**29/9 - 1/10/2026** — Invited by Darja Fišer to attend the [*CLARIN Annual Conference 2026*](https://www.clarin.eu/event/2026/clarin-annual-conference-2026) in Brighton, UK, from September 29 to October 1, 2026. 
+:::
+
+::: {.ms-news-item}
 **8/9/2026** — Workshop on *Rethinking What Data-Intensive Methods Can Do in Sociolinguistics and Sociopragmatics* at the *6th Asia Pacific Corpus Linguistics Conference (APCLC2026)* in Toyama, Japan, from September 8–11, 2026, together with Laurence Anthony (Waseda), Mikko Laitinen (UEF), and Michael Haugh (UQ). 
 :::
 
