@@ -25,6 +25,9 @@ title: ""
 
 **IC:** [ISLE7 (7th Meeting of the International Society for the Linguistics of English)](https://languages-cultures.uq.edu.au/isle7), Brisbane, Australia, 19–23/6/2023. International hybrid conference (with Kate Burridge & Michael Haugh)
 
+**CW:** *Rethinking What Data-Intensive Methods Can Do in Sociolinguistics and Sociopragmatics*, workshop at the [*6th Asia Pacific Corpus Linguistics Conference (APCLC2026)*](https://smartconf.jp/content/apclc2026/), Toyama, Japan, 8–11/9/2026 (with Laurence Anthony (Waseda), Mikko Laitinen (UEF), and Michael Haugh (UQ)) 
+
+
 **CW:** *Replication and Reproducibility in English Corpus Linguistics*, workshop at [ISLE 6](https://sites.uef.fi/isle6), Joensuu, 6/2021 (with Joseph Flanagan, University of Helsinki)
 
 **CW:** *Exploring Powerful Tools to Ensure Robust and Reproducible Results in Corpus Linguistics*, workshop at ICAME 42, Dortmund, 8/2021 (with Gerold Schneider, University of Zurich & Joseph Flanagan, University of Helsinki)
@@ -53,10 +56,11 @@ title: ""
 
 ## Conference Presentations (Talks)
 
-46\. 2026: Pan Li, Jhoana and Martin Schweinberger. Vulgarity across the Spanish-Speaking World. [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General). Brisbane, 26-28/11/2026.
+47\. 2026: Pan Li, Jhoana and Martin Schweinberger. Vulgarity across the Spanish-Speaking World. [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General). Brisbane, 26-28/11/2026.
 
+46\. 2026: Visoni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General). Brisbane, 26-28/11/2026.
 
-45\. 2026: Visoni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. [2026 Joint Conference ALAA-ALANZ-ALTAANZ](https://alaa.net.au/Events/Conference2026/General). Brisbane, 26-28/11/2026.
+45\. 2026: Martin Schweinberger. Beyond Form: Pragmatics at Scale and the Potential of Cross-Disciplinary Collaboration. [6th Asia Pacific Corpus Linguistics Conference (APCLC2026)](https://smartconf.jp/content/apclc2026/). Toayama, Japan, 8–11/9/2026.
 
 44\. 2026: Ronan, Particia, Gerold Schneider and Martin Schweinberger. Squandering the taxpayers' money? Variation in English genitive usage. [ICAME47](https://wp.uni-koblenz.de/icame47/). Koblenz, 26-30/05/2026.
 

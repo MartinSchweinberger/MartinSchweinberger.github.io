@@ -240,7 +240,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
-**8/9/2026** — Workshop on *Rethinking What Data-Intensive Methods Can Do in Sociolinguistics and Sociopragmatics* at the *6th Asia Pacific Corpus Linguistics Conference (APCLC2026)* in Toyama, Japan, from September 8–11, 2026, together with Laurence Anthony (Waseda), Mikko Laitinen (UEF), and Michael Haugh (UQ). 
+**8/9/2026** — Workshop on *Rethinking What Data-Intensive Methods Can Do in Sociolinguistics and Sociopragmatics* at the *6th Asia Pacific Corpus Linguistics Conference (APCLC2026)* in Toyama, Japan, from September 8–11, 2026, together with Laurence Anthony (Waseda), Mikko Laitinen (UEF), and Michael Haugh (UQ) ([slides](resources/APCLC2026_Position_Statement_update.pptx) and [GitHub repo for showcase](https://github.com/MartinSchweinberger/apclc-llm-showcase)). 
 :::
 
 ::: {.ms-news-item}
