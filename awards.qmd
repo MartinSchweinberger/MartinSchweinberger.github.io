@@ -40,11 +40,11 @@ title: ""
   
 ## Awards  
   
+- *The Language Data Commons of Australia* wins the *2026 UQ Culture Award for Responsible Research Practices* (and as CI on LDaCA and Director of LADAL, one of the flagship projects of the Analytics steam, I'm member of the winning team) 
 - ISLE 2015 [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize)  
 - 2019 [HASS Digital Champion](https://ardc.edu.au/project/humanities-arts-and-social-sciences/) on behalf of the *Australian Research Data Commons* ([ARDC](https://ardc.edu.au/))  
-- 2026 UQ Culture Award for Responsible Research Practices with The Language Data Commons of Australia (UQ)
-- Nominee 2024 Conduct of Research, Reproducibility & Open Research Practices (UQ)  
 - Nominee 2025 [UQ Research Culture Awards 2025 — Responsible Research Practices](https://research-support.uq.edu.au/uq-research-culture-awards-2025) (nominated by HASS Associate Dean-Research both as an individual researcher and with LADAL)  
+- Nominee 2024 Conduct of Research, Reproducibility & Open Research Practices (UQ)  
   
 ---  
   
