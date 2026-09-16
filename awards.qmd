@@ -22,7 +22,7 @@ title: ""
     <span class="stat-card-label">LDaCA</span>
   </div>
   <div class="stat-card">
-    <span class="stat-card-num">Lead</span>
+    <span class="stat-card-num">Director</span>
     <span class="stat-card-label">LADAL</span>
   </div>
   <div class="stat-card">
