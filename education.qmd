@@ -34,6 +34,7 @@ title: ""
 - Former Queensland state chair of the [*Australian Computation and Linguistics Olympiad*](https://www.ozclo.org.au/) (OzCLO, 2021)
 - In 2019 I was [HASS Digital Champion](https://ardc.edu.au/project/humanities-arts-and-social-sciences/) on behalf of the *Australian Research Data Commons* ([ARDC](https://ardc.edu.au/)).
 
+
 ---
 
 ## Education
@@ -58,6 +59,13 @@ Additional minor: Psychology
 **08/2006–02/2007** [National University of Ireland Galway](https://www.nuigalway.ie/) (Erasmus/Sokrates exchange)
 
 **1997–2000** A-levels (Final grade: 2.0): Albert-Schweitzer-Schule (upper-level grammar school, Hofgeismar)
+
+---
+
+## Research Visits
+
+**8-9/2026** [*Macgeorge Fellow*](https://about.unimelb.edu.au/strategy/governance/macgeorge/macgeorge) to the University of Melbourne - invited by Dr. Debbie Loakes
+**1–2/2024** [Linguistic Research Infrastructure (LiRI)](https://www.cl.uzh.ch/en/LiRI.html), Universität Zürich — invited by Prof. Dr. Gerold Schneider & Prof. Dr. Volker Dellwo
 
 ---
 
@@ -100,9 +108,4 @@ UHH = Universität Hamburg
 UKS = Universität Kassel  
 UQ = The University of Queensland, Australia
 
----
-
-## Research Visits
-
-**1–2/2024** [Linguistic Research Infrastructure (LiRI)](https://www.cl.uzh.ch/en/LiRI.html), Universität Zürich — invited by Prof. Dr. Gerold Schneider & Prof. Dr. Volker Dellwo
 

@@ -240,7 +240,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
-::: {layout="[70, 30]" layout-valign="center"}
+::: {layout="[80, 20]" layout-valign="center"}
 **16/9/2026** — Wohoo! **The Language Data Commons of Australia wins the *2026 UQ Culture Award for Responsible Research Practices*** (and as CI on LDaCA and Director of LADAL, one of the flagship projects of the Analytics stream, I'm a member of the winning team)
 
 ![](images/ldaca_uqaward2026.jpg){fig-alt="LDaCA team receiving the 2026 UQ Culture Award for Responsible Research Practices"}
@@ -256,7 +256,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
-**21/8/2026** — Invited as Macgeorge Visiting Speaker to the University of Melbourne to give a keynote on vulgarity at the [**Forum on Englishes in Australia**](https://sites.google.com/view/auseng/home) ([slides](resources/UniM_Schweinberger_SeriousBusiness.pptx)).
+**21/8/2026** — Invited as [*Macgeorge Fellow*](https://about.unimelb.edu.au/strategy/governance/macgeorge/macgeorge) to the University of Melbourne to give a keynote on vulgarity at the [**Forum on Englishes in Australia**](https://sites.google.com/view/auseng/home) ([slides](resources/UniM_Schweinberger_SeriousBusiness.pptx)).
 :::
 
 ::: {.ms-news-item}
