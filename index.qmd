@@ -220,11 +220,11 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 **18-19/12/2026 and 8-9/1/2027** Block seminar on *Quantitative and Reproducible Research with R in the Humanities* at Ludwig-Maximilians-Universität Munich.
 :::
 ::: {.ms-news-item}
-**17/12/2026** — Workshop on *Websrcaping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
+**17/12/2026** — Workshop on *Webscraping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
 :::
 
 ::: {.ms-news-item}
-**5-8/12/2026** — Joint workshop on vulgarity and hate speech at the [Linguistic Research Intrastructure (LiRI) at the University of Zurich](https://www.liri.uzh.ch/en.html) together with Gerold Schneider (UZH) and Mikko Laitinen (UEF).
+**5-8/12/2026** — Joint workshop on vulgarity and hate speech at the [Linguistic Research Infrastructure (LiRI) at the University of Zurich](https://www.liri.uzh.ch/en.html) together with Gerold Schneider (UZH) and Mikko Laitinen (UEF).
 :::
 
 ::: {.ms-news-item}
