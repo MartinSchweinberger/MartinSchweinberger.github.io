@@ -68,6 +68,8 @@ website:
         menu:
           - href: teaching.qmd
             text: "Teaching"
+          - href: supervision.qmd
+            text: "Supervision"
           - href: resources.qmd
             text: "Resources"
 

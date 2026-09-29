@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.41">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Supervision – Martin Schweinberger</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-48ffa3e5b9d089919c6712c39e5b00f2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-89a2fdffaa5a6dcaad25fa52375d4e77.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<style>
+/* ══════════════════════════════════════════════════════════
+   SHARED INNER-PAGE STYLES — martinschweinberger.de
+   Applied via include-in-header or inline {=html} blocks
+   ══════════════════════════════════════════════════════════ */
+
+/* ── Page header banner ─────────────────────────────────── */
+.pg-header {
+  background: linear-gradient(135deg, #0D1B2A 0%, #1A3A5C 100%);
+  border-bottom: 3px solid #C9A84C;
+  padding: 3rem 0 2.5rem;
+  margin: -1.5rem -1.5rem 2.5rem;   /* bleeds to page edges */
+}
+.pg-header-inner {
+  max-width: 780px;
+  padding: 0 1.5rem;
+}
+.pg-eyebrow {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: #C9A84C;
+  margin: 0 0 0.4rem;
+}
+.pg-title {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 2.2rem !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+  margin: 0 0 0.7rem !important;
+  letter-spacing: -0.025em;
+  border: none !important;
+  padding: 0 !important;
+  display: block !important;
+}
+.pg-subtitle {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.70);
+  margin: 0 0 1rem;
+  line-height: 1.55;
+}
+.pg-header-badges { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.pg-hbadge {
+  background: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.75);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.70rem;
+  font-weight: 500;
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.15);
+  letter-spacing: 0.02em;
+}
+
+/* ── Section h2 with gold left-bar ─────────────────────── */
+.quarto-document h2 {
+  display: flex !important;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 2.8rem !important;
+  padding-top: 0.2rem;
+}
+.quarto-document h2::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  min-height: 1.15em;
+  background: #C9A84C;
+  border-radius: 2px;
+  flex-shrink: 0;
+  align-self: stretch;
+}
+
+/* ── Publication / entry status chips ──────────────────── */
+.chip {
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.67rem;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  vertical-align: middle;
+  margin: 0 3px 0 0;
+  line-height: 1.6;
+}
+.chip-prep      { background: #E8F2FC; color: #1A4A8A; }
+.chip-submitted { background: #F5E9C0; color: #7A5200; }
+.chip-revision  { background: #FFF0E0; color: #8A4000; }
+.chip-q1        { background: #E8F7EE; color: #1A6B3A; }
+.chip-oa        { background: #F0E6FB; color: #6B1E9C; }
+.chip-year      { background: #F7F8FA; color: #2D5880; border: 1px solid #D0D8E4; }
+
+/* ── Skills / tag cloud ─────────────────────────────────── */
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 1.5rem; }
+.tag {
+  background: #E8F2FC;
+  color: #1A3A5C;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  border: 1px solid #D0D8E4;
+}
+.tag-gold  { background: #F5E9C0; color: #7A5200; border-color: #E8C96B; }
+.tag-navy  { background: #1A3A5C; color: #fff; border-color: #1A3A5C; }
+
+/* ── Stat cards (for awards/funding) ───────────────────── */
+.stat-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.stat-card {
+  background: #fff;
+  border: 1px solid #D0D8E4;
+  border-top: 3px solid #C9A84C;
+  border-radius: 6px;
+  padding: 1.1rem 1.2rem;
+  text-align: center;
+}
+.stat-card-num {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #0D1B2A;
+  line-height: 1;
+}
+.stat-card-label {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: #4A6A8A;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-top: 5px;
+}
+
+/* ── Contact profile links ──────────────────────────────── */
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+.contact-card {
+  background: #fff;
+  border: 1px solid #D0D8E4;
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  text-decoration: none !important;
+  transition: box-shadow 0.18s, border-color 0.18s;
+}
+.contact-card:hover {
+  border-color: #2563A8;
+  box-shadow: 0 3px 12px rgba(13,27,42,0.09);
+}
+.contact-card-icon {
+  width: 36px; height: 36px;
+  background: #E8F2FC;
+  border-radius: 6px;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  color: #2563A8;
+}
+.contact-card-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #0D1B2A;
+  display: block;
+  line-height: 1.3;
+}
+.contact-card-value {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.78rem;
+  color: #4A6A8A;
+  display: block;
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 680px) {
+  .pg-title { font-size: 1.75rem !important; }
+  .pg-header { padding: 2rem 0 1.8rem; margin: -1rem -1rem 2rem; }
+  .stat-cards { grid-template-columns: 1fr 1fr; }
+}
+</style>
+
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Martin Schweinberger — Applied Linguistics · UQ">
+<meta property="og:description" content="Senior Lecturer in Applied Linguistics at the University of Queensland. Director of LADAL. Corpus linguistics, computational humanities, language data science.">
+<meta property="og:image" content="https://martinschweinberger.de/images/martinschweinbergeruq.jpg">
+<meta property="og:site_name" content="Martin Schweinberger">
+<meta name="twitter:title" content="Martin Schweinberger — Applied Linguistics · UQ">
+<meta name="twitter:description" content="Senior Lecturer in Applied Linguistics at the University of Queensland. Director of LADAL. Corpus linguistics &amp; language data science.">
+<meta name="twitter:image" content="https://martinschweinberger.de/images/martinschweinbergeruq.jpg">
+<meta name="twitter:creator" content="@ronautic">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Martin Schweinberger</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-cv" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">CV</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-cv">    
+        <li>
+    <a class="dropdown-item" href="./education.html">
+ <span class="dropdown-text">Education &amp; Positions</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./awards.html">
+ <span class="dropdown-text">Awards &amp; Funding</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="./research.html">
+ <span class="dropdown-text">Research &amp; Projects</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./publications.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./presentations.html">
+ <span class="dropdown-text">Presentations &amp; Talks</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./training.html">
+ <span class="dropdown-text">Workshops &amp; Training</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
+        <li>
+    <a class="dropdown-item" href="./teaching.html">
+ <span class="dropdown-text">Teaching</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./supervision.html">
+ <span class="dropdown-text">Supervision</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./resources.html">
+ <span class="dropdown-text">Resources</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-community" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Community</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-community">    
+        <li>
+    <a class="dropdown-item" href="./memberships.html">
+ <span class="dropdown-text">Memberships &amp; Reviewing</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./media.html">
+ <span class="dropdown-text">Media Coverage</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="2">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#phd-supervision" id="toc-phd-supervision" class="nav-link" data-scroll-target="#phd-supervision">PhD Supervision</a></li>
+  <li><a href="#masters-supervision" id="toc-masters-supervision" class="nav-link" data-scroll-target="#masters-supervision">Master’s Supervision</a></li>
+  <li><a href="#phd-committees-and-examination" id="toc-phd-committees-and-examination" class="nav-link" data-scroll-target="#phd-committees-and-examination">PhD Committees and Examination</a></li>
+  <li><a href="#prospective-students" id="toc-prospective-students" class="nav-link" data-scroll-target="#prospective-students">Prospective Students</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Supervision</h1>
+<p class="subtitle lead">Doctoral and Master’s supervision, committees, and prospective students</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>I supervise research students working at the intersection of corpus linguistics, sociolinguistics, learner language, and computational approaches to language data. Since 2015, I have been involved in the supervision of research projects at Universität Hamburg and The University of Queensland, in addition to serving on external PhD committees in Norway and Germany.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Role</th>
+<th style="text-align: center;">Completed</th>
+<th style="text-align: center;">Ongoing</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">PhD — Principal supervisor</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">PhD — Associate supervisor</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Master’s — Principal supervisor</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">—</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Master’s — Secondary supervisor</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">—</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">External PhD committee member</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">—</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chair of PhD committee / Independent reader</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">—</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="phd-supervision" class="level2">
+<h2 class="anchored" data-anchor-id="phd-supervision">PhD Supervision</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 12%">
+<col style="width: 10%">
+<col style="width: 13%">
+<col style="width: 65%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Years</th>
+<th style="text-align: left;">Institution</th>
+<th style="text-align: left;">Role</th>
+<th style="text-align: left;">Thesis title</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ongoing</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Multifactorial study of morpho-syntactic errors across different L1 backgrounds</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ongoing</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">A corpus-based investigation of Three Minute Thesis presentations: A register perspective</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ongoing</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">Enhancing lexical resources for argumentative essay writing through corpus integration</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ongoing</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">Generative AI in TESOL: Exploring teachers’ critical digital literacies across rural–urban divides in Indonesian universities</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2023–2025</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Analysing the language of Reddit’s conspiracy communities</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2021–2023</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">Crosslinguistic influence in the acquisition of number marking in Indonesian</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2021–2023</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">The effects of writing task complexity on EFL teachers’ stance</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2018–2021</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">English as L3: Phonological cross-linguistic influence in Turkish–German bilinguals</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="masters-supervision" class="level2">
+<h2 class="anchored" data-anchor-id="masters-supervision">Master’s Supervision</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 12%">
+<col style="width: 10%">
+<col style="width: 13%">
+<col style="width: 65%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Years</th>
+<th style="text-align: left;">Institution</th>
+<th style="text-align: left;">Role</th>
+<th style="text-align: left;">Thesis title</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2026</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Vulgarity across the Spanish-speaking world</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2025</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Listeners’ perspectives on intelligibility features</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2025</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Discourse marker use among Indonesian learners and L1-English speakers</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2024</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Analysing Australians’ stance towards China on Twitter</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2023</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">A corpus-based comparative acoustic analysis of voice-onset time</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2023</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Analysing the language of telecom fraud</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2022</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Analysing number marking errors on English nouns by L1-Chinese learners of English</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2021–2022</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Principal</td>
+<td style="text-align: left;">Investigating Japanese-native English learners’ pronunciation of English vowels</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2018</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Assessing effects on target language proximity in L2 acquisition</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2018</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">The amplifier system of L1-German English speakers</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2017</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Metalinguistic awareness in third language acquisition</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2017</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Spanglish: Gender-related attitudes towards code-switching</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2017</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">An acoustic analysis of English vowels among L1-German speakers</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2017</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Unconscious gender bias in job advertisements</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2017</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Language acquisition</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2016</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Second and third language acquisition: A comparison</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2015</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">Language variation in Singapore: The use of <em>already</em>, <em>also</em>, and <em>one</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2015</td>
+<td style="text-align: left;">UHH</td>
+<td style="text-align: left;">Secondary</td>
+<td style="text-align: left;">The acquisition of the English article system by Russian–German bilinguals</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="phd-committees-and-examination" class="level2">
+<h2 class="anchored" data-anchor-id="phd-committees-and-examination">PhD Committees and Examination</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 12%">
+<col style="width: 10%">
+<col style="width: 20%">
+<col style="width: 57%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Years</th>
+<th style="text-align: left;">Institution</th>
+<th style="text-align: left;">Role</th>
+<th style="text-align: left;">Thesis title</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2021–2022</td>
+<td style="text-align: left;">UiB</td>
+<td style="text-align: left;">External committee member</td>
+<td style="text-align: left;">The quotative system of Nigerian English</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2020–2023</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Chair / Independent reader</td>
+<td style="text-align: left;">Writing portfolio-based assessment at a preparatory program in Saudi Arabia</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2020–2023</td>
+<td style="text-align: left;">UQ</td>
+<td style="text-align: left;">Chair / Independent reader</td>
+<td style="text-align: left;">Fostering students’ evaluative judgement via adaptive learning systems</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2012</td>
+<td style="text-align: left;">FUB</td>
+<td style="text-align: left;">External committee member</td>
+<td style="text-align: left;">The development of morpho-syntactic mechanisms in language evolution</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="prospective-students" class="level2">
+<h2 class="anchored" data-anchor-id="prospective-students">Prospective Students</h2>
+<p>I welcome enquiries from prospective PhD and MPhil students, particularly in the following areas:</p>
+<p><strong>Sociolinguistics, language variation and change, World Englishes</strong> General extenders; terms of address and salutations; discourse particles and markers; vulgarity and swearing; adjective amplification.</p>
+<p><strong>Learner language, corpus phonetics, learner corpus research</strong> Vowel production and voice-onset time among L1 speakers and learners of English; fluency and pausing in learner and L1 speech; accent, intelligibility, and comprehension.</p>
+<p><strong>Text analytics, digital humanities, corpus linguistics</strong> Applications of AI, large language models, and word embeddings in the language sciences; comparison of association and keyness measures; reproducible workflows for language data.</p>
+<p>If you are interested in working with me, please <a href="./contact.html">get in touch</a> with a short outline of your proposed project (1–2 pages), your CV, and a brief description of your methodological background.</p>
+<!-- TODO: add link to the UQ HDR application page once verified -->
+<hr>
+<div class="small">
+<p><strong>Institutions:</strong> FUB = Freie Universität Berlin · UHH = Universität Hamburg · UiB = Universitetet i Bergen · UQ = The University of Queensland</p>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/martinschweinberger\.de");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2025 Martin Schweinberger<br>
+Senior Lecturer, <a href="https://languages-cultures.uq.edu.au/">School of Languages and Cultures</a>, UQ<br>
+ORCID: <a href="https://orcid.org/0000-0003-1923-9153">0000-0003-1923-9153</a></p>
+</div>   
+    <div class="nav-footer-center">
+<p><a href="https://scholar.google.com/citations?user=zgFnhd8AAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Martin_Schweinberger">ResearchGate</a> · <a href="https://github.com/MartinSchweinberger">GitHub</a> · <a href="https://ladal.edu.au">LADAL</a> · <a href="https://www.linkedin.com/in/martin-schweinberger-53515a96/?originalSubdomain=au">LinkedIn</a></p>
+</div>
+    <div class="nav-footer-right">
+<p>Built with <a href="https://quarto.org">Quarto</a><br>
+Hosted on <a href="https://pages.github.com">GitHub Pages</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
