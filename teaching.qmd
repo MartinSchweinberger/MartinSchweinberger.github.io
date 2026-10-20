@@ -18,32 +18,6 @@ title: ""
 ```
 
 
-## Future Supervision
-
-I would be particularly interested in supervising theses on the following topics:
-
-**Sociolinguistics / Language Variation and Change / World Englishes**
-
-- General extenders
-- Terms-of-address and salutations
-- Discourse particles and markers
-- Vulgarity
-- Adjective amplification
-
-**Learner Language / Applied Linguistics / Corpus Phonetics / Learner Corpus Research**
-
-- Vowel production among L1 speakers and learners of English
-- Voice-onset-times among L1 speakers and learners of English
-- Fluency and pauses in learner and L1 speech
-- Accent and intelligibility / comprehension
-
-**Text Analytics / Digital Humanities / Corpus Linguistics**
-
-- Applied AI/LLM/word embedding applications in the language sciences
-- Comparison of different association / keyness measures
-
----
-
 ## Teaching Experience
 
 ### Post-Graduate Level (MA Courses)

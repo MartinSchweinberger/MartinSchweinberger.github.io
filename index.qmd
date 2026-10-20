@@ -236,6 +236,10 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
+**12/10/2026** — Interviewed by Steve Dow from *The Guardian - Australia* about my research on vulgarity.
+:::
+
+::: {.ms-news-item}
 ::: {layout="[80, 20]" layout-valign="center"}
 **9/10/2026** — Invited to join the Editorial Board of [*Applied Corpus Linguistics*](https://www.sciencedirect.com/journal/applied-corpus-linguistics/about/editorial-board)
 
