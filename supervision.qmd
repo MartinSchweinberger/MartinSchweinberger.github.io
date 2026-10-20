@@ -7,65 +7,88 @@ toc-depth: 2
 
 ## Overview
 
-I supervise research students working at the intersection of corpus linguistics, sociolinguistics, learner language, and computational approaches to language data. Since 2015, I have been involved in the supervision of research projects at Universität Hamburg and The University of Queensland, in addition to serving on external PhD committees in Norway and Germany.
+I supervise research students working at the intersection of corpus linguistics, sociolinguistics, learner language, and computational approaches to language data. Since 2015, I have been involved in the supervision of research projects at Universität Hamburg, The University of Queensland, and the University of Zurich, in addition to serving on external PhD committees in Norway and Germany.
 
-| Role | Completed | Ongoing |
-|:-----|:---------:|:-------:|
-| PhD — Principal supervisor | 1 | 1 |
-| PhD — Associate supervisor | 3 | 3 |
-| Master's — Principal supervisor | 8 | — |
-| Master's — Secondary supervisor | 10 | — |
-| External PhD committee member | 2 | — |
-| Chair of PhD committee / Independent reader | 2 | — |
+| Role                                        | Completed | Ongoing |
+|:--------------------------------------------|:---------:|:-------:|
+| PhD — Principal supervisor                  |     1     |    1    |
+| PhD — Associate supervisor                  |     3     |    4    |
+| PhD — International co-supervision          |     1     |    —    |
+| Master's — Principal supervisor             |     8     |    —    |
+| Master's — Secondary supervisor             |    10     |    —    |
+| External PhD committee member               |     2     |    —    |
+| Chair of PhD committee / Independent reader |     2     |    —    |
+
+One further PhD candidate is commencing in Q1 2027.
 
 ## PhD Supervision
 
-| Years | Institution | Role | Thesis title |
-|:----------|:--------|:----------|:------------------------------------------------------|
-| ongoing | UQ | Principal | Multifactorial study of morpho-syntactic errors across different L1 backgrounds |
-| ongoing | UQ | Associate | A corpus-based investigation of Three Minute Thesis presentations: A register perspective |
-| ongoing | UQ | Associate | Enhancing lexical resources for argumentative essay writing through corpus integration |
-| ongoing | UQ | Associate | Generative AI in TESOL: Exploring teachers' critical digital literacies across rural–urban divides in Indonesian universities |
-| 2023–2025 | UQ | Principal | Analysing the language of Reddit's conspiracy communities |
-| 2021–2023 | UQ | Associate | Crosslinguistic influence in the acquisition of number marking in Indonesian |
-| 2021–2023 | UQ | Associate | The effects of writing task complexity on EFL teachers' stance |
-| 2018–2021 | UHH | Associate | English as L3: Phonological cross-linguistic influence in Turkish–German bilinguals |
+<!--
+Student names (reference only — not rendered on the website).
+Match thesis title to student:
 
-: {tbl-colwidths="[12,10,13,65]"}
+- Vulgarity in popular music ................................................... Lara Putensen (commencing Q1 2027)
+- Multifactorial study of morpho-syntactic errors ............................... Quy Pham
+- Complex dynamic approach to learner engagement with GenAI-assisted feedback .... Lin Shiming (just commenced)
+- Three Minute Thesis presentations: A register perspective ..................... Aisha Aslam
+- Enhancing lexical resources for argumentative essay writing ................... Linh Nguyen
+- Generative AI in TESOL (Indonesian universities) .............................. Stefanus Igolois Grenga Uran
+- Analysing the language of Reddit's conspiracy communities ..................... Abigail O'Hara (now postdoctoral researcher)
+- Computational acoustic analysis of vowel production ........................... Yang Yang (now postdoc, University of Copenhagen)
+- Crosslinguistic influence in the acquisition of number marking in Indonesian .. David Wijaya
+- The effects of writing task complexity on EFL teachers' stance ................ Giang Tran
+- English as L3: Phonological cross-linguistic influence in Turkish–German ...... Katrin Feindt
+-->
+
+| Years           | Institution | Role            | Thesis title                                                                                                                 |
+|:----------------|:------------|:----------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| commencing 2027 | UQ          | Principal       | Vulgarity in popular music                                                                                                   |
+| ongoing         | UQ          | Principal       | Multifactorial study of morpho-syntactic errors across different L1 backgrounds                                              |
+| ongoing         | UQ          | Associate       | A complex dynamic approach to learner engagement with GenAI-assisted written corrective feedback                             |
+| ongoing         | UQ          | Associate       | A corpus-based investigation of Three Minute Thesis presentations: A register perspective                                    |
+| ongoing         | UQ          | Associate       | Enhancing lexical resources for argumentative essay writing through corpus integration                                       |
+| ongoing         | UQ          | Associate       | Generative AI in TESOL: Exploring teachers' critical digital literacies across rural–urban divides in Indonesian universities |
+| 2023–2025       | UQ          | Principal       | Analysing the language of Reddit's conspiracy communities                                                                    |
+| 2021–2024       | UZH         | Co-supervision  | Computational acoustic analysis of vowel production in L1-German and native English speaking pupils                          |
+| 2021–2023       | UQ          | Associate       | Crosslinguistic influence in the acquisition of number marking in Indonesian                                                 |
+| 2021–2023       | UQ          | Associate       | The effects of writing task complexity on EFL teachers' stance                                                               |
+| 2018–2021       | UHH         | Associate       | English as L3: Phonological cross-linguistic influence in Turkish–German bilinguals                                          |
+
+: {tbl-colwidths="[14,10,13,63]"}
 
 ## Master's Supervision
 
-| Years | Institution | Role | Thesis title |
-|:----------|:--------|:----------|:------------------------------------------------------|
-| 2026 | UQ | Principal | Vulgarity across the Spanish-speaking world |
-| 2025 | UQ | Principal | Listeners' perspectives on intelligibility features |
-| 2025 | UQ | Principal | Discourse marker use among Indonesian learners and L1-English speakers |
-| 2024 | UQ | Principal | Analysing Australians' stance towards China on Twitter |
-| 2023 | UQ | Principal | A corpus-based comparative acoustic analysis of voice-onset time |
-| 2023 | UQ | Principal | Analysing the language of telecom fraud |
-| 2022 | UQ | Principal | Analysing number marking errors on English nouns by L1-Chinese learners of English |
-| 2021–2022 | UQ | Principal | Investigating Japanese-native English learners' pronunciation of English vowels |
-| 2018 | UHH | Secondary | Assessing effects on target language proximity in L2 acquisition |
-| 2018 | UHH | Secondary | The amplifier system of L1-German English speakers |
-| 2017 | UHH | Secondary | Metalinguistic awareness in third language acquisition |
-| 2017 | UHH | Secondary | Spanglish: Gender-related attitudes towards code-switching |
-| 2017 | UHH | Secondary | An acoustic analysis of English vowels among L1-German speakers |
-| 2017 | UHH | Secondary | Unconscious gender bias in job advertisements |
-| 2017 | UHH | Secondary | Language acquisition |
-| 2016 | UHH | Secondary | Second and third language acquisition: A comparison |
-| 2015 | UHH | Secondary | Language variation in Singapore: The use of *already*, *also*, and *one* |
-| 2015 | UHH | Secondary | The acquisition of the English article system by Russian–German bilinguals |
+| Years     | Institution | Role      | Thesis title                                                                                       |
+|:----------|:------------|:----------|:---------------------------------------------------------------------------------------------------|
+| 2026      | UQ          | Principal | Vulgarity across the Spanish-speaking world                                                        |
+| 2025      | UQ          | Principal | Listeners' perspectives on intelligibility features                                                |
+| 2025      | UQ          | Principal | Discourse marker use among Indonesian learners and L1-English speakers                             |
+| 2024      | UQ          | Principal | Analysing Australians' stance towards China on Twitter                                             |
+| 2023      | UQ          | Principal | A corpus-based comparative acoustic analysis of voice-onset time                                   |
+| 2023      | UQ          | Principal | Analysing the language of telecom fraud                                                            |
+| 2022      | UQ          | Principal | Analysing number marking errors on English nouns by L1-Chinese learners of English                 |
+| 2021–2022 | UQ          | Principal | Investigating Japanese-native English learners' pronunciation of English vowels                    |
+| 2018      | UHH         | Secondary | Assessing effects on target language proximity in L2 acquisition                                   |
+| 2018      | UHH         | Secondary | The amplifier system of L1-German English speakers                                                 |
+| 2017      | UHH         | Secondary | Metalinguistic awareness in third language acquisition                                             |
+| 2017      | UHH         | Secondary | Spanglish: Gender-related attitudes towards code-switching                                         |
+| 2017      | UHH         | Secondary | An acoustic analysis of English vowels among L1-German speakers                                    |
+| 2017      | UHH         | Secondary | Unconscious gender bias in job advertisements                                                      |
+| 2017      | UHH         | Secondary | Language acquisition                                                                               |
+| 2016      | UHH         | Secondary | Second and third language acquisition: A comparison                                                |
+| 2015      | UHH         | Secondary | Language variation in Singapore: The use of *already*, *also*, and *one*                           |
+| 2015      | UHH         | Secondary | The acquisition of the English article system by Russian–German bilinguals                         |
 
 : {tbl-colwidths="[12,10,13,65]"}
 
 ## PhD Committees and Examination
 
-| Years | Institution | Role | Thesis title |
-|:----------|:--------|:----------------|:------------------------------------------------|
-| 2021–2022 | UiB | External committee member | The quotative system of Nigerian English |
-| 2020–2023 | UQ | Chair / Independent reader | Writing portfolio-based assessment at a preparatory program in Saudi Arabia |
-| 2020–2023 | UQ | Chair / Independent reader | Fostering students' evaluative judgement via adaptive learning systems |
-| 2012 | FUB | External committee member | The development of morpho-syntactic mechanisms in language evolution |
+| Years     | Institution | Role                       | Thesis title                                                                     |
+|:----------|:------------|:---------------------------|:---------------------------------------------------------------------------------|
+| 2021–2022 | UiB         | External committee member  | The quotative system of Nigerian English                                         |
+| 2020–2023 | UQ          | Chair / Independent reader | Writing portfolio-based assessment at a preparatory program in Saudi Arabia      |
+| 2020–2023 | UQ          | Chair / Independent reader | Fostering students' evaluative judgement via adaptive learning systems           |
+| 2012      | FUB         | External committee member  | The development of morpho-syntactic mechanisms in language evolution             |
 
 : {tbl-colwidths="[12,10,20,58]"}
 
@@ -84,10 +107,12 @@ Applications of AI, large language models, and word embeddings in the language s
 
 If you are interested in working with me, please [get in touch](contact.qmd) with a short outline of your proposed project (1–2 pages), your CV, and a brief description of your methodological background.
 
-<!-- TODO: add link to the UQ HDR application page once verified -->
+
+[*Link to the UQ HDR addmissions information page*](https://study.uq.edu.au/admissions/phd-mphil-professional-doctorate)
+
 
 ---
 
 ::: {.small}
-**Institutions:** FUB = Freie Universität Berlin · UHH = Universität Hamburg · UiB = Universitetet i Bergen · UQ = The University of Queensland
+**Institutions:** FUB = Freie Universität Berlin · UHH = Universität Hamburg · UiB = Universitetet i Bergen · UQ = The University of Queensland · UZH = Universität Zürich
 :::
