@@ -126,7 +126,28 @@ Year: 2023
 Role: Collaborator (lead: Sam Hames)     
 Collaborators: Michael Haugh (UQ)    
 
+::: {.content-hidden}
+::: {.callout-note}
+---  
   
+### Applications Submitted: Decision Pending  
+**From Banter to Abuse: Pragmatically Informed Language Technology for Understanding Online Offense  (PragLaTechOO)**
+Scheme: Global Champion Fund
+Collaborators: Gerold Schneider (UZH, lead), Martin Schweinberger (UQ, co-lead), Lara Putensen (UQ), Tannon Kew (UZH), Mikko Laitinen (UEF), Janis Goldzycher (UZH)
+Amount: 29K CHF
+
+
+**Heritage Languages, Social Media and AI: Language Maintenance, Identity and Voice (HLSoMAI)**
+Scheme: Lund University Get Started Funding
+Collaborators: Chloe Castle (Lund, lead), Tanja Kupisch (Lund), Peter Crosthwaite (UQ, international co-lead), Anna, Mikhaylova (UQ), Martin Schweinberger (UQ)
+
+**Modeling world Englishes in the digital age**
+Funding body: Research Council of Finland
+Collaborators: Paula Rautionaho (UEF, lead), Martin Schweinberger (UQ, international collaborator), various other collaborators
+:::
+:::
+
+
 ---  
   
 ### Applications Successful: Non-Competitive Schemes  

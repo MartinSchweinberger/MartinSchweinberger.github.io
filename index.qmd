@@ -220,7 +220,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 **18-19/12/2026 and 8-9/1/2027** Block seminar on *Quantitative and Reproducible Research with R in the Humanities* at Ludwig-Maximilians-Universität Munich.
 :::
 ::: {.ms-news-item}
-**17/12/2026** — Workshop on *Webscraping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
+**17/12/2026** — **CANCELLED** Workshop on *Webscraping and reproducible research* at the [Sonderforschungsbereich 1412 *Register*](https://sfb1412.hu-berlin.de/de/) in Berlin.
 :::
 
 ::: {.ms-news-item}
@@ -233,6 +233,14 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 
 ::: {.ms-news-item}
 **24/11/2026** — Invited talk entitled *Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English* at the University of Hamburg (invited by Hannah Wegener).
+:::
+
+::: {.ms-news-item}
+::: {layout="[80, 20]" layout-valign="center"}
+**9/10/2026** — Invited to join the Editorial Board of [*Applied Corpus Linguistics*](https://www.sciencedirect.com/journal/applied-corpus-linguistics/about/editorial-board)
+
+![](images/schweinberger-applied-corpus-linguistics.jpg){fig-alt="Martin Schweinberger joins the Editorial Board of Applied Corpus Linguistics"}
+:::
 :::
 
 ::: {.ms-news-item}
