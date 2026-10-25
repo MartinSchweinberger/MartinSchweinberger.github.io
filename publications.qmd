@@ -7,7 +7,7 @@ title: ""
   <div class="pg-header-inner">
     <p class="pg-eyebrow">Academic output</p>
     <h1 class="pg-title">Publications</h1>
-    <p class="pg-subtitle">25 peer-reviewed journal articles &nbsp;·&nbsp; 23 book chapters &nbsp;·&nbsp; 4 edited volumes &nbsp;·&nbsp; 2 monographs under contract</p>
+    <p class="pg-subtitle">27 peer-reviewed journal articles &nbsp;·&nbsp; 23 book chapters &nbsp;·&nbsp; 4 edited volumes &nbsp;·&nbsp; 2 monographs under contract</p>
     <div class="pg-header-badges">
       <span class="pg-hbadge">Q1 journals</span>
       <span class="pg-hbadge">Open access where possible</span>
@@ -38,21 +38,20 @@ title: ""
 [BCS 1] *submitted.* Anthony, Laurence, Michael Falk, Sam Hames, Michael Haugh, Ian Johnson, Ruth Mostern, Martin Schweinberger, Tim Sherratt. Building User-Friendly Toolkits and Platforms for Digital Humanities.
 In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*. Radboud University Press.
 
-[JS 5] *submitted.* Schweinberger, Martin. Privacy-Preserving Language Research with Local Large Language Models: DGUCR – A Synthetic Data Proxy Workflow. Submitted 9/2026 to [*Research Methods in Applied Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101160600&tip=sid&clean=0)  (Q1)  
+[JS 4] *submitted.* Schweinberger, Martin. Privacy-Preserving Language Research with Local Large Language Models: DGUCR – A Synthetic Data Proxy Workflow. Submitted 9/2026 to [*Research Methods in Applied Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101160600&tip=sid&clean=0)  (Q1)
 
-[JS 4] *submitted.* Schweinberger, Martin. Priming in Language Change: A Corpus-Based Analysis of Adjective Amplification in New Zealand English. Submitted 6/2026 to [*Corpus Linguistics and Linguistic Theory*](https://www.scimagojr.com/journalsearch.php?q=5800208102&tip=sid&clean=0)  (Q1)  
-
-[JS 3] *submitted.* O'Hara, Abigail and Martin Schweinberger. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. Submitted 3/2026 to [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0)  (Q1)  
+[JS 3] *submitted.* Schweinberger, Martin. Priming in Language Change: A Corpus-Based Analysis of Adjective Amplification in New Zealand English. Submitted 6/2026 to [*Corpus Linguistics and Linguistic Theory*](https://www.scimagojr.com/journalsearch.php?q=5800208102&tip=sid&clean=0)  (Q1)  
 
 [JS 2] *submitted.* Visioni, Yon and Martin Schweinberger. Listener Perceptions of Intelligibility and Critical Pronunciation Features in Multilingual Contexts. Submitted 9/2026 to [*Asian Englishes *](https://www.scimagojr.com/journalsearch.php?q=21100829148&tip=sid&clean=0)  (Q1)
 
 [JS 1] *submitted.* Putensen, Lara and Martin Schweinberger. Pop Goes Profanity: Vulgarity Trends in English Chart Hits From 2000 to 2024. Submitted 2/2026 to *Journal of Language and Pop Culture*.
 
-
 [JA 1] *accepted.* Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. F%$# Twitter. A corpus-based analysis of vulgar language on Twitter. [*Corpora*](https://www.scimagojr.com/journalsearch.php?q=6200158425&tip=sid&clean=0) (Q1)
 
 
 ## Journal Articles (Peer-Reviewed)
+
+27\.  O'Hara, Abigail and Martin Schweinberger. 2026. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0) <https://doi.org/10.1016/j.acorp.2026.100255 > (Open Access, Q1) 
 
 26\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. [*Digital Scholarship in the Humanities*](https://www.scimagojr.com/journalsearch.php?q=21100465194&tip=sid&clean=0). <https://doi.org/10.1093/llc/fqag070> (Open Access, Q1)  
 
@@ -163,9 +162,9 @@ In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*. Radboud Un
 
 ## Edited Volumes & Issues
 
-[EP 4] 2026/27. Lensch, Anke, Hanna Bruns, and Martin Schweinberger. Address Terms in [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0). Co-edited Special Issue of *World Englishes* (WE).
+[EP 4] Lensch, Anke, Hanna Bruns, and Martin Schweinberger. 2026. Address Terms in [*World Englishes*](https://www.scimagojr.com/journalsearch.php?q=100147330&tip=sid&clean=0). Co-edited Special Issue of *World Englishes* (WE).
 
-[EP 3] 2025/26. Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. [Bad Language and Vulgarity Online and in Public Discourse.](https://www.sciencedirect.com/special-issue/10JMTRGXHQT) Co-edited Special Issue of [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0).
+[EP 3] Schweinberger, Martin, Paula Rautionaho, and Kate Burridge. 2026. [Bad Language and Vulgarity Online and in Public Discourse.](https://www.sciencedirect.com/special-issue/10JMTRGXHQT) Co-edited Special Issue of [*Lingua*](https://www.scimagojr.com/journalsearch.php?q=23735&tip=sid&clean=0).
 
 [EP 2] Schweinberger, Martin and Michael Haugh. 2025. Reproducibility, Replication and Robustness in Corpus Linguistics [Special Issue]. [*International Journal of Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=5800207556&tip=sid&clean=0) 30(2). <https://doi.org/10.1075/ijcl.30.2>
 
