@@ -51,7 +51,7 @@ In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*. Radboud Un
 
 ## Journal Articles (Peer-Reviewed)
 
-27\.  O'Hara, Abigail and Martin Schweinberger. 2026. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0) <https://doi.org/10.1016/j.acorp.2026.100255 > (Open Access, Q1) 
+27\.  O'Hara, Abigail and Martin Schweinberger. 2026. Emotions in conspiracy discourse: A Corpus-Based Analysis of r/conspiracy Before and During COVID-19. [*Applied Corpus Linguistics*](https://www.scimagojr.com/journalsearch.php?q=21101184500&tip=sid&clean=0) <https://doi.org/10.1016/j.acorp.2026.100255> (Open Access, Q1) 
 
 26\. Schweinberger, Martin, Michael Haugh, Mikko Laitinen, Masoud Fatemi, Sam Hames, Paula Rautionaho, and Marissa Takahashi. in print. Swearing online: Exploring dimensions of variability in born-digital data. [*Digital Scholarship in the Humanities*](https://www.scimagojr.com/journalsearch.php?q=21100465194&tip=sid&clean=0). <https://doi.org/10.1093/llc/fqag070> (Open Access, Q1)  
 
