@@ -178,6 +178,8 @@ In Michael Falk, Simon Burrows (Eds.), *Building Digital Humanities*. Radboud Un
 
 ## Monographs
 
+[BP 2] *in prep.* Statistics for Linguists: A Practical Introduction Using R. *University of Queensland Press*.
+
 [BP 1] *in prep.* Data-Intensive Pragmatics. *Cambridge University Press* (Contract signed with Cambridge Elements in Pragmatics series, Eds. Jonathan Culpeper and Michael Haugh).
 
 
