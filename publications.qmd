@@ -19,7 +19,9 @@ title: ""
 
 ## What I'm currently working on
 
-[BP 1] *in prep.* Data-Intensive Pragmatics. *Cambridge University Press* (Contract signed with Cambridge Elements in Pragmatics series, Eds. Jonathan Culpeper and Michael Haugh).
+[BP 2] *in prep.* Data-Intensive Pragmatics. *Cambridge University Press* (Contract signed with Cambridge Elements in Pragmatics series, Eds. Jonathan Culpeper and Michael Haugh).
+
+[BP 1] *in prep.* Statistics for Linguists: A Practical Introduction Using R. *University of Queensland Press*.
 
 <!--
 [JP 3] *in prep.* Tran, Hao and Martin Schweinberger. How does AI reshape student voice? Interactional Metadiscourse across AI-Led, Student-AI-Mediated and Student-Only EAP writing Revisions. [*Journal of English for Academic Purposes*](https://www.scimagojr.com/journalsearch.php?q=21447&tip=sid&clean=0) (Q1). Prospective submission 6/2026.
