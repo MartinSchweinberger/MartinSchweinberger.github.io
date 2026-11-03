@@ -134,11 +134,6 @@ Scheme: ARC Future Fellow 2027
 Application Submission Year: 2026
 Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Paula Rautionaho (UEF), Jonathan Culpeper (Lancaster), Kristy Beers Fägersten (Södertörn University) 
 
-**From Banter to Abuse: Pragmatically Informed Language Technology for Understanding Online Offense  (PragLaTechOO)** 
-Scheme: Global Champion Fund  
-Application Submission Year: 2026  
-Collaborators: Gerold Schneider (UZH, lead), Martin Schweinberger (UQ, co-lead), Lara Putensen (UQ), Tannon Kew (UZH), Mikko Laitinen (UEF), Janis Goldzycher (UZH)  
-
 ::: {.content-hidden}
 ::: {.callout-note}
   
@@ -165,6 +160,7 @@ Amount: 75K SEK
 Funding body: Research Council of Finland
 Application Submission Year: 2026
 Collaborators: Paula Rautionaho (UEF, lead), Martin Schweinberger (UQ, international collaborator), various other collaborators
+
 :::
 :::
 
@@ -172,6 +168,11 @@ Collaborators: Paula Rautionaho (UEF, lead), Martin Schweinberger (UQ, internati
 ---  
   
 ### Applications Successful: Non-Competitive Schemes  
+
+**Statistics for Linguists: A Practical Introduction Using R**  
+Scheme: Open Textbooks \@UQ grant  
+Funding body: University of Queensland Library  
+Year: 2026/27 (submission August 2026)  
   
 **School Research Support Funding**  
 Scheme: School Research Support Funding Scheme (UQ)  
@@ -214,6 +215,11 @@ Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wiss
 ---  
   
 ### Applications Unsuccessful: Competitive Schemes  
+
+**From Banter to Abuse: Pragmatically Informed Language Technology for Understanding Online Offense  (PragLaTechOO)**   
+Scheme: Global Champion Fund   
+Application Submission Year: 2026  
+Collaborators: Gerold Schneider (UZH, lead), Martin Schweinberger (UQ, co-lead), Lara Putensen (UQ), Tannon Kew (UZH), Mikko Laitinen (UEF), Janis Goldzycher (UZH) 
   
 **ClimDis: Computational Analysis of Climate Change Discourse – Building the Research Infrastructure and Grant Pipeline for a UQ–UEF–UZH International Alliance**  
 Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2026 Funding Scheme   
