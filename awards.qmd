@@ -59,53 +59,76 @@ I have substantively contributed to and/or taken a relevant role in the grant ap
 **As Project Lead**  
 
 8\. **ClimDis@UZH: Finalising a UQ–UEF–UZH EU Horizon Application on Climate Change Discourse**  
+
 Scheme: Global Partnerships 2026   
+
 Funding body: University of Queensland  
+
 Year: 2026  
+
 Role: Lead  
+
 Collaborators: International academics  
   
 Public understanding of climate change is shaped not only by scientific evidence but by a complex, multilingual digital information landscape in which social media, political rhetoric, and official reports compete for authority and reach. ClimDis is a trilateral computational corpus study of climate change discourse in English, German, and Finnish, developed in partnership between the University of Queensland (UQ), the University of Eastern Finland (UEF), and the University of Zurich (UZH, a formal UQ Strategic Partner since 2021).  
   
 7\. **Fucking Twitter: a contrastive network and text analytic approach to curse word use in the Australian, British, and US American Twitterspheres**    
-Funding body: [Digital Cultures and Societies Hub (UQ)](https://hass.uq.edu.au/centre-digital-cultures-societies)    
-Role: Project lead    
+
+Funding body: [Digital Cultures and Societies Hub (UQ)](https://hass.uq.edu.au/centre-digital-cultures-societies)   
+
+Role: Project lead  
+
 Collaborators: Marissa Takahashi (QUT/Australian Digital Observatory), Mikko Laitinen (University of Eastern Finland), Paula Rautionaho (University of Eastern Finland), Michael Haugh (UQ), Sam Hames (UQ)    
+
 Duration: 8/2022 – 7/2023  
   
 This project empirically assesses the assumption that Australians swear frequently by comparing Twitter data from Australia, the UK, and the US. It develops a prototype using computational methods to clean Twitter data, detect and extract swear words, and analyze their frequency and usage contexts.  
   
 6\. [**VowelChartProject**](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html)  
   
-Funding body: BMBF (via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH)    
-Role: Project lead & Principal Investigator (PI)    
+Funding body: BMBF (via [L3Prof](https://www.zlh-hamburg.de/entwicklungsvorhaben/lehrlabore/l3prof-lehrlabor-lehrerprofessionalisierung.html), UHH)  
+
+Role: Project lead & Principal Investigator (PI)   
+
 Duration: 9/2016 – 9/2018  
   
 The VowelChartProject extracted vowel formants from German, Russian, and Spanish learners of English using PRAAT and R to investigate where, why, and to what extent English learners differ from native English speakers in vowel production and word-final devoicing. Students received personalized vowel charts and written feedback after participating.  
   
 **Substantive Contribution**  
   
-5\. [**Language Data Commons of Australia HASS RDC (LDaCA-RDC)**](https://www.ldaca.edu.au/)    
-Scheme: Humanities, Arts and Social Sciences (HASS) Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)    
+5\. [**Language Data Commons of Australia HASS RDC (LDaCA-RDC)**](https://www.ldaca.edu.au/)   
+
+Scheme: Humanities, Arts and Social Sciences (HASS) Research Data Commons (RDC) and Indigenous Research Capability Program (ARDC)  
+
 Role: Advisory committee & CI (Project lead: Michael Haugh)    
+
 Collaborators: Various Australian & international stakeholders (researchers and institutions, e.g. universities, First Languages Australia, etc.)    
+
 Funding period: 2021–2029 (phase I: 2021–2023, phase II: 2024–2029)  
   
 In Australia, large language data collections exist, some housed in well-established archives (such as Trove), but many stored in short-lived repositories. LDaCA aims to consolidate these efforts into a nationally integrated research infrastructure. It aims to: (1) establish a governance board representing key stakeholders, (2) develop a comprehensive policy framework for access to language data, (3) create a shared technical infrastructure across institutions, (4) develop a portal for the discovery and access to language data, and (5) engage researchers and communities to secure and make accessible Australia's linguistic heritage.  
   
 4\. [**Australian Text Analytics Platform (ATAP)**](https://www.atap.edu.au/)    
+
 Scheme: [Australian Research Data Commons (ARDC)](https://ardc.edu.au/) Platforms Program    
+
 Role: Steering committee & CI & Chair of the User Advisory Group (Project lead: Michael Haugh)    
+
 Collaborators: Various Australian & international stakeholders    
 Funding period: 2021–2023    
+
 (ATAP has been integrated into LDaCA as of 2024.)  
   
 Text analysis in Australian research is conducted either at a basic, generic level or at a highly specialized level with custom code. ATAP aimed to fill the gap between these two approaches, developing an integrated, notebook-based platform for processing and extracting text data.  
 
 3\. **LLMs4HASS: Exploring the Use of Large Language Models for Qualitative and Interpretive Research in the Humanities and Social Sciences**  
+
 Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2026 Funding Scheme   
+
 Year: 2026  
+
 Role: Researcher (Project lead: Michael Haugh)    
+
 Collaborators: Laurence Anthony (Waseda) 
 
 LLMs4HASS investigates how large language models can support qualitative HASS research, while addressing analytical limitations, privacy concerns, and heterogeneous data formats through practical, open-source tools for harmonised, analysis-ready research workflows.
@@ -113,68 +136,111 @@ LLMs4HASS investigates how large language models can support qualitative HASS re
 **Minor Contribution**  
   
 2\. **Interfaces to Data for Historical Social Network Analysis and Research (SoNAR (IDH))**    
-Scheme: Deutsche Forschungsgesellschaft (DFG)    
+
+Scheme: Deutsche Forschungsgesellschaft (DFG)  
+
 Role: International Collaborator (lead: Gerhard Müller)    
+
 Collaborators: Various German Libraries and universities & international stakeholders    
   
 SoNAR (IDH), Interfaces to Data for Historical Social Network Analysis and Research, will examine and evaluate approaches to build and operate an advanced research technology environment supporting Historical Network Analysis and related research. Project partners from various fields – historiography, information visualization, artificial intelligence and computer sciences as well as information science – work on this topic from their respective perspective.  
 
 
 1\. **Studying the Development and Contestation of Discourses and Ideologies through Computational Approaches to Big Data on Online Platforms**  
-Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2023 Funding 
-Year: 2023  
-Role: Collaborator (lead: Sam Hames)     
-Collaborators: Michael Haugh (UQ)    
+
+Scheme: [Centre for Digital Cultures & Societies](https://hass.uq.edu.au/centre-digital-cultures-societies) – 2023 Funding
+
+Year: 2023
+
+Role: Collaborator (lead: Sam Hames)
+
+Collaborators: Michael Haugh (UQ)
 
 
 ### Applications Submitted: Decision Pending  
 
-**Beyond the F-word: From forms to meanings of swearing in World Englishes**  
+**Beyond the F-word: From forms to meanings of swearing in World Englishes**
 
-Scheme: ARC Future Fellow 2027  
+Scheme: ARC Future Fellow 2027
 
-Application Submission Year: 2026  
+Application Submission Year: 2026
 
-Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Paula Rautionaho (UEF), Jonathan Culpeper (Lancaster), Kristy Beers Fägersten (Södertörn University)   
+Role: Project lead & CI
+
+Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Paula Rautionaho (UEF), Jonathan Culpeper (Lancaster), Kristy Beers Fägersten (Södertörn University)
 
 
-**From banter to abuse: pragmatics-informed detection of hate speech for democratic resilience**  
-Scheme: UQ Horizon Europe Seed and Engagement Fund  
-Application Submission Year: 2026  
-Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Mikko Laitinen (UEF), Gerold Schneider (UZH)  
+**From banter to abuse: pragmatics-informed detection of hate speech for democratic resilience**
+
+Scheme: UQ Horizon Europe Seed and Engagement Fund
+
+Application Submission Year: 2026
+
+Role: Project lead & CI
+
+Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Mikko Laitinen (UEF), Gerold Schneider (UZH)
 
 ::: {.content-hidden}
 ::: {.callout-note}
   
-**Beyond the F-word: From forms to meanings of swearing in World Englishes** 
+**Beyond the F-word: From forms to meanings of swearing in World Englishes**
+
 Scheme: ARC Future Fellow 2027
+
 Application Submission Year: 2026
-Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Paula Rautionaho (UEF), Jonathan Culpeper (Lancaster), Kristy Beers Fägersten (Södertörn University) 
-Amount: 1,240K AUD 
+
+Role: Project lead & CI
+
+Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Paula Rautionaho (UEF), Jonathan Culpeper (Lancaster), Kristy Beers Fägersten (Södertörn University)
+
+Amount: 1,240K AUD
 
 
 **Heritage Languages, Social Media and AI: Language Maintenance, Identity and Voice (HLSoMAI)**
-Scheme: Lund University Get Started Funding  
-Application Submission Year: 2026  
-Collaborators: Chloe Castle (Lund, lead), Tanja Kupisch (Lund), Peter Crosthwaite (UQ, international co-lead), Anna, Mikhaylova (UQ), Martin Schweinberger (UQ)  
-Amount: 75K SEK    
+
+Scheme: Lund University Get Started Funding
+
+Application Submission Year: 2026
+
+Role: International Collaborator
+
+Collaborators: Chloe Castle (Lund, lead), Tanja Kupisch (Lund), Peter Crosthwaite (UQ, international co-lead), Anna, Mikhaylova (UQ), Martin Schweinberger (UQ)
+
+Amount: 75K SEK
 
 **Modeling world Englishes in the digital age**
+
 Funding body: Research Council of Finland
+
 Application Submission Year: 2026
+
+Role: International Collaborator
+
 Collaborators: Paula Rautionaho (UEF, lead), Martin Schweinberger (UQ, international collaborator), various other collaborators
 
-**From banter to abuse: pragmatics-informed detection of hate speech for democratic resilience**  
-Scheme: UQ Horizon Europe Seed and Engagement Fund  
-Application Submission Year: 2026  
-Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Mikko Laitinen (UEF), Gerold Schneider (UZH) 
-Amount: 20K AUD 
+**From banter to abuse: pragmatics-informed detection of hate speech for democratic resilience**
 
-**From Banter to Abuse: Pragmatically Informed Language Technology for Understanding Online Offense  (PragLaTechOO)** 
-Scheme: Global Champion Fund  
-Application Submission Year: 2026  
-Collaborators: Gerold Schneider (UZH, lead), Martin Schweinberger (UQ, co-lead), Lara Putensen (UQ), Tannon Kew (UZH), Mikko Laitinen (UEF), Janis Goldzycher (UZH)  
-Amount: 29K CHF  
+Scheme: UQ Horizon Europe Seed and Engagement Fund
+
+Application Submission Year: 2026
+
+Role: Project lead & CI
+
+Collaborators: Martin Schweinberger (UQ, lead), Michael Haugh (UQ), Mikko Laitinen (UEF), Gerold Schneider (UZH)
+
+Amount: 20K AUD
+
+**From Banter to Abuse: Pragmatically Informed Language Technology for Understanding Online Offense  (PragLaTechOO)**
+
+Scheme: Global Champion Fund
+
+Application Submission Year: 2026
+
+Role: Co-lead & CI
+
+Collaborators: Gerold Schneider (UZH, lead), Martin Schweinberger (UQ, co-lead), Lara Putensen (UQ), Tannon Kew (UZH), Mikko Laitinen (UEF), Janis Goldzycher (UZH)
+
+Amount: 29K CHF
 :::
 :::
 
@@ -183,48 +249,74 @@ Amount: 29K CHF
   
 ### Applications Successful: Non-Competitive Schemes  
 
-**Statistics for Linguists: A Practical Introduction Using R**  
-Scheme: Open Textbooks \@UQ grant  
-Funding body: University of Queensland Library  
-Year: 2026/27 (submission August 2026)  
-  
-**School Research Support Funding**  
-Scheme: School Research Support Funding Scheme (UQ)  
-Funding body: School of Languages and Cultures  
-Year(s): 2020, 2021, 2022, 2023, 2024, 2025, 2026  
-  
-**Bad Language and Vulgarity Online and in Public Discourse**    
-Funding body: School of Languages and Cultures Research Support Scheme (UQ)    
-Role: Project lead & CI    
-Collaborators: Prof. Dr. Svenja Kranich, University of Bonn    
-Duration: 9/2024 – 12/2024  
-  
-**Automated, corpus- and usage-based semantic classification of adjectives**    
-Funding body: School of Languages and Cultures Research Support Scheme (UQ)    
-Role: Project lead & CI    
-Collaborators: Chang-Hao Luo    
-Duration: 11/2023 – 3/2025  
-  
-**Acquisition, Variation, and Diachronic Change of English Amplifier Systems**    
-Funding body: School of Languages and Cultures/Targeted Research Support Scheme (UQ)    
-Role: Project lead, Principal Investigator (PI)    
-Duration: 6/2020 – 12/2021  
+**Statistics for Linguists: A Practical Introduction Using R**
 
-**[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)**    
-Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)    
-Role: Project lead & CI    
-Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)  
+Scheme: Open Textbooks \@UQ grant
+
+Funding body: University of Queensland Library
+
+Year: 2026/27 (submission August 2026)
   
-**Dimensions of Intensification**    
-Funding body: Zentrale Forschungsförderung ([ZFF](http://www.uni-kassel.de/uni/?zff)), UKS    
-Role: PI (Project lead: Holden Härtl)    
-Duration: 3/2018 – 7/2020  
+**School Research Support Funding**
+
+Scheme: School Research Support Funding Scheme (UQ)
+
+Funding body: School of Languages and Cultures
+
+Year(s): 2020, 2021, 2022, 2023, 2024, 2025, 2026
   
-*Travel costs recompensation acquired from external sources*    
-Funding bodies: *International Society for the Linguistics of English*, *GlaxoSmithKline Stiftung*, *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*  
+**Bad Language and Vulgarity Online and in Public Discourse**
+
+Funding body: School of Languages and Cultures Research Support Scheme (UQ)
+
+Role: Project lead & CI
+
+Collaborators: Prof. Dr. Svenja Kranich, University of Bonn
+
+Duration: 9/2024 – 12/2024
   
-*Conference organization support acquired from external sources*    
-Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*, *Society for the Promotion of Academic Inter-Cultural Activities e.V.*  
+**Automated, corpus- and usage-based semantic classification of adjectives**
+
+Funding body: School of Languages and Cultures Research Support Scheme (UQ)
+
+Role: Project lead & CI
+
+Collaborators: Chang-Hao Luo
+
+Duration: 11/2023 – 3/2025
+  
+**Acquisition, Variation, and Diachronic Change of English Amplifier Systems**
+
+Funding body: School of Languages and Cultures/Targeted Research Support Scheme (UQ)
+
+Role: Project lead, Principal Investigator (PI)
+
+Duration: 6/2020 – 12/2021
+
+**[Language Technology and Data Analysis Laboratory](https://slcladal.github.io/index.html)**
+
+Funding body: School of Languages and Cultures/Online Teaching Support Scheme (UQ)
+
+Role: Project lead & CI
+
+Duration: 9/2020 – 12/2020 (ongoing funding via ATAP and LDaCA since 2021)
+  
+**Dimensions of Intensification**
+
+Funding body: Zentrale Forschungsförderung ([ZFF](http://www.uni-kassel.de/uni/?zff)), UKS
+
+Role: PI (Project lead: Holden Härtl)
+
+Duration: 3/2018 – 7/2020
+  
+*Travel costs recompensation acquired from external sources*
+
+Funding bodies: *International Society for the Linguistics of English*, *GlaxoSmithKline Stiftung*, *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*
+
+  
+*Conference organization support acquired from external sources*
+
+Funding bodies: *Hamburgische Wissenschaftliche Stiftung*, *Forschungs- und Wissenschaftsförderung Hamburg*, *Society for the Promotion of Academic Inter-Cultural Activities e.V.*
   
 ---  
   
