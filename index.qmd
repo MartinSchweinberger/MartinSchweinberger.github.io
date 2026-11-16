@@ -232,7 +232,7 @@ I hold a PhD in English linguistics from Universität Hamburg (*magna cum laude*
 :::
 
 ::: {.ms-news-item}
-**24/11/2026** — Invited talk entitled *Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English* at the University of Hamburg (invited by Hannah Wegener).
+**24/11/2026** — Invited talk entitled *Regional variation in the use of vulgarity – what swearing can tell us about differences between varieties of English* at the University of Hamburg (invited by Hannah Wegener). ([slides](resources/Schweinberger_UHH_RegionalVariationVulgarity.pptx))
 :::
 
 ::: {.ms-news-item}
